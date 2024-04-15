@@ -1,0 +1,8 @@
+#node1	node2	node1_string_internal_id	node2_string_internal_id	node1_external_id	node2_external_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	prediction	combined_score
+PSMB5	PSMD3	1854354	1845579	9606.ENSP00000355325	9606.ENSP00000264639	0	0	0	0	0.185	0.974	0.900	0.150	0	0.997
+GATM	creatine	1858414	-586	9606.ENSP00000379895	-1.CID000000586	0	0	0	0	0	0	0.900	0.947	0	0.994
+SLC6A8	creatine	1844202	-586	9606.ENSP00000253122	-1.CID000000586	0	0	0	0	0	0	0.900	0.880	0	0.987
+PSMD3	creatine	1845579	-586	9606.ENSP00000264639	-1.CID000000586	0	0	0	0	0	0	0	0.589	0	0.589
+SGK1	creatine	1854674	-586	9606.ENSP00000356832	-1.CID000000586	0	0	0	0	0	0	0	0.504	0	0.505
+PRPS1	creatine	1855679	-586	9606.ENSP00000361512	-1.CID000000586	0	0	0	0	0	0	0	0.438	0	0.438
+PSMB5	creatine	1854354	-586	9606.ENSP00000355325	-1.CID000000586	0	0	0	0	0	0	0	0.401	0	0.401
