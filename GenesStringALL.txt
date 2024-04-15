@@ -1,0 +1,24 @@
+Ckmt1b
+Ckb
+Ckm
+Gamt	
+Slc6a8
+Gatm		
+Vdac2		
+Vdac1	
+Slc25a4
+Ckmt2
+
+
+CKMT1B
+CKB
+CKM
+GAMT	
+SLC6A8
+GATM		
+VDAC2		
+VDAC1	
+SLC25A4
+CKMT2
+
+(creatine[All Fields] AND kidney[All Fields]) AND ("CKMT1B"[Gene Symbol] AND "CKB"[Gene Symbol] OR "CKM"[Gene Symbol] OR "GAMT"[Gene Symbol] OR "SLC6A8"[Gene Symbol] OR "GATM"[Gene Symbol] OR "VDAC2"[Gene Symbol] OR "VDAC1"[Gene Symbol] OR "SLC25A4"[Gene Symbol] OR "CKMT2"[Gene Symbol])

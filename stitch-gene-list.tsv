@@ -1,0 +1,17 @@
+PSMB5
+GATM
+SLC6A8
+PSMD3
+SGK1
+PRPS1
+PSMB5
+
+
+ggo <- groupGO(gene     = gene,
+               OrgDb    = org.Hs.eg.db,
+               keyType  = "SYMBOL" 
+               ont      = "CC",
+               level    = 3,
+               readable = TRUE)
+
+ego <- enrichGO(gene = gene, universe = names(geneList), OrgDb = org.Hs.eg.db, ont = "CC", pAdjustMethod = "BH", pvalueCutoff  = 0.01, qvalueCutoff  = 0.05, readable = TRUE)

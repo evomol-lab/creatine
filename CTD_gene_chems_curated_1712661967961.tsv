@@ -1,0 +1,1064 @@
+# Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+gene [Object not found]								
+ck	bisphenol A	C006780	80-05-7	CK	34882	Drosophila melanogaster	7227	35041872
+ck	Methoprene	D008726	40596-69-8	CK	34882	Moina macrocopa	150844	31927065
+ckb	1,2-Dimethylhydrazine	D019813	540-73-8	CKB	1152	Mus musculus	10090	22206623
+ckb	16-hydroxyestrone	C026702	18186-49-7	CKB	1152	Rattus norvegicus	10116	10030690
+ckb	1-bromopropane	C118559	106-94-5	CKB	1152	Rattus norvegicus	10116	21925529
+ckb	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKB	1152	Homo sapiens	9606	28628672
+ckb	1-oleoyl-2-acetylglycerol	C038237	86390-77-4	CKB	1152			2822142
+ckb	2,2',4,4',5-brominated diphenyl ether	C477694		CKB	1152	Rattus norvegicus	10116	19954255
+ckb	2,3',4,4',5-pentachlorobiphenyl	C070055		CKB	1152	Mus musculus	10090	31388691
+ckb	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine	D015647	67287-49-4	CKB	1152	Meriones unguiculatus	10047	25852303
+ckb	2,3,7,8-tetrachlorodibenzofuran	C014211	51207-31-9	CKB	1152	Rattus norvegicus	10116	32109520
+ckb	2,5,2',5'-tetrachlorobiphenyl	C009407	35693-99-3	CKB	1152	Homo sapiens	9606	36804509
+ckb	2,6-dinitrotoluene	C023514	606-20-2	CKB	1152	Colinus virginianus	9014	20406850
+ckb	2-hydroxyestradiol	C001390	362-05-0	CKB	1152	Rattus norvegicus	10116	10030690
+ckb	2-hydroxyestrone	C024980	362-06-1	CKB	1152	Rattus norvegicus	10116	10030690
+ckb	3-methyladenine	C025946	5142-23-4	CKB	1152	Rattus norvegicus	10116	31419397
+ckb	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid	C584509		CKB	1152	Homo sapiens	9606	26191083
+ckb	4,4'-hexafluorisopropylidene diphenol	C583074		CKB	1152	Homo sapiens	9606	34186270
+ckb	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		CKB	1152	Homo sapiens	9606	27188386
+ckb	4-oxoretinoic acid	C002202	38030-57-8	CKB	1152	Homo sapiens	9606	15982314
+ckb	acetamide	C030686	60-35-5	CKB	1152	Rattus norvegicus	10116	31881176
+ckb	Acetaminophen	D000082	103-90-2	CKB	1152	Mus musculus	10090	17562736
+ckb	Acetaminophen	D000082	103-90-2	CKB	1152	Rattus norvegicus	10116	19688255|33387578
+ckb	Acetylcysteine	D000111	616-91-1	CKB	1152	Rattus norvegicus	10116	19688255
+ckb	Acrylamide	D020106	79-06-1	CKB	1152	Mus musculus	10090	15038071|35032568
+ckb	Acrylamide	D020106	79-06-1	CKB	1152	Rattus norvegicus	10116	15038071
+ckb	afimoxifene	C016601	68392-35-8	CKB	1152	Homo sapiens	9606	21233418
+ckb	Aldehydes	D000447		CKB	1152	Homo sapiens	9606	25014914
+ckb	Ammonium Chloride	D000643	12125-02-9	CKB	1152	Rattus norvegicus	10116	16483693
+ckb	Amphetamine	D000661	300-62-9	CKB	1152	Rattus norvegicus	10116	18191157
+ckb	Ampicillin	D000667	69-53-4	CKB	1152	Homo sapiens	9606	21632981
+ckb	Antigens, Polyomavirus Transforming	D000952		CKB	1152	Mus musculus	10090	26680231
+ckb	Antirheumatic Agents	D018501		CKB	1152	Homo sapiens	9606	24449571
+ckb	aristolochic acid I	C000228	313-67-7	CKB	1152	Homo sapiens	9606	33212167
+ckb	Arsenic Trioxide	D000077237	1327-53-3	CKB	1152	Gallus gallus	9031	28054265
+ckb	Arsenic Trioxide	D000077237	1327-53-3	CKB	1152	Homo sapiens	9606	30093655
+ckb	arsenite	C015001	15502-74-6	CKB	1152	Homo sapiens	9606	31646340
+ckb	Asbestos, Serpentine	D017632		CKB	1152	Homo sapiens	9606	21148743
+ckb	Atrazine	D001280	1912-24-9	CKB	1152	Macaca mulatta	9544	29505797
+ckb	Atrazine	D001280	1912-24-9	CKB	1152	Oncorhynchus mykiss	8022	22982499
+ckb	Azathioprine	D001379	446-86-6	CKB	1152	Homo sapiens	9606	22623647
+ckb	AZM551248	C547126		CKB	1152	Canis lupus familiaris	9615	22323515
+ckb	benidipine	C061004	105979-17-7	CKB	1152	Rattus norvegicus	10116	25269373
+ckb	Benzo(a)pyrene	D001564	50-32-8	CKB	1152	Homo sapiens	9606	27901495
+ckb	Benztropine	D001590	86-13-5	CKB	1152	Homo sapiens	9606	34122009
+ckb	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C072553		CKB	1152	Mus musculus	10090	25566086
+ckb	Betaine	D001622	107-43-7	CKB	1152	Rattus norvegicus	10116	26391144
+ckb	Bexarotene	D000077610		CKB	1152	Rattus norvegicus	10116	16648578
+ckb	biochanin A	C004541	491-80-5	CKB	1152	Homo sapiens	9606	16621514
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Chrysemys picta bellii	8478	28159858
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	23019147|28628672|30903817|34186270|37567409
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Mus musculus	10090	26063408|35999755
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Rattus norvegicus	10116	12075121|25181051|30816183|32145629|33296240|36041667
+ckb	bisphenol B	C492482		CKB	1152	Homo sapiens	9606	34186270
+ckb	bisphenol F	C000611646		CKB	1152	Homo sapiens	9606	34186270
+ckb	bisphenol F	C000611646		CKB	1152	Rattus norvegicus	10116	36041667
+ckb	bisphenol S	C543008	80-09-1	CKB	1152	Homo sapiens	9606	34186270
+ckb	bisphenol S	C543008	80-09-1	CKB	1152	Mus musculus	10090	33297965
+ckb	bisphenol S	C543008	80-09-1	CKB	1152	Rattus norvegicus	10116	36041667
+ckb	bis(tri-n-butyltin)oxide	C005961		CKB	1152	Fundulus heteroclitus	8078	17451821
+ckb	Bleomycin	D001761	11056-06-7	CKB	1152	Rattus norvegicus	10116	25933445
+ckb	Blood Glucose	D001786		CKB	1152	Rattus norvegicus	10116	34351043
+ckb	butyraldehyde	C018475	123-72-8	CKB	1152	Homo sapiens	9606	26079696
+ckb	Cadmium	D002104	7440-43-9	CKB	1152	Homo sapiens	9606	24376830|31646340
+ckb	Cadmium Chloride	D019256	10108-64-2	CKB	1152	Homo sapiens	9606	12634122
+ckb	Cadmium Chloride	D019256	10108-64-2	CKB	1152	Paralichthys olivaceus	8255	16647146
+ckb	Caffeine	D002110	58-08-2	CKB	1152	Homo sapiens	9606	35688186
+ckb	Calcifediol	D002112	19356-17-3	CKB	1152	Rattus norvegicus	10116	17293106
+ckb	Calcimycin	D000001	52665-69-7	CKB	1152			2822142
+ckb	candoxin	C459604		CKB	1152	Homo sapiens	9606	16309724
+ckb	Carbamazepine	D002220	298-46-4	CKB	1152	Homo sapiens	9606	25979313
+ckb	Carbon Tetrachloride	D002251	56-23-5	CKB	1152	Mus musculus	10090	17484886|27339419
+ckb	Carbon Tetrachloride	D002251	56-23-5	CKB	1152	Rattus norvegicus	10116	19688255|31150632
+ckb	Carvedilol	D000077261	72956-09-3	CKB	1152	Rattus norvegicus	10116	25496245
+ckb	celastrol	C050414		CKB	1152	Rattus norvegicus	10116	30588110
+ckb	Chlorodiphenyl (54% Chlorine)	D020111	11097-69-1	CKB	1152	Rattus norvegicus	10116	19389042|21791222
+ckb	chloropicrin	C100187	76-06-2	CKB	1152	Homo sapiens	9606	28476498
+ckb	Chlorpyrifos	D004390	2921-88-2	CKB	1152	Mus musculus	10090	37019170
+ckb	Choline	D002794	62-49-7	CKB	1152	Mus musculus	10090	20938992
+ckb	chromic oxide	C023600	1308-38-9	CKB	1152	Homo sapiens	9606	12634122
+ckb	chromous chloride	C017133	10049-05-5	CKB	1152	Homo sapiens	9606	12634122
+ckb	Cisplatin	D002945	15663-27-1	CKB	1152	Homo sapiens	9606	27392435
+ckb	citreoviridin	C014416	25425-12-1	CKB	1152	Mus musculus	10090	31419397
+ckb	citreoviridin	C014416	25425-12-1	CKB	1152	Rattus norvegicus	10116	31419397
+ckb	Clobetasol	D002990	25122-41-2	CKB	1152	Mus musculus	10090	27462272
+ckb	Clofibrate	D002994	637-07-0	CKB	1152	Oikopleura dioica	34765	22300585
+ckb	Cocaine	D003042	50-36-2	CKB	1152	Homo sapiens	9606	12359538
+ckb	Copper Sulfate	D019327	7758-98-7	CKB	1152	Homo sapiens	9606	19549813
+ckb	costus absolute	C007139	8023-88-9	CKB	1152	Rattus norvegicus	10116	36286243
+ckb	cupric oxide	C030973	1317-38-0	CKB	1152	Rattus norvegicus	10116	36286243
+ckb	Cuprizone	D003471	370-81-0	CKB	1152	Homo sapiens	9606	34122009
+ckb	Curcumin	D003474	458-37-7	CKB	1152	Rattus norvegicus	10116	21378372|29315967
+ckb	Cycloheximide	D003513	66-81-9	CKB	1152	Rattus norvegicus	10116	7839363
+ckb	Cyclosporine	D016572	59865-13-3	CKB	1152	Homo sapiens	9606	20106945|21632981|25562108|27989131
+ckb	Cytarabine	D003561	147-94-4	CKB	1152	Homo sapiens	9606	21198554
+ckb	Dactinomycin	D003609	50-76-0	CKB	1152	Rattus norvegicus	10116	7839363
+ckb	daidzein	C004742	486-66-8	CKB	1152	Homo sapiens	9606	16621514
+ckb	Deferoxamine	D003676	70-51-9	CKB	1152	Rattus norvegicus	10116	19688255
+ckb	deoxynivalenol	C007262	51481-10-8	CKB	1152	Sus scrofa	9823	35307453
+ckb	Dexamethasone	D003907	50-02-2	CKB	1152	Homo sapiens	9606	28628672
+ckb	Dexamethasone	D003907	50-02-2	CKB	1152	Rattus norvegicus	10116	14618091
+ckb	Dextran Sulfate	D016264	9042-14-2	CKB	1152	Mus musculus	10090	35999755
+ckb	Diazinon	D003976	333-41-5	CKB	1152	Homo sapiens	9606	22964155
+ckb	Dibutyl Phthalate	D003993	84-74-2	CKB	1152	Mus musculus	10090	21266533
+ckb	dicyclohexyl phthalate	C036042	84-61-7	CKB	1152	Xenopus tropicalis	8364	26924002
+ckb	Dietary Fats	D004041		CKB	1152	Mus musculus	10090	22609946
+ckb	Diethylhexyl Phthalate	D004051	117-81-7	CKB	1152	Homo sapiens	9606	31163220
+ckb	diethyl maleate	C014476	141-05-9	CKB	1152	Mus musculus	10090	19843705
+ckb	Diethylstilbestrol	D004054	56-53-1	CKB	1152	Mus musculus	10090	16636312
+ckb	Dihydrotestosterone	D013196	521-18-6	CKB	1152	Homo sapiens	9606	16621514
+ckb	Dihydrotestosterone	D013196	521-18-6	CKB	1152	Rattus norvegicus	10116	17029789
+ckb	dorsomorphin	C516138		CKB	1152	Homo sapiens	9606	27188386
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Homo sapiens	9606	29385562|29803840
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	15764680|19915844|29315967|30588110|33484087
+ckb	Dronabinol	D013759		CKB	1152	Homo sapiens	9606	18163980
+ckb	Endosulfan	D004726	115-29-7	CKB	1152	Rattus norvegicus	10116	29391264
+ckb	ENNG	C013525	4245-77-6	CKB	1152	Rattus norvegicus	10116	22248470
+ckb	Enzyme Inhibitors	D004791		CKB	1152	Homo sapiens	9606	23301498
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	16621514|17404688|20660070|23019147|30165855|31646340
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	10030690|17029789|32145629|7839363
+ckb	Estriol	D004964	50-27-1	CKB	1152	Rattus norvegicus	10116	10030690
+ckb	Ethanol	D000431	64-17-5	CKB	1152	Mus musculus	10090	30319688
+ckb	Ethanol	D000431	64-17-5	CKB	1152	Rattus norvegicus	10116	33645892
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Homo sapiens	9606	18936297
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Mus musculus	10090	12072388|16174780|17942748|19400957
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Rattus norvegicus	10116	12075121|12655037|16140622|16174780|17351261|19400957
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Xenopus tropicalis	8364	23129252
+ckb	ethylene dichloride	C024565	107-06-2	CKB	1152	Mus musculus	10090	28960355
+ckb	fenamidone	C540355		CKB	1152	Mus musculus	10090	27029645
+ckb	Fenretinide	D017313	65646-68-6	CKB	1152	Mus musculus	10090	28973697
+ckb	Fenthion	D005284	55-38-9	CKB	1152	Mus musculus	10090	34813904
+ckb	Fluorouracil	D005472	51-21-8	CKB	1152	Homo sapiens	9606	16217747
+ckb	Folic Acid	D005492	59-30-3	CKB	1152	Mus musculus	10090	20938992|25629700
+ckb	Fulvestrant	D000077267	129453-61-8	CKB	1152	Homo sapiens	9606	31646340
+ckb	furan	C039281	110-00-9	CKB	1152	Rattus norvegicus	10116	27387713
+ckb	Gallic Acid	D005707	149-91-7	CKB	1152	Rattus norvegicus	10116	19146839
+ckb	Gemcitabine	D000093542		CKB	1152	Homo sapiens	9606	17039268
+ckb	Genistein	D019833	446-72-0	CKB	1152	Homo sapiens	9606	16621514|23019147
+ckb	Genistein	D019833	446-72-0	CKB	1152	Rattus norvegicus	10116	12075121
+ckb	Gentamicins	D005839		CKB	1152			2822142
+ckb	Glucose	D005947	50-99-7	CKB	1152	Homo sapiens	9606	16621514
+ckb	Grape Seed Proanthocyanidins	C511402		CKB	1152	Rattus norvegicus	10116	16414080
+ckb	halofuginone	C010176		CKB	1152	Rattus norvegicus	10116	17180598
+ckb	hexabromocyclododecane	C089796	25637-99-4	CKB	1152	Rattus norvegicus	10116	26795019
+ckb	Hydrogen Peroxide	D006861	7722-84-1	CKB	1152	Homo sapiens	9606	20044591
+ckb	ICG 001	C492448		CKB	1152	Homo sapiens	9606	26191083
+ckb	imetit	C077430		CKB	1152	Rattus norvegicus	10116	25496245
+ckb	Indolinone A	C503753		CKB	1152	Rattus norvegicus	10116	15838870
+ckb	Indomethacin	D007213	53-86-1	CKB	1152	Homo sapiens	9606	28628672
+ckb	Isoflavones	D007529		CKB	1152	Rattus norvegicus	10116	22248470
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	19146839|22391854|25269373|25496245|34435724
+ckb	Isotretinoin	D015474	4759-48-2	CKB	1152	Homo sapiens	9606	15982314
+ckb	Ivermectin	D007559	70288-86-7	CKB	1152	Homo sapiens	9606	32959892
+ckb	jinfukang	C544151		CKB	1152	Homo sapiens	9606	27392435
+ckb	(+)-JQ1 compound	C561695		CKB	1152	Homo sapiens	9606	23086925|24796395
+ckb	K 7174	C410337		CKB	1152	Homo sapiens	9606	24086573
+ckb	Ketone Bodies	D007657		CKB	1152	Rattus norvegicus	10116	16807920
+ckb	Lactic Acid	D019344	50-21-5	CKB	1152	Homo sapiens	9606	30851411
+ckb	lead acetate	C008261	301-04-2	CKB	1152	Homo sapiens	9606	12634122
+ckb	lead acetate	C008261	301-04-2	CKB	1152	Mus musculus	10090	20797405
+ckb	lead acetate	C008261	301-04-2	CKB	1152	Rattus norvegicus	10116	21378372
+ckb	Lipopolysaccharides	D008070		CKB	1152	Homo sapiens	9606	35811015|35877022
+ckb	Lithium	D008094	7439-93-2	CKB	1152	Rattus norvegicus	10116	18296634
+ckb	Loperamide	D008139	53179-11-6	CKB	1152	Rattus norvegicus	10116	30597669
+ckb	Lutein	D014975	127-40-2	CKB	1152	Rattus norvegicus	10116	34435724
+ckb	Lycopene	D000077276	502-65-8	CKB	1152	Rattus norvegicus	10116	26900785
+ckb	Melatonin	D008550	73-31-4	CKB	1152	Rattus norvegicus	10116	19389042
+ckb	Methamphetamine	D008694	537-46-2	CKB	1152	Macaca fascicularis	9541	29802913
+ckb	Methamphetamine	D008694	537-46-2	CKB	1152	Rattus norvegicus	10116	19826936
+ckb	Methionine	D008715	63-68-3	CKB	1152	Mus musculus	10090	20938992
+ckb	Methoxychlor	D008731	72-43-5	CKB	1152	Rattus norvegicus	10116	7839363
+ckb	methylmercuric chloride	C004925	115-09-3	CKB	1152	Callithrix jacchus	9483	25809596
+ckb	Methylmercury Compounds	D008767		CKB	1152	Danio rerio	7955	27544571
+ckb	Methylmercury Compounds	D008767		CKB	1152	Mus musculus	10090	20566354|26558463
+ckb	Methylnitronitrosoguanidine	D008769	70-25-7	CKB	1152	Homo sapiens	9606	12634122
+ckb	Methyltestosterone	D008777	58-18-4	CKB	1152	Gallus gallus	9031	29191790
+ckb	Metribolone	D015741	965-93-5	CKB	1152	Homo sapiens	9606	17152098
+ckb	Mifepristone	D015735	84371-65-3	CKB	1152	Homo sapiens	9606	17584828
+ckb	monomethyl phthalate	C517284		CKB	1152	Xenopus tropicalis	8364	26924002
+ckb	Mustard Gas	D009151	505-60-2	CKB	1152	Homo sapiens	9606	25102026|33635393
+ckb	Mustard Gas	D009151	505-60-2	CKB	1152	Rattus norvegicus	10116	33635393
+ckb	Nanotubes, Carbon	D037742		CKB	1152	Mus musculus	10090	21135415|25554681|25620056
+ckb	naphthalene	C031721	91-20-3	CKB	1152	Mus musculus	10090	18978301
+ckb	nickel sulfate	C029938	7786-81-4	CKB	1152	Homo sapiens	9606	22714537
+ckb	Nitroglycerin	D005996	55-63-0	CKB	1152	Rattus norvegicus	10116	12102619
+ckb	nitrosobenzylmethylamine	C014707	937-40-6	CKB	1152	Rattus norvegicus	10116	17616710
+ckb	N-pyridazin-3-yl-4-(3-((5-(trifluoromethyl)pyridin-2-yl)oxy)benzylidene)piperidine-1-carboxamide	C560620		CKB	1152	Rattus norvegicus	10116	34058248
+ckb	Ouabain	D010042	630-60-4	CKB	1152	Rattus norvegicus	10116	19911114
+ckb	Oxaliplatin	D000077150		CKB	1152	Rattus norvegicus	10116	25729387
+ckb	Oxygen	D010100	7782-44-7	CKB	1152	Rattus norvegicus	10116	34351043
+ckb	pentabromodiphenyl ether	C086401	32534-81-9	CKB	1152	Rattus norvegicus	10116	25616259
+ckb	Pentachlorophenol	D010416	87-86-5	CKB	1152	Mus musculus	10090	23892564
+ckb	pentanal	C046012	110-62-3	CKB	1152	Homo sapiens	9606	26079696
+ckb	perfluorooctane sulfonic acid	C076994	1763-23-1	CKB	1152	Rattus norvegicus	10116	18692542
+ckb	Phenobarbital	D010634	50-06-6	CKB	1152	Mus musculus	10090	19270015
+ckb	Plant Extracts	D010936		CKB	1152	Mus musculus	10090	21378374
+ckb	Pregnenolone Carbonitrile	D011285	1434-54-4	CKB	1152	Rattus norvegicus	10116	19162173
+ckb	Proanthocyanidins	D044945		CKB	1152	Rattus norvegicus	10116	33484087
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Homo sapiens	9606	17404688|20660070
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Mus musculus	10090	17251523
+ckb	propionaldehyde	C005556	123-38-6	CKB	1152	Homo sapiens	9606	26079696
+ckb	Propylthiouracil	D011441	51-52-5	CKB	1152	Rattus norvegicus	10116	24780913
+ckb	Quercetin	D011794	117-39-5	CKB	1152	Homo sapiens	9606	16621514|21632981
+ckb	Quercetin	D011794	117-39-5	CKB	1152	Rattus norvegicus	10116	18095365
+ckb	Quercetin	D011794	117-39-5	CKB	1152			2822142
+ckb	Raloxifene Hydrochloride	D020849		CKB	1152	Homo sapiens	9606	16621514
+ckb	Raloxifene Hydrochloride	D020849		CKB	1152	Rattus norvegicus	10116	17029789
+ckb	Ribonucleotides	D012265		CKB	1152	Homo sapiens	9606	30528433
+ckb	Rosiglitazone	D000077154		CKB	1152	Rattus norvegicus	10116	31419397
+ckb	Rotenone	D012402	83-79-4	CKB	1152	Rattus norvegicus	10116	28374803|35544339
+ckb	Ruthenium	D012428	7440-18-8	CKB	1152	Rattus norvegicus	10116	17109965
+ckb	S-(1,2-dichlorovinyl)cysteine	C039961	627-72-5	CKB	1152	Homo sapiens	9606	35811015
+ckb	Selenium	D012643	7782-49-2	CKB	1152	Homo sapiens	9606	19244175
+ckb	Sesame Oil	D012715	8008-74-0	CKB	1152	Gallus gallus	9031	29191790
+ckb	Silicon Dioxide	D012822	7631-86-9	CKB	1152	Homo sapiens	9606	25895662
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Homo sapiens	9606	12634122|34032870
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Mus musculus	10090	29044176
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Rattus norvegicus	10116	29459688
+ckb	Sodium Fluoride	D012969	7681-49-4	CKB	1152	Rattus norvegicus	10116	29653260
+ckb	Sodium Glutamate	D012970	142-47-2	CKB	1152	Rattus norvegicus	10116	26900785
+ckb	Sodium Selenite	D018038	10102-18-8	CKB	1152	Mus musculus	10090	31419397
+ckb	Sodium Selenite	D018038	10102-18-8	CKB	1152	Rattus norvegicus	10116	31419397
+ckb	Soman	D012999	96-64-0	CKB	1152	Rattus norvegicus	10116	19281266
+ckb	sulforaphane	C016766		CKB	1152	Homo sapiens	9606	31838189
+ckb	Sunitinib	D000077210		CKB	1152	Homo sapiens	9606	31533062
+ckb	T-2 Toxin	D013605	21259-20-1	CKB	1152	Rattus norvegicus	10116	26141394
+ckb	TAK-243	C000622638		CKB	1152	Homo sapiens	9606	31285264
+ckb	Tamoxifen	D013629	10540-29-1	CKB	1152	Mus musculus	10090	19400957
+ckb	Tamoxifen	D013629	10540-29-1	CKB	1152	Rattus norvegicus	10116	17029789|19400957
+ckb	Tapentadol	D000077432		CKB	1152	Homo sapiens	9606	27317026
+ckb	Temozolomide	D000077204	85622-93-1	CKB	1152	Homo sapiens	9606	31758290
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Homo sapiens	9606	22298810
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Mus musculus	10090	17942748|27913140
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Rattus norvegicus	10116	15644576|32109520|33387578|34747641
+ckb	Tetradecanoylphorbol Acetate	D013755	16561-29-8	CKB	1152			2822142
+ckb	tetrahydropalmatine	C014215	10097-84-4	CKB	1152	Mus musculus	10090	37606869
+ckb	Thapsigargin	D019284	67526-95-8	CKB	1152	Homo sapiens	9606	21692457|22378314
+ckb	Thiamine	D013831	59-43-8	CKB	1152	Mus musculus	10090	31419397
+ckb	Thiamine	D013831	59-43-8	CKB	1152	Rattus norvegicus	10116	31419397
+ckb	Thioacetamide	D013853	62-55-5	CKB	1152	Cavia porcellus	10141	34492290
+ckb	Thioacetamide	D013853	62-55-5	CKB	1152	Rattus norvegicus	10116	34492290
+ckb	Tobacco Smoke Pollution	D014028		CKB	1152	Homo sapiens	9606	30291989|33660061
+ckb	Topotecan	D019772	123948-87-8	CKB	1152	Rattus norvegicus	10116	25729387
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Homo sapiens	9606	27317026
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Rattus norvegicus	10116	33645892
+ckb	Tretinoin	D014212	302-79-4	CKB	1152	Homo sapiens	9606	15982314|30093655
+ckb	Tretinoin	D014212	302-79-4	CKB	1152			2822142
+ckb	tributyltin	C011559	688-73-3	CKB	1152	Macaca mulatta	9544	29505797
+ckb	tributyltin	C011559	688-73-3	CKB	1152	Mus musculus	10090	31939706
+ckb	trichostatin A	C012589	58880-19-6	CKB	1152	Homo sapiens	9606	26272509|27188386
+ckb	trichostatin A	C012589	58880-19-6	CKB	1152	Xenopus laevis	8355	15901671
+ckb	Triclosan	D014260	3380-34-5	CKB	1152	Homo sapiens	9606	30510588
+ckb	triphenyl phosphate	C005445	115-86-6	CKB	1152	Homo sapiens	9606	35776891
+ckb	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKB	1152	Homo sapiens	9606	26179874
+ckb	Tunicamycin	D014415	11089-65-9	CKB	1152	Homo sapiens	9606	22378314
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Homo sapiens	9606	19949822|23179753|25979313|28001369|29154799
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Mus musculus	10090	17292431|19136453
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Xenopus laevis	8355	15901671
+ckb	Vitamin D	D014807	1406-16-2	CKB	1152	Rattus norvegicus	10116	17029789
+ckb	Vitamin E	D014810	1406-18-4	CKB	1152	Homo sapiens	9606	19244175
+ckb	Vitamin K 3	D024483	58-27-5	CKB	1152	Homo sapiens	9606	20044591
+ckb	Zearalenone	D015025	17924-92-4	CKB	1152	Mus musculus	10090	36252740
+ckba	1,2,5,6-tetrabromocyclooctane	C540596		CKBA	564694	Oryzias latipes	8090	27322799
+ckba	ametryne	C100057	834-12-8	CKBA	564694	Danio rerio	7955	29427468
+ckba	Beclomethasone	D001507	4419-39-0	CKBA	564694	Danio rerio	7955	23656298
+ckba	bisphenol A	C006780	80-05-7	CKBA	564694	Danio rerio	7955	21786754|30248606
+ckba	Chlordecone	D007631	143-50-0	CKBA	564694	Danio rerio	7955	29458080
+ckba	Dexamethasone	D003907	50-02-2	CKBA	564694	Danio rerio	7955	27941970
+ckba	diisobutyl phthalate	C025605	84-69-5	CKBA	564694	Danio rerio	7955	29458080
+ckba	Methyl Methanesulfonate	D008741	66-27-3	CKBA	564694	Danio rerio	7955	26011545
+ckba	Warfarin	D014859	81-81-2	CKBA	564694	Danio rerio	7955	31238190
+ckbb	Acrylamide	D020106	79-06-1	CKBB	140744	Danio rerio	7955	29784925
+ckbb	Atropine	D001285	51-55-8	CKBB	140744	Danio rerio	7955	20826231
+ckbb	Haloperidol	D006220	52-86-8	CKBB	140744	Danio rerio	7955	29458080
+ckbb	Mercuric Chloride	D008627	7487-94-7	CKBB	140744	Oryzias melastigma	30732	21458406
+ckbb	Methylmercury Compounds	D008767		CKBB	140744	Danio rerio	7955	27544571
+ckbb	Methyl Methanesulfonate	D008741	66-27-3	CKBB	140744	Danio rerio	7955	26011545
+ckbb	Methyl Parathion	D008743	298-00-0	CKBB	140744	Danio rerio	7955	20826231
+ckbb	Methyltestosterone	D008777	58-18-4	CKBB	140744	Danio rerio	7955	29458080
+ckbb	nonylphenol	C025256	25154-52-3	CKBB	140744	Oncorhynchus mykiss	8022	22982499
+ckbb	Pentachlorophenol	D010416	87-86-5	CKBB	140744	Danio rerio	7955	24642059
+ckbb	trichostatin A	C012589	58880-19-6	CKBB	140744	Danio rerio	7955	15901671
+ckbb	triphenyl phosphate	C005445	115-86-6	CKBB	140744	Danio rerio	7955	31368501
+ckbb	Valproic Acid	D014635	99-66-1	CKBB	140744	Danio rerio	7955	15901671
+ckbe [No associated data found]								
+ckb.l [No associated data found]								
+ckbp1 [No associated data found]								
+ckb-ps1 [No associated data found]								
+ckb-ps2 [No associated data found]								
+ckb.s [No associated data found]								
+ckm	1,3-dimethylthiourea	C038983	61805-96-7	CKM	1158	Rattus norvegicus	10116	9689591
+ckm	2,4,5-Trichlorophenoxyacetic Acid	D015085	93-76-5	CKM	1158	Mus musculus	10090	18579281
+ckm	2,7-dihydroxynaphthalene	C107946	582-17-2	CKM	1158	Homo sapiens	9606	28940058
+ckm	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	C049584	105650-23-5	CKM	1158	Rattus norvegicus	10116	15059925|15215175
+ckm	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKM	1158	Rattus norvegicus	10116	32119087
+ckm	3-methyladenine	C025946	5142-23-4	CKM	1158	Rattus norvegicus	10116	31419397
+ckm	4,4'-diaminodiphenylmethane	C009505	101-77-9	CKM	1158	Mus musculus	10090	18648102
+ckm	abrine	C496492		CKM	1158	Homo sapiens	9606	31054353
+ckm	Acetaminophen	D000082	103-90-2	CKM	1158	Homo sapiens	9606	22230336
+ckm	Acetaminophen	D000082	103-90-2	CKM	1158	Rattus norvegicus	10116	33387578
+ckm	Acetylcysteine	D000111	616-91-1	CKM	1158	Rattus norvegicus	10116	21912612|9689591
+ckm	Acrylamide	D020106	79-06-1	CKM	1158	Rattus norvegicus	10116	28606764
+ckm	Air Pollutants	D000393		CKM	1158	Mus musculus	10090	32780721
+ckm	Air Pollutants	D000393		CKM	1158	Rattus norvegicus	10116	28106813
+ckm	Albuterol	D000420	18559-94-9	CKM	1158	Homo sapiens	9606	8970440
+ckm	aliskiren	C446481		CKM	1158	Rattus norvegicus	10116	26982530
+ckm	Allopurinol	D000493	315-30-0	CKM	1158	Rattus norvegicus	10116	21912612
+ckm	Ammonium Chloride	D000643	12125-02-9	CKM	1158	Rattus norvegicus	10116	16483693
+ckm	Amphetamine	D000661	300-62-9	CKM	1158	Rattus norvegicus	10116	30779732
+ckm	Apigenin	D047310	520-36-5	CKM	1158	Rattus norvegicus	10116	25557508
+ckm	apremilast	C505730		CKM	1158	Rattus norvegicus	10116	27785949
+ckm	Arsenic Trioxide	D000077237	1327-53-3	CKM	1158	Gallus gallus	9031	28054265
+ckm	Arsenic Trioxide	D000077237	1327-53-3	CKM	1158	Homo sapiens	9606	20458559
+ckm	benidipine	C061004	105979-17-7	CKM	1158	Rattus norvegicus	10116	25269373
+ckm	Benzo(a)pyrene	D001564	50-32-8	CKM	1158	Homo sapiens	9606	27901495
+ckm	Benzo(a)pyrene	D001564	50-32-8	CKM	1158	Mus musculus	10090	22228805
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Homo sapiens	9606	33376534|37567409
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Mus musculus	10090	24465770
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Rattus norvegicus	10116	18180321|25181051|30903817
+ckm	bisphenol S	C543008	80-09-1	CKM	1158	Mus musculus	10090	33297965
+ckm	Blood Glucose	D001786		CKM	1158	Rattus norvegicus	10116	34351043
+ckm	Cadmium Chloride	D019256	10108-64-2	CKM	1158	Homo sapiens	9606	12634122
+ckm	Cantharidin	D002193	56-25-7	CKM	1158	Mus musculus	10090	36907384
+ckm	Captan	D002215	133-06-2	CKM	1158	Mus musculus	10090	31558096
+ckm	Carbimazole	D002231	22232-54-8	CKM	1158	Homo sapiens	9606	2565460
+ckm	Carbon Tetrachloride	D002251	56-23-5	CKM	1158	Rattus norvegicus	10116	31150632
+ckm	carfilzomib	C524865		CKM	1158	Mus musculus	10090	26899300
+ckm	carfilzomib	C524865		CKM	1158	Rattus norvegicus	10116	27785949
+ckm	Carmustine	D002330	154-93-8	CKM	1158	Homo sapiens	9606	15980968
+ckm	carvacrol	C073316	499-75-2	CKM	1158	Rattus norvegicus	10116	29071762
+ckm	Carvedilol	D000077261	72956-09-3	CKM	1158	Rattus norvegicus	10116	25496245|26982530
+ckm	celastrol	C050414		CKM	1158	Rattus norvegicus	10116	30588110
+ckm	Cetirizine	D017332	83881-51-0	CKM	1158	Mus musculus	10090	25020133
+ckm	chromic oxide	C023600	1308-38-9	CKM	1158	Homo sapiens	9606	12634122
+ckm	chromous chloride	C017133	10049-05-5	CKM	1158	Homo sapiens	9606	12634122
+ckm	Ciguatoxins	D002922	11050-21-8	CKM	1158	Mus musculus	10090	18353800
+ckm	citreoviridin	C014416	25425-12-1	CKM	1158	Mus musculus	10090	31419397
+ckm	citreoviridin	C014416	25425-12-1	CKM	1158	Rattus norvegicus	10116	31419397
+ckm	Clarithromycin	D017291	81103-11-9	CKM	1158	Homo sapiens	9606	19252767
+ckm	Clofibrate	D002994	637-07-0	CKM	1158	Oikopleura dioica	34765	22300585
+ckm	Cocaine	D003042	50-36-2	CKM	1158	Homo sapiens	9606	12359538
+ckm	Copper	D003300	7440-50-8	CKM	1158	Lumbricus rubellus	35632	18522721
+ckm	Copper	D003300	7440-50-8	CKM	1158	Rattus norvegicus	10116	18993053
+ckm	Copper Sulfate	D019327	7758-98-7	CKM	1158	Homo sapiens	9606	19549813
+ckm	Copper Sulfate	D019327	7758-98-7	CKM	1158	Mus musculus	10090	18579281
+ckm	costus absolute	C007139	8023-88-9	CKM	1158	Rattus norvegicus	10116	36286243
+ckm	crocin	C029036	42553-65-1	CKM	1158	Rattus norvegicus	10116	23523949
+ckm	Crotoxin	D003439	9007-40-3	CKM	1158	Mus musculus	10090	36702313
+ckm	cupric chloride	C029892	7447-39-4	CKM	1158	Oryctolagus cuniculus	9986	18255152
+ckm	cupric oxide	C030973	1317-38-0	CKM	1158	Rattus norvegicus	10116	36286243
+ckm	Curcumin	D003474	458-37-7	CKM	1158	Rattus norvegicus	10116	21378372|29315967
+ckm	Cyclophosphamide	D003520	50-18-0	CKM	1158	Rattus norvegicus	10116	35762198
+ckm	Daunorubicin	D003630	20830-81-3	CKM	1158	Homo sapiens	9606	26537877|28940058
+ckm	decabromobiphenyl ether	C010902	1163-19-5	CKM	1158	Rattus norvegicus	10116	23914054
+ckm	decamethrin	C017180	52820-00-5	CKM	1158	Mus musculus	10090	37019170
+ckm	Dexamethasone	D003907	50-02-2	CKM	1158	Mus musculus	10090	22936724|33567340
+ckm	Dexrazoxane	D064730		CKM	1158	Mus musculus	10090	26899300
+ckm	Dextran Sulfate	D016264	9042-14-2	CKM	1158	Mus musculus	10090	35999755
+ckm	Diazinon	D003976	333-41-5	CKM	1158	Rattus norvegicus	10116	23523949
+ckm	Dichloroacetic Acid	D003999	79-43-6	CKM	1158	Mus musculus	10090	28962523
+ckm	dicyclohexyl phthalate	C036042	84-61-7	CKM	1158	Xenopus tropicalis	8364	26924002
+ckm	Dietary Fats	D004041		CKM	1158	Mus musculus	10090	25020133
+ckm	Diethylhexyl Phthalate	D004051	117-81-7	CKM	1158	Mus musculus	10090	28085963
+ckm	dimethyl phthalate	C024629	131-11-3	CKM	1158	Xenopus tropicalis	8364	26924002
+ckm	Dithiothreitol	D004229	3483-12-3	CKM	1158	Oryctolagus cuniculus	9986	18255152
+ckm	Diuron	D004237	330-54-1	CKM	1158	Rattus norvegicus	10116	25152437
+ckm	Docetaxel	D000077143		CKM	1158	Mus musculus	10090	20457137
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Homo sapiens	9606	26537877|28940058|29803840|30031762
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Mus musculus	10090	16242529|20457137
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	15764680|29315967|30588110|33484087|34343525|9689591
+ckm	echimidine	C000615871		CKM	1158	Rattus norvegicus	10116	34185104
+ckm	Estradiol	D004958	50-28-2	CKM	1158	Mus musculus	10090	19484750
+ckm	Ethanol	D000431	64-17-5	CKM	1158	Rattus norvegicus	10116	24296114|33645892
+ckm	Ethinyl Estradiol	D004997	57-63-6	CKM	1158	Mus musculus	10090	17942748
+ckm	Ethinyl Estradiol	D004997	57-63-6	CKM	1158	Xenopus tropicalis	8364	23129252
+ckm	Etoposide	D005047	33419-42-0	CKM	1158	Homo sapiens	9606	29397400
+ckm	fexofenadine	C093230		CKM	1158	Mus musculus	10090	25020133
+ckm	folpet	C005020	133-07-3	CKM	1158	Mus musculus	10090	31558096
+ckm	fullerene C60	C069837	99685-96-8	CKM	1158	Rattus norvegicus	10116	19167457
+ckm	furan	C039281	110-00-9	CKM	1158	Rattus norvegicus	10116	25539665
+ckm	Gallic Acid	D005707	149-91-7	CKM	1158	Rattus norvegicus	10116	19146839
+ckm	Genistein	D019833	446-72-0	CKM	1158	Rattus norvegicus	10116	23160963
+ckm	Gentamicins	D005839		CKM	1158	Mus musculus	10090	18694830
+ckm	geraniol	C007836	624-15-7	CKM	1158	Rattus norvegicus	10116	34343525
+ckm	ginger extract	C000713927		CKM	1158	Homo sapiens	9606	33376534
+ckm	ginkgolide C	C058295	15291-76-6	CKM	1158	Rattus norvegicus	10116	35707280
+ckm	Glycerol	D005990	56-81-5	CKM	1158	Rattus norvegicus	10116	36690085
+ckm	graphene oxide	C000628730		CKM	1158	Homo sapiens	9606	33219560|33219579
+ckm	Graphite	D006108	7782-42-5	CKM	1158	Mus musculus	10090	27440207
+ckm	heliotrine	C010178		CKM	1158	Rattus norvegicus	10116	34185104
+ckm	hydrazine	C029424	302-01-2	CKM	1158	Mus musculus	10090	15282401
+ckm	Hydrogen Peroxide	D006861	7722-84-1	CKM	1158	Rattus norvegicus	10116	9689591
+ckm	imetit	C077430		CKM	1158	Rattus norvegicus	10116	25496245
+ckm	incobotulinumtoxinA	C545476		CKM	1158	Homo sapiens	9606	29522793
+ckm	Ionomycin	D015759	56092-81-0	CKM	1158	Oryctolagus cuniculus	9986	25613284
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	19146839|22391854|25269373|25496245|26982530|27527349
+ckm	Isotretinoin	D015474	4759-48-2	CKM	1158	Homo sapiens	9606	9747221
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Homo sapiens	9606	12634122
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Mus musculus	10090	37797690
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Rattus norvegicus	10116	11578147|21378372
+ckm	Lipopolysaccharides	D008070		CKM	1158	Rattus norvegicus	10116	25557508
+ckm	Lithium Chloride	D018021	7447-41-8	CKM	1158	Mus musculus	10090	20694829
+ckm	Loperamide	D008139	53179-11-6	CKM	1158	Rattus norvegicus	10116	30597669
+ckm	lumiracoxib	C473384		CKM	1158	Mus musculus	10090	36702313
+ckm	Mitoxantrone	D008942	65271-80-9	CKM	1158	Homo sapiens	9606	26537877|28940058
+ckm	mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	CKM	1158	Mus musculus	10090	36189433
+ckm	monomethyl phthalate	C517284		CKM	1158	Xenopus tropicalis	8364	26924002
+ckm	Mustard Gas	D009151	505-60-2	CKM	1158	Oryctolagus cuniculus	9986	34396457
+ckm	Nanotubes, Carbon	D037742		CKM	1158	Mus musculus	10090	25620056
+ckm	Nickel	D009532	7440-02-0	CKM	1158	Mus musculus	10090	25144474
+ckm	Nitroarginine	D019335	2149-70-4	CKM	1158	Rattus norvegicus	10116	35762198
+ckm	N-nitroso-tris-chloroethylurea	C572573		CKM	1158	Mus musculus	10090	27935865
+ckm	notexin	C005082	37223-96-4	CKM	1158	Homo sapiens	9606	32294208
+ckm	Oils, Volatile	D009822		CKM	1158	Homo sapiens	9606	33376534
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Homo sapiens	9606	22363556
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Mus musculus	10090	30529165
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Rattus norvegicus	10116	34351043
+ckm	Ozone	D010126	10028-15-6	CKM	1158	Mus musculus	10090	12763052
+ckm	Ozone	D010126	10028-15-6	CKM	1158	Rattus norvegicus	10116	33146391
+ckm	Paraquat	D010269	4685-14-7	CKM	1158	Rattus norvegicus	10116	35707280
+ckm	Particulate Matter	D052638		CKM	1158	Mus musculus	10090	25144474|32780721
+ckm	Particulate Matter	D052638		CKM	1158	Rattus norvegicus	10116	28106813
+ckm	Pentoxifylline	D010431	6493-05-6	CKM	1158	Rattus norvegicus	10116	36690085
+ckm	perfluorooctane sulfonic acid	C076994	1763-23-1	CKM	1158	Rattus norvegicus	10116	22237054
+ckm	Petroleum	D010578		CKM	1158	Fundulus grandis	34779	25208076
+ckm	Phenobarbital	D010634	50-06-6	CKM	1158	Mus musculus	10090	23091169
+ckm	Phenytoin	D010672	57-41-0	CKM	1158	Homo sapiens	9606	6682525
+ckm	Pioglitazone	D000077205	111025-46-8	CKM	1158	Mus musculus	10090	27935865
+ckm	Plant Extracts	D010936		CKM	1158	Mus musculus	10090	21378374
+ckm	Plant Extracts	D010936		CKM	1158	Rattus norvegicus	10116	24296114
+ckm	Poloxamer	D020442	106392-12-5	CKM	1158	Rattus norvegicus	10116	29071762
+ckm	Proanthocyanidins	D044945		CKM	1158	Rattus norvegicus	10116	33484087
+ckm	Progesterone	D011374	57-83-0	CKM	1158	Ovis aries	9940	19690047
+ckm	Progesterone	D011374	57-83-0	CKM	1158	Rattus norvegicus	10116	20726854
+ckm	Quercetin	D011794	117-39-5	CKM	1158	Rattus norvegicus	10116	27527349
+ckm	Rosiglitazone	D000077154		CKM	1158	Rattus norvegicus	10116	31419397
+ckm	Ruthenium	D012428	7440-18-8	CKM	1158	Rattus norvegicus	10116	17109965
+ckm	schizandrin B	C015499		CKM	1158	Rattus norvegicus	10116	31150632
+ckm	Silicon Dioxide	D012822	7631-86-9	CKM	1158	Homo sapiens	9606	23806026
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Homo sapiens	9606	19252767
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Rattus norvegicus	10116	29071762|35762198|8611662
+ckm	sodium arsenate	C009277		CKM	1158	Mus musculus	10090	21795629
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Fundulus heteroclitus	8078	16356559
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Homo sapiens	9606	12634122|33939924
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Mus musculus	10090	17450228
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Rattus norvegicus	10116	29459688|37120063
+ckm	sodium bichromate	C016104	10588-01-9	CKM	1158	Mus musculus	10090	31558096
+ckm	Sodium Fluoride	D012969	7681-49-4	CKM	1158	Mus musculus	10090	28918527
+ckm	Sodium Fluoride	D012969	7681-49-4	CKM	1158	Rattus norvegicus	10116	29653260
+ckm	Sodium Selenite	D018038	10102-18-8	CKM	1158	Mus musculus	10090	31419397
+ckm	Sodium Selenite	D018038	10102-18-8	CKM	1158	Rattus norvegicus	10116	31419397
+ckm	Soot	D053260		CKM	1158	Mus musculus	10090	26551751
+ckm	Spermine	D013096	71-44-3	CKM	1158	Mus musculus	10090	18673383
+ckm	systhane	C446685		CKM	1158	Rattus norvegicus	10116	32268158
+ckm	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKM	1158	Mus musculus	10090	17942748
+ckm	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKM	1158	Rattus norvegicus	10116	32109520
+ckm	Tetradecanoylphorbol Acetate	D013755	16561-29-8	CKM	1158	Oryctolagus cuniculus	9986	25613284
+ckm	tetrathiomolybdate	C020809	16330-92-0	CKM	1158	Mus musculus	10090	16242529
+ckm	Thiamine	D013831	59-43-8	CKM	1158	Mus musculus	10090	31419397
+ckm	Thiamine	D013831	59-43-8	CKM	1158	Rattus norvegicus	10116	31419397|36690085
+ckm	Thioacetamide	D013853	62-55-5	CKM	1158	Cavia porcellus	10141	34492290
+ckm	titanium dioxide	C009495	13463-67-7	CKM	1158	Mus musculus	10090	23557971
+ckm	Tobacco Smoke Pollution	D014028		CKM	1158	Homo sapiens	9606	30291989|33660061
+ckm	Toxins, Biological	D014118		CKM	1158	Mus musculus	10090	19682533
+ckm	Tramadol	D014147	27203-92-5	CKM	1158	Rattus norvegicus	10116	33645892
+ckm	Tretinoin	D014212	302-79-4	CKM	1158	Mus musculus	10090	36189433
+ckm	Trichloroethylene	D014241	79-01-6	CKM	1158	Rattus norvegicus	10116	33387578
+ckm	Triclosan	D014260	3380-34-5	CKM	1158	Homo sapiens	9606	30510588
+ckm	triptonide	C084079	38647-11-9	CKM	1158	Mus musculus	10090	33045310
+ckm	Tunicamycin	D014415	11089-65-9	CKM	1158	Mus musculus	10090	17127020
+ckm	Valproic Acid	D014635	99-66-1	CKM	1158	Rattus norvegicus	10116	35594946
+ckm	vinclozolin	C025643	50471-44-8	CKM	1158	Rattus norvegicus	10116	23160963
+ckm	Vitamin E	D014810	1406-18-4	CKM	1158	Rattus norvegicus	10116	23523949
+ckm	Water Pollutants, Chemical	D014874		CKM	1158	Fundulus grandis	34779	25208076
+ckm	Xanthine	D019820	69-89-6	CKM	1158	Rattus norvegicus	10116	19464573
+ckm	Zinc	D015032	7440-66-6	CKM	1158	Oryctolagus cuniculus	9986	18255152
+ckm	Zinc	D015032	7440-66-6	CKM	1158	Rattus norvegicus	10116	19111725
+ckm2 [No associated data found]								
+ckma	1,2,5,6-tetrabromocyclooctane	C540596		CKMA	30095	Oryzias latipes	8090	27322799
+ckma	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKMA	30095	Danio rerio	7955	28973690
+ckma	bisphenol A	C006780	80-05-7	CKMA	30095	Danio rerio	7955	33243503|33370691
+ckma	Caffeine	D002110	58-08-2	CKMA	30095	Danio rerio	7955	23774253
+ckma	Carbamazepine	D002220	298-46-4	CKMA	30095	Danio rerio	7955	23774253
+ckma	Chlortetracycline	D002751	57-62-5	CKMA	30095	Danio rerio	7955	28496033
+ckma	Ciprofloxacin	D002939	85721-33-1	CKMA	30095	Danio rerio	7955	28496033
+ckma	dorsomorphin	C516138		CKMA	30095	Danio rerio	7955	30157643
+ckma	Doxycycline	D004318	564-25-0	CKMA	30095	Danio rerio	7955	28496033
+ckma	Enrofloxacin	D000077422	93106-60-6	CKMA	30095	Danio rerio	7955	28496033
+ckma	Fenretinide	D017313	65646-68-6	CKMA	30095	Danio rerio	7955	31368501
+ckma	Methylmercury Compounds	D008767		CKMA	30095	Danio rerio	7955	27544571
+ckma	Methyl Methanesulfonate	D008741	66-27-3	CKMA	30095	Danio rerio	7955	26011545
+ckma	Norfloxacin	D009643	70458-96-7	CKMA	30095	Danio rerio	7955	28496033
+ckma	Ofloxacin	D015242	82419-36-1	CKMA	30095	Danio rerio	7955	28496033
+ckma	perfluorooctanesulfonamide	C063900	754-91-6	CKMA	30095	Danio rerio	7955	31706782
+ckma	Tretinoin	D014212	302-79-4	CKMA	30095	Danio rerio	7955	23774253
+ckma	trichostatin A	C012589	58880-19-6	CKMA	30095	Danio rerio	7955	15901671
+ckma	triphenyl phosphate	C005445	115-86-6	CKMA	30095	Danio rerio	7955	31368501
+ckma	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMA	30095	Danio rerio	7955	30157643
+ckma	Valproic Acid	D014635	99-66-1	CKMA	30095	Danio rerio	7955	15901671|23774253
+ckmb	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKMB	794752	Danio rerio	7955	28973690
+ckmb	bisphenol A	C006780	80-05-7	CKMB	794752	Gobiocypris rarus	143606	26364221
+ckmb	Copper	D003300	7440-50-8	CKMB	794752	Danio rerio	7955	26293553
+ckmb	crocin	C029036	42553-65-1	CKMB	794752	Rattus norvegicus	10116	26807765
+ckmb	Dietary Fats	D004041		CKMB	794752	Rattus norvegicus	10116	34224971
+ckmb	dorsomorphin	C516138		CKMB	794752	Danio rerio	7955	30157643
+ckmb	Doxorubicin	D004317	23214-92-8	CKMB	794752	Mus musculus	10090	19577608
+ckmb	Doxorubicin	D004317	23214-92-8	CKMB	794752	Rattus norvegicus	10116	26807765|36636964
+ckmb	Isoproterenol	D007545	7683-59-2	CKMB	794752	Rattus norvegicus	10116	26056852|36593721
+ckmb	Methimazole	D008713	60-56-0	CKMB	794752	Mus musculus	10090	19577608
+ckmb	Methylmercury Compounds	D008767		CKMB	794752	Danio rerio	7955	27544571
+ckmb	oleuropein	C002769	32619-42-4	CKMB	794752	Rattus norvegicus	10116	26056852
+ckmb	perfluorooctanesulfonamide	C063900	754-91-6	CKMB	794752	Danio rerio	7955	31706782
+ckmb	perfluorooctane sulfonic acid	C076994	1763-23-1	CKMB	794752	Danio rerio	7955	19474218
+ckmb	Permethrin	D026023	52645-53-1	CKMB	794752	Rattus norvegicus	10116	34224971
+ckmb	pirarubicin	C027260		CKMB	794752	Rattus norvegicus	10116	36740146
+ckmb	protocatechuic acid	C009091	99-50-3	CKMB	794752	Rattus norvegicus	10116	36593721
+ckmb	Ramipril	D017257	87333-19-5	CKMB	794752	Rattus norvegicus	10116	36636964
+ckmb	trichostatin A	C012589	58880-19-6	CKMB	794752	Danio rerio	7955	15901671
+ckmb	triphenyl phosphate	C005445	115-86-6	CKMB	794752	Danio rerio	7955	31368501
+ckmb	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMB	794752	Danio rerio	7955	30157643
+ckmb	Valproic Acid	D014635	99-66-1	CKMB	794752	Danio rerio	7955	15901671
+ckm.l [No associated data found]								
+ckm.s [No associated data found]								
+ckmt1	1,2-Dimethylhydrazine	D019813	540-73-8	CKMT1	12716	Mus musculus	10090	22206623
+ckmt1	1,4-bis(2-(3,5-dichloropyridyloxy))benzene	C028474	76150-91-9	CKMT1	12716	Mus musculus	10090	21354444
+ckmt1	1-bromopropane	C118559	106-94-5	CKMT1	12716	Rattus norvegicus	10116	21925529
+ckmt1	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	D015632	28289-54-5	CKMT1	12716	Mus musculus	10090	20230807
+ckmt1	2,2',3',4,4',5-hexachlorobiphenyl	C029790	35065-28-2	CKMT1	12716	Rattus norvegicus	10116	21673325
+ckmt1	2-Acetylaminofluorene	D015073	53-96-3	CKMT1	12716	Mus musculus	10090	17317680
+ckmt1	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKMT1	12716	Rattus norvegicus	10116	23196670
+ckmt1	4,4'-diaminodiphenylmethane	C009505	101-77-9	CKMT1	12716	Mus musculus	10090	18648102
+ckmt1	Acetaminophen	D000082	103-90-2	CKMT1	12716	Rattus norvegicus	10116	33387578
+ckmt1	Acrylamide	D020106	79-06-1	CKMT1	12716	Danio rerio	7955	29784925
+ckmt1	Acrylamide	D020106	79-06-1	CKMT1	12716	Mus musculus	10090	15038071
+ckmt1	Acrylamide	D020106	79-06-1	CKMT1	12716	Rattus norvegicus	10116	15038071
+ckmt1	Aflatoxin B1	D016604	1162-65-8	CKMT1	12716	Mus musculus	10090	19770486
+ckmt1	Air Pollutants	D000393		CKMT1	12716	Mus musculus	10090	29883952|34911549
+ckmt1	ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)-propanoate	C000611729		CKMT1	12716	Mus musculus	10090	35832492
+ckmt1	Amphetamine	D000661	300-62-9	CKMT1	12716	Mus musculus	10090	23459167
+ckmt1	Arsenic	D001151	7440-38-2	CKMT1	12716	Mus musculus	10090	22552367
+ckmt1	arsenic disulfide	C058317	56320-22-0	CKMT1	12716	Mus musculus	10090	33878415
+ckmt1	Benzo(a)pyrene	D001564	50-32-8	CKMT1	12716	Mus musculus	10090	19654925|19770486|22228805
+ckmt1	bisphenol A	C006780	80-05-7	CKMT1	12716	Danio rerio	7955	21786754|29458080|33243503
+ckmt1	bisphenol A	C006780	80-05-7	CKMT1	12716	Mus musculus	10090	32156529
+ckmt1	bisphenol A	C006780	80-05-7	CKMT1	12716	Oryzias latipes	8090	32622090
+ckmt1	bisphenol A	C006780	80-05-7	CKMT1	12716	Rattus norvegicus	10116	34947998|36041667
+ckmt1	bisphenol F	C000611646		CKMT1	12716	Rattus norvegicus	10116	36041667
+ckmt1	bisphenol S	C543008	80-09-1	CKMT1	12716	Rattus norvegicus	10116	36041667
+ckmt1	butylparaben	C038091	94-26-8	CKMT1	12716	Danio rerio	7955	29458080
+ckmt1	Caffeine	D002110	58-08-2	CKMT1	12716	Mus musculus	10090	20230807
+ckmt1	Chlorine	D002713	7782-50-5	CKMT1	12716	Rattus norvegicus	10116	18636392
+ckmt1	Cocaine	D003042	50-36-2	CKMT1	12716	Rattus norvegicus	10116	20187946
+ckmt1	decamethrin	C017180	52820-00-5	CKMT1	12716	Mus musculus	10090	37019170
+ckmt1	Diethylstilbestrol	D004054	56-53-1	CKMT1	12716	Mesocricetus auratus	10036	25242112
+ckmt1	Diethylstilbestrol	D004054	56-53-1	CKMT1	12716	Mus musculus	10090	15289156
+ckmt1	Estradiol	D004958	50-28-2	CKMT1	12716	Danio rerio	7955	29458080
+ckmt1	Estradiol	D004958	50-28-2	CKMT1	12716	Mus musculus	10090	15289156
+ckmt1	Estradiol	D004958	50-28-2	CKMT1	12716	Rattus norvegicus	10116	32741896
+ckmt1	estradiol 3-benzoate	C074283	50-50-0	CKMT1	12716	Rattus norvegicus	10116	32741896
+ckmt1	Ethanol	D000431	64-17-5	CKMT1	12716	Mus musculus	10090	30319688
+ckmt1	Ethinyl Estradiol	D004997	57-63-6	CKMT1	12716	Mus musculus	10090	16174780|17555576|17942748
+ckmt1	Ethinyl Estradiol	D004997	57-63-6	CKMT1	12716	Rattus norvegicus	10116	16174780|17557909
+ckmt1	Folic Acid	D005492	59-30-3	CKMT1	12716	Mus musculus	10090	25629700
+ckmt1	Genistein	D019833	446-72-0	CKMT1	12716	Mus musculus	10090	15289156|32186404
+ckmt1	Gentamicins	D005839		CKMT1	12716	Rattus norvegicus	10116	33387578
+ckmt1	Glucose	D005947	50-99-7	CKMT1	12716			22634610
+ckmt1	Haloperidol	D006220	52-86-8	CKMT1	12716	Danio rerio	7955	29458080
+ckmt1	Isotretinoin	D015474	4759-48-2	CKMT1	12716	Homo sapiens	9606	20436886
+ckmt1	lipopolysaccharide, E coli O55-B5	C482199		CKMT1	12716	Chloris chloris	37601	24972896
+ckmt1	Maneb	D008344	12427-38-2	CKMT1	12716	Mus musculus	10090	36117858
+ckmt1	Methylmercury Compounds	D008767		CKMT1	12716	Danio rerio	7955	27544571
+ckmt1	mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	CKMT1	12716	Mus musculus	10090	36189433
+ckmt1	Nanotubes, Carbon	D037742		CKMT1	12716	Mus musculus	10090	27106021
+ckmt1	Nicotine	D009538		CKMT1	12716	Mus musculus	10090	20230807
+ckmt1	N-Methyl-3,4-methylenedioxyamphetamine	D018817	42542-10-9	CKMT1	12716	Mus musculus	10090	26251327
+ckmt1	Oxygen	D010100	7782-44-7	CKMT1	12716	Mus musculus	10090	30529165
+ckmt1	Ozone	D010126	10028-15-6	CKMT1	12716	Mus musculus	10090	34911549
+ckmt1	Ozone	D010126	10028-15-6	CKMT1	12716	Rattus norvegicus	10116	18636392
+ckmt1	Paraquat	D010269	4685-14-7	CKMT1	12716	Mus musculus	10090	36117858
+ckmt1	Particulate Matter	D052638		CKMT1	12716	Mus musculus	10090	28495853|29883952
+ckmt1	perfluorooctanoic acid	C023036	335-67-1	CKMT1	12716	Danio rerio	7955	23427857
+ckmt1	phosphinothricin	C003121	51276-47-2	CKMT1	12716	Danio rerio	7955	31545209
+ckmt1	propiconazole	C045950	60207-90-1	CKMT1	12716	Danio rerio	7955	29458080
+ckmt1	propylparaben	C006068	94-13-3	CKMT1	12716	Danio rerio	7955	29458080
+ckmt1	Propylthiouracil	D011441	51-52-5	CKMT1	12716	Rattus norvegicus	10116	24780913
+ckmt1	salvin	C018381	3650-09-7	CKMT1	12716	Mus musculus	10090	35926579
+ckmt1	senecionine	C009237	130-01-8	CKMT1	12716	Mus musculus	10090	35357534
+ckmt1	sodium arsenite	C017947	13768-07-5	CKMT1	12716	Danio rerio	7955	23570992
+ckmt1	sodium bichromate	C016104	10588-01-9	CKMT1	12716	Danio rerio	7955	24612858
+ckmt1	Soot	D053260		CKMT1	12716	Mus musculus	10090	34911549
+ckmt1	Tamoxifen	D013629	10540-29-1	CKMT1	12716	Mus musculus	10090	17555576
+ckmt1	Testosterone	D013739	58-22-0	CKMT1	12716	Rattus norvegicus	10116	32741896
+ckmt1	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT1	12716	Mus musculus	10090	17942748
+ckmt1	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT1	12716	Rattus norvegicus	10116	32109520|33387578
+ckmt1	titanium dioxide	C009495	13463-67-7	CKMT1	12716	Mus musculus	10090	23557971
+ckmt1	Toxins, Biological	D014118		CKMT1	12716	Mus musculus	10090	19682533
+ckmt1	tremolite	C005846	14567-73-8	CKMT1	12716	Mus musculus	10090	29279043
+ckmt1	Tretinoin	D014212	302-79-4	CKMT1	12716	Mus musculus	10090	36189433
+ckmt1	Trichloroethylene	D014241	79-01-6	CKMT1	12716	Mus musculus	10090	21135412
+ckmt1	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMT1	12716	Danio rerio	7955	30157643
+ckmt1	UVI 3003	C525131		CKMT1	12716	Danio rerio	7955	25581642
+ckmt1	Valproic Acid	D014635	99-66-1	CKMT1	12716	Mus musculus	10090	17963808
+ckmt1	Vehicle Emissions	D001335		CKMT1	12716	Mus musculus	10090	28495853
+ckmt1	vinclozolin	C025643	50471-44-8	CKMT1	12716	Rattus norvegicus	10116	19015723
+ckmt1a	1-Butanol	D020001	71-36-3	CKMT1A	548596	Homo sapiens	9606	29432896
+ckmt1a	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKMT1A	548596	Homo sapiens	9606	28628672
+ckmt1a	3,19-(2-bromobenzylidene)andrographolide	C000598422		CKMT1A	548596	Homo sapiens	9606	34087331
+ckmt1a	abrine	C496492		CKMT1A	548596	Homo sapiens	9606	31054353
+ckmt1a	Aldehydes	D000447		CKMT1A	548596	Homo sapiens	9606	25014914
+ckmt1a	Benzo(a)pyrene	D001564	50-32-8	CKMT1A	548596	Homo sapiens	9606	27901495|32717239
+ckmt1a	butyraldehyde	C018475	123-72-8	CKMT1A	548596	Homo sapiens	9606	26079696
+ckmt1a	Cadmium Chloride	D019256	10108-64-2	CKMT1A	548596	Homo sapiens	9606	26472689
+ckmt1a	CGP 52608	C092451	87958-67-6	CKMT1A	548596	Homo sapiens	9606	28238834
+ckmt1a	Colforsin	D005576	138605-00-2	CKMT1A	548596	Homo sapiens	9606	35892601
+ckmt1a	deoxynivalenol	C007262	51481-10-8	CKMT1A	548596	Sus scrofa	9823	35307453
+ckmt1a	Dexamethasone	D003907	50-02-2	CKMT1A	548596	Homo sapiens	9606	28628672
+ckmt1a	Dibutyl Phthalate	D003993	84-74-2	CKMT1A	548596	Homo sapiens	9606	28973377
+ckmt1a	Diethylhexyl Phthalate	D004051	117-81-7	CKMT1A	548596	Homo sapiens	9606	35892601
+ckmt1a	Ethanol	D000431	64-17-5	CKMT1A	548596	Homo sapiens	9606	29432896
+ckmt1a	Folic Acid	D005492	59-30-3	CKMT1A	548596	Homo sapiens	9606	21867686
+ckmt1a	Gasoline	D005742		CKMT1A	548596	Homo sapiens	9606	29432896
+ckmt1a	ICG 001	C492448		CKMT1A	548596	Homo sapiens	9606	26191083
+ckmt1a	Indomethacin	D007213	53-86-1	CKMT1A	548596	Homo sapiens	9606	28628672
+ckmt1a	Ivermectin	D007559	70288-86-7	CKMT1A	548596	Homo sapiens	9606	32959892
+ckmt1a	Particulate Matter	D052638		CKMT1A	548596	Homo sapiens	9606	29432896
+ckmt1a	pentanal	C046012	110-62-3	CKMT1A	548596	Homo sapiens	9606	26079696
+ckmt1a	Plant Extracts	D010936		CKMT1A	548596	Homo sapiens	9606	23557933
+ckmt1a	Polycyclic Aromatic Hydrocarbons	D011084		CKMT1A	548596	Homo sapiens	9606	29432896
+ckmt1a	propionaldehyde	C005556	123-38-6	CKMT1A	548596	Homo sapiens	9606	26079696
+ckmt1a	Resveratrol	D000077185		CKMT1A	548596	Homo sapiens	9606	23557933
+ckmt1a	Silicon Dioxide	D012822	7631-86-9	CKMT1A	548596	Homo sapiens	9606	25895662
+ckmt1a	Thalidomide	D013792	50-35-1	CKMT1A	548596	Gallus gallus	9031	28892372
+ckmt1a	Tobacco Smoke Pollution	D014028		CKMT1A	548596	Homo sapiens	9606	30291989|33660061
+ckmt1a	Tretinoin	D014212	302-79-4	CKMT1A	548596	Homo sapiens	9606	23724009
+ckmt1a	Triclosan	D014260	3380-34-5	CKMT1A	548596	Homo sapiens	9606	30510588
+ckmt1a	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMT1A	548596	Homo sapiens	9606	26179874
+ckmt1a	Zinc	D015032	7440-66-6	CKMT1A	548596	Homo sapiens	9606	15984569
+ckmt1b	2',3,3',4',5-pentachloro-4-hydroxybiphenyl	C111118		CKMT1B	1159	Rattus norvegicus	10116	19114083
+ckmt1b	2,5-hexanedione	C011269		CKMT1B	1159	Rattus norvegicus	10116	19033394
+ckmt1b	3,19-(2-bromobenzylidene)andrographolide	C000598422		CKMT1B	1159	Homo sapiens	9606	34087331
+ckmt1b	abrine	C496492		CKMT1B	1159	Homo sapiens	9606	31054353
+ckmt1b	Acrylamide	D020106	79-06-1	CKMT1B	1159	Homo sapiens	9606	32763439
+ckmt1b	afimoxifene	C016601	68392-35-8	CKMT1B	1159	Homo sapiens	9606	21233418
+ckmt1b	Amitrole	D000640	61-82-5	CKMT1B	1159	Rattus norvegicus	10116	30047161
+ckmt1b	Atrazine	D001280	1912-24-9	CKMT1B	1159	Homo sapiens	9606	22378314
+ckmt1b	Benzo(a)pyrene	D001564	50-32-8	CKMT1B	1159	Homo sapiens	9606	27901495
+ckmt1b	bisphenol A	C006780	80-05-7	CKMT1B	1159	Rattus norvegicus	10116	26496021
+ckmt1b	bromfenacoum	C013418	56073-10-0	CKMT1B	1159	Rattus norvegicus	10116	28903499
+ckmt1b	Cadmium Chloride	D019256	10108-64-2	CKMT1B	1159	Homo sapiens	9606	26220685
+ckmt1b	CGP 52608	C092451	87958-67-6	CKMT1B	1159	Homo sapiens	9606	28238834
+ckmt1b	Cisplatin	D002945	15663-27-1	CKMT1B	1159	Homo sapiens	9606	16217747
+ckmt1b	Copper	D003300	7440-50-8	CKMT1B	1159	Rattus norvegicus	10116	30556269
+ckmt1b	decabromobiphenyl ether	C010902	1163-19-5	CKMT1B	1159	Homo sapiens	9606	31326446
+ckmt1b	Estradiol	D004958	50-28-2	CKMT1B	1159	Homo sapiens	9606	30165855
+ckmt1b	Estradiol	D004958	50-28-2	CKMT1B	1159	Rattus norvegicus	10116	26496021
+ckmt1b	Etoposide	D005047	33419-42-0	CKMT1B	1159	Homo sapiens	9606	16217747
+ckmt1b	furan	C039281	110-00-9	CKMT1B	1159	Rattus norvegicus	10116	27387713
+ckmt1b	ICG 001	C492448		CKMT1B	1159	Homo sapiens	9606	26191083
+ckmt1b	Methimazole	D008713	60-56-0	CKMT1B	1159	Rattus norvegicus	10116	30047161
+ckmt1b	Methotrexate	D008727	59-05-2	CKMT1B	1159	Homo sapiens	9606	16217747
+ckmt1b	Mitomycin	D016685	50-07-7	CKMT1B	1159	Homo sapiens	9606	16217747
+ckmt1b	Paraquat	D010269	4685-14-7	CKMT1B	1159	Rattus norvegicus	10116	32680482
+ckmt1b	Propylthiouracil	D011441	51-52-5	CKMT1B	1159	Rattus norvegicus	10116	30047161
+ckmt1b	Smoke	D012906		CKMT1B	1159	Rattus norvegicus	10116	19133281
+ckmt1b	Sulfadimethoxine	D013412	122-11-2	CKMT1B	1159	Rattus norvegicus	10116	30047161
+ckmt1b	Tobacco Smoke Pollution	D014028		CKMT1B	1159	Homo sapiens	9606	33660061
+ckmt1b.l	trichostatin A	C012589	58880-19-6	CKMT1B.L	379216	Xenopus laevis	8355	15901671
+ckmt1b.l	Valproic Acid	D014635	99-66-1	CKMT1B.L	379216	Xenopus laevis	8355	15901671
+ckmt1b.s [No associated data found]								
+ckmt1-ps1 [No associated data found]								
+ckmt2	1,2,5,6-tetrabromocyclooctane	C540596		CKMT2	1160	Oryzias latipes	8090	27322799
+ckmt2	1,2-Dimethylhydrazine	D019813	540-73-8	CKMT2	1160	Mus musculus	10090	22206623
+ckmt2	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKMT2	1160	Homo sapiens	9606	28628672
+ckmt2	4,4'-diaminodiphenylmethane	C009505	101-77-9	CKMT2	1160	Mus musculus	10090	18648102
+ckmt2	8-Bromo Cyclic Adenosine Monophosphate	D015124	23583-48-4	CKMT2	1160	Homo sapiens	9606	22079614
+ckmt2	Acetaminophen	D000082	103-90-2	CKMT2	1160	Homo sapiens	9606	25704631
+ckmt2	Acrolein	D000171	107-02-8	CKMT2	1160	Mus musculus	10090	17921335
+ckmt2	Acrylamide	D020106	79-06-1	CKMT2	1160	Rattus norvegicus	10116	28959563
+ckmt2	Air Pollutants	D000393		CKMT2	1160	Mus musculus	10090	32780721
+ckmt2	Ammonium Chloride	D000643	12125-02-9	CKMT2	1160	Rattus norvegicus	10116	16483693
+ckmt2	Amphetamine	D000661	300-62-9	CKMT2	1160	Rattus norvegicus	10116	30779732
+ckmt2	arsenite	C015001	15502-74-6	CKMT2	1160	Homo sapiens	9606	23974009
+ckmt2	Atrazine	D001280	1912-24-9	CKMT2	1160	Oncorhynchus mykiss	8022	22982499
+ckmt2	Benzo(a)pyrene	D001564	50-32-8	CKMT2	1160	Homo sapiens	9606	22316170
+ckmt2	Benzo(a)pyrene	D001564	50-32-8	CKMT2	1160	Mus musculus	10090	22228805
+ckmt2	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C072553		CKMT2	1160	Mus musculus	10090	25566086
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Homo sapiens	9606	27685785|28628672|31601247|34186270
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Rattus norvegicus	10116	25181051|27178563|32145629
+ckmt2	bisphenol F	C000611646		CKMT2	1160	Homo sapiens	9606	28628672|34186270
+ckmt2	Cadmium	D002104	7440-43-9	CKMT2	1160	Homo sapiens	9606	35301059
+ckmt2	Cadmium Chloride	D019256	10108-64-2	CKMT2	1160	Homo sapiens	9606	35301059
+ckmt2	Cantharidin	D002193	56-25-7	CKMT2	1160	Mus musculus	10090	36907384
+ckmt2	CGP 52608	C092451	87958-67-6	CKMT2	1160	Homo sapiens	9606	28238834
+ckmt2	Ciguatoxins	D002922	11050-21-8	CKMT2	1160	Mus musculus	10090	18353800
+ckmt2	Clofibrate	D002994	637-07-0	CKMT2	1160	Oikopleura dioica	34765	22300585
+ckmt2	cupric chloride	C029892	7447-39-4	CKMT2	1160	Mus musculus	10090	29617964
+ckmt2	Cyclosporine	D016572	59865-13-3	CKMT2	1160	Homo sapiens	9606	25562108
+ckmt2	decabromobiphenyl ether	C010902	1163-19-5	CKMT2	1160	Rattus norvegicus	10116	23914054
+ckmt2	Decitabine	D000077209	2353-33-5	CKMT2	1160	Mus musculus	10090	15251184
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Gallus gallus	9031	34464682
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Homo sapiens	9606	28628672
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Mus musculus	10090	33567340
+ckmt2	Dichloroacetic Acid	D003999	79-43-6	CKMT2	1160	Mus musculus	10090	28962523
+ckmt2	Dichlorodiphenyl Dichloroethylene	D003633	72-55-9	CKMT2	1160	Mus spretus	10096	29554563
+ckmt2	Diethylhexyl Phthalate	D004051	117-81-7	CKMT2	1160	Mus musculus	10090	28085963
+ckmt2	Dioxins	D004147		CKMT2	1160	Rattus norvegicus	10116	35440735
+ckmt2	domoic acid	C012301	14277-97-5	CKMT2	1160	Macaca fascicularis	9541	36102641
+ckmt2	Doxorubicin	D004317	23214-92-8	CKMT2	1160	Homo sapiens	9606	29385562|29803840
+ckmt2	Doxorubicin	D004317	23214-92-8	CKMT2	1160	Rattus norvegicus	10116	15764680|17935690
+ckmt2	echimidine	C000615871		CKMT2	1160	Rattus norvegicus	10116	34185104
+ckmt2	Estradiol	D004958	50-28-2	CKMT2	1160	Mus musculus	10090	19484750
+ckmt2	Estradiol	D004958	50-28-2	CKMT2	1160	Rattus norvegicus	10116	32145629
+ckmt2	Fonofos	D004397	944-22-9	CKMT2	1160	Homo sapiens	9606	22847954
+ckmt2	Fulvestrant	D000077267	129453-61-8	CKMT2	1160	Homo sapiens	9606	31601247
+ckmt2	Glyphosate	D000097797		CKMT2	1160	Platichthys flesus	8260	16532367
+ckmt2	Graphite	D006108	7782-42-5	CKMT2	1160	Mus musculus	10090	27440207
+ckmt2	guanidinopropionic acid	C005775		CKMT2	1160	Rattus norvegicus	10116	9309701
+ckmt2	heliotrine	C010178		CKMT2	1160	Rattus norvegicus	10116	34185104
+ckmt2	indeno(1,2,3-cd)pyrene	C041508	193-39-5	CKMT2	1160	Mus musculus	10090	26377693
+ckmt2	Indomethacin	D007213	53-86-1	CKMT2	1160	Homo sapiens	9606	28628672
+ckmt2	Ivermectin	D007559	70288-86-7	CKMT2	1160	Homo sapiens	9606	32959892
+ckmt2	JP8 aviation fuel	C098607		CKMT2	1160	Rattus norvegicus	10116	35440735
+ckmt2	Nanotubes, Carbon	D037742		CKMT2	1160	Mus musculus	10090	25620056
+ckmt2	Nickel	D009532	7440-02-0	CKMT2	1160	Homo sapiens	9606	24768652|25583101
+ckmt2	Nicotine	D009538		CKMT2	1160	Homo sapiens	9606	16949557
+ckmt2	N-nitroso-tris-chloroethylurea	C572573		CKMT2	1160	Mus musculus	10090	27935865
+ckmt2	Oxygen	D010100	7782-44-7	CKMT2	1160	Mus musculus	10090	30529165
+ckmt2	Ozone	D010126	10028-15-6	CKMT2	1160	Mus musculus	10090	12763052
+ckmt2	Ozone	D010126	10028-15-6	CKMT2	1160	Rattus norvegicus	10116	33146391
+ckmt2	Parathion	D010278	56-38-2	CKMT2	1160	Homo sapiens	9606	22847954
+ckmt2	Particulate Matter	D052638		CKMT2	1160	Mus musculus	10090	17295261|32780721
+ckmt2	perfluorooctanoic acid	C023036	335-67-1	CKMT2	1160	Tursiops truncatus	9739	26794494
+ckmt2	Pioglitazone	D000077205	111025-46-8	CKMT2	1160	Mus musculus	10090	27935865
+ckmt2	pirinixic acid	C006253	50892-23-4	CKMT2	1160	Rattus norvegicus	10116	12832660
+ckmt2	Plant Extracts	D010936		CKMT2	1160	Homo sapiens	9606	23557933
+ckmt2	platyphylline	C008937	480-78-4	CKMT2	1160	Rattus norvegicus	10116	34185104
+ckmt2	Resveratrol	D000077185		CKMT2	1160	Homo sapiens	9606	23557933
+ckmt2	senecionine	C009237	130-01-8	CKMT2	1160	Rattus norvegicus	10116	34185104
+ckmt2	Streptozocin	D013311	18883-66-4	CKMT2	1160	Rattus norvegicus	10116	16684804
+ckmt2	Sunitinib	D000077210		CKMT2	1160	Homo sapiens	9606	31533062
+ckmt2	T-2 Toxin	D013605	21259-20-1	CKMT2	1160	Rattus norvegicus	10116	26141394
+ckmt2	terbufos	C012568	13071-79-9	CKMT2	1160	Homo sapiens	9606	22847954
+ckmt2	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT2	1160	Homo sapiens	9606	21296121
+ckmt2	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT2	1160	Mus musculus	10090	15251184
+ckmt2	titanium dioxide	C009495	13463-67-7	CKMT2	1160	Mus musculus	10090	23557971
+ckmt2	Tobacco Smoke Pollution	D014028		CKMT2	1160	Mus musculus	10090	20133372
+ckmt2	Trichloroethylene	D014241	79-01-6	CKMT2	1160	Rattus norvegicus	10116	27618143
+ckmt2	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMT2	1160	Homo sapiens	9606	26179874
+ckmt2	triticonazole	C412303		CKMT2	1160	Rattus norvegicus	10116	36084822
+ckmt2	Tunicamycin	D014415	11089-65-9	CKMT2	1160	Mus musculus	10090	17127020
+ckmt2	Valproic Acid	D014635	99-66-1	CKMT2	1160	Homo sapiens	9606	37505509
+ckmt2	vanadyl sulfate	C034028	27774-13-6	CKMT2	1160	Rattus norvegicus	10116	16684804
+ckmt2	Vehicle Emissions	D001335		CKMT2	1160	Mus musculus	10090	17295261|25560391
+ckmt2	XL147	C581157		CKMT2	1160	Mus musculus	10090	27935865
+ckmt2a	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKMT2A	327506	Danio rerio	7955	28973690
+ckmt2a	bisphenol A	C006780	80-05-7	CKMT2A	327506	Danio rerio	7955	33243503
+ckmt2a	decabromobiphenyl ether	C010902	1163-19-5	CKMT2A	327506	Danio rerio	7955	24317228
+ckmt2a	dibenzothiophene	C016366	132-65-0	CKMT2A	327506	Danio rerio	7955	23656968
+ckmt2a	Particulate Matter	D052638		CKMT2A	327506	Danio rerio	7955	34057650
+ckmt2a	phosphinothricin	C003121	51276-47-2	CKMT2A	327506	Danio rerio	7955	31545209
+ckmt2a	Vehicle Emissions	D001335		CKMT2A	327506	Danio rerio	7955	34057650
+ckmt2a	Warfarin	D014859	81-81-2	CKMT2A	327506	Danio rerio	7955	31238190
+ckmt2b	Acetaminophen	D000082	103-90-2	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	Amiodarone	D000638	1951-25-3	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	bisphenol A	C006780	80-05-7	CKMT2B	799492	Danio rerio	7955	33243503|33370691
+ckmt2b	Chlordecone	D007631	143-50-0	CKMT2B	799492	Danio rerio	7955	29458080
+ckmt2b	Chlorpromazine	D002746	50-53-3	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	Cyclosporine	D016572	59865-13-3	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	Ethinyl Estradiol	D004997	57-63-6	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	fipronil	C082360	120068-37-3	CKMT2B	799492	Danio rerio	7955	32977147
+ckmt2b	Paraquat	D010269	4685-14-7	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	Tetracycline	D013752	60-54-8	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	Thioacetamide	D013853	62-55-5	CKMT2B	799492	Danio rerio	7955	25064622
+ckmt2b	UVI 3003	C525131		CKMT2B	799492	Danio rerio	7955	25581642
+ckmt2b	Valproic Acid	D014635	99-66-1	CKMT2B	799492	Danio rerio	7955	25064622
+ck-ps2 [No associated data found]								
+ck-ps3 [No associated data found]								
+creat [No associated data found]								
+kcrb [No associated data found]								
+kcrt [No associated data found]								
+slc16a12	1,2-Dimethylhydrazine	D019813	540-73-8	SLC16A12	387700	Mus musculus	10090	22206623
+slc16a12	1,4-bis(2-(3,5-dichloropyridyloxy))benzene	C028474	76150-91-9	SLC16A12	387700	Mus musculus	10090	22698814|28903501
+slc16a12	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	SLC16A12	387700	Homo sapiens	9606	28628672
+slc16a12	2,6-dinitrotoluene	C023514	606-20-2	SLC16A12	387700	Colinus virginianus	9014	20406850
+slc16a12	2-palmitoylglycerol	C114956		SLC16A12	387700	Homo sapiens	9606	37199045
+slc16a12	3,4,3',4'-tetrachlorobiphenyl	C028451		SLC16A12	387700	Mus musculus	10090	19467301
+slc16a12	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid	C584509		SLC16A12	387700	Homo sapiens	9606	26191083
+slc16a12	4,4'-diaminodiphenylmethane	C009505	101-77-9	SLC16A12	387700	Rattus norvegicus	10116	30723492
+slc16a12	acetamide	C030686	60-35-5	SLC16A12	387700	Rattus norvegicus	10116	31881176
+slc16a12	Acetaminophen	D000082	103-90-2	SLC16A12	387700	Mus musculus	10090	17562736
+slc16a12	Aflatoxin B1	D016604	1162-65-8	SLC16A12	387700	Homo sapiens	9606	22100608|32234424
+slc16a12	Aflatoxin B1	D016604	1162-65-8	SLC16A12	387700	Mus musculus	10090	19770486
+slc16a12	Air Pollutants	D000393		SLC16A12	387700	Mus musculus	10090	34911549
+slc16a12	Air Pollutants	D000393		SLC16A12	387700	Rattus norvegicus	10116	28106813
+slc16a12	alpha-Chlorohydrin	D000517	96-24-2	SLC16A12	387700	Rattus norvegicus	10116	28522335
+slc16a12	aristolochic acid I	C000228	313-67-7	SLC16A12	387700	Homo sapiens	9606	33212167
+slc16a12	Atrazine	D001280	1912-24-9	SLC16A12	387700	Danio rerio	7955	25929836
+slc16a12	Benzo(a)pyrene	D001564	50-32-8	SLC16A12	387700	Homo sapiens	9606	27901495
+slc16a12	Benzo(a)pyrene	D001564	50-32-8	SLC16A12	387700	Mus musculus	10090	27195522
+slc16a12	beta-methylcholine	C044887	7562-87-0	SLC16A12	387700	Homo sapiens	9606	21179406
+slc16a12	Bilirubin	D001663	635-65-4	SLC16A12	387700	Homo sapiens	9606	20196124
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Homo sapiens	9606	31715268
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Mus musculus	10090	25594700|26063408
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Rattus norvegicus	10116	25181051|28505145|32145629|34947998
+slc16a12	bisphenol F	C000611646		SLC16A12	387700	Homo sapiens	9606	28628672
+slc16a12	bisphenol F	C000611646		SLC16A12	387700	Mus musculus	10090	30951980
+slc16a12	bisphenol S	C543008	80-09-1	SLC16A12	387700	Mus musculus	10090	30951980
+slc16a12	Cadmium	D002104	7440-43-9	SLC16A12	387700	Homo sapiens	9606	24376830|35301059
+slc16a12	Cadmium Chloride	D019256	10108-64-2	SLC16A12	387700	Homo sapiens	9606	35301059
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Mus musculus	10090	27339419|31919559
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Rattus norvegicus	10116	31150632
+slc16a12	Cephaloridine	D002509	50-59-9	SLC16A12	387700	Rattus norvegicus	10116	18500788
+slc16a12	CGP 52608	C092451	87958-67-6	SLC16A12	387700	Homo sapiens	9606	28238834
+slc16a12	chloropicrin	C100187	76-06-2	SLC16A12	387700	Homo sapiens	9606	26352163|28476498
+slc16a12	Chloroprene	D002737	126-99-8	SLC16A12	387700	Mus musculus	10090	23125180
+slc16a12	Chlorpyrifos	D004390	2921-88-2	SLC16A12	387700	Mus musculus	10090	37019170
+slc16a12	chromium hexavalent ion	C074702	18540-29-9	SLC16A12	387700	Mus musculus	10090	28472532
+slc16a12	Cisplatin	D002945	15663-27-1	SLC16A12	387700	Homo sapiens	9606	27392435
+slc16a12	cyproconazole	C093628		SLC16A12	387700	Mus musculus	10090	22334560
+slc16a12	decamethrin	C017180	52820-00-5	SLC16A12	387700	Mus musculus	10090	37019170
+slc16a12	deoxynivalenol	C007262	51481-10-8	SLC16A12	387700	Sus scrofa	9823	35307453
+slc16a12	Dexamethasone	D003907	50-02-2	SLC16A12	387700	Homo sapiens	9606	28628672
+slc16a12	Dichlorodiphenyl Dichloroethylene	D003633	72-55-9	SLC16A12	387700	Mus spretus	10096	29554563
+slc16a12	Dietary Fats	D004041		SLC16A12	387700	Mus musculus	10090	19467301
+slc16a12	Dioxins	D004147		SLC16A12	387700	Rattus norvegicus	10116	35440735
+slc16a12	Doxorubicin	D004317	23214-92-8	SLC16A12	387700	Homo sapiens	9606	29803840
+slc16a12	Endosulfan	D004726	115-29-7	SLC16A12	387700	Homo sapiens	9606	26159488
+slc16a12	Endosulfan	D004726	115-29-7	SLC16A12	387700	Rattus norvegicus	10116	29391264
+slc16a12	epoxiconazole	C109476		SLC16A12	387700	Mus musculus	10090	22334560|35436446
+slc16a12	Estradiol	D004958	50-28-2	SLC16A12	387700	Homo sapiens	9606	30165855
+slc16a12	Estradiol	D004958	50-28-2	SLC16A12	387700	Rattus norvegicus	10116	32145629
+slc16a12	Fenretinide	D017313	65646-68-6	SLC16A12	387700	Mus musculus	10090	28973697
+slc16a12	Flutamide	D005485	13311-84-7	SLC16A12	387700	Rattus norvegicus	10116	24793618
+slc16a12	Fonofos	D004397	944-22-9	SLC16A12	387700	Homo sapiens	9606	22847954
+slc16a12	Hydrogen Peroxide	D006861	7722-84-1	SLC16A12	387700	Homo sapiens	9606	21179406
+slc16a12	Hydroxyurea	D006918	127-07-1	SLC16A12	387700	Mus musculus	10090	16868089
+slc16a12	ICG 001	C492448		SLC16A12	387700	Homo sapiens	9606	26191083
+slc16a12	Indomethacin	D007213	53-86-1	SLC16A12	387700	Homo sapiens	9606	28628672
+slc16a12	Inulin	D007444	9005-80-5	SLC16A12	387700	Mus musculus	10090	36331819
+slc16a12	(+)-JQ1 compound	C561695		SLC16A12	387700	Homo sapiens	9606	26752646
+slc16a12	maduramicin	C018091		SLC16A12	387700	Gallus gallus	9031	29128925
+slc16a12	Magnetite Nanoparticles	D058185		SLC16A12	387700	Mus musculus	10090	23086747
+slc16a12	methyleugenol	C005223	93-15-2	SLC16A12	387700	Homo sapiens	9606	32234424
+slc16a12	Methylnitrosourea	D008770	684-93-5	SLC16A12	387700	Mus musculus	10090	16868089
+slc16a12	Nanotubes, Carbon	D037742		SLC16A12	387700	Mus musculus	10090	25620056
+slc16a12	nickel sulfate	C029938	7786-81-4	SLC16A12	387700	Homo sapiens	9606	22714537
+slc16a12	Ozone	D010126	10028-15-6	SLC16A12	387700	Mus musculus	10090	34911549
+slc16a12	Paraquat	D010269	4685-14-7	SLC16A12	387700	Rattus norvegicus	10116	32680482
+slc16a12	Parathion	D010278	56-38-2	SLC16A12	387700	Homo sapiens	9606	22847954
+slc16a12	Particulate Matter	D052638		SLC16A12	387700	Rattus norvegicus	10116	28106813
+slc16a12	Pectins	D010368		SLC16A12	387700	Mus musculus	10090	36331819
+slc16a12	perfluorohexanesulfonic acid	C471071	355-46-4	SLC16A12	387700	Gallus gallus	9031	22790973
+slc16a12	perfluorohexanesulfonic acid	C471071	355-46-4	SLC16A12	387700	Mus musculus	10090	37995155
+slc16a12	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC16A12	387700	Mus musculus	10090	36331819
+slc16a12	Phenobarbital	D010634	50-06-6	SLC16A12	387700	Mus musculus	10090	19270015|23091169
+slc16a12	pirimiphos methyl	C014153	29232-93-7	SLC16A12	387700	Salmo salar	8030	27845199
+slc16a12	Plant Extracts	D010936		SLC16A12	387700	Homo sapiens	9606	23557933
+slc16a12	Potassium Dichromate	D011192	7778-50-9	SLC16A12	387700	Mus musculus	10090	23608068
+slc16a12	propiconazole	C045950	60207-90-1	SLC16A12	387700	Mus musculus	10090	22334560
+slc16a12	Resveratrol	D000077185		SLC16A12	387700	Homo sapiens	9606	23557933
+slc16a12	Resveratrol	D000077185		SLC16A12	387700	Mus musculus	10090	31298478
+slc16a12	Rifampin	D012293	13292-46-1	SLC16A12	387700	Homo sapiens	9606	24552687|27199754
+slc16a12	schizandrin B	C015499		SLC16A12	387700	Rattus norvegicus	10116	31150632
+slc16a12	senecionine	C009237	130-01-8	SLC16A12	387700	Mus musculus	10090	35357534
+slc16a12	Silver	D012834	7440-22-4	SLC16A12	387700	Mus musculus	10090	27131904
+slc16a12	sodium arsenite	C017947	13768-07-5	SLC16A12	387700	Homo sapiens	9606	29301061
+slc16a12	sodium arsenite	C017947	13768-07-5	SLC16A12	387700	Mus musculus	10090	37682722
+slc16a12	Soot	D053260		SLC16A12	387700	Mus musculus	10090	34911549
+slc16a12	Succimer	D004113	304-55-2	SLC16A12	387700	Mus musculus	10090	23086747
+slc16a12	terbufos	C012568	13071-79-9	SLC16A12	387700	Homo sapiens	9606	22847954
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Homo sapiens	9606	26159488
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Mus musculus	10090	28922406|33956508
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Rattus norvegicus	10116	22298810
+slc16a12	Thioacetamide	D013853	62-55-5	SLC16A12	387700	Cavia porcellus	10141	34492290
+slc16a12	Thioacetamide	D013853	62-55-5	SLC16A12	387700	Rattus norvegicus	10116	34492290
+slc16a12	titanium dioxide	C009495	13463-67-7	SLC16A12	387700	Mus musculus	10090	29264374|31298478
+slc16a12	Tobacco Smoke Pollution	D014028		SLC16A12	387700	Homo sapiens	9606	33660061
+slc16a12	Trichloroethylene	D014241	79-01-6	SLC16A12	387700	Rattus norvegicus	10116	33387578
+slc16a12	Triclosan	D014260	3380-34-5	SLC16A12	387700	Homo sapiens	9606	30510588
+slc16a12	trimellitic anhydride	C015559	552-30-7	SLC16A12	387700	Mus musculus	10090	19042947
+slc16a12	Valproic Acid	D014635	99-66-1	SLC16A12	387700	Rattus norvegicus	10116	29427782
+slc16a12	Vehicle Emissions	D001335		SLC16A12	387700	Mus musculus	10090	25560391
+slc16a12	Zearalenone	D015025	17924-92-4	SLC16A12	387700	Sus scrofa	9823	34933075
+slc6a10p	Acrylamide	D020106	79-06-1	SLC6A10P	386757	Homo sapiens	9606	32763439
+slc6a10p	Aflatoxin B1	D016604	1162-65-8	SLC6A10P	386757	Homo sapiens	9606	27153756
+slc6a10p	Aldehydes	D000447		SLC6A10P	386757	Homo sapiens	9606	25014914
+slc6a10p	Arsenic	D001151	7440-38-2	SLC6A10P	386757	Homo sapiens	9606	32525701
+slc6a10p	beta-methylcholine	C044887	7562-87-0	SLC6A10P	386757	Homo sapiens	9606	21179406
+slc6a10p	bisphenol A	C006780	80-05-7	SLC6A10P	386757	Homo sapiens	9606	25047013|29275510
+slc6a10p	butyraldehyde	C018475	123-72-8	SLC6A10P	386757	Homo sapiens	9606	26079696
+slc6a10p	dinophysistoxin 1	C051904		SLC6A10P	386757	Homo sapiens	9606	28939011
+slc6a10p	ethyl-p-hydroxybenzoate	C012313	120-47-8	SLC6A10P	386757	Homo sapiens	9606	37690743
+slc6a10p	(+)-JQ1 compound	C561695		SLC6A10P	386757	Homo sapiens	9606	25307878|27432991
+slc6a10p	Lactic Acid	D019344	50-21-5	SLC6A10P	386757	Homo sapiens	9606	30851411
+slc6a10p	pentanal	C046012	110-62-3	SLC6A10P	386757	Homo sapiens	9606	26079696
+slc6a10p	propionaldehyde	C005556	123-38-6	SLC6A10P	386757	Homo sapiens	9606	26079696
+slc6a10p	sodium arsenate	C009277		SLC6A10P	386757	Homo sapiens	9606	32525701
+slc6a10p	Tobacco Smoke Pollution	D014028		SLC6A10P	386757	Homo sapiens	9606	28065790|33660061
+slc6a10p	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	SLC6A10P	386757	Homo sapiens	9606	26179874
+slc6a10p	Valproic Acid	D014635	99-66-1	SLC6A10P	386757	Homo sapiens	9606	29154799
+slc6a10p	Zoledronic Acid	D000077211		SLC6A10P	386757	Homo sapiens	9606	24714768
+slc6a10pb	bisphenol A	C006780	80-05-7	SLC6A10PB	653562	Homo sapiens	9606	29275510
+slc6a10pb	(+)-JQ1 compound	C561695		SLC6A10PB	653562	Homo sapiens	9606	24796395
+slc6a10pb	trichostatin A	C012589	58880-19-6	SLC6A10PB	653562	Homo sapiens	9606	24935251
+slc6a10pb	Valproic Acid	D014635	99-66-1	SLC6A10PB	653562	Homo sapiens	9606	24935251
+slc6a8	1,2-Dimethylhydrazine	D019813	540-73-8	SLC6A8	6535	Mus musculus	10090	22206623
+slc6a8	2,2',3',4,4',5-hexachlorobiphenyl	C029790	35065-28-2	SLC6A8	6535	Rattus norvegicus	10116	23829299
+slc6a8	2',3,3',4',5-pentachloro-4-hydroxybiphenyl	C111118		SLC6A8	6535	Rattus norvegicus	10116	19114083
+slc6a8	2,4-dinitrotoluene	C016403	121-14-2	SLC6A8	6535	Rattus norvegicus	10116	21346803
+slc6a8	2,6-dinitrotoluene	C023514	606-20-2	SLC6A8	6535	Rattus norvegicus	10116	21346803
+slc6a8	2-methylacetoacetanilide	C586803		SLC6A8	6535	Rattus norvegicus	10116	31673724
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	27188386
+slc6a8	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	D015123	55097-80-8	SLC6A8	6535	Homo sapiens	9606	19150397
+slc6a8	9,10-Dimethyl-1,2-benzanthracene	D015127	57-97-6	SLC6A8	6535	Mesocricetus auratus	10036	22485181
+slc6a8	acetamide	C030686	60-35-5	SLC6A8	6535	Rattus norvegicus	10116	31881176
+slc6a8	Acetaminophen	D000082	103-90-2	SLC6A8	6535	Homo sapiens	9606	22230336|29067470
+slc6a8	Acetaminophen	D000082	103-90-2	SLC6A8	6535	Mus musculus	10090	17562736
+slc6a8	Aflatoxin B1	D016604	1162-65-8	SLC6A8	6535	Rattus norvegicus	10116	22484513|23630614|33354967
+slc6a8	Aldehydes	D000447		SLC6A8	6535	Homo sapiens	9606	25014914
+slc6a8	alpha-Chlorohydrin	D000517	96-24-2	SLC6A8	6535	Rattus norvegicus	10116	28522335
+slc6a8	Aluminum	D000535	7429-90-5	SLC6A8	6535			21298039
+slc6a8	Ammonia	D000641	7664-41-7	SLC6A8	6535	Homo sapiens	9606	20227315
+slc6a8	Ammonium Chloride	D000643	12125-02-9	SLC6A8	6535	Rattus norvegicus	10116	16483693
+slc6a8	Ampicillin	D000667	69-53-4	SLC6A8	6535	Homo sapiens	9606	21632981
+slc6a8	Arsenic	D001151	7440-38-2	SLC6A8	6535	Homo sapiens	9606	32525701
+slc6a8	Arsenic Trioxide	D000077237	1327-53-3	SLC6A8	6535	Homo sapiens	9606	20458559
+slc6a8	Atenolol	D001262	29122-68-7	SLC6A8	6535	Homo sapiens	9606	19915711
+slc6a8	Benzo(a)pyrene	D001564	50-32-8	SLC6A8	6535	Danio rerio	7955	26001963
+slc6a8	Benzo(a)pyrene	D001564	50-32-8	SLC6A8	6535	Homo sapiens	9606	27901495
+slc6a8	Benzo(a)pyrene	D001564	50-32-8	SLC6A8	6535	Mus musculus	10090	22228805
+slc6a8	beta-methylcholine	C044887	7562-87-0	SLC6A8	6535	Homo sapiens	9606	21179406
+slc6a8	bismuth tripotassium dicitrate	C002791	57644-54-9	SLC6A8	6535	Rattus norvegicus	10116	15912405
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Danio rerio	7955	33243503
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Homo sapiens	9606	30903817
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Mus musculus	10090	35479511
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Pimephales promelas	90988	21786754
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Rattus norvegicus	10116	25181051|28505145
+slc6a8	Blood Glucose	D001786		SLC6A8	6535	Rattus norvegicus	10116	33729688
+slc6a8	butyraldehyde	C018475	123-72-8	SLC6A8	6535	Homo sapiens	9606	26079696
+slc6a8	Cadmium	D002104	7440-43-9	SLC6A8	6535	Homo sapiens	9606	35301059
+slc6a8	Cadmium Chloride	D019256	10108-64-2	SLC6A8	6535	Homo sapiens	9606	35301059
+slc6a8	Caffeine	D002110	58-08-2	SLC6A8	6535	Homo sapiens	9606	35688186
+slc6a8	Captan	D002215	133-06-2	SLC6A8	6535	Mus musculus	10090	31558096
+slc6a8	Carbamazepine	D002220	298-46-4	SLC6A8	6535	Homo sapiens	9606	25979313
+slc6a8	Carbon Tetrachloride	D002251	56-23-5	SLC6A8	6535	Mus musculus	10090	17484886|31919559
+slc6a8	Cellulose	D002482	9004-34-6	SLC6A8	6535	Mus musculus	10090	36331819
+slc6a8	CGP 52608	C092451	87958-67-6	SLC6A8	6535	Homo sapiens	9606	28238834
+slc6a8	Chlorpyrifos	D004390	2921-88-2	SLC6A8	6535	Mus musculus	10090	33007016
+slc6a8	Chlorpyrifos	D004390	2921-88-2	SLC6A8	6535	Rattus norvegicus	10116	17452286|18812211
+slc6a8	chlorpyrifos-methyl	C007031	5598-13-0	SLC6A8	6535	Salmo salar	8030	30419482
+slc6a8	Choline	D002794	62-49-7	SLC6A8	6535	Mus musculus	10090	20938992
+slc6a8	chromium hexavalent ion	C074702	18540-29-9	SLC6A8	6535	Mus musculus	10090	28472532
+slc6a8	Cisplatin	D002945	15663-27-1	SLC6A8	6535	Homo sapiens	9606	21858171
+slc6a8	Copper	D003300	7440-50-8	SLC6A8	6535	Mytilus galloprovincialis	29158	23825565
+slc6a8	Copper	D003300	7440-50-8	SLC6A8	6535	Rattus norvegicus	10116	30556269
+slc6a8	Copper Sulfate	D019327	7758-98-7	SLC6A8	6535	Homo sapiens	9606	19549813
+slc6a8	Creatine	D003401	57-00-1	SLC6A8	6535			18428409
+slc6a8	Cyclosporine	D016572	59865-13-3	SLC6A8	6535	Homo sapiens	9606	20106945|21632981|25562108|27989131
+slc6a8	Decitabine	D000077209	2353-33-5	SLC6A8	6535	Homo sapiens	9606	17908484
+slc6a8	Diazinon	D003976	333-41-5	SLC6A8	6535	Rattus norvegicus	10116	18812211
+slc6a8	dicrotophos	C000944	3735-78-2	SLC6A8	6535	Homo sapiens	9606	28302478
+slc6a8	Dieldrin	D004026	60-57-1	SLC6A8	6535	Rattus norvegicus	10116	18812211
+slc6a8	Dietary Fats	D004041		SLC6A8	6535	Mus musculus	10090	22609946
+slc6a8	Diflunisal	D004061	22494-42-4	SLC6A8	6535	Mus musculus	10090	29901742
+slc6a8	Diquat	D004178	2764-72-9	SLC6A8	6535	Mus musculus	10090	36851058
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	27188386
+slc6a8	Doxorubicin	D004317	23214-92-8	SLC6A8	6535	Homo sapiens	9606	29803840
+slc6a8	Dronabinol	D013759		SLC6A8	6535	Rattus norvegicus	10116	30283037
+slc6a8	entinostat	C118739		SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	epigallocatechin gallate	C045651	989-51-5	SLC6A8	6535	Homo sapiens	9606	22079256
+slc6a8	epoxiconazole	C109476		SLC6A8	6535	Mus musculus	10090	35436446
+slc6a8	Ethanol	D000431	64-17-5	SLC6A8	6535	Danio rerio	7955	29361514
+slc6a8	Ethinyl Estradiol	D004997	57-63-6	SLC6A8	6535	Rattus norvegicus	10116	17557909
+slc6a8	Ethinyl Estradiol	D004997	57-63-6	SLC6A8	6535	Xenopus tropicalis	8364	23129252
+slc6a8	Ethylnitrosourea	D005038	759-73-9	SLC6A8	6535	Rattus norvegicus	10116	16495775
+slc6a8	Fenretinide	D017313	65646-68-6	SLC6A8	6535	Mus musculus	10090	28973697
+slc6a8	Folic Acid	D005492	59-30-3	SLC6A8	6535	Mus musculus	10090	20938992
+slc6a8	folpet	C005020	133-07-3	SLC6A8	6535	Mus musculus	10090	31558096
+slc6a8	fullerene C60	C069837	99685-96-8	SLC6A8	6535	Rattus norvegicus	10116	19167457
+slc6a8	gluconic acid	C030691	526-95-4	SLC6A8	6535	Rattus norvegicus	10116	16556975
+slc6a8	Glyphosate	D000097797		SLC6A8	6535	Mus musculus	10090	35897073
+slc6a8	Graphite	D006108	7782-42-5	SLC6A8	6535	Rattus norvegicus	10116	29933104
+slc6a8	Hemicholinium 3	D006426	312-45-8	SLC6A8	6535	Mus musculus	10090	33007016
+slc6a8	Hexachlorocyclohexane	D001556		SLC6A8	6535	Danio rerio	7955	32244031
+slc6a8	Hydrogen Peroxide	D006861	7722-84-1	SLC6A8	6535	Homo sapiens	9606	20044591
+slc6a8	Ibuprofen	D007052	15687-27-1	SLC6A8	6535	Pimephales promelas	90988	28201806
+slc6a8	Ionomycin	D015759	56092-81-0	SLC6A8	6535	Oryctolagus cuniculus	9986	25613284
+slc6a8	JP8 aviation fuel	C098607		SLC6A8	6535	Rattus norvegicus	10116	17337753
+slc6a8	(+)-JQ1 compound	C561695		SLC6A8	6535	Homo sapiens	9606	25307878|26752646
+slc6a8	Ketolides	D048628		SLC6A8	6535	Mus musculus	10090	24967691
+slc6a8	lead acetate	C008261	301-04-2	SLC6A8	6535	Rattus norvegicus	10116	11578147
+slc6a8	mercuric bromide	C042720	7789-47-1	SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	Methamphetamine	D008694	537-46-2	SLC6A8	6535	Rattus norvegicus	10116	15644446
+slc6a8	Methionine	D008715	63-68-3	SLC6A8	6535	Mus musculus	10090	20938992
+slc6a8	methylmercuric chloride	C004925	115-09-3	SLC6A8	6535	Homo sapiens	9606	28001369
+slc6a8	Methyltestosterone	D008777	58-18-4	SLC6A8	6535	Gallus gallus	9031	29191790
+slc6a8	Nanotubes, Carbon	D037742		SLC6A8	6535	Mus musculus	10090	25554681
+slc6a8	Naphthalenes	D009281		SLC6A8	6535	Rattus norvegicus	10116	17337753
+slc6a8	nickel monoxide	C028007	1313-99-1	SLC6A8	6535	Rattus norvegicus	10116	19167457
+slc6a8	N-Methyl-3,4-methylenedioxyamphetamine	D018817	42542-10-9	SLC6A8	6535	Mus musculus	10090	20188158
+slc6a8	Orphenadrine	D009966	83-98-7	SLC6A8	6535	Rattus norvegicus	10116	23665939
+slc6a8	Oxygen	D010100	7782-44-7	SLC6A8	6535	Homo sapiens	9606	20042640
+slc6a8	Oxygen	D010100	7782-44-7	SLC6A8	6535	Rattus norvegicus	10116	33729688
+slc6a8	Ozone	D010126	10028-15-6	SLC6A8	6535	Mus musculus	10090	33026818
+slc6a8	Panobinostat	D000077767		SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	Particulate Matter	D052638		SLC6A8	6535	Rattus norvegicus	10116	33729688
+slc6a8	PCB 180	C410127		SLC6A8	6535	Rattus norvegicus	10116	23829299
+slc6a8	p-Chloromercuribenzoic Acid	D020245	59-85-8	SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	Pectins	D010368		SLC6A8	6535	Mus musculus	10090	36331819
+slc6a8	pentanal	C046012	110-62-3	SLC6A8	6535	Homo sapiens	9606	26079696
+slc6a8	perfluoro-n-nonanoic acid	C101816	375-95-1	SLC6A8	6535	Homo sapiens	9606	32588087
+slc6a8	perfluorooctanesulfonamide	C063900	754-91-6	SLC6A8	6535	Danio rerio	7955	31706782
+slc6a8	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC6A8	6535	Mus musculus	10090	36331819
+slc6a8	periodate-oxidized adenosine	C027579	34240-05-6	SLC6A8	6535	Homo sapiens	9606	17097637
+slc6a8	Phenylmercuric Acetate	D010662	62-38-4	SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	pirinixic acid	C006253	50892-23-4	SLC6A8	6535	Rattus norvegicus	10116	19162173
+slc6a8	Piroxicam	D010894	36322-90-4	SLC6A8	6535	Homo sapiens	9606	21858171
+slc6a8	potassium chromate(VI)	C027373	7789-00-6	SLC6A8	6535	Homo sapiens	9606	22079256
+slc6a8	propionaldehyde	C005556	123-38-6	SLC6A8	6535	Homo sapiens	9606	26079696
+slc6a8	Propylthiouracil	D011441	51-52-5	SLC6A8	6535	Rattus norvegicus	10116	24780913
+slc6a8	pseudocumene	C010313	95-63-6	SLC6A8	6535	Rattus norvegicus	10116	17337753
+slc6a8	Quercetin	D011794	117-39-5	SLC6A8	6535	Homo sapiens	9606	21632981
+slc6a8	resorcinol	C031389	108-46-3	SLC6A8	6535	Homo sapiens	9606	22623647
+slc6a8	Rotenone	D012402	83-79-4	SLC6A8	6535	Rattus norvegicus	10116	19013527|28374803
+slc6a8	Selenium	D012643	7782-49-2	SLC6A8	6535	Homo sapiens	9606	19244175
+slc6a8	Sesame Oil	D012715	8008-74-0	SLC6A8	6535	Gallus gallus	9031	29191790
+slc6a8	Silicon Dioxide	D012822	7631-86-9	SLC6A8	6535	Mus musculus	10090	23221170|29203145
+slc6a8	sodium arsenate	C009277		SLC6A8	6535	Homo sapiens	9606	32525701
+slc6a8	sodium bichromate	C016104	10588-01-9	SLC6A8	6535	Mus musculus	10090	31558096
+slc6a8	Sunitinib	D000077210		SLC6A8	6535	Homo sapiens	9606	31533062
+slc6a8	Tamoxifen	D013629	10540-29-1	SLC6A8	6535	Mus musculus	10090	25123088
+slc6a8	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC6A8	6535	Mus musculus	10090	21570461|26377647
+slc6a8	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC6A8	6535	Rattus norvegicus	10116	34747641
+slc6a8	Tetradecanoylphorbol Acetate	D013755	16561-29-8	SLC6A8	6535	Oryctolagus cuniculus	9986	25613284
+slc6a8	Thioacetamide	D013853	62-55-5	SLC6A8	6535	Cavia porcellus	10141	34492290
+slc6a8	Tobacco Smoke Pollution	D014028		SLC6A8	6535	Homo sapiens	9606	33660061
+slc6a8	Toluene	D014050	108-88-3	SLC6A8	6535	Rattus norvegicus	10116	18653662
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Homo sapiens	9606	21934132|33167477
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Mus musculus	10090	16604517
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Rattus norvegicus	10116	20488242
+slc6a8	tributyltin	C011559	688-73-3	SLC6A8	6535	Gallus gallus	9031	29191790
+slc6a8	trichostatin A	C012589	58880-19-6	SLC6A8	6535	Homo sapiens	9606	24935251|26272509|27188386
+slc6a8	trimellitic anhydride	C015559	552-30-7	SLC6A8	6535	Mus musculus	10090	19042947
+slc6a8	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	SLC6A8	6535	Homo sapiens	9606	26179874
+slc6a8	Urethane	D014520	51-79-6	SLC6A8	6535	Homo sapiens	9606	28818685
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Homo sapiens	9606	23179753|24383497|24935251|26272509|27188386|28001369|29154799
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Mus musculus	10090	17292431|20546886
+slc6a8	Vitamin E	D014810	1406-18-4	SLC6A8	6535	Homo sapiens	9606	19244175
+slc6a8	Vorinostat	D000077337		SLC6A8	6535	Homo sapiens	9606	26272509|27188386
+slc6a8	Warfarin	D014859	81-81-2	SLC6A8	6535	Danio rerio	7955	31238190
+slc6a8	Zidovudine	D015215	30516-87-1	SLC6A8	6535	Homo sapiens	9606	24292225
+slc6a8	Zoledronic Acid	D000077211		SLC6A8	6535	Homo sapiens	9606	24714768
+slc6a8.l [No associated data found]								
+slc6a8l [No associated data found]								
+slc6a8l.l [No associated data found]								
+slc6a8l.s [No associated data found]								
+slc6a8.s [No associated data found]								
+srae_1000331000 [No associated data found]								
+srae_x000081600 [No associated data found]								
+srae_x000196700 [No associated data found]								
+tck [No associated data found]								
+tsp_00144 [No associated data found]								

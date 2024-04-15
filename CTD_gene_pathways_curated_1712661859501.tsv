@@ -1,0 +1,79 @@
+# Input	GeneSymbol	GeneID	PathwayName	PathwayID
+gene [Object not found]				
+ck [No associated data found]				
+ckb	CKB	1152	Arginine and proline metabolism	KEGG:hsa00330
+ckb	CKB	1152	Creatine metabolism	REACT:R-HSA-71288
+ckb	CKB	1152	Creatine pathway	KEGG:hsa_M00047
+ckb	CKB	1152	Metabolic pathways	KEGG:hsa01100
+ckb	CKB	1152	Metabolism	REACT:R-HSA-1430728
+ckb	CKB	1152	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckb	CKB	1152	Metabolism of polyamines	REACT:R-HSA-351202
+ckba [No associated data found]				
+ckbb [No associated data found]				
+ckbe [No associated data found]				
+ckb.l [No associated data found]				
+ckbp1 [No associated data found]				
+ckb-ps1 [No associated data found]				
+ckb-ps2 [No associated data found]				
+ckb.s [No associated data found]				
+ckm	CKM	1158	Arginine and proline metabolism	KEGG:hsa00330
+ckm	CKM	1158	Creatine metabolism	REACT:R-HSA-71288
+ckm	CKM	1158	Creatine pathway	KEGG:hsa_M00047
+ckm	CKM	1158	Metabolic pathways	KEGG:hsa01100
+ckm	CKM	1158	Metabolism	REACT:R-HSA-1430728
+ckm	CKM	1158	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckm	CKM	1158	Metabolism of polyamines	REACT:R-HSA-351202
+ckm2 [No associated data found]				
+ckma [No associated data found]				
+ckmb [No associated data found]				
+ckm.l [No associated data found]				
+ckm.s [No associated data found]				
+ckmt1 [No associated data found]				
+ckmt1a	CKMT1A	548596	Arginine and proline metabolism	KEGG:hsa00330
+ckmt1a	CKMT1A	548596	Creatine metabolism	REACT:R-HSA-71288
+ckmt1a	CKMT1A	548596	Creatine pathway	KEGG:hsa_M00047
+ckmt1a	CKMT1A	548596	Metabolic pathways	KEGG:hsa01100
+ckmt1a	CKMT1A	548596	Metabolism	REACT:R-HSA-1430728
+ckmt1a	CKMT1A	548596	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt1a	CKMT1A	548596	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt1b	CKMT1B	1159	Arginine and proline metabolism	KEGG:hsa00330
+ckmt1b	CKMT1B	1159	Creatine metabolism	REACT:R-HSA-71288
+ckmt1b	CKMT1B	1159	Creatine pathway	KEGG:hsa_M00047
+ckmt1b	CKMT1B	1159	Metabolic pathways	KEGG:hsa01100
+ckmt1b	CKMT1B	1159	Metabolism	REACT:R-HSA-1430728
+ckmt1b	CKMT1B	1159	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt1b	CKMT1B	1159	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt1b.l [No associated data found]				
+ckmt1b.s [No associated data found]				
+ckmt1-ps1 [No associated data found]				
+ckmt2	CKMT2	1160	Arginine and proline metabolism	KEGG:hsa00330
+ckmt2	CKMT2	1160	Creatine metabolism	REACT:R-HSA-71288
+ckmt2	CKMT2	1160	Creatine pathway	KEGG:hsa_M00047
+ckmt2	CKMT2	1160	Metabolic pathways	KEGG:hsa01100
+ckmt2	CKMT2	1160	Metabolism	REACT:R-HSA-1430728
+ckmt2	CKMT2	1160	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt2	CKMT2	1160	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt2a [No associated data found]				
+ckmt2b [No associated data found]				
+ck-ps2 [No associated data found]				
+ck-ps3 [No associated data found]				
+creat [No associated data found]				
+kcrb [No associated data found]				
+kcrt [No associated data found]				
+slc16a12 [No associated data found]				
+slc6a10p [No associated data found]				
+slc6a10pb [No associated data found]				
+slc6a8	SLC6A8	6535	Creatine metabolism	REACT:R-HSA-71288
+slc6a8	SLC6A8	6535	Metabolism	REACT:R-HSA-1430728
+slc6a8	SLC6A8	6535	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+slc6a8	SLC6A8	6535	Metabolism of polyamines	REACT:R-HSA-351202
+slc6a8.l [No associated data found]				
+slc6a8l [No associated data found]				
+slc6a8l.l [No associated data found]				
+slc6a8l.s [No associated data found]				
+slc6a8.s [No associated data found]				
+srae_1000331000 [No associated data found]				
+srae_x000081600 [No associated data found]				
+srae_x000196700 [No associated data found]				
+tck [No associated data found]				
+tsp_00144 [No associated data found]				
