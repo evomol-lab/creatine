@@ -90,6 +90,41 @@ We started filtering the inferred gene/diseases associations, since the curated 
 
 From the filtered files, we obtained the unique DiseaseIDs, and unique DiseaseIDs/gene.
 
+![Stitch Genes with associated DiseaseIDs related to Kidney/Renal diseases](Gene-DId-Stich.png)
+Stitch Genes with associated DiseaseIDs related to Kidney/Renal diseases
+![CTD Genes with associated DiseaseIDs related to Kidney/Renal diseases](Gene-DId-CTD.png)
+CTD Genes with associated DiseaseIDs related to Kidney/Renal diseases
+![Presence/Absence of DiseaseID per gene from the Stitch-list](Facetted-DId.png)
+Presence/Absence of DiseaseID per gene from the Stitch-list
+![Presence/Absence of DiseaseID per gene from the CTD-list](Facetted-CTD.png)
+Presence/Absence of DiseaseID per gene from the CTD-list
+
+Here are the number of DiseaseIDs and counts, common to the two genes lists:
+```
+DiseaseID      
+MESH:D007676       77
+MESH:D007674       77
+MESH:D007680       77
+MESH:D007683       77
+MESH:D058186       77
+MESH:D007681       66
+MESH:D007673       66
+MESH:D007669       60
+MESH:D052177       40
+MESH:C537152       32
+MESH:D007690       32
+MESH:D021782       32
+MESH:D012080       10
+MESH:C538445        9
+MESH:D000092702     8
+```
+The list from the Stitch database has these unique DiseaseID counts:
+```
+DiseaseID
+MESH:D016891    3
+MESH:C531755    1
+```
+
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
 - **From Gene Ontology:** PSMB5, and PSMD3 belong to the biological process regulation of cellular amino acid metabolic process (GO:0006521). PSMB5, and PSMD3 belong to the biological process regulation of cellular ketone metabolic process (GO:0010565). SLC6A8, and GATM belong to the biological process creatine metabolic process (GO:0006600). PSMB5, and PSMD3 belong to the biological process regulation of cellular amine metabolic process (GO:0033238). PSMB5, and PSMD3 belong to the biological process negative regulation of cell cycle G2/M phase transition (GO:1902750).
