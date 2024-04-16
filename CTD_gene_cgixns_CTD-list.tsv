@@ -1,0 +1,887 @@
+# Input	ChemicalName	ChemicalID	CasRN	GeneSymbol	GeneID	Organism	OrganismID	Interaction	InteractionActions	PubMedIDs
+ckb	1,2-Dimethylhydrazine	D019813	540-73-8	CKB	1152	Mus musculus	10090	1,2-Dimethylhydrazine results in increased expression of CKB mRNA	increases^expression	22206623
+ckb	16-hydroxyestrone	C026702	18186-49-7	CKB	1152	Rattus norvegicus	10116	16-hydroxyestrone results in increased expression of CKB	increases^expression	10030690
+ckb	1-bromopropane	C118559	106-94-5	CKB	1152	Rattus norvegicus	10116	1-bromopropane results in decreased expression of CKB protein	decreases^expression	21925529
+ckb	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKB	1152	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	28628672
+ckb	2,2',4,4',5-brominated diphenyl ether	C477694		CKB	1152	Rattus norvegicus	10116	2,2',4,4',5-brominated diphenyl ether results in decreased expression of CKB protein	decreases^expression	19954255
+ckb	2,2',4,4',5-brominated diphenyl ether	C477694		CKB	1152	Rattus norvegicus	10116	2,2',4,4',5-brominated diphenyl ether results in increased expression of CKB protein	increases^expression	19954255
+ckb	2,3',4,4',5-pentachlorobiphenyl	C070055		CKB	1152	Mus musculus	10090	2,3',4,4',5-pentachlorobiphenyl results in increased expression of CKB mRNA	increases^expression	31388691
+ckb	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine	D015647	67287-49-4	CKB	1152	Meriones unguiculatus	10047	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine results in increased expression of CKB protein	increases^expression	25852303
+ckb	2,3,7,8-tetrachlorodibenzofuran	C014211	51207-31-9	CKB	1152	Rattus norvegicus	10116	2,3,7,8-tetrachlorodibenzofuran results in decreased expression of CKB mRNA	decreases^expression	32109520
+ckb	2,5,2',5'-tetrachlorobiphenyl	C009407	35693-99-3	CKB	1152	Homo sapiens	9606	2,5,2',5'-tetrachlorobiphenyl analog results in increased expression of CKB mRNA	increases^expression	36804509
+ckb	2,6-dinitrotoluene	C023514	606-20-2	CKB	1152	Colinus virginianus	9014	2,6-dinitrotoluene results in increased expression of CKB mRNA	increases^expression	20406850
+ckb	2-hydroxyestradiol	C001390	362-05-0	CKB	1152	Rattus norvegicus	10116	2-hydroxyestradiol inhibits the reaction [Estradiol results in increased expression of CKB]	decreases^reaction|increases^expression	10030690
+ckb	2-hydroxyestrone	C024980	362-06-1	CKB	1152	Rattus norvegicus	10116	2-hydroxyestrone inhibits the reaction [Estradiol results in increased expression of CKB]	decreases^reaction|increases^expression	10030690
+ckb	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid	C584509		CKB	1152	Homo sapiens	9606	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid affects the expression of CKB mRNA	affects^expression	26191083
+ckb	4,4'-hexafluorisopropylidene diphenol	C583074		CKB	1152	Homo sapiens	9606	4,4'-hexafluorisopropylidene diphenol results in increased expression of CKB protein	increases^expression	34186270
+ckb	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		CKB	1152	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	27188386
+ckb	4-oxoretinoic acid	C002202	38030-57-8	CKB	1152	Homo sapiens	9606	4-oxoretinoic acid results in decreased expression of CKB mRNA	decreases^expression	15982314
+ckb	acetamide	C030686	60-35-5	CKB	1152	Rattus norvegicus	10116	acetamide results in increased expression of CKB mRNA	increases^expression	31881176
+ckb	Acetaminophen	D000082	103-90-2	CKB	1152	Mus musculus	10090	Acetaminophen affects the expression of CKB mRNA	affects^expression	17562736
+ckb	Acetaminophen	D000082	103-90-2	CKB	1152	Rattus norvegicus	10116	Acetaminophen results in increased expression of CKB mRNA	increases^expression	33387578
+ckb	Aldehydes	D000447		CKB	1152	Homo sapiens	9606	Aldehydes results in increased expression of CKB mRNA	increases^expression	25014914
+ckb	Ammonium Chloride	D000643	12125-02-9	CKB	1152	Rattus norvegicus	10116	Ammonium Chloride affects the expression of CKB mRNA	affects^expression	16483693
+ckb	Ampicillin	D000667	69-53-4	CKB	1152	Homo sapiens	9606	Ampicillin results in increased expression of CKB mRNA	increases^expression	21632981
+ckb	Antigens, Polyomavirus Transforming	D000952		CKB	1152	Mus musculus	10090	Antigens, Polyomavirus Transforming results in decreased expression of CKB mRNA	decreases^expression	26680231
+ckb	Antirheumatic Agents	D018501		CKB	1152	Homo sapiens	9606	Antirheumatic Agents results in increased expression of CKB mRNA	increases^expression	24449571
+ckb	aristolochic acid I	C000228	313-67-7	CKB	1152	Homo sapiens	9606	aristolochic acid I results in increased expression of CKB mRNA	increases^expression	33212167
+ckb	Arsenic Trioxide	D000077237	1327-53-3	CKB	1152	Homo sapiens	9606	Arsenic Trioxide results in decreased expression of CKB protein	decreases^expression	30093655
+ckb	arsenite	C015001	15502-74-6	CKB	1152	Homo sapiens	9606	arsenite results in increased expression of CKB mRNA	increases^expression	31646340
+ckb	Asbestos, Serpentine	D017632		CKB	1152	Homo sapiens	9606	Asbestos, Serpentine results in decreased expression of CKB mRNA	decreases^expression	21148743
+ckb	Atrazine	D001280	1912-24-9	CKB	1152	Macaca mulatta	9544	Atrazine results in increased expression of CKB mRNA	increases^expression	29505797
+ckb	Atrazine	D001280	1912-24-9	CKB	1152	Oncorhynchus mykiss	8022	Atrazine results in decreased expression of CKB mRNA	decreases^expression	22982499
+ckb	Azathioprine	D001379	446-86-6	CKB	1152	Homo sapiens	9606	Azathioprine results in decreased expression of CKB mRNA	decreases^expression	22623647
+ckb	AZM551248	C547126		CKB	1152	Canis lupus familiaris	9615	AZM551248 results in decreased expression of CKB mRNA	decreases^expression	22323515
+ckb	benidipine	C061004	105979-17-7	CKB	1152	Rattus norvegicus	10116	benidipine inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25269373
+ckb	Benztropine	D001590	86-13-5	CKB	1152	Homo sapiens	9606	[Cuprizone co-treated with Benztropine] results in increased expression of CKB protein	affects^cotreatment|increases^expression	34122009
+ckb	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C072553		CKB	1152	Mus musculus	10090	[MYBPC3 protein affects the susceptibility to benzyloxycarbonylleucyl-leucyl-leucine aldehyde] which results in decreased expression of CKB mRNA	affects^response to substance|decreases^expression	25566086
+ckb	Betaine	D001622	107-43-7	CKB	1152	Rattus norvegicus	10116	Betaine results in increased expression of CKB mRNA	increases^expression	26391144
+ckb	Bexarotene	D000077610		CKB	1152	Rattus norvegicus	10116	Bexarotene results in increased expression of CKB mRNA	increases^expression	16648578
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Chrysemys picta bellii	8478	bisphenol A results in increased expression of CKB mRNA	increases^expression	28159858
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	bisphenol A affects the expression of CKB mRNA	affects^expression	30903817
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	bisphenol A results in decreased expression of CKB protein	decreases^expression	34186270
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	bisphenol A results in increased expression of CKB mRNA	increases^expression	23019147
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	bisphenol A results in increased expression of CKB protein	increases^expression	37567409
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	28628672
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Mus musculus	10090	bisphenol A results in decreased expression of CKB protein	decreases^expression	35999755
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Mus musculus	10090	bisphenol A results in increased expression of CKB mRNA	increases^expression	26063408
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Rattus norvegicus	10116	[bisphenol A co-treated with bisphenol F co-treated with bisphenol S] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	36041667
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Rattus norvegicus	10116	bisphenol A results in decreased expression of CKB mRNA	decreases^expression	25181051|30816183|33296240
+ckb	bisphenol A	C006780	80-05-7	CKB	1152	Rattus norvegicus	10116	bisphenol A results in increased expression of CKB mRNA	increases^expression	12075121|32145629
+ckb	bisphenol B	C492482		CKB	1152	Homo sapiens	9606	bisphenol B results in increased expression of CKB protein	increases^expression	34186270
+ckb	bisphenol F	C000611646		CKB	1152	Homo sapiens	9606	bisphenol F results in increased expression of CKB protein	increases^expression	34186270
+ckb	bisphenol F	C000611646		CKB	1152	Rattus norvegicus	10116	[bisphenol A co-treated with bisphenol F co-treated with bisphenol S] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	36041667
+ckb	bisphenol S	C543008	80-09-1	CKB	1152	Homo sapiens	9606	bisphenol S results in increased expression of CKB protein	increases^expression	34186270
+ckb	bisphenol S	C543008	80-09-1	CKB	1152	Rattus norvegicus	10116	[bisphenol A co-treated with bisphenol F co-treated with bisphenol S] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	36041667
+ckb	bis(tri-n-butyltin)oxide	C005961		CKB	1152	Fundulus heteroclitus	8078	bis(tri-n-butyltin)oxide results in decreased expression of CKB mRNA	decreases^expression	17451821
+ckb	Bleomycin	D001761	11056-06-7	CKB	1152	Rattus norvegicus	10116	Bleomycin results in increased expression of CKB protein	increases^expression	25933445
+ckb	butyraldehyde	C018475	123-72-8	CKB	1152	Homo sapiens	9606	butyraldehyde results in increased expression of CKB mRNA	increases^expression	26079696
+ckb	Cadmium	D002104	7440-43-9	CKB	1152	Homo sapiens	9606	Cadmium results in increased expression of CKB mRNA	increases^expression	24376830|31646340
+ckb	Cadmium Chloride	D019256	10108-64-2	CKB	1152	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	12634122
+ckb	Cadmium Chloride	D019256	10108-64-2	CKB	1152	Paralichthys olivaceus	8255	Cadmium Chloride results in increased expression of CKB protein	increases^expression	16647146
+ckb	Calcifediol	D002112	19356-17-3	CKB	1152	Rattus norvegicus	10116	Calcifediol deficiency results in decreased expression of CKB mRNA	decreases^expression	17293106
+ckb	candoxin	C459604		CKB	1152	Homo sapiens	9606	candoxin results in decreased expression of CKB mRNA	decreases^expression	16309724
+ckb	Carbamazepine	D002220	298-46-4	CKB	1152	Homo sapiens	9606	Carbamazepine affects the expression of CKB mRNA	affects^expression	25979313
+ckb	Carbon Tetrachloride	D002251	56-23-5	CKB	1152	Mus musculus	10090	Carbon Tetrachloride results in increased expression of CKB mRNA	increases^expression	17484886|27339419
+ckb	Carbon Tetrachloride	D002251	56-23-5	CKB	1152	Rattus norvegicus	10116	Carbon Tetrachloride results in decreased expression of CKB mRNA	decreases^expression	31150632
+ckb	Carvedilol	D000077261	72956-09-3	CKB	1152	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckb	Chlorodiphenyl (54% Chlorine)	D020111	11097-69-1	CKB	1152	Rattus norvegicus	10116	Chlorodiphenyl (54% Chlorine) results in increased expression of CKB protein	increases^expression	21791222
+ckb	chloropicrin	C100187	76-06-2	CKB	1152	Homo sapiens	9606	chloropicrin results in decreased expression of CKB mRNA	decreases^expression	28476498
+ckb	Chlorpyrifos	D004390	2921-88-2	CKB	1152	Mus musculus	10090	Chlorpyrifos results in increased expression of CKB mRNA	increases^expression	37019170
+ckb	Choline	D002794	62-49-7	CKB	1152	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	20938992
+ckb	chromic oxide	C023600	1308-38-9	CKB	1152	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	12634122
+ckb	chromous chloride	C017133	10049-05-5	CKB	1152	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	12634122
+ckb	Cisplatin	D002945	15663-27-1	CKB	1152	Homo sapiens	9606	[Cisplatin co-treated with jinfukang] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	27392435
+ckb	Cisplatin	D002945	15663-27-1	CKB	1152	Homo sapiens	9606	Cisplatin results in increased expression of CKB mRNA	increases^expression	27392435
+ckb	Clobetasol	D002990	25122-41-2	CKB	1152	Mus musculus	10090	Clobetasol results in increased expression of CKB mRNA	increases^expression	27462272
+ckb	Clofibrate	D002994	637-07-0	CKB	1152	Oikopleura dioica	34765	Clofibrate results in decreased expression of CKB mRNA	decreases^expression	22300585
+ckb	Copper Sulfate	D019327	7758-98-7	CKB	1152	Homo sapiens	9606	Copper Sulfate results in decreased expression of CKB mRNA	decreases^expression	19549813
+ckb	Cuprizone	D003471	370-81-0	CKB	1152	Homo sapiens	9606	[Cuprizone co-treated with Benztropine] results in increased expression of CKB protein	affects^cotreatment|increases^expression	34122009
+ckb	Curcumin	D003474	458-37-7	CKB	1152	Rattus norvegicus	10116	Curcumin inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	29315967
+ckb	Cycloheximide	D003513	66-81-9	CKB	1152	Rattus norvegicus	10116	Cycloheximide inhibits the reaction [Estradiol results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Cycloheximide	D003513	66-81-9	CKB	1152	Rattus norvegicus	10116	Cycloheximide inhibits the reaction [Methoxychlor results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Cyclosporine	D016572	59865-13-3	CKB	1152	Homo sapiens	9606	Cyclosporine results in decreased expression of CKB mRNA	decreases^expression	20106945|21632981|25562108|27989131
+ckb	Cytarabine	D003561	147-94-4	CKB	1152	Homo sapiens	9606	Cytarabine results in increased expression of CKB mRNA	increases^expression	21198554
+ckb	Dactinomycin	D003609	50-76-0	CKB	1152	Rattus norvegicus	10116	Dactinomycin inhibits the reaction [Estradiol results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Dactinomycin	D003609	50-76-0	CKB	1152	Rattus norvegicus	10116	Dactinomycin inhibits the reaction [Methoxychlor results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	deoxynivalenol	C007262	51481-10-8	CKB	1152	Sus scrofa	9823	deoxynivalenol results in increased expression of CKB mRNA	increases^expression	35307453
+ckb	Dexamethasone	D003907	50-02-2	CKB	1152	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	28628672
+ckb	Dexamethasone	D003907	50-02-2	CKB	1152	Rattus norvegicus	10116	Dexamethasone results in increased expression of CKB mRNA	increases^expression	14618091
+ckb	Dextran Sulfate	D016264	9042-14-2	CKB	1152	Mus musculus	10090	Dextran Sulfate results in decreased expression of CKB protein	decreases^expression	35999755
+ckb	Dibutyl Phthalate	D003993	84-74-2	CKB	1152	Mus musculus	10090	Dibutyl Phthalate results in increased expression of CKB mRNA	increases^expression	21266533
+ckb	dicyclohexyl phthalate	C036042	84-61-7	CKB	1152	Xenopus tropicalis	8364	dicyclohexyl phthalate affects the expression of CKB mRNA	affects^expression	26924002
+ckb	Dietary Fats	D004041		CKB	1152	Mus musculus	10090	Dietary Fats results in increased expression of CKB mRNA	increases^expression	22609946
+ckb	Diethylhexyl Phthalate	D004051	117-81-7	CKB	1152	Homo sapiens	9606	Diethylhexyl Phthalate results in increased expression of CKB protein	increases^expression	31163220
+ckb	Diethylstilbestrol	D004054	56-53-1	CKB	1152	Mus musculus	10090	Diethylstilbestrol results in increased expression of CKB mRNA	increases^expression	16636312
+ckb	dorsomorphin	C516138		CKB	1152	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	27188386
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Homo sapiens	9606	Doxorubicin affects the expression of CKB protein	affects^expression	29385562
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Homo sapiens	9606	Doxorubicin results in decreased expression of CKB mRNA	decreases^expression	29803840
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	Curcumin inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	29315967
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	Doxorubicin results in decreased expression of CKB mRNA	decreases^expression	19915844
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	Doxorubicin results in increased expression of CKB protein	increases^expression	15764680
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	Doxorubicin results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	29315967|33484087
+ckb	Doxorubicin	D004317	23214-92-8	CKB	1152	Rattus norvegicus	10116	Proanthocyanidins inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	33484087
+ckb	Dronabinol	D013759		CKB	1152	Homo sapiens	9606	Dronabinol results in increased expression of CKB mRNA	increases^expression	18163980
+ckb	Dronabinol	D013759		CKB	1152	Homo sapiens	9606	Dronabinol results in increased expression of CKB protein	increases^expression	18163980
+ckb	Endosulfan	D004726	115-29-7	CKB	1152	Rattus norvegicus	10116	Endosulfan results in decreased expression of CKB mRNA	decreases^expression	29391264
+ckb	ENNG	C013525	4245-77-6	CKB	1152	Rattus norvegicus	10116	[ENNG co-treated with Isoflavones] results in increased expression of CKB protein	affects^cotreatment|increases^expression	22248470
+ckb	ENNG	C013525	4245-77-6	CKB	1152	Rattus norvegicus	10116	ENNG results in increased expression of CKB protein	increases^expression	22248470
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	[Estradiol co-treated with Progesterone] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	20660070
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	[Estradiol co-treated with TGFB1 protein] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	30165855
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	Estradiol results in decreased expression of CKB mRNA	decreases^expression	31646340
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	Estradiol results in increased expression of CKB mRNA	increases^expression	23019147
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	Fulvestrant inhibits the reaction [Estradiol results in decreased expression of CKB mRNA]	decreases^expression|decreases^reaction	31646340
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Homo sapiens	9606	[Progesterone co-treated with Estradiol] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	17404688
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	2-hydroxyestradiol inhibits the reaction [Estradiol results in increased expression of CKB]	decreases^reaction|increases^expression	10030690
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	2-hydroxyestrone inhibits the reaction [Estradiol results in increased expression of CKB]	decreases^reaction|increases^expression	10030690
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	Cycloheximide inhibits the reaction [Estradiol results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	Dactinomycin inhibits the reaction [Estradiol results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	Estradiol results in increased expression of CKB	increases^expression	10030690
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	Estradiol results in increased expression of CKB mRNA	increases^expression	32145629
+ckb	Estradiol	D004958	50-28-2	CKB	1152	Rattus norvegicus	10116	Estradiol results in increased expression of CKB protein	increases^expression	7839363
+ckb	Estriol	D004964	50-27-1	CKB	1152	Rattus norvegicus	10116	Estriol results in increased expression of CKB	increases^expression	10030690
+ckb	Ethanol	D000431	64-17-5	CKB	1152	Rattus norvegicus	10116	Ethanol promotes the reaction [Tramadol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckb	Ethanol	D000431	64-17-5	CKB	1152	Rattus norvegicus	10116	Ethanol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	33645892
+ckb	Ethanol	D000431	64-17-5	CKB	1152	Rattus norvegicus	10116	Tramadol promotes the reaction [Ethanol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Homo sapiens	9606	Ethinyl Estradiol results in increased expression of CKB mRNA	increases^expression	18936297
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Mus musculus	10090	Ethinyl Estradiol results in increased expression of CKB mRNA	increases^expression	12072388|16174780|17942748|19400957
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	17942748
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Rattus norvegicus	10116	Ethinyl Estradiol affects the expression of CKB mRNA	affects^expression	17351261
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Rattus norvegicus	10116	Ethinyl Estradiol results in increased expression of CKB mRNA	increases^expression	12075121|12655037|16140622|16174780|19400957
+ckb	Ethinyl Estradiol	D004997	57-63-6	CKB	1152	Xenopus tropicalis	8364	Ethinyl Estradiol results in increased expression of CKB mRNA	increases^expression	23129252
+ckb	ethylene dichloride	C024565	107-06-2	CKB	1152	Mus musculus	10090	ethylene dichloride results in decreased expression of CKB mRNA	decreases^expression	28960355
+ckb	fenamidone	C540355		CKB	1152	Mus musculus	10090	fenamidone results in increased expression of CKB mRNA	increases^expression	27029645
+ckb	Fenretinide	D017313	65646-68-6	CKB	1152	Mus musculus	10090	Fenretinide results in increased expression of CKB mRNA	increases^expression	28973697
+ckb	Fenthion	D005284	55-38-9	CKB	1152	Mus musculus	10090	Fenthion results in decreased expression of CKB mRNA	decreases^expression	34813904
+ckb	Folic Acid	D005492	59-30-3	CKB	1152	Mus musculus	10090	Folic Acid affects the expression of CKB mRNA	affects^expression	25629700
+ckb	Folic Acid	D005492	59-30-3	CKB	1152	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	20938992
+ckb	Fulvestrant	D000077267	129453-61-8	CKB	1152	Homo sapiens	9606	Fulvestrant inhibits the reaction [Estradiol results in decreased expression of CKB mRNA]	decreases^expression|decreases^reaction	31646340
+ckb	Fulvestrant	D000077267	129453-61-8	CKB	1152	Homo sapiens	9606	Fulvestrant results in increased expression of CKB mRNA	increases^expression	31646340
+ckb	furan	C039281	110-00-9	CKB	1152	Rattus norvegicus	10116	furan results in increased expression of CKB mRNA	increases^expression	27387713
+ckb	Gemcitabine	D000093542		CKB	1152	Homo sapiens	9606	Gemcitabine results in decreased expression of CKB mRNA	decreases^expression	17039268
+ckb	Genistein	D019833	446-72-0	CKB	1152	Homo sapiens	9606	Genistein results in increased expression of CKB mRNA	increases^expression	23019147
+ckb	Genistein	D019833	446-72-0	CKB	1152	Rattus norvegicus	10116	Genistein results in increased expression of CKB mRNA	increases^expression	12075121
+ckb	Grape Seed Proanthocyanidins	C511402		CKB	1152	Rattus norvegicus	10116	Grape Seed Proanthocyanidins affects the expression of CKB protein	affects^expression	16414080
+ckb	halofuginone	C010176		CKB	1152	Rattus norvegicus	10116	halofuginone results in increased expression of CKB mRNA	increases^expression	17180598
+ckb	hexabromocyclododecane	C089796	25637-99-4	CKB	1152	Rattus norvegicus	10116	hexabromocyclododecane results in increased expression of CKB protein	increases^expression	26795019
+ckb	Hydrogen Peroxide	D006861	7722-84-1	CKB	1152	Homo sapiens	9606	Hydrogen Peroxide affects the expression of CKB mRNA	affects^expression	20044591
+ckb	ICG 001	C492448		CKB	1152	Homo sapiens	9606	ICG 001 results in decreased expression of CKB mRNA	decreases^expression	26191083
+ckb	imetit	C077430		CKB	1152	Rattus norvegicus	10116	imetit inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckb	Indomethacin	D007213	53-86-1	CKB	1152	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	28628672
+ckb	Isoflavones	D007529		CKB	1152	Rattus norvegicus	10116	[ENNG co-treated with Isoflavones] results in increased expression of CKB protein	affects^cotreatment|increases^expression	22248470
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	benidipine inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25269373
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	imetit inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]	affects^binding|increases^expression|increases^secretion	25269373|25496245
+ckb	Isoproterenol	D007545	7683-59-2	CKB	1152	Rattus norvegicus	10116	Isoproterenol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	22391854
+ckb	Isotretinoin	D015474	4759-48-2	CKB	1152	Homo sapiens	9606	Isotretinoin results in decreased expression of CKB mRNA	decreases^expression	15982314
+ckb	Ivermectin	D007559	70288-86-7	CKB	1152	Homo sapiens	9606	Ivermectin results in decreased expression of CKB protein	decreases^expression	32959892
+ckb	jinfukang	C544151		CKB	1152	Homo sapiens	9606	[Cisplatin co-treated with jinfukang] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	27392435
+ckb	(+)-JQ1 compound	C561695		CKB	1152	Homo sapiens	9606	(+)-JQ1 compound results in decreased expression of CKB mRNA	decreases^expression	23086925
+ckb	(+)-JQ1 compound	C561695		CKB	1152	Homo sapiens	9606	(+)-JQ1 compound results in increased expression of CKB mRNA	increases^expression	24796395
+ckb	K 7174	C410337		CKB	1152	Homo sapiens	9606	K 7174 results in decreased expression of CKB mRNA	decreases^expression	24086573
+ckb	Ketone Bodies	D007657		CKB	1152	Rattus norvegicus	10116	Ketone Bodies results in increased expression of CKB mRNA	increases^expression	16807920
+ckb	Lactic Acid	D019344	50-21-5	CKB	1152	Homo sapiens	9606	Lactic Acid results in increased expression of CKB mRNA	increases^expression	30851411
+ckb	lead acetate	C008261	301-04-2	CKB	1152	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	12634122
+ckb	lead acetate	C008261	301-04-2	CKB	1152	Mus musculus	10090	lead acetate results in increased expression of CKB protein	increases^expression	20797405
+ckb	Lipopolysaccharides	D008070		CKB	1152	Homo sapiens	9606	Lipopolysaccharides results in increased expression of CKB mRNA	increases^expression	35811015
+ckb	Lipopolysaccharides	D008070		CKB	1152	Homo sapiens	9606	[NAT10 protein affects the susceptibility to Lipopolysaccharides] which affects the expression of CKB mRNA	affects^expression|affects^response to substance	35877022
+ckb	Lipopolysaccharides	D008070		CKB	1152	Homo sapiens	9606	S-(1,2-dichlorovinyl)cysteine inhibits the reaction [Lipopolysaccharides results in increased expression of CKB mRNA]	decreases^reaction|increases^expression	35811015
+ckb	Lithium	D008094	7439-93-2	CKB	1152	Rattus norvegicus	10116	Lithium results in increased expression of CKB protein	increases^expression	18296634
+ckb	Methamphetamine	D008694	537-46-2	CKB	1152	Macaca fascicularis	9541	Methamphetamine results in decreased expression of CKB mRNA	decreases^expression	29802913
+ckb	Methamphetamine	D008694	537-46-2	CKB	1152	Rattus norvegicus	10116	Methamphetamine results in increased expression of CKB protein	increases^expression	19826936
+ckb	Methionine	D008715	63-68-3	CKB	1152	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	20938992
+ckb	Methoxychlor	D008731	72-43-5	CKB	1152	Rattus norvegicus	10116	Cycloheximide inhibits the reaction [Methoxychlor results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Methoxychlor	D008731	72-43-5	CKB	1152	Rattus norvegicus	10116	Dactinomycin inhibits the reaction [Methoxychlor results in increased expression of CKB protein]	decreases^reaction|increases^expression	7839363
+ckb	Methoxychlor	D008731	72-43-5	CKB	1152	Rattus norvegicus	10116	Methoxychlor results in increased expression of CKB protein	increases^expression	7839363
+ckb	methylmercuric chloride	C004925	115-09-3	CKB	1152	Callithrix jacchus	9483	methylmercuric chloride results in increased expression of CKB protein	increases^expression	25809596
+ckb	Methylmercury Compounds	D008767		CKB	1152	Danio rerio	7955	Methylmercury Compounds results in increased expression of CKB mRNA	increases^expression	27544571
+ckb	Methylmercury Compounds	D008767		CKB	1152	Mus musculus	10090	Methylmercury Compounds results in increased expression of CKB protein	increases^expression	26558463
+ckb	Methylnitronitrosoguanidine	D008769	70-25-7	CKB	1152	Homo sapiens	9606	Methylnitronitrosoguanidine results in decreased expression of CKB mRNA	decreases^expression	12634122
+ckb	Methyltestosterone	D008777	58-18-4	CKB	1152	Gallus gallus	9031	Methyltestosterone results in decreased expression of CKB mRNA	decreases^expression	29191790
+ckb	Metribolone	D015741	965-93-5	CKB	1152	Homo sapiens	9606	Metribolone results in increased expression of CKB protein	increases^expression	17152098
+ckb	Mifepristone	D015735	84371-65-3	CKB	1152	Homo sapiens	9606	Mifepristone results in decreased expression of CKB mRNA	decreases^expression	17584828
+ckb	monomethyl phthalate	C517284		CKB	1152	Xenopus tropicalis	8364	monomethyl phthalate affects the expression of CKB mRNA	affects^expression	26924002
+ckb	Mustard Gas	D009151	505-60-2	CKB	1152	Homo sapiens	9606	Mustard Gas results in increased expression of CKB mRNA	increases^expression	25102026
+ckb	Nanotubes, Carbon	D037742		CKB	1152	Mus musculus	10090	Nanotubes, Carbon affects the expression of CKB protein	affects^expression	21135415
+ckb	Nanotubes, Carbon	D037742		CKB	1152	Mus musculus	10090	Nanotubes, Carbon analog results in decreased expression of CKB mRNA	decreases^expression	25620056
+ckb	Nanotubes, Carbon	D037742		CKB	1152	Mus musculus	10090	Nanotubes, Carbon analog results in increased expression of CKB mRNA	increases^expression	25554681
+ckb	Nanotubes, Carbon	D037742		CKB	1152	Mus musculus	10090	Nanotubes, Carbon results in increased expression of CKB mRNA	increases^expression	25554681
+ckb	naphthalene	C031721	91-20-3	CKB	1152	Mus musculus	10090	naphthalene results in increased expression of CKB mRNA	increases^expression	18978301
+ckb	nickel sulfate	C029938	7786-81-4	CKB	1152	Homo sapiens	9606	nickel sulfate results in decreased expression of CKB mRNA	decreases^expression	22714537
+ckb	Nitroglycerin	D005996	55-63-0	CKB	1152	Rattus norvegicus	10116	Nitroglycerin results in decreased expression of CKB mRNA	decreases^expression	12102619
+ckb	nitrosobenzylmethylamine	C014707	937-40-6	CKB	1152	Rattus norvegicus	10116	nitrosobenzylmethylamine results in decreased expression of CKB mRNA	decreases^expression	17616710
+ckb	N-pyridazin-3-yl-4-(3-((5-(trifluoromethyl)pyridin-2-yl)oxy)benzylidene)piperidine-1-carboxamide	C560620		CKB	1152	Rattus norvegicus	10116	N-pyridazin-3-yl-4-(3-((5-(trifluoromethyl)pyridin-2-yl)oxy)benzylidene)piperidine-1-carboxamide results in increased expression of CKB protein	increases^expression	34058248
+ckb	Oxaliplatin	D000077150		CKB	1152	Rattus norvegicus	10116	[Oxaliplatin co-treated with Topotecan] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	25729387
+ckb	Oxaliplatin	D000077150		CKB	1152	Rattus norvegicus	10116	Oxaliplatin results in increased expression of CKB mRNA	increases^expression	25729387
+ckb	pentabromodiphenyl ether	C086401	32534-81-9	CKB	1152	Rattus norvegicus	10116	pentabromodiphenyl ether results in increased expression of CKB protein	increases^expression	25616259
+ckb	Pentachlorophenol	D010416	87-86-5	CKB	1152	Mus musculus	10090	Pentachlorophenol results in increased expression of CKB mRNA	increases^expression	23892564
+ckb	pentanal	C046012	110-62-3	CKB	1152	Homo sapiens	9606	pentanal results in increased expression of CKB mRNA	increases^expression	26079696
+ckb	perfluorooctane sulfonic acid	C076994	1763-23-1	CKB	1152	Rattus norvegicus	10116	perfluorooctane sulfonic acid results in decreased expression of CKB mRNA	decreases^expression	18692542
+ckb	Phenobarbital	D010634	50-06-6	CKB	1152	Mus musculus	10090	Phenobarbital results in decreased expression of CKB mRNA	decreases^expression	19270015
+ckb	Plant Extracts	D010936		CKB	1152	Mus musculus	10090	Plant Extracts affects the expression of [CKM protein binds to CKB protein]	affects^binding|affects^expression	21378374
+ckb	Pregnenolone Carbonitrile	D011285	1434-54-4	CKB	1152	Rattus norvegicus	10116	Pregnenolone Carbonitrile results in decreased expression of CKB mRNA	decreases^expression	19162173
+ckb	Proanthocyanidins	D044945		CKB	1152	Rattus norvegicus	10116	Proanthocyanidins inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	33484087
+ckb	Proanthocyanidins	D044945		CKB	1152	Rattus norvegicus	10116	Proanthocyanidins results in decreased expression of [CKM protein binds to CKB protein]	affects^binding|decreases^expression	33484087
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Homo sapiens	9606	[Estradiol co-treated with Progesterone] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	20660070
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Homo sapiens	9606	[Progesterone co-treated with Estradiol] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	17404688
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Homo sapiens	9606	Progesterone results in increased expression of CKB mRNA	increases^expression	17404688
+ckb	Progesterone	D011374	57-83-0	CKB	1152	Mus musculus	10090	Progesterone affects the expression of CKB mRNA	affects^expression	17251523
+ckb	propionaldehyde	C005556	123-38-6	CKB	1152	Homo sapiens	9606	propionaldehyde results in increased expression of CKB mRNA	increases^expression	26079696
+ckb	Propylthiouracil	D011441	51-52-5	CKB	1152	Rattus norvegicus	10116	Propylthiouracil results in decreased expression of CKB mRNA	decreases^expression	24780913
+ckb	Quercetin	D011794	117-39-5	CKB	1152	Homo sapiens	9606	Quercetin results in decreased expression of CKB mRNA	decreases^expression	21632981
+ckb	Quercetin	D011794	117-39-5	CKB	1152	Rattus norvegicus	10116	Quercetin results in decreased expression of CKB protein	decreases^expression	18095365
+ckb	Rotenone	D012402	83-79-4	CKB	1152	Rattus norvegicus	10116	Rotenone results in decreased expression of CKB mRNA	decreases^expression	28374803
+ckb	Rotenone	D012402	83-79-4	CKB	1152	Rattus norvegicus	10116	Rotenone results in decreased expression of CKB protein	decreases^expression	35544339
+ckb	S-(1,2-dichlorovinyl)cysteine	C039961	627-72-5	CKB	1152	Homo sapiens	9606	S-(1,2-dichlorovinyl)cysteine inhibits the reaction [Lipopolysaccharides results in increased expression of CKB mRNA]	decreases^reaction|increases^expression	35811015
+ckb	Selenium	D012643	7782-49-2	CKB	1152	Homo sapiens	9606	Selenium results in increased expression of CKB mRNA	increases^expression	19244175
+ckb	Sesame Oil	D012715	8008-74-0	CKB	1152	Gallus gallus	9031	Sesame Oil results in increased expression of CKB mRNA	increases^expression	29191790
+ckb	Silicon Dioxide	D012822	7631-86-9	CKB	1152	Homo sapiens	9606	Silicon Dioxide analog results in decreased expression of CKB mRNA	decreases^expression	25895662
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	12634122
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Homo sapiens	9606	sodium arsenite results in increased expression of CKB mRNA	increases^expression	34032870
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Mus musculus	10090	sodium arsenite results in increased expression of CKB protein	increases^expression	29044176
+ckb	sodium arsenite	C017947	13768-07-5	CKB	1152	Rattus norvegicus	10116	sodium arsenite results in decreased expression of CKB protein	decreases^expression	29459688
+ckb	Sodium Fluoride	D012969	7681-49-4	CKB	1152	Rattus norvegicus	10116	Sodium Fluoride results in increased expression of CKB protein	increases^expression	29653260
+ckb	Soman	D012999	96-64-0	CKB	1152	Rattus norvegicus	10116	Soman results in increased expression of CKB mRNA	increases^expression	19281266
+ckb	sulforaphane	C016766		CKB	1152	Homo sapiens	9606	sulforaphane results in decreased expression of CKB mRNA	decreases^expression	31838189
+ckb	Sunitinib	D000077210		CKB	1152	Homo sapiens	9606	Sunitinib results in decreased expression of CKB mRNA	decreases^expression	31533062
+ckb	T-2 Toxin	D013605	21259-20-1	CKB	1152	Rattus norvegicus	10116	T-2 Toxin affects the expression of CKB protein	affects^expression	26141394
+ckb	Tamoxifen	D013629	10540-29-1	CKB	1152	Mus musculus	10090	Tamoxifen results in increased expression of CKB mRNA	increases^expression	19400957
+ckb	Tamoxifen	D013629	10540-29-1	CKB	1152	Rattus norvegicus	10116	Tamoxifen results in increased expression of CKB mRNA	increases^expression	19400957
+ckb	Tapentadol	D000077432		CKB	1152	Homo sapiens	9606	Tapentadol results in decreased expression of CKB mRNA	decreases^expression	27317026
+ckb	Temozolomide	D000077204	85622-93-1	CKB	1152	Homo sapiens	9606	Temozolomide results in increased expression of CKB mRNA	increases^expression	31758290
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Homo sapiens	9606	Tetrachlorodibenzodioxin affects the expression of CKB mRNA	affects^expression	22298810
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	17942748
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Mus musculus	10090	Tetrachlorodibenzodioxin results in decreased expression of CKB mRNA	decreases^expression	27913140
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Rattus norvegicus	10116	Tetrachlorodibenzodioxin affects the expression of CKB mRNA	affects^expression	34747641
+ckb	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKB	1152	Rattus norvegicus	10116	Tetrachlorodibenzodioxin results in increased expression of CKB mRNA	increases^expression	15644576|32109520|33387578
+ckb	Thapsigargin	D019284	67526-95-8	CKB	1152	Homo sapiens	9606	Thapsigargin results in decreased expression of CKB mRNA	decreases^expression	22378314
+ckb	Thapsigargin	D019284	67526-95-8	CKB	1152	Homo sapiens	9606	Thapsigargin results in decreased expression of CKB protein	decreases^expression	21692457
+ckb	Thioacetamide	D013853	62-55-5	CKB	1152	Cavia porcellus	10141	Thioacetamide results in increased expression of CKB mRNA	increases^expression	34492290
+ckb	Thioacetamide	D013853	62-55-5	CKB	1152	Rattus norvegicus	10116	Thioacetamide results in increased expression of CKB mRNA	increases^expression	34492290
+ckb	Tobacco Smoke Pollution	D014028		CKB	1152	Homo sapiens	9606	Tobacco Smoke Pollution affects the expression of CKB protein	affects^expression	30291989
+ckb	Tobacco Smoke Pollution	D014028		CKB	1152	Homo sapiens	9606	Tobacco Smoke Pollution results in decreased expression of CKB mRNA	decreases^expression	33660061
+ckb	Topotecan	D019772	123948-87-8	CKB	1152	Rattus norvegicus	10116	[Oxaliplatin co-treated with Topotecan] results in increased expression of CKB mRNA	affects^cotreatment|increases^expression	25729387
+ckb	Topotecan	D019772	123948-87-8	CKB	1152	Rattus norvegicus	10116	Topotecan results in increased expression of CKB mRNA	increases^expression	25729387
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Homo sapiens	9606	Tramadol results in decreased expression of CKB mRNA	decreases^expression	27317026
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Rattus norvegicus	10116	Ethanol promotes the reaction [Tramadol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Rattus norvegicus	10116	Tramadol promotes the reaction [Ethanol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckb	Tramadol	D014147	27203-92-5	CKB	1152	Rattus norvegicus	10116	Tramadol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	33645892
+ckb	Tretinoin	D014212	302-79-4	CKB	1152	Homo sapiens	9606	Tretinoin metabolite results in decreased expression of CKB mRNA	decreases^expression	15982314
+ckb	Tretinoin	D014212	302-79-4	CKB	1152	Homo sapiens	9606	Tretinoin results in decreased expression of CKB mRNA	decreases^expression	15982314
+ckb	Tretinoin	D014212	302-79-4	CKB	1152	Homo sapiens	9606	Tretinoin results in decreased expression of CKB protein	decreases^expression	30093655
+ckb	tributyltin	C011559	688-73-3	CKB	1152	Macaca mulatta	9544	tributyltin results in decreased expression of CKB mRNA	decreases^expression	29505797
+ckb	tributyltin	C011559	688-73-3	CKB	1152	Mus musculus	10090	tributyltin results in increased expression of CKB mRNA	increases^expression	31939706
+ckb	trichostatin A	C012589	58880-19-6	CKB	1152	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of CKB mRNA	affects^cotreatment|decreases^expression	27188386
+ckb	trichostatin A	C012589	58880-19-6	CKB	1152	Homo sapiens	9606	trichostatin A results in decreased expression of CKB mRNA	decreases^expression	26272509
+ckb	trichostatin A	C012589	58880-19-6	CKB	1152	Xenopus laevis	8355	trichostatin A results in decreased expression of CKB mRNA	decreases^expression	15901671
+ckb	Triclosan	D014260	3380-34-5	CKB	1152	Homo sapiens	9606	Triclosan results in decreased expression of CKB mRNA	decreases^expression	30510588
+ckb	triphenyl phosphate	C005445	115-86-6	CKB	1152	Homo sapiens	9606	triphenyl phosphate results in increased expression of CKB mRNA	increases^expression	35776891
+ckb	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKB	1152	Homo sapiens	9606	tris(1,3-dichloro-2-propyl)phosphate results in decreased expression of CKB mRNA	decreases^expression	26179874
+ckb	Tunicamycin	D014415	11089-65-9	CKB	1152	Homo sapiens	9606	Tunicamycin results in decreased expression of CKB mRNA	decreases^expression	22378314
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Homo sapiens	9606	Valproic Acid affects the expression of CKB mRNA	affects^expression	25979313
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Homo sapiens	9606	Valproic Acid results in increased expression of CKB mRNA	increases^expression	19949822|23179753|28001369|29154799
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Mus musculus	10090	Valproic Acid affects the expression of CKB mRNA	affects^expression	17292431
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Mus musculus	10090	Valproic Acid results in increased expression of CKB mRNA	increases^expression	19136453
+ckb	Valproic Acid	D014635	99-66-1	CKB	1152	Xenopus laevis	8355	Valproic Acid results in decreased expression of CKB mRNA	decreases^expression	15901671
+ckb	Vitamin E	D014810	1406-18-4	CKB	1152	Homo sapiens	9606	Vitamin E results in increased expression of CKB mRNA	increases^expression	19244175
+ckb	Vitamin K 3	D024483	58-27-5	CKB	1152	Homo sapiens	9606	Vitamin K 3 affects the expression of CKB mRNA	affects^expression	20044591
+ckb	Zearalenone	D015025	17924-92-4	CKB	1152	Mus musculus	10090	Zearalenone results in decreased expression of CKB protein	decreases^expression	36252740
+ckm	1,3-dimethylthiourea	C038983	61805-96-7	CKM	1158	Rattus norvegicus	10116	1,3-dimethylthiourea inhibits the reaction [Hydrogen Peroxide results in decreased expression of CKM mRNA]	decreases^expression|decreases^reaction	9689591
+ckm	2,4,5-Trichlorophenoxyacetic Acid	D015085	93-76-5	CKM	1158	Mus musculus	10090	2,4,5-Trichlorophenoxyacetic Acid results in increased expression of CKM mRNA	increases^expression	18579281
+ckm	2,7-dihydroxynaphthalene	C107946	582-17-2	CKM	1158	Homo sapiens	9606	2,7-dihydroxynaphthalene results in decreased expression of CKM mRNA	decreases^expression	28940058
+ckm	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	C049584	105650-23-5	CKM	1158	Rattus norvegicus	10116	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine results in decreased expression of CKM mRNA	decreases^expression	15059925
+ckm	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	C049584	105650-23-5	CKM	1158	Rattus norvegicus	10116	2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine results in increased expression of CKM mRNA	increases^expression	15215175
+ckm	3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	CKM	1158	Rattus norvegicus	10116	3,4,5,3',4'-pentachlorobiphenyl results in increased expression of CKM mRNA	increases^expression	32119087
+ckm	4,4'-diaminodiphenylmethane	C009505	101-77-9	CKM	1158	Mus musculus	10090	4,4'-diaminodiphenylmethane results in increased expression of CKM mRNA	increases^expression	18648102
+ckm	abrine	C496492		CKM	1158	Homo sapiens	9606	abrine results in increased expression of CKM mRNA	increases^expression	31054353
+ckm	Acetaminophen	D000082	103-90-2	CKM	1158	Homo sapiens	9606	Acetaminophen results in increased expression of CKM mRNA	increases^expression	22230336
+ckm	Acetaminophen	D000082	103-90-2	CKM	1158	Rattus norvegicus	10116	Acetaminophen results in increased expression of CKM mRNA	increases^expression	33387578
+ckm	Acetylcysteine	D000111	616-91-1	CKM	1158	Rattus norvegicus	10116	Acetylcysteine inhibits the reaction [Hydrogen Peroxide results in decreased expression of CKM mRNA]	decreases^expression|decreases^reaction	9689591
+ckm	Acrylamide	D020106	79-06-1	CKM	1158	Rattus norvegicus	10116	Acrylamide results in decreased expression of CKM mRNA	decreases^expression	28606764
+ckm	Air Pollutants	D000393		CKM	1158	Mus musculus	10090	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKM mRNA	increases^abundance|increases^expression	32780721
+ckm	Air Pollutants	D000393		CKM	1158	Rattus norvegicus	10116	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKM mRNA	increases^abundance|increases^expression	28106813
+ckm	aliskiren	C446481		CKM	1158	Rattus norvegicus	10116	aliskiren inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	aliskiren	C446481		CKM	1158	Rattus norvegicus	10116	[Carvedilol co-treated with aliskiren] inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	affects^cotreatment|decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Ammonium Chloride	D000643	12125-02-9	CKM	1158	Rattus norvegicus	10116	Ammonium Chloride affects the expression of CKM mRNA	affects^expression	16483693
+ckm	Amphetamine	D000661	300-62-9	CKM	1158	Rattus norvegicus	10116	Amphetamine results in increased expression of CKM mRNA	increases^expression	30779732
+ckm	Apigenin	D047310	520-36-5	CKM	1158	Rattus norvegicus	10116	Apigenin inhibits the reaction [Lipopolysaccharides results in increased expression of CKM protein]	decreases^reaction|increases^expression	25557508
+ckm	Arsenic Trioxide	D000077237	1327-53-3	CKM	1158	Homo sapiens	9606	Arsenic Trioxide results in increased expression of CKM mRNA	increases^expression	20458559
+ckm	benidipine	C061004	105979-17-7	CKM	1158	Rattus norvegicus	10116	benidipine inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25269373
+ckm	Benzo(a)pyrene	D001564	50-32-8	CKM	1158	Mus musculus	10090	Benzo(a)pyrene results in decreased expression of CKM mRNA	decreases^expression	22228805
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Homo sapiens	9606	bisphenol A results in increased expression of CKM protein	increases^expression	37567409
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Homo sapiens	9606	[[ginger extract results in increased abundance of Oils, Volatile] which co-treated with bisphenol A] affects the expression of CKM protein	affects^cotreatment|affects^expression|increases^abundance	33376534
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Mus musculus	10090	bisphenol A results in increased expression of CKM mRNA	increases^expression	24465770
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Rattus norvegicus	10116	bisphenol A affects the expression of CKM mRNA	affects^expression	30903817
+ckm	bisphenol A	C006780	80-05-7	CKM	1158	Rattus norvegicus	10116	bisphenol A results in decreased expression of CKM mRNA	decreases^expression	18180321|25181051
+ckm	Cadmium Chloride	D019256	10108-64-2	CKM	1158	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	12634122
+ckm	Cantharidin	D002193	56-25-7	CKM	1158	Mus musculus	10090	Cantharidin results in decreased expression of CKM mRNA	decreases^expression	36907384
+ckm	Captan	D002215	133-06-2	CKM	1158	Mus musculus	10090	Captan results in decreased expression of CKM mRNA	decreases^expression	31558096
+ckm	Carbimazole	D002231	22232-54-8	CKM	1158	Homo sapiens	9606	Carbimazole results in increased expression of CKM protein	increases^expression	2565460
+ckm	Carbon Tetrachloride	D002251	56-23-5	CKM	1158	Rattus norvegicus	10116	Carbon Tetrachloride results in increased expression of CKM mRNA	increases^expression	31150632
+ckm	Carbon Tetrachloride	D002251	56-23-5	CKM	1158	Rattus norvegicus	10116	schizandrin B inhibits the reaction [Carbon Tetrachloride results in increased expression of CKM mRNA]	decreases^reaction|increases^expression	31150632
+ckm	Carmustine	D002330	154-93-8	CKM	1158	Homo sapiens	9606	Carmustine results in decreased expression of CKM mRNA	decreases^expression	15980968
+ckm	Carvedilol	D000077261	72956-09-3	CKM	1158	Rattus norvegicus	10116	[Carvedilol co-treated with aliskiren] inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	affects^cotreatment|decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Carvedilol	D000077261	72956-09-3	CKM	1158	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Carvedilol	D000077261	72956-09-3	CKM	1158	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckm	Cetirizine	D017332	83881-51-0	CKM	1158	Mus musculus	10090	[Cetirizine co-treated with Dietary Fats co-treated with APOE gene mutant form] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	25020133
+ckm	chromic oxide	C023600	1308-38-9	CKM	1158	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	12634122
+ckm	chromous chloride	C017133	10049-05-5	CKM	1158	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	12634122
+ckm	Ciguatoxins	D002922	11050-21-8	CKM	1158	Mus musculus	10090	Ciguatoxins affects the expression of CKM mRNA	affects^expression	18353800
+ckm	Clarithromycin	D017291	81103-11-9	CKM	1158	Homo sapiens	9606	[Clarithromycin co-treated with Simvastatin] results in increased expression of CKM protein	affects^cotreatment|increases^expression	19252767
+ckm	Clofibrate	D002994	637-07-0	CKM	1158	Oikopleura dioica	34765	Clofibrate results in decreased expression of CKM mRNA	decreases^expression	22300585
+ckm	Copper	D003300	7440-50-8	CKM	1158	Lumbricus rubellus	35632	Copper results in increased expression of CKM mRNA	increases^expression	18522721
+ckm	Copper	D003300	7440-50-8	CKM	1158	Rattus norvegicus	10116	Copper deficiency results in decreased expression of CKM protein	decreases^expression	18993053
+ckm	Copper Sulfate	D019327	7758-98-7	CKM	1158	Homo sapiens	9606	Copper Sulfate results in decreased expression of CKM mRNA	decreases^expression	19549813
+ckm	Copper Sulfate	D019327	7758-98-7	CKM	1158	Mus musculus	10090	Copper Sulfate results in increased expression of CKM mRNA	increases^expression	18579281
+ckm	Crotoxin	D003439	9007-40-3	CKM	1158	Mus musculus	10090	Crotoxin results in increased expression of CKM protein	increases^expression	36702313
+ckm	Crotoxin	D003439	9007-40-3	CKM	1158	Mus musculus	10090	lumiracoxib inhibits the reaction [Crotoxin results in increased expression of CKM protein]	decreases^reaction|increases^expression	36702313
+ckm	Curcumin	D003474	458-37-7	CKM	1158	Rattus norvegicus	10116	Curcumin inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	29315967
+ckm	Cyclophosphamide	D003520	50-18-0	CKM	1158	Rattus norvegicus	10116	Cyclophosphamide results in increased expression of CKM protein	increases^expression	35762198
+ckm	Cyclophosphamide	D003520	50-18-0	CKM	1158	Rattus norvegicus	10116	Nitroarginine inhibits the reaction [Simvastatin inhibits the reaction [Cyclophosphamide results in increased expression of CKM protein]]	decreases^reaction|increases^expression	35762198
+ckm	Cyclophosphamide	D003520	50-18-0	CKM	1158	Rattus norvegicus	10116	Simvastatin inhibits the reaction [Cyclophosphamide results in increased expression of CKM protein]	decreases^reaction|increases^expression	35762198
+ckm	Daunorubicin	D003630	20830-81-3	CKM	1158	Homo sapiens	9606	Daunorubicin results in decreased expression of CKM mRNA	decreases^expression	26537877|28940058
+ckm	decabromobiphenyl ether	C010902	1163-19-5	CKM	1158	Rattus norvegicus	10116	decabromobiphenyl ether results in increased expression of CKM mRNA	increases^expression	23914054
+ckm	decamethrin	C017180	52820-00-5	CKM	1158	Mus musculus	10090	decamethrin results in decreased expression of CKM mRNA	decreases^expression	37019170
+ckm	Dexamethasone	D003907	50-02-2	CKM	1158	Mus musculus	10090	[Dexamethasone co-treated with IGF1 protein] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	22936724
+ckm	Dexamethasone	D003907	50-02-2	CKM	1158	Mus musculus	10090	Dexamethasone promotes the reaction [IGF1 protein results in increased expression of CKM mRNA]	increases^expression|increases^reaction	22936724
+ckm	Dexamethasone	D003907	50-02-2	CKM	1158	Mus musculus	10090	Dexamethasone results in decreased expression of CKM protein	decreases^expression	22936724|33567340
+ckm	Dexamethasone	D003907	50-02-2	CKM	1158	Mus musculus	10090	Dexamethasone results in increased expression of CKM mRNA	increases^expression	22936724
+ckm	Dextran Sulfate	D016264	9042-14-2	CKM	1158	Mus musculus	10090	Dextran Sulfate results in decreased expression of CKM protein	decreases^expression	35999755
+ckm	Dichloroacetic Acid	D003999	79-43-6	CKM	1158	Mus musculus	10090	Dichloroacetic Acid results in decreased expression of CKM mRNA	decreases^expression	28962523
+ckm	dicyclohexyl phthalate	C036042	84-61-7	CKM	1158	Xenopus tropicalis	8364	dicyclohexyl phthalate affects the expression of CKM mRNA	affects^expression	26924002
+ckm	Dietary Fats	D004041		CKM	1158	Mus musculus	10090	[Cetirizine co-treated with Dietary Fats co-treated with APOE gene mutant form] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	25020133
+ckm	Dietary Fats	D004041		CKM	1158	Mus musculus	10090	[fexofenadine co-treated with Dietary Fats co-treated with APOE gene mutant form] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	25020133
+ckm	Diethylhexyl Phthalate	D004051	117-81-7	CKM	1158	Mus musculus	10090	Diethylhexyl Phthalate results in increased expression of CKM mRNA	increases^expression	28085963
+ckm	dimethyl phthalate	C024629	131-11-3	CKM	1158	Xenopus tropicalis	8364	dimethyl phthalate affects the expression of CKM mRNA	affects^expression	26924002
+ckm	Diuron	D004237	330-54-1	CKM	1158	Rattus norvegicus	10116	Diuron results in decreased expression of CKM mRNA	decreases^expression	25152437
+ckm	Docetaxel	D000077143		CKM	1158	Mus musculus	10090	[Docetaxel co-treated with Doxorubicin] results in increased expression of CKM protein	affects^cotreatment|increases^expression	20457137
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Homo sapiens	9606	Doxorubicin results in decreased expression of CKM mRNA	decreases^expression	26537877|28940058|29803840|30031762
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Mus musculus	10090	[Docetaxel co-treated with Doxorubicin] results in increased expression of CKM protein	affects^cotreatment|increases^expression	20457137
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Mus musculus	10090	Doxorubicin results in increased expression of CKM protein	increases^expression	16242529
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Mus musculus	10090	tetrathiomolybdate inhibits the reaction [Doxorubicin results in increased expression of CKM protein]	decreases^reaction|increases^expression	16242529
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	Curcumin inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	29315967
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	Doxorubicin results in decreased expression of CKM mRNA	decreases^expression	9689591
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	Doxorubicin results in decreased expression of CKM protein	decreases^expression	15764680
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	Doxorubicin results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	29315967|33484087
+ckm	Doxorubicin	D004317	23214-92-8	CKM	1158	Rattus norvegicus	10116	Proanthocyanidins inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	33484087
+ckm	echimidine	C000615871		CKM	1158	Rattus norvegicus	10116	echimidine results in decreased expression of CKM mRNA	decreases^expression	34185104
+ckm	Estradiol	D004958	50-28-2	CKM	1158	Mus musculus	10090	Estradiol results in decreased expression of CKM mRNA	decreases^expression	19484750
+ckm	Ethanol	D000431	64-17-5	CKM	1158	Rattus norvegicus	10116	Ethanol promotes the reaction [Tramadol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckm	Ethanol	D000431	64-17-5	CKM	1158	Rattus norvegicus	10116	Ethanol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	33645892
+ckm	Ethanol	D000431	64-17-5	CKM	1158	Rattus norvegicus	10116	Tramadol promotes the reaction [Ethanol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckm	Ethinyl Estradiol	D004997	57-63-6	CKM	1158	Mus musculus	10090	Ethinyl Estradiol results in increased expression of CKM mRNA	increases^expression	17942748
+ckm	Ethinyl Estradiol	D004997	57-63-6	CKM	1158	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of CKM mRNA	affects^cotreatment|increases^expression	17942748
+ckm	Ethinyl Estradiol	D004997	57-63-6	CKM	1158	Xenopus tropicalis	8364	Ethinyl Estradiol results in increased expression of CKM mRNA	increases^expression	23129252
+ckm	Etoposide	D005047	33419-42-0	CKM	1158	Homo sapiens	9606	Etoposide results in decreased expression of CKM mRNA	decreases^expression	29397400
+ckm	fexofenadine	C093230		CKM	1158	Mus musculus	10090	[fexofenadine co-treated with Dietary Fats co-treated with APOE gene mutant form] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	25020133
+ckm	folpet	C005020	133-07-3	CKM	1158	Mus musculus	10090	folpet results in decreased expression of CKM mRNA	decreases^expression	31558096
+ckm	fullerene C60	C069837	99685-96-8	CKM	1158	Rattus norvegicus	10116	fullerene C60 affects the expression of CKM mRNA	affects^expression	19167457
+ckm	furan	C039281	110-00-9	CKM	1158	Rattus norvegicus	10116	furan results in decreased expression of CKM mRNA	decreases^expression	25539665
+ckm	Genistein	D019833	446-72-0	CKM	1158	Rattus norvegicus	10116	[Genistein co-treated with vinclozolin] results in increased expression of CKM mRNA	affects^cotreatment|increases^expression	23160963
+ckm	Gentamicins	D005839		CKM	1158	Mus musculus	10090	Gentamicins affects the expression of CKM protein	affects^expression	18694830
+ckm	ginger extract	C000713927		CKM	1158	Homo sapiens	9606	[[ginger extract results in increased abundance of Oils, Volatile] which co-treated with bisphenol A] affects the expression of CKM protein	affects^cotreatment|affects^expression|increases^abundance	33376534
+ckm	ginkgolide C	C058295	15291-76-6	CKM	1158	Rattus norvegicus	10116	ginkgolide C inhibits the reaction [Paraquat results in increased expression of CKM protein]	decreases^reaction|increases^expression	35707280
+ckm	graphene oxide	C000628730		CKM	1158	Homo sapiens	9606	graphene oxide results in increased expression of CKM protein	increases^expression	33219560|33219579
+ckm	Graphite	D006108	7782-42-5	CKM	1158	Mus musculus	10090	Graphite results in increased expression of CKM mRNA	increases^expression	27440207
+ckm	heliotrine	C010178		CKM	1158	Rattus norvegicus	10116	heliotrine results in decreased expression of CKM mRNA	decreases^expression	34185104
+ckm	hydrazine	C029424	302-01-2	CKM	1158	Mus musculus	10090	hydrazine results in decreased expression of CKM mRNA	decreases^expression	15282401
+ckm	Hydrogen Peroxide	D006861	7722-84-1	CKM	1158	Rattus norvegicus	10116	1,3-dimethylthiourea inhibits the reaction [Hydrogen Peroxide results in decreased expression of CKM mRNA]	decreases^expression|decreases^reaction	9689591
+ckm	Hydrogen Peroxide	D006861	7722-84-1	CKM	1158	Rattus norvegicus	10116	Acetylcysteine inhibits the reaction [Hydrogen Peroxide results in decreased expression of CKM mRNA]	decreases^expression|decreases^reaction	9689591
+ckm	Hydrogen Peroxide	D006861	7722-84-1	CKM	1158	Rattus norvegicus	10116	CAT protein inhibits the reaction [Hydrogen Peroxide results in decreased expression of CKM mRNA]	decreases^expression|decreases^reaction	9689591
+ckm	Hydrogen Peroxide	D006861	7722-84-1	CKM	1158	Rattus norvegicus	10116	Hydrogen Peroxide results in decreased expression of CKM mRNA	decreases^expression	9689591
+ckm	imetit	C077430		CKM	1158	Rattus norvegicus	10116	imetit inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckm	incobotulinumtoxinA	C545476		CKM	1158	Homo sapiens	9606	incobotulinumtoxinA results in decreased expression of CKM mRNA	decreases^expression	29522793
+ckm	Ionomycin	D015759	56092-81-0	CKM	1158	Oryctolagus cuniculus	9986	[Tetradecanoylphorbol Acetate co-treated with Ionomycin] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	25613284
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	aliskiren inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	benidipine inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25269373
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	[Carvedilol co-treated with aliskiren] inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	affects^cotreatment|decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of CKM protein]	decreases^reaction|increases^expression|increases^secretion	26982530
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	Carvedilol inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	imetit inhibits the reaction [Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression|increases^secretion	25496245
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	Isoproterenol results in increased expression of and results in increased secretion of CKM protein	increases^expression|increases^secretion	26982530
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	Isoproterenol results in increased expression of and results in increased secretion of [CKM protein binds to CKB protein]	affects^binding|increases^expression|increases^secretion	25269373|25496245
+ckm	Isoproterenol	D007545	7683-59-2	CKM	1158	Rattus norvegicus	10116	Isoproterenol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	22391854
+ckm	Isotretinoin	D015474	4759-48-2	CKM	1158	Homo sapiens	9606	Isotretinoin results in increased expression of CKM protein	increases^expression	9747221
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	12634122
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Mus musculus	10090	HDAC2 protein promotes the reaction [lead acetate results in decreased expression of CKM mRNA]	decreases^expression|increases^reaction	37797690
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Mus musculus	10090	HDAC2 protein promotes the reaction [lead acetate results in decreased expression of CKM protein]	decreases^expression|increases^reaction	37797690
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Mus musculus	10090	lead acetate results in decreased expression of CKM mRNA	decreases^expression	37797690
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Mus musculus	10090	lead acetate results in decreased expression of CKM protein	decreases^expression	37797690
+ckm	lead acetate	C008261	301-04-2	CKM	1158	Rattus norvegicus	10116	lead acetate results in increased expression of CKM mRNA	increases^expression	11578147
+ckm	Lipopolysaccharides	D008070		CKM	1158	Rattus norvegicus	10116	Apigenin inhibits the reaction [Lipopolysaccharides results in increased expression of CKM protein]	decreases^reaction|increases^expression	25557508
+ckm	Lipopolysaccharides	D008070		CKM	1158	Rattus norvegicus	10116	Lipopolysaccharides results in increased expression of CKM protein	increases^expression	25557508
+ckm	Lithium Chloride	D018021	7447-41-8	CKM	1158	Mus musculus	10090	Lithium Chloride results in increased expression of CKM mRNA	increases^expression	20694829
+ckm	lumiracoxib	C473384		CKM	1158	Mus musculus	10090	lumiracoxib inhibits the reaction [Crotoxin results in increased expression of CKM protein]	decreases^reaction|increases^expression	36702313
+ckm	Mitoxantrone	D008942	65271-80-9	CKM	1158	Homo sapiens	9606	Mitoxantrone results in decreased expression of CKM mRNA	decreases^expression	26537877|28940058
+ckm	mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	CKM	1158	Mus musculus	10090	[mono-(2-ethylhexyl)phthalate co-treated with Tretinoin] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	36189433
+ckm	mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	CKM	1158	Mus musculus	10090	mono-(2-ethylhexyl)phthalate results in decreased expression of CKM mRNA	decreases^expression	36189433
+ckm	monomethyl phthalate	C517284		CKM	1158	Xenopus tropicalis	8364	monomethyl phthalate affects the expression of CKM mRNA	affects^expression	26924002
+ckm	Nanotubes, Carbon	D037742		CKM	1158	Mus musculus	10090	Nanotubes, Carbon analog results in decreased expression of CKM mRNA	decreases^expression	25620056
+ckm	Nanotubes, Carbon	D037742		CKM	1158	Mus musculus	10090	Nanotubes, Carbon results in increased expression of CKM mRNA	increases^expression	25620056
+ckm	Nickel	D009532	7440-02-0	CKM	1158	Mus musculus	10090	Nickel analog results in increased expression of CKM protein	increases^expression	25144474
+ckm	Nitroarginine	D019335	2149-70-4	CKM	1158	Rattus norvegicus	10116	Nitroarginine inhibits the reaction [Simvastatin inhibits the reaction [Cyclophosphamide results in increased expression of CKM protein]]	decreases^reaction|increases^expression	35762198
+ckm	N-nitroso-tris-chloroethylurea	C572573		CKM	1158	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with Pioglitazone] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	27935865
+ckm	Oils, Volatile	D009822		CKM	1158	Homo sapiens	9606	[[ginger extract results in increased abundance of Oils, Volatile] which co-treated with bisphenol A] affects the expression of CKM protein	affects^cotreatment|affects^expression|increases^abundance	33376534
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Homo sapiens	9606	Oxygen deficiency results in increased expression of CKM protein	increases^expression	22363556
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Homo sapiens	9606	Oxygen inhibits the reaction [Oxygen deficiency results in increased expression of CKM protein]	decreases^reaction|increases^expression	22363556
+ckm	Oxygen	D010100	7782-44-7	CKM	1158	Mus musculus	10090	[NFE2L2 protein affects the susceptibility to Oxygen] which affects the expression of CKM mRNA	affects^expression|affects^response to substance	30529165
+ckm	Ozone	D010126	10028-15-6	CKM	1158	Mus musculus	10090	Ozone results in decreased expression of CKM mRNA	decreases^expression	12763052
+ckm	Paraquat	D010269	4685-14-7	CKM	1158	Rattus norvegicus	10116	ginkgolide C inhibits the reaction [Paraquat results in increased expression of CKM protein]	decreases^reaction|increases^expression	35707280
+ckm	Paraquat	D010269	4685-14-7	CKM	1158	Rattus norvegicus	10116	Paraquat results in increased expression of CKM protein	increases^expression	35707280
+ckm	Particulate Matter	D052638		CKM	1158	Mus musculus	10090	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKM mRNA	increases^abundance|increases^expression	32780721
+ckm	Particulate Matter	D052638		CKM	1158	Mus musculus	10090	Particulate Matter results in increased expression of CKM protein	increases^expression	25144474
+ckm	Particulate Matter	D052638		CKM	1158	Rattus norvegicus	10116	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKM mRNA	increases^abundance|increases^expression	28106813
+ckm	perfluorooctane sulfonic acid	C076994	1763-23-1	CKM	1158	Rattus norvegicus	10116	perfluorooctane sulfonic acid results in increased expression of CKM mRNA	increases^expression	22237054
+ckm	Petroleum	D010578		CKM	1158	Fundulus grandis	34779	Petroleum affects the expression of CKM mRNA	affects^expression	25208076
+ckm	Phenobarbital	D010634	50-06-6	CKM	1158	Mus musculus	10090	Phenobarbital affects the expression of CKM mRNA	affects^expression	23091169
+ckm	Phenytoin	D010672	57-41-0	CKM	1158	Homo sapiens	9606	Phenytoin results in increased expression of CKM protein	increases^expression	6682525
+ckm	Pioglitazone	D000077205	111025-46-8	CKM	1158	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with Pioglitazone] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	27935865
+ckm	Plant Extracts	D010936		CKM	1158	Mus musculus	10090	Plant Extracts affects the expression of [CKM protein binds to CKB protein]	affects^binding|affects^expression	21378374
+ckm	Proanthocyanidins	D044945		CKM	1158	Rattus norvegicus	10116	Proanthocyanidins inhibits the reaction [Doxorubicin results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|decreases^reaction|increases^expression	33484087
+ckm	Proanthocyanidins	D044945		CKM	1158	Rattus norvegicus	10116	Proanthocyanidins results in decreased expression of [CKM protein binds to CKB protein]	affects^binding|decreases^expression	33484087
+ckm	Progesterone	D011374	57-83-0	CKM	1158	Ovis aries	9940	Progesterone results in decreased expression of CKM mRNA	decreases^expression	19690047
+ckm	Progesterone	D011374	57-83-0	CKM	1158	Rattus norvegicus	10116	Progesterone results in increased expression of CKM mRNA	increases^expression	20726854
+ckm	schizandrin B	C015499		CKM	1158	Rattus norvegicus	10116	schizandrin B inhibits the reaction [Carbon Tetrachloride results in increased expression of CKM mRNA]	decreases^reaction|increases^expression	31150632
+ckm	Silicon Dioxide	D012822	7631-86-9	CKM	1158	Homo sapiens	9606	Silicon Dioxide analog results in increased expression of CKM mRNA	increases^expression	23806026
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Homo sapiens	9606	[Clarithromycin co-treated with Simvastatin] results in increased expression of CKM protein	affects^cotreatment|increases^expression	19252767
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Rattus norvegicus	10116	Nitroarginine inhibits the reaction [Simvastatin inhibits the reaction [Cyclophosphamide results in increased expression of CKM protein]]	decreases^reaction|increases^expression	35762198
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Rattus norvegicus	10116	Simvastatin inhibits the reaction [Cyclophosphamide results in increased expression of CKM protein]	decreases^reaction|increases^expression	35762198
+ckm	Simvastatin	D019821	79902-63-9	CKM	1158	Rattus norvegicus	10116	Simvastatin results in decreased expression of CKM protein	decreases^expression	8611662
+ckm	sodium arsenate	C009277		CKM	1158	Mus musculus	10090	sodium arsenate results in decreased expression of CKM mRNA	decreases^expression	21795629
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Fundulus heteroclitus	8078	sodium arsenite results in increased expression of CKM mRNA	increases^expression	16356559
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Homo sapiens	9606	[sodium arsenite co-treated with Cadmium Chloride co-treated with chromic oxide co-treated with chromous chloride co-treated with lead acetate] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	12634122
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Mus musculus	10090	sodium arsenite affects the expression of CKM mRNA	affects^expression	17450228
+ckm	sodium arsenite	C017947	13768-07-5	CKM	1158	Rattus norvegicus	10116	sodium arsenite results in decreased expression of CKM protein	decreases^expression	29459688
+ckm	sodium bichromate	C016104	10588-01-9	CKM	1158	Mus musculus	10090	sodium bichromate results in decreased expression of CKM mRNA	decreases^expression	31558096
+ckm	Sodium Fluoride	D012969	7681-49-4	CKM	1158	Mus musculus	10090	Sodium Fluoride affects the expression of CKM mRNA	affects^expression	28918527
+ckm	Sodium Fluoride	D012969	7681-49-4	CKM	1158	Rattus norvegicus	10116	Sodium Fluoride results in decreased expression of CKM protein	decreases^expression	29653260
+ckm	Soot	D053260		CKM	1158	Mus musculus	10090	Soot results in increased expression of CKM mRNA	increases^expression	26551751
+ckm	Spermine	D013096	71-44-3	CKM	1158	Mus musculus	10090	Spermine results in increased expression of CKM mRNA	increases^expression	18673383
+ckm	systhane	C446685		CKM	1158	Rattus norvegicus	10116	systhane results in increased expression of CKM mRNA	increases^expression	32268158
+ckm	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKM	1158	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of CKM mRNA	affects^cotreatment|increases^expression	17942748
+ckm	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKM	1158	Rattus norvegicus	10116	Tetrachlorodibenzodioxin results in decreased expression of CKM mRNA	decreases^expression	32109520
+ckm	Tetradecanoylphorbol Acetate	D013755	16561-29-8	CKM	1158	Oryctolagus cuniculus	9986	[Tetradecanoylphorbol Acetate co-treated with Ionomycin] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	25613284
+ckm	tetrathiomolybdate	C020809	16330-92-0	CKM	1158	Mus musculus	10090	tetrathiomolybdate inhibits the reaction [Doxorubicin results in increased expression of CKM protein]	decreases^reaction|increases^expression	16242529
+ckm	Thioacetamide	D013853	62-55-5	CKM	1158	Cavia porcellus	10141	Thioacetamide results in decreased expression of CKM mRNA	decreases^expression	34492290
+ckm	titanium dioxide	C009495	13463-67-7	CKM	1158	Mus musculus	10090	titanium dioxide results in decreased expression of CKM mRNA	decreases^expression	23557971
+ckm	Tobacco Smoke Pollution	D014028		CKM	1158	Homo sapiens	9606	Tobacco Smoke Pollution affects the expression of CKM protein	affects^expression	30291989
+ckm	Tobacco Smoke Pollution	D014028		CKM	1158	Homo sapiens	9606	Tobacco Smoke Pollution results in increased expression of CKM mRNA	increases^expression	33660061
+ckm	Toxins, Biological	D014118		CKM	1158	Mus musculus	10090	Toxins, Biological affects the expression of CKM mRNA	affects^expression	19682533
+ckm	Tramadol	D014147	27203-92-5	CKM	1158	Rattus norvegicus	10116	Ethanol promotes the reaction [Tramadol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckm	Tramadol	D014147	27203-92-5	CKM	1158	Rattus norvegicus	10116	Tramadol promotes the reaction [Ethanol results in increased expression of [CKM protein binds to CKB protein]]	affects^binding|increases^expression|increases^reaction	33645892
+ckm	Tramadol	D014147	27203-92-5	CKM	1158	Rattus norvegicus	10116	Tramadol results in increased expression of [CKM protein binds to CKB protein]	affects^binding|increases^expression	33645892
+ckm	Tretinoin	D014212	302-79-4	CKM	1158	Mus musculus	10090	[mono-(2-ethylhexyl)phthalate co-treated with Tretinoin] results in decreased expression of CKM mRNA	affects^cotreatment|decreases^expression	36189433
+ckm	Trichloroethylene	D014241	79-01-6	CKM	1158	Rattus norvegicus	10116	Trichloroethylene results in decreased expression of CKM mRNA	decreases^expression	33387578
+ckm	Triclosan	D014260	3380-34-5	CKM	1158	Homo sapiens	9606	Triclosan results in decreased expression of CKM mRNA	decreases^expression	30510588
+ckm	triptonide	C084079	38647-11-9	CKM	1158	Mus musculus	10090	triptonide results in increased expression of CKM mRNA	increases^expression	33045310
+ckm	Tunicamycin	D014415	11089-65-9	CKM	1158	Mus musculus	10090	Tunicamycin results in increased expression of CKM mRNA	increases^expression	17127020
+ckm	Valproic Acid	D014635	99-66-1	CKM	1158	Rattus norvegicus	10116	Valproic Acid results in increased expression of CKM mRNA	increases^expression	35594946
+ckm	vinclozolin	C025643	50471-44-8	CKM	1158	Rattus norvegicus	10116	[Genistein co-treated with vinclozolin] results in increased expression of CKM mRNA	affects^cotreatment|increases^expression	23160963
+ckm	vinclozolin	C025643	50471-44-8	CKM	1158	Rattus norvegicus	10116	vinclozolin results in increased expression of CKM mRNA	increases^expression	23160963
+ckm	Water Pollutants, Chemical	D014874		CKM	1158	Fundulus grandis	34779	Water Pollutants, Chemical affects the expression of CKM mRNA	affects^expression	25208076
+ckm	Xanthine	D019820	69-89-6	CKM	1158	Rattus norvegicus	10116	[Xanthine co-treated with XDH protein] results in decreased expression of CKM protein	affects^cotreatment|decreases^expression	19464573
+ckm	Zinc	D015032	7440-66-6	CKM	1158	Rattus norvegicus	10116	Zinc deficiency results in decreased expression of CKM mRNA	decreases^expression	19111725
+ckmt1a	1-Butanol	D020001	71-36-3	CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with 1-Butanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKMT1A	548596	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^expression	28628672
+ckmt1a	3,19-(2-bromobenzylidene)andrographolide	C000598422		CKMT1A	548596	Homo sapiens	9606	[3,19-(2-bromobenzylidene)andrographolide results in decreased susceptibility to 3,19-(2-bromobenzylidene)andrographolide] which results in decreased expression of CKMT1A mRNA	decreases^expression|decreases^response to substance	34087331
+ckmt1a	abrine	C496492		CKMT1A	548596	Homo sapiens	9606	abrine results in decreased expression of CKMT1A mRNA	decreases^expression	31054353
+ckmt1a	Aldehydes	D000447		CKMT1A	548596	Homo sapiens	9606	Aldehydes results in increased expression of CKMT1A mRNA	increases^expression	25014914
+ckmt1a	Benzo(a)pyrene	D001564	50-32-8	CKMT1A	548596	Homo sapiens	9606	Benzo(a)pyrene results in decreased expression of CKMT1A protein	decreases^expression	32717239
+ckmt1a	butyraldehyde	C018475	123-72-8	CKMT1A	548596	Homo sapiens	9606	butyraldehyde results in increased expression of CKMT1A mRNA	increases^expression	26079696
+ckmt1a	Cadmium Chloride	D019256	10108-64-2	CKMT1A	548596	Homo sapiens	9606	Cadmium Chloride results in increased expression of CKMT1A mRNA	increases^expression	26472689
+ckmt1a	Colforsin	D005576	138605-00-2	CKMT1A	548596	Homo sapiens	9606	[Colforsin co-treated with Diethylhexyl Phthalate] affects the expression of CKMT1A mRNA	affects^cotreatment|affects^expression	35892601
+ckmt1a	deoxynivalenol	C007262	51481-10-8	CKMT1A	548596	Sus scrofa	9823	deoxynivalenol results in decreased expression of CKMT1A mRNA	decreases^expression	35307453
+ckmt1a	Dexamethasone	D003907	50-02-2	CKMT1A	548596	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^expression	28628672
+ckmt1a	Dibutyl Phthalate	D003993	84-74-2	CKMT1A	548596	Homo sapiens	9606	Dibutyl Phthalate results in increased expression of CKMT1A mRNA	increases^expression	28973377
+ckmt1a	Diethylhexyl Phthalate	D004051	117-81-7	CKMT1A	548596	Homo sapiens	9606	[Colforsin co-treated with Diethylhexyl Phthalate] affects the expression of CKMT1A mRNA	affects^cotreatment|affects^expression	35892601
+ckmt1a	Diethylhexyl Phthalate	D004051	117-81-7	CKMT1A	548596	Homo sapiens	9606	Diethylhexyl Phthalate results in decreased expression of CKMT1A mRNA	decreases^expression	35892601
+ckmt1a	Ethanol	D000431	64-17-5	CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with Ethanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	Folic Acid	D005492	59-30-3	CKMT1A	548596	Homo sapiens	9606	Folic Acid results in decreased expression of CKMT1A mRNA	decreases^expression	21867686
+ckmt1a	Gasoline	D005742		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with 1-Butanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	Gasoline	D005742		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with Ethanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	ICG 001	C492448		CKMT1A	548596	Homo sapiens	9606	ICG 001 results in increased expression of CKMT1A mRNA	increases^expression	26191083
+ckmt1a	Indomethacin	D007213	53-86-1	CKMT1A	548596	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^expression	28628672
+ckmt1a	Ivermectin	D007559	70288-86-7	CKMT1A	548596	Homo sapiens	9606	Ivermectin results in decreased expression of CKMT1A protein	decreases^expression	32959892
+ckmt1a	Particulate Matter	D052638		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with 1-Butanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	Particulate Matter	D052638		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with Ethanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	pentanal	C046012	110-62-3	CKMT1A	548596	Homo sapiens	9606	pentanal results in increased expression of CKMT1A mRNA	increases^expression	26079696
+ckmt1a	Plant Extracts	D010936		CKMT1A	548596	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of CKMT1A mRNA	affects^cotreatment|decreases^expression	23557933
+ckmt1a	Polycyclic Aromatic Hydrocarbons	D011084		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with 1-Butanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	Polycyclic Aromatic Hydrocarbons	D011084		CKMT1A	548596	Homo sapiens	9606	[[Gasoline co-treated with Ethanol] results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of CKMT1A mRNA	affects^cotreatment|increases^abundance|increases^expression	29432896
+ckmt1a	propionaldehyde	C005556	123-38-6	CKMT1A	548596	Homo sapiens	9606	propionaldehyde results in increased expression of CKMT1A mRNA	increases^expression	26079696
+ckmt1a	Resveratrol	D000077185		CKMT1A	548596	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of CKMT1A mRNA	affects^cotreatment|decreases^expression	23557933
+ckmt1a	Silicon Dioxide	D012822	7631-86-9	CKMT1A	548596	Homo sapiens	9606	Silicon Dioxide analog results in decreased expression of CKMT1A mRNA	decreases^expression	25895662
+ckmt1a	Thalidomide	D013792	50-35-1	CKMT1A	548596	Gallus gallus	9031	Thalidomide results in decreased expression of CKMT1A mRNA	decreases^expression	28892372
+ckmt1a	Tobacco Smoke Pollution	D014028		CKMT1A	548596	Homo sapiens	9606	Tobacco Smoke Pollution affects the expression of CKMT1A protein	affects^expression	30291989
+ckmt1a	Tobacco Smoke Pollution	D014028		CKMT1A	548596	Homo sapiens	9606	Tobacco Smoke Pollution results in decreased expression of CKMT1A mRNA	decreases^expression	33660061
+ckmt1a	Tretinoin	D014212	302-79-4	CKMT1A	548596	Homo sapiens	9606	Tretinoin results in decreased expression of CKMT1A mRNA	decreases^expression	23724009
+ckmt1a	Triclosan	D014260	3380-34-5	CKMT1A	548596	Homo sapiens	9606	Triclosan results in decreased expression of CKMT1A mRNA	decreases^expression	30510588
+ckmt1a	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMT1A	548596	Homo sapiens	9606	tris(1,3-dichloro-2-propyl)phosphate results in decreased expression of CKMT1A mRNA	decreases^expression	26179874
+ckmt1a	Zinc	D015032	7440-66-6	CKMT1A	548596	Homo sapiens	9606	Zinc results in decreased expression of CKMT1A mRNA	decreases^expression	15984569
+ckmt1b	2',3,3',4',5-pentachloro-4-hydroxybiphenyl	C111118		CKMT1B	1159	Rattus norvegicus	10116	2',3,3',4',5-pentachloro-4-hydroxybiphenyl results in decreased expression of CKMT1B mRNA	decreases^expression	19114083
+ckmt1b	2,5-hexanedione	C011269		CKMT1B	1159	Rattus norvegicus	10116	2,5-hexanedione results in increased expression of CKMT1B protein	increases^expression	19033394
+ckmt1b	3,19-(2-bromobenzylidene)andrographolide	C000598422		CKMT1B	1159	Homo sapiens	9606	[3,19-(2-bromobenzylidene)andrographolide results in decreased susceptibility to 3,19-(2-bromobenzylidene)andrographolide] which results in decreased expression of CKMT1B mRNA	decreases^expression|decreases^response to substance	34087331
+ckmt1b	abrine	C496492		CKMT1B	1159	Homo sapiens	9606	abrine results in decreased expression of CKMT1B mRNA	decreases^expression	31054353
+ckmt1b	Acrylamide	D020106	79-06-1	CKMT1B	1159	Homo sapiens	9606	Acrylamide results in decreased expression of CKMT1B mRNA	decreases^expression	32763439
+ckmt1b	Amitrole	D000640	61-82-5	CKMT1B	1159	Rattus norvegicus	10116	Amitrole results in increased expression of CKMT1B mRNA	increases^expression	30047161
+ckmt1b	Atrazine	D001280	1912-24-9	CKMT1B	1159	Homo sapiens	9606	Atrazine results in decreased expression of CKMT1B mRNA	decreases^expression	22378314
+ckmt1b	bisphenol A	C006780	80-05-7	CKMT1B	1159	Rattus norvegicus	10116	[bisphenol A co-treated with Estradiol] results in increased expression of CKMT1B mRNA	affects^cotreatment|increases^expression	26496021
+ckmt1b	bromfenacoum	C013418	56073-10-0	CKMT1B	1159	Rattus norvegicus	10116	bromfenacoum results in decreased expression of CKMT1B protein	decreases^expression	28903499
+ckmt1b	Cadmium Chloride	D019256	10108-64-2	CKMT1B	1159	Homo sapiens	9606	Cadmium Chloride results in increased expression of CKMT1B protein	increases^expression	26220685
+ckmt1b	Copper	D003300	7440-50-8	CKMT1B	1159	Rattus norvegicus	10116	Copper results in decreased expression of CKMT1B mRNA	decreases^expression	30556269
+ckmt1b	decabromobiphenyl ether	C010902	1163-19-5	CKMT1B	1159	Homo sapiens	9606	decabromobiphenyl ether results in increased expression of CKMT1B mRNA	increases^expression	31326446
+ckmt1b	Estradiol	D004958	50-28-2	CKMT1B	1159	Homo sapiens	9606	[Estradiol co-treated with TGFB1 protein] results in decreased expression of CKMT1B mRNA	affects^cotreatment|decreases^expression	30165855
+ckmt1b	Estradiol	D004958	50-28-2	CKMT1B	1159	Rattus norvegicus	10116	[bisphenol A co-treated with Estradiol] results in increased expression of CKMT1B mRNA	affects^cotreatment|increases^expression	26496021
+ckmt1b	furan	C039281	110-00-9	CKMT1B	1159	Rattus norvegicus	10116	furan results in increased expression of CKMT1B mRNA	increases^expression	27387713
+ckmt1b	ICG 001	C492448		CKMT1B	1159	Homo sapiens	9606	ICG 001 results in increased expression of CKMT1B mRNA	increases^expression	26191083
+ckmt1b	Methimazole	D008713	60-56-0	CKMT1B	1159	Rattus norvegicus	10116	Methimazole results in increased expression of CKMT1B mRNA	increases^expression	30047161
+ckmt1b	Paraquat	D010269	4685-14-7	CKMT1B	1159	Rattus norvegicus	10116	Paraquat results in increased expression of CKMT1B mRNA	increases^expression	32680482
+ckmt1b	Propylthiouracil	D011441	51-52-5	CKMT1B	1159	Rattus norvegicus	10116	Propylthiouracil results in increased expression of CKMT1B mRNA	increases^expression	30047161
+ckmt1b	Sulfadimethoxine	D013412	122-11-2	CKMT1B	1159	Rattus norvegicus	10116	Sulfadimethoxine results in increased expression of CKMT1B mRNA	increases^expression	30047161
+ckmt1b	Tobacco Smoke Pollution	D014028		CKMT1B	1159	Homo sapiens	9606	Tobacco Smoke Pollution results in decreased expression of CKMT1B mRNA	decreases^expression	33660061
+ckmt2	1,2,5,6-tetrabromocyclooctane	C540596		CKMT2	1160	Oryzias latipes	8090	1,2,5,6-tetrabromocyclooctane results in decreased expression of CKMT2 mRNA	decreases^expression	27322799
+ckmt2	1,2-Dimethylhydrazine	D019813	540-73-8	CKMT2	1160	Mus musculus	10090	1,2-Dimethylhydrazine results in decreased expression of CKMT2 mRNA	decreases^expression	22206623
+ckmt2	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	4,4'-diaminodiphenylmethane	C009505	101-77-9	CKMT2	1160	Mus musculus	10090	4,4'-diaminodiphenylmethane results in decreased expression of CKMT2 mRNA	decreases^expression	18648102
+ckmt2	8-Bromo Cyclic Adenosine Monophosphate	D015124	23583-48-4	CKMT2	1160	Homo sapiens	9606	8-Bromo Cyclic Adenosine Monophosphate results in decreased expression of CKMT2 mRNA	decreases^expression	22079614
+ckmt2	Acetaminophen	D000082	103-90-2	CKMT2	1160	Homo sapiens	9606	Acetaminophen results in decreased expression of CKMT2 mRNA	decreases^expression	25704631
+ckmt2	Acrylamide	D020106	79-06-1	CKMT2	1160	Rattus norvegicus	10116	Acrylamide results in decreased expression of CKMT2 mRNA	decreases^expression	28959563
+ckmt2	Air Pollutants	D000393		CKMT2	1160	Mus musculus	10090	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKMT2 mRNA	increases^abundance|increases^expression	32780721
+ckmt2	Ammonium Chloride	D000643	12125-02-9	CKMT2	1160	Rattus norvegicus	10116	Ammonium Chloride affects the expression of CKMT2 mRNA	affects^expression	16483693
+ckmt2	Amphetamine	D000661	300-62-9	CKMT2	1160	Rattus norvegicus	10116	Amphetamine results in increased expression of CKMT2 mRNA	increases^expression	30779732
+ckmt2	Atrazine	D001280	1912-24-9	CKMT2	1160	Oncorhynchus mykiss	8022	Atrazine results in decreased expression of CKMT2 mRNA	decreases^expression	22982499
+ckmt2	Benzo(a)pyrene	D001564	50-32-8	CKMT2	1160	Homo sapiens	9606	Benzo(a)pyrene results in increased expression of CKMT2 mRNA	increases^expression	22316170
+ckmt2	Benzo(a)pyrene	D001564	50-32-8	CKMT2	1160	Mus musculus	10090	Benzo(a)pyrene results in decreased expression of CKMT2 mRNA	decreases^expression	22228805
+ckmt2	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C072553		CKMT2	1160	Mus musculus	10090	benzyloxycarbonylleucyl-leucyl-leucine aldehyde results in decreased expression of CKMT2 mRNA	decreases^expression	25566086
+ckmt2	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C072553		CKMT2	1160	Mus musculus	10090	MYBPC3 protein affects the reaction [benzyloxycarbonylleucyl-leucyl-leucine aldehyde results in decreased expression of CKMT2 mRNA]	affects^reaction|decreases^expression	25566086
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Homo sapiens	9606	bisphenol A results in increased expression of CKMT2 mRNA	increases^expression	27685785
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Homo sapiens	9606	bisphenol A results in increased expression of CKMT2 protein	increases^expression	34186270
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	bisphenol A	C006780	80-05-7	CKMT2	1160	Rattus norvegicus	10116	bisphenol A results in decreased expression of CKMT2 mRNA	decreases^expression	25181051|27178563|32145629
+ckmt2	bisphenol F	C000611646		CKMT2	1160	Homo sapiens	9606	bisphenol F results in increased expression of CKMT2 protein	increases^expression	34186270
+ckmt2	bisphenol F	C000611646		CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	Cadmium	D002104	7440-43-9	CKMT2	1160	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in increased expression of CKMT2 mRNA	increases^abundance|increases^expression	35301059
+ckmt2	Cadmium Chloride	D019256	10108-64-2	CKMT2	1160	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in increased expression of CKMT2 mRNA	increases^abundance|increases^expression	35301059
+ckmt2	Cantharidin	D002193	56-25-7	CKMT2	1160	Mus musculus	10090	Cantharidin results in decreased expression of CKMT2 mRNA	decreases^expression	36907384
+ckmt2	Ciguatoxins	D002922	11050-21-8	CKMT2	1160	Mus musculus	10090	Ciguatoxins affects the expression of CKMT2 mRNA	affects^expression	18353800
+ckmt2	Clofibrate	D002994	637-07-0	CKMT2	1160	Oikopleura dioica	34765	Clofibrate results in decreased expression of CKMT2 mRNA	decreases^expression	22300585
+ckmt2	cupric chloride	C029892	7447-39-4	CKMT2	1160	Mus musculus	10090	cupric chloride results in decreased expression of CKMT2 protein	decreases^expression	29617964
+ckmt2	Cyclosporine	D016572	59865-13-3	CKMT2	1160	Homo sapiens	9606	Cyclosporine results in increased expression of CKMT2 mRNA	increases^expression	25562108
+ckmt2	decabromobiphenyl ether	C010902	1163-19-5	CKMT2	1160	Rattus norvegicus	10116	decabromobiphenyl ether results in increased expression of CKMT2 mRNA	increases^expression	23914054
+ckmt2	Decitabine	D000077209	2353-33-5	CKMT2	1160	Mus musculus	10090	Decitabine results in increased expression of CKMT2 mRNA	increases^expression	15251184
+ckmt2	Decitabine	D000077209	2353-33-5	CKMT2	1160	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Decitabine] results in increased expression of CKMT2 mRNA	affects^cotreatment|increases^expression	15251184
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Gallus gallus	9031	Dexamethasone results in decreased expression of CKMT2 mRNA	decreases^expression	34464682
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	Dexamethasone	D003907	50-02-2	CKMT2	1160	Mus musculus	10090	Dexamethasone results in decreased expression of CKMT2 protein	decreases^expression	33567340
+ckmt2	Dichloroacetic Acid	D003999	79-43-6	CKMT2	1160	Mus musculus	10090	Dichloroacetic Acid results in decreased expression of CKMT2 mRNA	decreases^expression	28962523
+ckmt2	Dichlorodiphenyl Dichloroethylene	D003633	72-55-9	CKMT2	1160	Mus spretus	10096	Dichlorodiphenyl Dichloroethylene results in decreased expression of CKMT2 mRNA	decreases^expression	29554563
+ckmt2	Diethylhexyl Phthalate	D004051	117-81-7	CKMT2	1160	Mus musculus	10090	Diethylhexyl Phthalate results in increased expression of CKMT2 mRNA	increases^expression	28085963
+ckmt2	domoic acid	C012301	14277-97-5	CKMT2	1160	Macaca fascicularis	9541	domoic acid results in decreased expression of CKMT2 mRNA	decreases^expression	36102641
+ckmt2	Doxorubicin	D004317	23214-92-8	CKMT2	1160	Homo sapiens	9606	Doxorubicin affects the expression of CKMT2 protein	affects^expression	29385562
+ckmt2	Doxorubicin	D004317	23214-92-8	CKMT2	1160	Homo sapiens	9606	Doxorubicin results in decreased expression of CKMT2 mRNA	decreases^expression	29803840
+ckmt2	echimidine	C000615871		CKMT2	1160	Rattus norvegicus	10116	echimidine results in decreased expression of CKMT2 mRNA	decreases^expression	34185104
+ckmt2	Estradiol	D004958	50-28-2	CKMT2	1160	Mus musculus	10090	Estradiol results in decreased expression of CKMT2 mRNA	decreases^expression	19484750
+ckmt2	Estradiol	D004958	50-28-2	CKMT2	1160	Rattus norvegicus	10116	Estradiol results in decreased expression of CKMT2 mRNA	decreases^expression	32145629
+ckmt2	Glyphosate	D000097797		CKMT2	1160	Platichthys flesus	8260	Glyphosate results in increased expression of CKMT2 mRNA	increases^expression	16532367
+ckmt2	Graphite	D006108	7782-42-5	CKMT2	1160	Mus musculus	10090	Graphite results in increased expression of CKMT2 mRNA	increases^expression	27440207
+ckmt2	guanidinopropionic acid	C005775		CKMT2	1160	Rattus norvegicus	10116	guanidinopropionic acid results in increased expression of CKMT2 protein	increases^expression	9309701
+ckmt2	heliotrine	C010178		CKMT2	1160	Rattus norvegicus	10116	heliotrine results in decreased expression of CKMT2 mRNA	decreases^expression	34185104
+ckmt2	indeno(1,2,3-cd)pyrene	C041508	193-39-5	CKMT2	1160	Mus musculus	10090	indeno(1,2,3-cd)pyrene results in decreased expression of CKMT2 mRNA	decreases^expression	26377693
+ckmt2	Indomethacin	D007213	53-86-1	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	Indomethacin	D007213	53-86-1	CKMT2	1160	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	28628672
+ckmt2	Ivermectin	D007559	70288-86-7	CKMT2	1160	Homo sapiens	9606	Ivermectin results in decreased expression of CKMT2 protein	decreases^expression	32959892
+ckmt2	Nanotubes, Carbon	D037742		CKMT2	1160	Mus musculus	10090	Nanotubes, Carbon analog results in decreased expression of CKMT2 mRNA	decreases^expression	25620056
+ckmt2	Nanotubes, Carbon	D037742		CKMT2	1160	Mus musculus	10090	Nanotubes, Carbon results in increased expression of CKMT2 mRNA	increases^expression	25620056
+ckmt2	Nickel	D009532	7440-02-0	CKMT2	1160	Homo sapiens	9606	Nickel results in decreased expression of CKMT2 mRNA	decreases^expression	24768652|25583101
+ckmt2	Nicotine	D009538		CKMT2	1160	Homo sapiens	9606	Nicotine results in decreased expression of CKMT2 mRNA	decreases^expression	16949557
+ckmt2	N-nitroso-tris-chloroethylurea	C572573		CKMT2	1160	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with Pioglitazone] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	27935865
+ckmt2	N-nitroso-tris-chloroethylurea	C572573		CKMT2	1160	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with XL147] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	27935865
+ckmt2	Oxygen	D010100	7782-44-7	CKMT2	1160	Mus musculus	10090	[NFE2L2 protein affects the susceptibility to Oxygen] which affects the expression of CKMT2 mRNA	affects^expression|affects^response to substance	30529165
+ckmt2	Ozone	D010126	10028-15-6	CKMT2	1160	Mus musculus	10090	Ozone results in decreased expression of CKMT2 mRNA	decreases^expression	12763052
+ckmt2	Particulate Matter	D052638		CKMT2	1160	Mus musculus	10090	[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of CKMT2 mRNA	increases^abundance|increases^expression	32780721
+ckmt2	Particulate Matter	D052638		CKMT2	1160	Mus musculus	10090	Particulate Matter affects the expression of CKMT2 mRNA	affects^expression	17295261
+ckmt2	perfluorooctanoic acid	C023036	335-67-1	CKMT2	1160	Tursiops truncatus	9739	perfluorooctanoic acid results in decreased expression of CKMT2 mRNA	decreases^expression	26794494
+ckmt2	Pioglitazone	D000077205	111025-46-8	CKMT2	1160	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with Pioglitazone] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	27935865
+ckmt2	pirinixic acid	C006253	50892-23-4	CKMT2	1160	Rattus norvegicus	10116	pirinixic acid results in increased expression of CKMT2 mRNA	increases^expression	12832660
+ckmt2	Plant Extracts	D010936		CKMT2	1160	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	23557933
+ckmt2	platyphylline	C008937	480-78-4	CKMT2	1160	Rattus norvegicus	10116	platyphylline results in decreased expression of CKMT2 mRNA	decreases^expression	34185104
+ckmt2	Resveratrol	D000077185		CKMT2	1160	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	23557933
+ckmt2	senecionine	C009237	130-01-8	CKMT2	1160	Rattus norvegicus	10116	senecionine results in decreased expression of CKMT2 mRNA	decreases^expression	34185104
+ckmt2	Streptozocin	D013311	18883-66-4	CKMT2	1160	Rattus norvegicus	10116	Streptozocin results in decreased expression of CKMT2 mRNA	decreases^expression	16684804
+ckmt2	Streptozocin	D013311	18883-66-4	CKMT2	1160	Rattus norvegicus	10116	vanadyl sulfate inhibits the reaction [Streptozocin results in decreased expression of CKMT2 mRNA]	decreases^expression|decreases^reaction	16684804
+ckmt2	Sunitinib	D000077210		CKMT2	1160	Homo sapiens	9606	Sunitinib results in decreased expression of CKMT2 mRNA	decreases^expression	31533062
+ckmt2	T-2 Toxin	D013605	21259-20-1	CKMT2	1160	Rattus norvegicus	10116	T-2 Toxin results in decreased expression of CKMT2 mRNA	decreases^expression	26141394
+ckmt2	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT2	1160	Homo sapiens	9606	Tetrachlorodibenzodioxin results in increased expression of CKMT2 mRNA	increases^expression	21296121
+ckmt2	Tetrachlorodibenzodioxin	D013749	1746-01-6	CKMT2	1160	Mus musculus	10090	[Tetrachlorodibenzodioxin co-treated with Decitabine] results in increased expression of CKMT2 mRNA	affects^cotreatment|increases^expression	15251184
+ckmt2	titanium dioxide	C009495	13463-67-7	CKMT2	1160	Mus musculus	10090	titanium dioxide results in decreased expression of CKMT2 mRNA	decreases^expression	23557971
+ckmt2	Tobacco Smoke Pollution	D014028		CKMT2	1160	Mus musculus	10090	Tobacco Smoke Pollution affects the expression of CKMT2 mRNA	affects^expression	20133372
+ckmt2	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	CKMT2	1160	Homo sapiens	9606	tris(1,3-dichloro-2-propyl)phosphate results in decreased expression of CKMT2 mRNA	decreases^expression	26179874
+ckmt2	triticonazole	C412303		CKMT2	1160	Rattus norvegicus	10116	triticonazole results in increased expression of CKMT2 mRNA	increases^expression	36084822
+ckmt2	Tunicamycin	D014415	11089-65-9	CKMT2	1160	Mus musculus	10090	Tunicamycin results in increased expression of CKMT2 mRNA	increases^expression	17127020
+ckmt2	Valproic Acid	D014635	99-66-1	CKMT2	1160	Homo sapiens	9606	Valproic Acid results in increased expression of CKMT2 mRNA	increases^expression	37505509
+ckmt2	vanadyl sulfate	C034028	27774-13-6	CKMT2	1160	Rattus norvegicus	10116	vanadyl sulfate inhibits the reaction [Streptozocin results in decreased expression of CKMT2 mRNA]	decreases^expression|decreases^reaction	16684804
+ckmt2	Vehicle Emissions	D001335		CKMT2	1160	Mus musculus	10090	Vehicle Emissions affects the expression of CKMT2 mRNA	affects^expression	17295261
+ckmt2	XL147	C581157		CKMT2	1160	Mus musculus	10090	[N-nitroso-tris-chloroethylurea co-treated with XL147] results in decreased expression of CKMT2 mRNA	affects^cotreatment|decreases^expression	27935865
+slc16a12	1,2-Dimethylhydrazine	D019813	540-73-8	SLC16A12	387700	Mus musculus	10090	1,2-Dimethylhydrazine results in decreased expression of SLC16A12 mRNA	decreases^expression	22206623
+slc16a12	1,4-bis(2-(3,5-dichloropyridyloxy))benzene	C028474	76150-91-9	SLC16A12	387700	Mus musculus	10090	1,4-bis(2-(3,5-dichloropyridyloxy))benzene results in increased expression of SLC16A12 mRNA	increases^expression	22698814|28903501
+slc16a12	1-Methyl-3-isobutylxanthine	D015056	28822-58-4	SLC16A12	387700	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	28628672
+slc16a12	2,6-dinitrotoluene	C023514	606-20-2	SLC16A12	387700	Colinus virginianus	9014	2,6-dinitrotoluene results in decreased expression of SLC16A12 mRNA	decreases^expression	20406850
+slc16a12	2-palmitoylglycerol	C114956		SLC16A12	387700	Homo sapiens	9606	2-palmitoylglycerol results in increased expression of SLC16A12 mRNA	increases^expression	37199045
+slc16a12	3,4,3',4'-tetrachlorobiphenyl	C028451		SLC16A12	387700	Mus musculus	10090	3,4,3',4'-tetrachlorobiphenyl inhibits the reaction [Dietary Fats results in increased expression of SLC16A12 mRNA]	decreases^reaction|increases^expression	19467301
+slc16a12	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid	C584509		SLC16A12	387700	Homo sapiens	9606	4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid results in increased expression of SLC16A12 mRNA	increases^expression	26191083
+slc16a12	4,4'-diaminodiphenylmethane	C009505	101-77-9	SLC16A12	387700	Rattus norvegicus	10116	4,4'-diaminodiphenylmethane results in decreased expression of SLC16A12 mRNA	decreases^expression	30723492
+slc16a12	acetamide	C030686	60-35-5	SLC16A12	387700	Rattus norvegicus	10116	acetamide results in decreased expression of SLC16A12 mRNA	decreases^expression	31881176
+slc16a12	Acetaminophen	D000082	103-90-2	SLC16A12	387700	Mus musculus	10090	Acetaminophen affects the expression of SLC16A12 mRNA	affects^expression	17562736
+slc16a12	Aflatoxin B1	D016604	1162-65-8	SLC16A12	387700	Homo sapiens	9606	Aflatoxin B1 results in decreased expression of SLC16A12 mRNA	decreases^expression	22100608|32234424
+slc16a12	Aflatoxin B1	D016604	1162-65-8	SLC16A12	387700	Mus musculus	10090	Aflatoxin B1 results in increased expression of SLC16A12 mRNA	increases^expression	19770486
+slc16a12	Air Pollutants	D000393		SLC16A12	387700	Mus musculus	10090	[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^abundance|increases^expression	34911549
+slc16a12	Air Pollutants	D000393		SLC16A12	387700	Mus musculus	10090	[Air Pollutants results in increased abundance of Ozone] which results in increased expression of SLC16A12 mRNA	increases^abundance|increases^expression	34911549
+slc16a12	Air Pollutants	D000393		SLC16A12	387700	Rattus norvegicus	10116	[Air Pollutants results in increased abundance of Particulate Matter] which results in decreased expression of SLC16A12 mRNA	decreases^expression|increases^abundance	28106813
+slc16a12	alpha-Chlorohydrin	D000517	96-24-2	SLC16A12	387700	Rattus norvegicus	10116	alpha-Chlorohydrin results in increased expression of SLC16A12 mRNA	increases^expression	28522335
+slc16a12	aristolochic acid I	C000228	313-67-7	SLC16A12	387700	Homo sapiens	9606	aristolochic acid I results in increased expression of SLC16A12 mRNA	increases^expression	33212167
+slc16a12	Atrazine	D001280	1912-24-9	SLC16A12	387700	Danio rerio	7955	Atrazine results in increased expression of SLC16A12 mRNA	increases^expression	25929836
+slc16a12	Benzo(a)pyrene	D001564	50-32-8	SLC16A12	387700	Mus musculus	10090	Benzo(a)pyrene results in increased expression of SLC16A12 mRNA	increases^expression	27195522
+slc16a12	beta-methylcholine	C044887	7562-87-0	SLC16A12	387700	Homo sapiens	9606	beta-methylcholine affects the expression of SLC16A12 mRNA	affects^expression	21179406
+slc16a12	Bilirubin	D001663	635-65-4	SLC16A12	387700	Homo sapiens	9606	Bilirubin results in decreased expression of SLC16A12 mRNA	decreases^expression	20196124
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Homo sapiens	9606	bisphenol A results in increased expression of SLC16A12 mRNA	increases^expression	31715268
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Mus musculus	10090	bisphenol A results in decreased expression of SLC16A12 mRNA	decreases^expression	26063408
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Mus musculus	10090	bisphenol A results in increased expression of SLC16A12 mRNA	increases^expression	25594700
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Rattus norvegicus	10116	bisphenol A affects the expression of SLC16A12 mRNA	affects^expression	32145629
+slc16a12	bisphenol A	C006780	80-05-7	SLC16A12	387700	Rattus norvegicus	10116	bisphenol A results in decreased expression of SLC16A12 mRNA	decreases^expression	25181051|34947998
+slc16a12	bisphenol F	C000611646		SLC16A12	387700	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	28628672
+slc16a12	bisphenol F	C000611646		SLC16A12	387700	Mus musculus	10090	bisphenol F results in increased expression of SLC16A12 mRNA	increases^expression	30951980
+slc16a12	bisphenol S	C543008	80-09-1	SLC16A12	387700	Mus musculus	10090	bisphenol S results in increased expression of SLC16A12 mRNA	increases^expression	30951980
+slc16a12	Cadmium	D002104	7440-43-9	SLC16A12	387700	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of SLC16A12 mRNA	decreases^expression|increases^abundance	35301059
+slc16a12	Cadmium	D002104	7440-43-9	SLC16A12	387700	Homo sapiens	9606	Cadmium results in decreased expression of SLC16A12 mRNA	decreases^expression	24376830
+slc16a12	Cadmium Chloride	D019256	10108-64-2	SLC16A12	387700	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of SLC16A12 mRNA	decreases^expression|increases^abundance	35301059
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Mus musculus	10090	Carbon Tetrachloride affects the expression of SLC16A12 mRNA	affects^expression	31919559
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Mus musculus	10090	Carbon Tetrachloride results in decreased expression of SLC16A12 mRNA	decreases^expression	27339419
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Rattus norvegicus	10116	Carbon Tetrachloride results in decreased expression of SLC16A12 mRNA	decreases^expression	31150632
+slc16a12	Carbon Tetrachloride	D002251	56-23-5	SLC16A12	387700	Rattus norvegicus	10116	schizandrin B inhibits the reaction [Carbon Tetrachloride results in decreased expression of SLC16A12 mRNA]	decreases^expression|decreases^reaction	31150632
+slc16a12	Cephaloridine	D002509	50-59-9	SLC16A12	387700	Rattus norvegicus	10116	Cephaloridine results in decreased expression of SLC16A12 mRNA	decreases^expression	18500788
+slc16a12	chloropicrin	C100187	76-06-2	SLC16A12	387700	Homo sapiens	9606	chloropicrin results in increased expression of SLC16A12 mRNA	increases^expression	26352163|28476498
+slc16a12	Chloroprene	D002737	126-99-8	SLC16A12	387700	Mus musculus	10090	Chloroprene results in increased expression of SLC16A12 mRNA	increases^expression	23125180
+slc16a12	Chlorpyrifos	D004390	2921-88-2	SLC16A12	387700	Mus musculus	10090	Chlorpyrifos results in increased expression of SLC16A12 mRNA	increases^expression	37019170
+slc16a12	chromium hexavalent ion	C074702	18540-29-9	SLC16A12	387700	Mus musculus	10090	chromium hexavalent ion affects the expression of SLC16A12 mRNA	affects^expression	28472532
+slc16a12	Cisplatin	D002945	15663-27-1	SLC16A12	387700	Homo sapiens	9606	Cisplatin results in increased expression of SLC16A12 mRNA	increases^expression	27392435
+slc16a12	cyproconazole	C093628		SLC16A12	387700	Mus musculus	10090	cyproconazole results in increased expression of SLC16A12 mRNA	increases^expression	22334560
+slc16a12	decamethrin	C017180	52820-00-5	SLC16A12	387700	Mus musculus	10090	decamethrin results in decreased expression of SLC16A12 mRNA	decreases^expression	37019170
+slc16a12	deoxynivalenol	C007262	51481-10-8	SLC16A12	387700	Sus scrofa	9823	deoxynivalenol results in decreased expression of SLC16A12 mRNA	decreases^expression	35307453
+slc16a12	Dexamethasone	D003907	50-02-2	SLC16A12	387700	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	28628672
+slc16a12	Dichlorodiphenyl Dichloroethylene	D003633	72-55-9	SLC16A12	387700	Mus spretus	10096	Dichlorodiphenyl Dichloroethylene results in increased expression of SLC16A12 mRNA	increases^expression	29554563
+slc16a12	Dietary Fats	D004041		SLC16A12	387700	Mus musculus	10090	3,4,3',4'-tetrachlorobiphenyl inhibits the reaction [Dietary Fats results in increased expression of SLC16A12 mRNA]	decreases^reaction|increases^expression	19467301
+slc16a12	Dietary Fats	D004041		SLC16A12	387700	Mus musculus	10090	Dietary Fats results in increased expression of SLC16A12 mRNA	increases^expression	19467301
+slc16a12	Doxorubicin	D004317	23214-92-8	SLC16A12	387700	Homo sapiens	9606	Doxorubicin results in decreased expression of SLC16A12 mRNA	decreases^expression	29803840
+slc16a12	Endosulfan	D004726	115-29-7	SLC16A12	387700	Homo sapiens	9606	Endosulfan inhibits the reaction [Tetrachlorodibenzodioxin results in decreased expression of SLC16A12 mRNA]	decreases^expression|decreases^reaction	26159488
+slc16a12	Endosulfan	D004726	115-29-7	SLC16A12	387700	Rattus norvegicus	10116	Endosulfan results in increased expression of SLC16A12 mRNA	increases^expression	29391264
+slc16a12	epoxiconazole	C109476		SLC16A12	387700	Mus musculus	10090	epoxiconazole affects the expression of SLC16A12 mRNA	affects^expression	35436446
+slc16a12	epoxiconazole	C109476		SLC16A12	387700	Mus musculus	10090	epoxiconazole results in increased expression of SLC16A12 mRNA	increases^expression	22334560
+slc16a12	Estradiol	D004958	50-28-2	SLC16A12	387700	Homo sapiens	9606	[Estradiol co-treated with TGFB1 protein] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	30165855
+slc16a12	Estradiol	D004958	50-28-2	SLC16A12	387700	Rattus norvegicus	10116	Estradiol affects the expression of SLC16A12 mRNA	affects^expression	32145629
+slc16a12	Fenretinide	D017313	65646-68-6	SLC16A12	387700	Mus musculus	10090	Fenretinide results in decreased expression of SLC16A12 mRNA	decreases^expression	28973697
+slc16a12	Flutamide	D005485	13311-84-7	SLC16A12	387700	Rattus norvegicus	10116	Flutamide results in decreased expression of SLC16A12 mRNA	decreases^expression	24793618
+slc16a12	Hydrogen Peroxide	D006861	7722-84-1	SLC16A12	387700	Homo sapiens	9606	Hydrogen Peroxide affects the expression of SLC16A12 mRNA	affects^expression	21179406
+slc16a12	ICG 001	C492448		SLC16A12	387700	Homo sapiens	9606	ICG 001 results in increased expression of SLC16A12 mRNA	increases^expression	26191083
+slc16a12	Indomethacin	D007213	53-86-1	SLC16A12	387700	Homo sapiens	9606	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol F] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	28628672
+slc16a12	Inulin	D007444	9005-80-5	SLC16A12	387700	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Inulin] results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^expression	36331819
+slc16a12	(+)-JQ1 compound	C561695		SLC16A12	387700	Homo sapiens	9606	(+)-JQ1 compound results in decreased expression of SLC16A12 mRNA	decreases^expression	26752646
+slc16a12	maduramicin	C018091		SLC16A12	387700	Gallus gallus	9031	maduramicin results in decreased expression of SLC16A12 mRNA	decreases^expression	29128925
+slc16a12	Magnetite Nanoparticles	D058185		SLC16A12	387700	Mus musculus	10090	[Succimer binds to Magnetite Nanoparticles] which results in decreased expression of SLC16A12 mRNA	affects^binding|decreases^expression	23086747
+slc16a12	methyleugenol	C005223	93-15-2	SLC16A12	387700	Homo sapiens	9606	methyleugenol results in decreased expression of SLC16A12 mRNA	decreases^expression	32234424
+slc16a12	Nanotubes, Carbon	D037742		SLC16A12	387700	Mus musculus	10090	Nanotubes, Carbon analog results in increased expression of SLC16A12 mRNA	increases^expression	25620056
+slc16a12	nickel sulfate	C029938	7786-81-4	SLC16A12	387700	Homo sapiens	9606	nickel sulfate results in decreased expression of SLC16A12 mRNA	decreases^expression	22714537
+slc16a12	Ozone	D010126	10028-15-6	SLC16A12	387700	Mus musculus	10090	[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^abundance|increases^expression	34911549
+slc16a12	Ozone	D010126	10028-15-6	SLC16A12	387700	Mus musculus	10090	[Air Pollutants results in increased abundance of Ozone] which results in increased expression of SLC16A12 mRNA	increases^abundance|increases^expression	34911549
+slc16a12	Paraquat	D010269	4685-14-7	SLC16A12	387700	Rattus norvegicus	10116	Paraquat results in decreased expression of SLC16A12 mRNA	decreases^expression	32680482
+slc16a12	Particulate Matter	D052638		SLC16A12	387700	Rattus norvegicus	10116	[Air Pollutants results in increased abundance of Particulate Matter] which results in decreased expression of SLC16A12 mRNA	decreases^expression|increases^abundance	28106813
+slc16a12	Pectins	D010368		SLC16A12	387700	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Pectins] results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^expression	36331819
+slc16a12	perfluorohexanesulfonic acid	C471071	355-46-4	SLC16A12	387700	Gallus gallus	9031	perfluorohexanesulfonic acid results in decreased expression of SLC16A12 mRNA	decreases^expression	22790973
+slc16a12	perfluorohexanesulfonic acid	C471071	355-46-4	SLC16A12	387700	Mus musculus	10090	perfluorohexanesulfonic acid results in decreased expression of SLC16A12 mRNA	decreases^expression	37995155
+slc16a12	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC16A12	387700	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Inulin] results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^expression	36331819
+slc16a12	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC16A12	387700	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Pectins] results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^expression	36331819
+slc16a12	Phenobarbital	D010634	50-06-6	SLC16A12	387700	Mus musculus	10090	Phenobarbital affects the expression of SLC16A12 mRNA	affects^expression	23091169
+slc16a12	Phenobarbital	D010634	50-06-6	SLC16A12	387700	Mus musculus	10090	Phenobarbital results in increased expression of SLC16A12 mRNA	increases^expression	19270015
+slc16a12	pirimiphos methyl	C014153	29232-93-7	SLC16A12	387700	Salmo salar	8030	pirimiphos methyl results in increased expression of SLC16A12 mRNA	increases^expression	27845199
+slc16a12	Plant Extracts	D010936		SLC16A12	387700	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	23557933
+slc16a12	Potassium Dichromate	D011192	7778-50-9	SLC16A12	387700	Mus musculus	10090	Potassium Dichromate results in decreased expression of SLC16A12 mRNA	decreases^expression	23608068
+slc16a12	propiconazole	C045950	60207-90-1	SLC16A12	387700	Mus musculus	10090	propiconazole results in increased expression of SLC16A12 mRNA	increases^expression	22334560
+slc16a12	Resveratrol	D000077185		SLC16A12	387700	Homo sapiens	9606	[Plant Extracts co-treated with Resveratrol] results in decreased expression of SLC16A12 mRNA	affects^cotreatment|decreases^expression	23557933
+slc16a12	Resveratrol	D000077185		SLC16A12	387700	Mus musculus	10090	Resveratrol inhibits the reaction [titanium dioxide results in increased expression of SLC16A12 mRNA]	decreases^reaction|increases^expression	31298478
+slc16a12	Rifampin	D012293	13292-46-1	SLC16A12	387700	Homo sapiens	9606	Rifampin results in decreased expression of SLC16A12 mRNA	decreases^expression	27199754
+slc16a12	Rifampin	D012293	13292-46-1	SLC16A12	387700	Homo sapiens	9606	Rifampin results in increased expression of SLC16A12 mRNA	increases^expression	24552687
+slc16a12	schizandrin B	C015499		SLC16A12	387700	Rattus norvegicus	10116	schizandrin B inhibits the reaction [Carbon Tetrachloride results in decreased expression of SLC16A12 mRNA]	decreases^expression|decreases^reaction	31150632
+slc16a12	senecionine	C009237	130-01-8	SLC16A12	387700	Mus musculus	10090	senecionine results in decreased expression of SLC16A12 protein	decreases^expression	35357534
+slc16a12	Silver	D012834	7440-22-4	SLC16A12	387700	Mus musculus	10090	Silver results in decreased expression of SLC16A12 mRNA	decreases^expression	27131904
+slc16a12	sodium arsenite	C017947	13768-07-5	SLC16A12	387700	Homo sapiens	9606	sodium arsenite results in increased expression of SLC16A12 mRNA	increases^expression	29301061
+slc16a12	sodium arsenite	C017947	13768-07-5	SLC16A12	387700	Mus musculus	10090	sodium arsenite results in decreased expression of SLC16A12 mRNA	decreases^expression	37682722
+slc16a12	Soot	D053260		SLC16A12	387700	Mus musculus	10090	[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in increased expression of SLC16A12 mRNA	affects^cotreatment|increases^abundance|increases^expression	34911549
+slc16a12	Succimer	D004113	304-55-2	SLC16A12	387700	Mus musculus	10090	[Succimer binds to Magnetite Nanoparticles] which results in decreased expression of SLC16A12 mRNA	affects^binding|decreases^expression	23086747
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Homo sapiens	9606	Endosulfan inhibits the reaction [Tetrachlorodibenzodioxin results in decreased expression of SLC16A12 mRNA]	decreases^expression|decreases^reaction	26159488
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Homo sapiens	9606	Tetrachlorodibenzodioxin results in decreased expression of SLC16A12 mRNA	decreases^expression	26159488
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Mus musculus	10090	Tetrachlorodibenzodioxin affects the expression of SLC16A12 mRNA	affects^expression	28922406
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Mus musculus	10090	Tetrachlorodibenzodioxin results in decreased expression of SLC16A12 mRNA	decreases^expression	33956508
+slc16a12	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC16A12	387700	Rattus norvegicus	10116	Tetrachlorodibenzodioxin affects the expression of SLC16A12 mRNA	affects^expression	22298810
+slc16a12	Thioacetamide	D013853	62-55-5	SLC16A12	387700	Cavia porcellus	10141	Thioacetamide results in decreased expression of SLC16A12 mRNA	decreases^expression	34492290
+slc16a12	Thioacetamide	D013853	62-55-5	SLC16A12	387700	Rattus norvegicus	10116	Thioacetamide results in decreased expression of SLC16A12 mRNA	decreases^expression	34492290
+slc16a12	titanium dioxide	C009495	13463-67-7	SLC16A12	387700	Mus musculus	10090	Resveratrol inhibits the reaction [titanium dioxide results in increased expression of SLC16A12 mRNA]	decreases^reaction|increases^expression	31298478
+slc16a12	titanium dioxide	C009495	13463-67-7	SLC16A12	387700	Mus musculus	10090	titanium dioxide results in decreased expression of SLC16A12 mRNA	decreases^expression	29264374
+slc16a12	titanium dioxide	C009495	13463-67-7	SLC16A12	387700	Mus musculus	10090	titanium dioxide results in increased expression of SLC16A12 mRNA	increases^expression	31298478
+slc16a12	Tobacco Smoke Pollution	D014028		SLC16A12	387700	Homo sapiens	9606	Tobacco Smoke Pollution results in decreased expression of SLC16A12 mRNA	decreases^expression	33660061
+slc16a12	Trichloroethylene	D014241	79-01-6	SLC16A12	387700	Rattus norvegicus	10116	Trichloroethylene results in decreased expression of SLC16A12 mRNA	decreases^expression	33387578
+slc16a12	Triclosan	D014260	3380-34-5	SLC16A12	387700	Homo sapiens	9606	Triclosan results in decreased expression of SLC16A12 mRNA	decreases^expression	30510588
+slc16a12	trimellitic anhydride	C015559	552-30-7	SLC16A12	387700	Mus musculus	10090	trimellitic anhydride results in decreased expression of SLC16A12 mRNA	decreases^expression	19042947
+slc16a12	Valproic Acid	D014635	99-66-1	SLC16A12	387700	Rattus norvegicus	10116	Valproic Acid results in increased expression of SLC16A12 mRNA	increases^expression	29427782
+slc16a12	Zearalenone	D015025	17924-92-4	SLC16A12	387700	Sus scrofa	9823	Zearalenone results in increased expression of SLC16A12 mRNA	increases^expression	34933075
+slc6a8	1,2-Dimethylhydrazine	D019813	540-73-8	SLC6A8	6535	Mus musculus	10090	1,2-Dimethylhydrazine results in decreased expression of SLC6A8 mRNA	decreases^expression	22206623
+slc6a8	2,2',3',4,4',5-hexachlorobiphenyl	C029790	35065-28-2	SLC6A8	6535	Rattus norvegicus	10116	2,2',3',4,4',5-hexachlorobiphenyl results in decreased expression of SLC6A8 mRNA	decreases^expression	23829299
+slc6a8	2',3,3',4',5-pentachloro-4-hydroxybiphenyl	C111118		SLC6A8	6535	Rattus norvegicus	10116	2',3,3',4',5-pentachloro-4-hydroxybiphenyl results in decreased expression of SLC6A8 mRNA	decreases^expression	19114083
+slc6a8	2,4-dinitrotoluene	C016403	121-14-2	SLC6A8	6535	Rattus norvegicus	10116	2,4-dinitrotoluene affects the expression of SLC6A8 mRNA	affects^expression	21346803
+slc6a8	2,6-dinitrotoluene	C023514	606-20-2	SLC6A8	6535	Rattus norvegicus	10116	2,6-dinitrotoluene affects the expression of SLC6A8 mRNA	affects^expression	21346803
+slc6a8	2-methylacetoacetanilide	C586803		SLC6A8	6535	Rattus norvegicus	10116	2-methylacetoacetanilide results in decreased expression of SLC6A8 mRNA	decreases^expression	31673724
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with entinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with p-Chloromercuribenzoic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Vorinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	D015123	55097-80-8	SLC6A8	6535	Homo sapiens	9606	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide results in increased expression of SLC6A8 mRNA	increases^expression	19150397
+slc6a8	9,10-Dimethyl-1,2-benzanthracene	D015127	57-97-6	SLC6A8	6535	Mesocricetus auratus	10036	9,10-Dimethyl-1,2-benzanthracene results in decreased expression of SLC6A8 mRNA	decreases^expression	22485181
+slc6a8	acetamide	C030686	60-35-5	SLC6A8	6535	Rattus norvegicus	10116	acetamide results in increased expression of SLC6A8 mRNA	increases^expression	31881176
+slc6a8	Acetaminophen	D000082	103-90-2	SLC6A8	6535	Homo sapiens	9606	Acetaminophen results in decreased expression of SLC6A8 mRNA	decreases^expression	22230336
+slc6a8	Acetaminophen	D000082	103-90-2	SLC6A8	6535	Homo sapiens	9606	Acetaminophen results in increased expression of SLC6A8 mRNA	increases^expression	29067470
+slc6a8	Acetaminophen	D000082	103-90-2	SLC6A8	6535	Mus musculus	10090	Acetaminophen affects the expression of SLC6A8 mRNA	affects^expression	17562736
+slc6a8	Aflatoxin B1	D016604	1162-65-8	SLC6A8	6535	Rattus norvegicus	10116	Aflatoxin B1 results in increased expression of SLC6A8 mRNA	increases^expression	22484513|23630614|33354967
+slc6a8	Aldehydes	D000447		SLC6A8	6535	Homo sapiens	9606	Aldehydes results in increased expression of SLC6A8 mRNA	increases^expression	25014914
+slc6a8	alpha-Chlorohydrin	D000517	96-24-2	SLC6A8	6535	Rattus norvegicus	10116	alpha-Chlorohydrin results in increased expression of SLC6A8 mRNA	increases^expression	28522335
+slc6a8	Aluminum	D000535	7429-90-5	SLC6A8	6535			[APP protein modified form binds to Aluminum] which results in increased expression of SLC6A8 mRNA	affects^binding|increases^expression	21298039
+slc6a8	Ammonia	D000641	7664-41-7	SLC6A8	6535	Homo sapiens	9606	Ammonia affects the expression of SLC6A8 protein	affects^expression	20227315
+slc6a8	Ammonium Chloride	D000643	12125-02-9	SLC6A8	6535	Rattus norvegicus	10116	Ammonium Chloride affects the expression of SLC6A8 mRNA	affects^expression	16483693
+slc6a8	Ampicillin	D000667	69-53-4	SLC6A8	6535	Homo sapiens	9606	Ampicillin results in increased expression of SLC6A8 mRNA	increases^expression	21632981
+slc6a8	Arsenic	D001151	7440-38-2	SLC6A8	6535	Homo sapiens	9606	[sodium arsenate results in increased abundance of Arsenic] which results in increased expression of SLC6A8 mRNA	increases^abundance|increases^expression	32525701
+slc6a8	Arsenic Trioxide	D000077237	1327-53-3	SLC6A8	6535	Homo sapiens	9606	Arsenic Trioxide results in increased expression of SLC6A8 mRNA	increases^expression	20458559
+slc6a8	Atenolol	D001262	29122-68-7	SLC6A8	6535	Homo sapiens	9606	Atenolol results in decreased expression of SLC6A8 mRNA	decreases^expression	19915711
+slc6a8	Benzo(a)pyrene	D001564	50-32-8	SLC6A8	6535	Danio rerio	7955	Benzo(a)pyrene results in decreased expression of SLC6A8 mRNA	decreases^expression	26001963
+slc6a8	Benzo(a)pyrene	D001564	50-32-8	SLC6A8	6535	Mus musculus	10090	Benzo(a)pyrene results in increased expression of SLC6A8 mRNA	increases^expression	22228805
+slc6a8	beta-methylcholine	C044887	7562-87-0	SLC6A8	6535	Homo sapiens	9606	beta-methylcholine affects the expression of SLC6A8 mRNA	affects^expression	21179406
+slc6a8	bismuth tripotassium dicitrate	C002791	57644-54-9	SLC6A8	6535	Rattus norvegicus	10116	bismuth tripotassium dicitrate results in increased expression of SLC6A8 mRNA	increases^expression	15912405
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Danio rerio	7955	bisphenol A results in decreased expression of SLC6A8 mRNA	decreases^expression	33243503
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Homo sapiens	9606	bisphenol A affects the expression of SLC6A8 mRNA	affects^expression	30903817
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Mus musculus	10090	bisphenol A results in increased expression of SLC6A8 mRNA	increases^expression	35479511
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Pimephales promelas	90988	bisphenol A affects the expression of SLC6A8 mRNA	affects^expression	21786754
+slc6a8	bisphenol A	C006780	80-05-7	SLC6A8	6535	Rattus norvegicus	10116	bisphenol A results in increased expression of SLC6A8 mRNA	increases^expression	25181051
+slc6a8	Blood Glucose	D001786		SLC6A8	6535	Rattus norvegicus	10116	[Oxygen deficiency co-treated with Blood Glucose deficiency co-treated with Particulate Matter] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	33729688
+slc6a8	butyraldehyde	C018475	123-72-8	SLC6A8	6535	Homo sapiens	9606	butyraldehyde results in increased expression of SLC6A8 mRNA	increases^expression	26079696
+slc6a8	Cadmium	D002104	7440-43-9	SLC6A8	6535	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of SLC6A8 mRNA	decreases^expression|increases^abundance	35301059
+slc6a8	Cadmium Chloride	D019256	10108-64-2	SLC6A8	6535	Homo sapiens	9606	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of SLC6A8 mRNA	decreases^expression|increases^abundance	35301059
+slc6a8	Captan	D002215	133-06-2	SLC6A8	6535	Mus musculus	10090	Captan results in increased expression of SLC6A8 mRNA	increases^expression	31558096
+slc6a8	Carbamazepine	D002220	298-46-4	SLC6A8	6535	Homo sapiens	9606	Carbamazepine affects the expression of SLC6A8 mRNA	affects^expression	25979313
+slc6a8	Carbon Tetrachloride	D002251	56-23-5	SLC6A8	6535	Mus musculus	10090	Carbon Tetrachloride affects the expression of SLC6A8 mRNA	affects^expression	17484886
+slc6a8	Carbon Tetrachloride	D002251	56-23-5	SLC6A8	6535	Mus musculus	10090	Carbon Tetrachloride results in increased expression of SLC6A8 mRNA	increases^expression	31919559
+slc6a8	Cellulose	D002482	9004-34-6	SLC6A8	6535	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Cellulose] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	36331819
+slc6a8	Chlorpyrifos	D004390	2921-88-2	SLC6A8	6535	Rattus norvegicus	10116	Chlorpyrifos results in decreased expression of SLC6A8 mRNA	decreases^expression	17452286
+slc6a8	Chlorpyrifos	D004390	2921-88-2	SLC6A8	6535	Rattus norvegicus	10116	Chlorpyrifos results in increased expression of SLC6A8 mRNA	increases^expression	18812211
+slc6a8	chlorpyrifos-methyl	C007031	5598-13-0	SLC6A8	6535	Salmo salar	8030	chlorpyrifos-methyl results in increased expression of SLC6A8 mRNA	increases^expression	30419482
+slc6a8	Choline	D002794	62-49-7	SLC6A8	6535	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	20938992
+slc6a8	chromium hexavalent ion	C074702	18540-29-9	SLC6A8	6535	Mus musculus	10090	chromium hexavalent ion affects the expression of SLC6A8 mRNA	affects^expression	28472532
+slc6a8	Cisplatin	D002945	15663-27-1	SLC6A8	6535	Homo sapiens	9606	[Piroxicam co-treated with Cisplatin] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	21858171
+slc6a8	Copper	D003300	7440-50-8	SLC6A8	6535	Mytilus galloprovincialis	29158	Copper affects the expression of SLC6A8 mRNA	affects^expression	23825565
+slc6a8	Copper	D003300	7440-50-8	SLC6A8	6535	Rattus norvegicus	10116	Copper results in increased expression of SLC6A8 mRNA	increases^expression	30556269
+slc6a8	Copper Sulfate	D019327	7758-98-7	SLC6A8	6535	Homo sapiens	9606	Copper Sulfate results in decreased expression of SLC6A8 mRNA	decreases^expression	19549813
+slc6a8	Cyclosporine	D016572	59865-13-3	SLC6A8	6535	Homo sapiens	9606	Cyclosporine results in decreased expression of SLC6A8 mRNA	decreases^expression	20106945|21632981|25562108|27989131
+slc6a8	Decitabine	D000077209	2353-33-5	SLC6A8	6535	Homo sapiens	9606	Decitabine results in increased expression of SLC6A8 mRNA	increases^expression	17908484
+slc6a8	Diazinon	D003976	333-41-5	SLC6A8	6535	Rattus norvegicus	10116	Diazinon results in increased expression of SLC6A8 mRNA	increases^expression	18812211
+slc6a8	dicrotophos	C000944	3735-78-2	SLC6A8	6535	Homo sapiens	9606	dicrotophos results in increased expression of SLC6A8 mRNA	increases^expression	28302478
+slc6a8	Dieldrin	D004026	60-57-1	SLC6A8	6535	Rattus norvegicus	10116	Dieldrin results in increased expression of SLC6A8 mRNA	increases^expression	18812211
+slc6a8	Dietary Fats	D004041		SLC6A8	6535	Mus musculus	10090	Dietary Fats results in increased expression of SLC6A8 mRNA	increases^expression	22609946
+slc6a8	Diflunisal	D004061	22494-42-4	SLC6A8	6535	Mus musculus	10090	Diflunisal results in increased expression of SLC6A8 mRNA	increases^expression	29901742
+slc6a8	Diquat	D004178	2764-72-9	SLC6A8	6535	Mus musculus	10090	Diquat results in decreased expression of SLC6A8 protein	decreases^expression	36851058
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with entinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with p-Chloromercuribenzoic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	dorsomorphin	C516138		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Vorinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Doxorubicin	D004317	23214-92-8	SLC6A8	6535	Homo sapiens	9606	Doxorubicin results in increased expression of SLC6A8 mRNA	increases^expression	29803840
+slc6a8	Dronabinol	D013759		SLC6A8	6535	Rattus norvegicus	10116	Dronabinol results in decreased expression of SLC6A8 mRNA	decreases^expression	30283037
+slc6a8	entinostat	C118739		SLC6A8	6535	Homo sapiens	9606	entinostat results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509
+slc6a8	entinostat	C118739		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with entinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	epigallocatechin gallate	C045651	989-51-5	SLC6A8	6535	Homo sapiens	9606	[potassium chromate(VI) co-treated with epigallocatechin gallate] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	22079256
+slc6a8	epoxiconazole	C109476		SLC6A8	6535	Mus musculus	10090	epoxiconazole results in decreased expression of SLC6A8 mRNA	decreases^expression	35436446
+slc6a8	Ethanol	D000431	64-17-5	SLC6A8	6535	Danio rerio	7955	Ethanol results in increased expression of SLC6A8 mRNA	increases^expression	29361514
+slc6a8	Ethinyl Estradiol	D004997	57-63-6	SLC6A8	6535	Rattus norvegicus	10116	Ethinyl Estradiol results in decreased expression of SLC6A8 mRNA	decreases^expression	17557909
+slc6a8	Ethinyl Estradiol	D004997	57-63-6	SLC6A8	6535	Xenopus tropicalis	8364	Ethinyl Estradiol results in decreased expression of SLC6A8 mRNA	decreases^expression	23129252
+slc6a8	Fenretinide	D017313	65646-68-6	SLC6A8	6535	Mus musculus	10090	Fenretinide results in increased expression of SLC6A8 mRNA	increases^expression	28973697
+slc6a8	Folic Acid	D005492	59-30-3	SLC6A8	6535	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	20938992
+slc6a8	folpet	C005020	133-07-3	SLC6A8	6535	Mus musculus	10090	folpet results in increased expression of SLC6A8 mRNA	increases^expression	31558096
+slc6a8	fullerene C60	C069837	99685-96-8	SLC6A8	6535	Rattus norvegicus	10116	fullerene C60 results in increased expression of SLC6A8 mRNA	increases^expression	19167457
+slc6a8	gluconic acid	C030691	526-95-4	SLC6A8	6535	Rattus norvegicus	10116	gluconic acid results in increased expression of SLC6A8 mRNA	increases^expression	16556975
+slc6a8	Glyphosate	D000097797		SLC6A8	6535	Mus musculus	10090	Glyphosate results in increased expression of SLC6A8 mRNA	increases^expression	35897073
+slc6a8	Graphite	D006108	7782-42-5	SLC6A8	6535	Rattus norvegicus	10116	Graphite affects the expression of SLC6A8 mRNA	affects^expression	29933104
+slc6a8	Hexachlorocyclohexane	D001556		SLC6A8	6535	Danio rerio	7955	Hexachlorocyclohexane results in decreased expression of SLC6A8 mRNA	decreases^expression	32244031
+slc6a8	Hydrogen Peroxide	D006861	7722-84-1	SLC6A8	6535	Homo sapiens	9606	Hydrogen Peroxide affects the expression of SLC6A8 mRNA	affects^expression	20044591
+slc6a8	Ibuprofen	D007052	15687-27-1	SLC6A8	6535	Pimephales promelas	90988	Ibuprofen results in increased expression of SLC6A8 mRNA	increases^expression	28201806
+slc6a8	Ionomycin	D015759	56092-81-0	SLC6A8	6535	Oryctolagus cuniculus	9986	[Tetradecanoylphorbol Acetate co-treated with Ionomycin] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	25613284
+slc6a8	JP8 aviation fuel	C098607		SLC6A8	6535	Rattus norvegicus	10116	JP8 aviation fuel results in decreased expression of SLC6A8 protein	decreases^expression	17337753
+slc6a8	(+)-JQ1 compound	C561695		SLC6A8	6535	Homo sapiens	9606	(+)-JQ1 compound results in increased expression of SLC6A8 mRNA	increases^expression	25307878|26752646
+slc6a8	Ketolides	D048628		SLC6A8	6535	Mus musculus	10090	Ketolides analog results in increased expression of SLC6A8 mRNA	increases^expression	24967691
+slc6a8	lead acetate	C008261	301-04-2	SLC6A8	6535	Rattus norvegicus	10116	lead acetate results in increased expression of SLC6A8 mRNA	increases^expression	11578147
+slc6a8	mercuric bromide	C042720	7789-47-1	SLC6A8	6535	Homo sapiens	9606	mercuric bromide results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509
+slc6a8	mercuric bromide	C042720	7789-47-1	SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Methamphetamine	D008694	537-46-2	SLC6A8	6535	Rattus norvegicus	10116	Methamphetamine results in increased expression of SLC6A8 mRNA	increases^expression	15644446
+slc6a8	Methionine	D008715	63-68-3	SLC6A8	6535	Mus musculus	10090	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	20938992
+slc6a8	methylmercuric chloride	C004925	115-09-3	SLC6A8	6535	Homo sapiens	9606	methylmercuric chloride results in decreased expression of SLC6A8 mRNA	decreases^expression	28001369
+slc6a8	Methyltestosterone	D008777	58-18-4	SLC6A8	6535	Gallus gallus	9031	Methyltestosterone results in increased expression of SLC6A8 mRNA	increases^expression	29191790
+slc6a8	Nanotubes, Carbon	D037742		SLC6A8	6535	Mus musculus	10090	Nanotubes, Carbon results in increased expression of SLC6A8 mRNA	increases^expression	25554681
+slc6a8	Naphthalenes	D009281		SLC6A8	6535	Rattus norvegicus	10116	Naphthalenes results in decreased expression of SLC6A8 protein	decreases^expression	17337753
+slc6a8	nickel monoxide	C028007	1313-99-1	SLC6A8	6535	Rattus norvegicus	10116	nickel monoxide results in increased expression of SLC6A8 mRNA	increases^expression	19167457
+slc6a8	N-Methyl-3,4-methylenedioxyamphetamine	D018817	42542-10-9	SLC6A8	6535	Mus musculus	10090	N-Methyl-3,4-methylenedioxyamphetamine results in increased expression of SLC6A8 mRNA	increases^expression	20188158
+slc6a8	Orphenadrine	D009966	83-98-7	SLC6A8	6535	Rattus norvegicus	10116	Orphenadrine affects the expression of SLC6A8 mRNA	affects^expression	23665939
+slc6a8	Oxygen	D010100	7782-44-7	SLC6A8	6535	Homo sapiens	9606	Oxygen deficiency results in increased expression of SLC6A8 mRNA	increases^expression	20042640
+slc6a8	Oxygen	D010100	7782-44-7	SLC6A8	6535	Rattus norvegicus	10116	[Oxygen deficiency co-treated with Blood Glucose deficiency co-treated with Particulate Matter] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	33729688
+slc6a8	Ozone	D010126	10028-15-6	SLC6A8	6535	Mus musculus	10090	Ozone results in increased expression of SLC6A8 mRNA	increases^expression	33026818
+slc6a8	Panobinostat	D000077767		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Panobinostat	D000077767		SLC6A8	6535	Homo sapiens	9606	Panobinostat results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509
+slc6a8	Particulate Matter	D052638		SLC6A8	6535	Rattus norvegicus	10116	[Oxygen deficiency co-treated with Blood Glucose deficiency co-treated with Particulate Matter] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	33729688
+slc6a8	PCB 180	C410127		SLC6A8	6535	Rattus norvegicus	10116	PCB 180 results in decreased expression of SLC6A8 mRNA	decreases^expression	23829299
+slc6a8	p-Chloromercuribenzoic Acid	D020245	59-85-8	SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with p-Chloromercuribenzoic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	p-Chloromercuribenzoic Acid	D020245	59-85-8	SLC6A8	6535	Homo sapiens	9606	p-Chloromercuribenzoic Acid results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509
+slc6a8	Pectins	D010368		SLC6A8	6535	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Pectins] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	36331819
+slc6a8	pentanal	C046012	110-62-3	SLC6A8	6535	Homo sapiens	9606	pentanal results in increased expression of SLC6A8 mRNA	increases^expression	26079696
+slc6a8	perfluoro-n-nonanoic acid	C101816	375-95-1	SLC6A8	6535	Homo sapiens	9606	perfluoro-n-nonanoic acid results in decreased expression of SLC6A8 mRNA	decreases^expression	32588087
+slc6a8	perfluorooctanesulfonamide	C063900	754-91-6	SLC6A8	6535	Danio rerio	7955	perfluorooctanesulfonamide results in decreased expression of SLC6A8 mRNA	decreases^expression	31706782
+slc6a8	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC6A8	6535	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Cellulose] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	36331819
+slc6a8	perfluorooctane sulfonic acid	C076994	1763-23-1	SLC6A8	6535	Mus musculus	10090	[perfluorooctane sulfonic acid co-treated with Pectins] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	36331819
+slc6a8	periodate-oxidized adenosine	C027579	34240-05-6	SLC6A8	6535	Homo sapiens	9606	periodate-oxidized adenosine affects the expression of SLC6A8 mRNA	affects^expression	17097637
+slc6a8	Phenylmercuric Acetate	D010662	62-38-4	SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Phenylmercuric Acetate	D010662	62-38-4	SLC6A8	6535	Homo sapiens	9606	Phenylmercuric Acetate results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509
+slc6a8	pirinixic acid	C006253	50892-23-4	SLC6A8	6535	Rattus norvegicus	10116	pirinixic acid results in decreased expression of SLC6A8 mRNA	decreases^expression	19162173
+slc6a8	Piroxicam	D010894	36322-90-4	SLC6A8	6535	Homo sapiens	9606	[Piroxicam co-treated with Cisplatin] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	21858171
+slc6a8	potassium chromate(VI)	C027373	7789-00-6	SLC6A8	6535	Homo sapiens	9606	[potassium chromate(VI) co-treated with epigallocatechin gallate] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	22079256
+slc6a8	potassium chromate(VI)	C027373	7789-00-6	SLC6A8	6535	Homo sapiens	9606	potassium chromate(VI) results in increased expression of SLC6A8 mRNA	increases^expression	22079256
+slc6a8	propionaldehyde	C005556	123-38-6	SLC6A8	6535	Homo sapiens	9606	propionaldehyde results in increased expression of SLC6A8 mRNA	increases^expression	26079696
+slc6a8	Propylthiouracil	D011441	51-52-5	SLC6A8	6535	Rattus norvegicus	10116	Propylthiouracil results in decreased expression of SLC6A8 mRNA	decreases^expression	24780913
+slc6a8	pseudocumene	C010313	95-63-6	SLC6A8	6535	Rattus norvegicus	10116	pseudocumene results in decreased expression of SLC6A8 protein	decreases^expression	17337753
+slc6a8	Quercetin	D011794	117-39-5	SLC6A8	6535	Homo sapiens	9606	Quercetin results in decreased expression of SLC6A8 mRNA	decreases^expression	21632981
+slc6a8	resorcinol	C031389	108-46-3	SLC6A8	6535	Homo sapiens	9606	resorcinol results in increased expression of SLC6A8 mRNA	increases^expression	22623647
+slc6a8	Rotenone	D012402	83-79-4	SLC6A8	6535	Rattus norvegicus	10116	Rotenone results in increased expression of SLC6A8 mRNA	increases^expression	19013527|28374803
+slc6a8	Selenium	D012643	7782-49-2	SLC6A8	6535	Homo sapiens	9606	Selenium results in increased expression of SLC6A8 mRNA	increases^expression	19244175
+slc6a8	Sesame Oil	D012715	8008-74-0	SLC6A8	6535	Gallus gallus	9031	Sesame Oil results in decreased expression of SLC6A8 mRNA	decreases^expression	29191790
+slc6a8	Silicon Dioxide	D012822	7631-86-9	SLC6A8	6535	Mus musculus	10090	Silicon Dioxide results in increased expression of SLC6A8 mRNA	increases^expression	23221170|29203145
+slc6a8	sodium arsenate	C009277		SLC6A8	6535	Homo sapiens	9606	[sodium arsenate results in increased abundance of Arsenic] which results in increased expression of SLC6A8 mRNA	increases^abundance|increases^expression	32525701
+slc6a8	sodium bichromate	C016104	10588-01-9	SLC6A8	6535	Mus musculus	10090	sodium bichromate results in increased expression of SLC6A8 mRNA	increases^expression	31558096
+slc6a8	Sunitinib	D000077210		SLC6A8	6535	Homo sapiens	9606	Sunitinib results in increased expression of SLC6A8 mRNA	increases^expression	31533062
+slc6a8	Tamoxifen	D013629	10540-29-1	SLC6A8	6535	Mus musculus	10090	Tamoxifen results in increased expression of SLC6A8 mRNA	increases^expression	25123088
+slc6a8	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC6A8	6535	Mus musculus	10090	Tetrachlorodibenzodioxin affects the expression of SLC6A8 mRNA	affects^expression	21570461|26377647
+slc6a8	Tetrachlorodibenzodioxin	D013749	1746-01-6	SLC6A8	6535	Rattus norvegicus	10116	Tetrachlorodibenzodioxin affects the expression of SLC6A8 mRNA	affects^expression	34747641
+slc6a8	Tetradecanoylphorbol Acetate	D013755	16561-29-8	SLC6A8	6535	Oryctolagus cuniculus	9986	[Tetradecanoylphorbol Acetate co-treated with Ionomycin] results in increased expression of SLC6A8 mRNA	affects^cotreatment|increases^expression	25613284
+slc6a8	Thioacetamide	D013853	62-55-5	SLC6A8	6535	Cavia porcellus	10141	Thioacetamide results in increased expression of SLC6A8 mRNA	increases^expression	34492290
+slc6a8	Tobacco Smoke Pollution	D014028		SLC6A8	6535	Homo sapiens	9606	Tobacco Smoke Pollution results in increased expression of SLC6A8 mRNA	increases^expression	33660061
+slc6a8	Toluene	D014050	108-88-3	SLC6A8	6535	Rattus norvegicus	10116	Toluene affects the expression of SLC6A8 mRNA	affects^expression	18653662
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Homo sapiens	9606	Tretinoin results in decreased expression of SLC6A8 mRNA	decreases^expression	21934132
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Homo sapiens	9606	Tretinoin results in increased expression of SLC6A8 mRNA	increases^expression	33167477
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Mus musculus	10090	Tretinoin results in decreased expression of SLC6A8 mRNA	decreases^expression	16604517
+slc6a8	Tretinoin	D014212	302-79-4	SLC6A8	6535	Rattus norvegicus	10116	Tretinoin results in increased expression of SLC6A8 mRNA	increases^expression	20488242
+slc6a8	tributyltin	C011559	688-73-3	SLC6A8	6535	Gallus gallus	9031	tributyltin results in decreased expression of SLC6A8 mRNA	decreases^expression	29191790
+slc6a8	trichostatin A	C012589	58880-19-6	SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	trichostatin A	C012589	58880-19-6	SLC6A8	6535	Homo sapiens	9606	trichostatin A results in decreased expression of SLC6A8 mRNA	decreases^expression	24935251|26272509
+slc6a8	trimellitic anhydride	C015559	552-30-7	SLC6A8	6535	Mus musculus	10090	trimellitic anhydride results in decreased expression of SLC6A8 mRNA	decreases^expression	19042947
+slc6a8	tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	SLC6A8	6535	Homo sapiens	9606	tris(1,3-dichloro-2-propyl)phosphate results in decreased expression of SLC6A8 mRNA	decreases^expression	26179874
+slc6a8	Urethane	D014520	51-79-6	SLC6A8	6535	Homo sapiens	9606	Urethane results in increased expression of SLC6A8 mRNA	increases^expression	28818685
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Homo sapiens	9606	Valproic Acid results in decreased expression of SLC6A8 mRNA	decreases^expression	23179753|24383497|24935251|26272509|28001369
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Homo sapiens	9606	Valproic Acid results in increased expression of SLC6A8 mRNA	increases^expression	23179753
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Mus musculus	10090	Valproic Acid affects the expression of SLC6A8 mRNA	affects^expression	17292431
+slc6a8	Valproic Acid	D014635	99-66-1	SLC6A8	6535	Mus musculus	10090	Valproic Acid results in increased expression of SLC6A8 mRNA	increases^expression	20546886
+slc6a8	Vitamin E	D014810	1406-18-4	SLC6A8	6535	Homo sapiens	9606	Vitamin E results in increased expression of SLC6A8 mRNA	increases^expression	19244175
+slc6a8	Vorinostat	D000077337		SLC6A8	6535	Homo sapiens	9606	[NOG protein co-treated with Vorinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in decreased expression of SLC6A8 mRNA	affects^cotreatment|decreases^expression	27188386
+slc6a8	Vorinostat	D000077337		SLC6A8	6535	Homo sapiens	9606	Vorinostat results in decreased expression of SLC6A8 mRNA	decreases^expression	26272509|27188386
+slc6a8	Warfarin	D014859	81-81-2	SLC6A8	6535	Danio rerio	7955	Warfarin results in increased expression of SLC6A8 mRNA	increases^expression	31238190
+slc6a8	Zidovudine	D015215	30516-87-1	SLC6A8	6535	Homo sapiens	9606	Zidovudine results in decreased expression of SLC6A8 mRNA	decreases^expression	24292225
+slc6a8	Zoledronic Acid	D000077211		SLC6A8	6535	Homo sapiens	9606	Zoledronic Acid results in decreased expression of SLC6A8 mRNA	decreases^expression	24714768

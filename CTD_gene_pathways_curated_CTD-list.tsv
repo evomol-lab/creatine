@@ -1,0 +1,41 @@
+# Input	GeneSymbol	GeneID	PathwayName	PathwayID
+ckb	CKB	1152	Arginine and proline metabolism	KEGG:hsa00330
+ckb	CKB	1152	Creatine metabolism	REACT:R-HSA-71288
+ckb	CKB	1152	Creatine pathway	KEGG:hsa_M00047
+ckb	CKB	1152	Metabolic pathways	KEGG:hsa01100
+ckb	CKB	1152	Metabolism	REACT:R-HSA-1430728
+ckb	CKB	1152	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckb	CKB	1152	Metabolism of polyamines	REACT:R-HSA-351202
+ckm	CKM	1158	Arginine and proline metabolism	KEGG:hsa00330
+ckm	CKM	1158	Creatine metabolism	REACT:R-HSA-71288
+ckm	CKM	1158	Creatine pathway	KEGG:hsa_M00047
+ckm	CKM	1158	Metabolic pathways	KEGG:hsa01100
+ckm	CKM	1158	Metabolism	REACT:R-HSA-1430728
+ckm	CKM	1158	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckm	CKM	1158	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt1a	CKMT1A	548596	Arginine and proline metabolism	KEGG:hsa00330
+ckmt1a	CKMT1A	548596	Creatine metabolism	REACT:R-HSA-71288
+ckmt1a	CKMT1A	548596	Creatine pathway	KEGG:hsa_M00047
+ckmt1a	CKMT1A	548596	Metabolic pathways	KEGG:hsa01100
+ckmt1a	CKMT1A	548596	Metabolism	REACT:R-HSA-1430728
+ckmt1a	CKMT1A	548596	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt1a	CKMT1A	548596	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt1b	CKMT1B	1159	Arginine and proline metabolism	KEGG:hsa00330
+ckmt1b	CKMT1B	1159	Creatine metabolism	REACT:R-HSA-71288
+ckmt1b	CKMT1B	1159	Creatine pathway	KEGG:hsa_M00047
+ckmt1b	CKMT1B	1159	Metabolic pathways	KEGG:hsa01100
+ckmt1b	CKMT1B	1159	Metabolism	REACT:R-HSA-1430728
+ckmt1b	CKMT1B	1159	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt1b	CKMT1B	1159	Metabolism of polyamines	REACT:R-HSA-351202
+ckmt2	CKMT2	1160	Arginine and proline metabolism	KEGG:hsa00330
+ckmt2	CKMT2	1160	Creatine metabolism	REACT:R-HSA-71288
+ckmt2	CKMT2	1160	Creatine pathway	KEGG:hsa_M00047
+ckmt2	CKMT2	1160	Metabolic pathways	KEGG:hsa01100
+ckmt2	CKMT2	1160	Metabolism	REACT:R-HSA-1430728
+ckmt2	CKMT2	1160	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+ckmt2	CKMT2	1160	Metabolism of polyamines	REACT:R-HSA-351202
+slc16a12 [No associated data found]				
+slc6a8	SLC6A8	6535	Creatine metabolism	REACT:R-HSA-71288
+slc6a8	SLC6A8	6535	Metabolism	REACT:R-HSA-1430728
+slc6a8	SLC6A8	6535	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+slc6a8	SLC6A8	6535	Metabolism of polyamines	REACT:R-HSA-351202

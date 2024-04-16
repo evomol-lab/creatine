@@ -1,0 +1,21 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	DirectEvidence	OmimIDs	PubMedIDs
+ckb	Acute Coronary Syndrome	MESH:D054058	CKB	1152	Cardiovascular disease	marker/mechanism		15966572
+ckb	Adenocarcinoma	MESH:D000230	CKB	1152	Cancer	marker/mechanism		15378696
+ckb	Chemical and Drug Induced Liver Injury	MESH:D056486	CKB	1152	Digestive system disease	marker/mechanism		25231249
+ckb	Hypertrophy, Left Ventricular	MESH:D017379	CKB	1152	Cardiovascular disease|Pathology (anatomical condition)	marker/mechanism		11406506
+ckb	Myocardial Infarction	MESH:D009203	CKB	1152	Cardiovascular disease|Pathology (process)	marker/mechanism		12359538
+ckb	Small Cell Lung Carcinoma	MESH:D055752	CKB	1152	Cancer|Respiratory tract disease	marker/mechanism		2828370
+ckb	Stomach Neoplasms	MESH:D013274	CKB	1152	Cancer|Digestive system disease	marker/mechanism		15378696
+ckm	Acute Coronary Syndrome	MESH:D054058	CKM	1158	Cardiovascular disease	marker/mechanism		15966572
+ckm	Colonic Neoplasms	MESH:D003110	CKM	1158	Cancer|Digestive system disease	marker/mechanism		15059925
+ckm	Hypertrophy, Left Ventricular	MESH:D017379	CKM	1158	Cardiovascular disease|Pathology (anatomical condition)	marker/mechanism		11406506
+ckm	Ischemia	MESH:D007511	CKM	1158	Pathology (process)	marker/mechanism		21912612
+ckm	Myocardial Infarction	MESH:D009203	CKM	1158	Cardiovascular disease|Pathology (process)	marker/mechanism		12359538|3279722
+ckmt1a [No associated data found]								
+ckmt1b [No associated data found]								
+ckmt2 [No associated data found]								
+slc16a12	Cataract, Juvenile, With Microcornea And Glucosuria	MESH:C567434	SLC16A12	387700	Eye disease|Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism	612018	
+slc6a8	Autistic Disorder	MESH:D001321	SLC6A8	6535	Mental disorder	marker/mechanism		18461508
+slc6a8	Creatine deficiency, X-linked	MESH:C535598	SLC6A8	6535	Genetic disease (inborn)|Metabolic disease|Nervous system disease	marker/mechanism	300352	11326334|12210795|17465020
+slc6a8	Developmental Disabilities	MESH:D002658	SLC6A8	6535	Mental disorder	marker/mechanism		11326334
+slc6a8	Mental Retardation, X-Linked	MESH:D038901	SLC6A8	6535	Genetic disease (inborn)|Nervous system disease	marker/mechanism		18350323

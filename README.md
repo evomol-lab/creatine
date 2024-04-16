@@ -12,7 +12,7 @@ Our first step was to use the term "*creatine*" in a search using the [Stitch Da
 - The genes from AKT family were present using expression data from the [Human Protein Atlas](https://www.proteinatlas.org/).
 - The genes PSMB5, PSMD3, SGK1 and PRPS1 appeared when using expression data from the [Tissues Database](https://tissues.jensenlab.org/Search).
 
-The first suggested protein list is:
+The first suggested protein list is ([Stitch-1st](Stitch-1st)):
 ```
 SLC2A4
 IGF1
@@ -29,9 +29,66 @@ PRPS1
 Since our aim is to review gene expression and protein alterations induced by creatine that are specific to renal tissues, we excluded the genes that are expected to interact with creatine, such as CK and CKMT. Interestingly, these genes were not found in the 3rd list (from Tissues database).
 
 ### Using the Comparative Toxicogenomics Database
-Our second step was to perform searches using the [Comparative Toxicogenomics Database](https://ctdbase.org/).
+Our second step was to perform searches using the [Comparative Toxicogenomics Database](https://ctdbase.org/). As a result, we obtained a list with 44 entries [CTD_gene_results_20240409072043.tsv](CTD_gene_results_20240409072043.tsv). After filtering the repetitive entries, we obtained the following gene list:
 
+```
+CKB
+CKBE    Locus
+CKBP1   Pseudogene
+CKM
+CKMT1A
+CKMT1B
+CKMT2
+SLC16A12
+SLC6A10P    Pseudogene
+SLC6A10PB   Pseudogene
+SLC6A8
+```
+Interestingly, three pseudogenes and one *locus* were retrieved. The informations from each gene symbol were obtained from [GeneCards](https://www.genecards.org/) database. The validated symbols were the following ones [CTD-genes-list-Edited-1st.tsv](CTD-genes-list-Edited-1st.tsv):
 
+```
+CKB
+CKM
+CKMT1A
+CKMT1B
+CKMT2
+SLC16A12
+SLC6A8
+```
+After that, we used the batch query tool from CTD, using NCBI gene symbols from the two above lists as a input. Then we got the following results:
+
+- For [Stitch-1st](Stitch-1st) list:
+    - Curated Gene/diseases associations: [CTD_gene_diseases_curated_1713265713318.tsv](CTD_gene_diseases_curated_1713265713318.tsv).
+    - Inferred Gene/diseases associations: [CTD_gene_diseases_inferred_1713266126277.tsv](CTD_gene_diseases_inferred_1713266126277.tsv).
+    - Curated Gene/pathways associations: [CTD_gene_pathways_curated_1713266155612.tsv](CTD_gene_pathways_curated_1713266155612.tsv).
+    - Chemical/Genes interactions at the expression level: [CTD_gene_cgixns_1713266196128.tsv](CTD_gene_cgixns_1713266196128.tsv).
+    - Curated Gene/Chemicals interactions: [CTD_gene_chems_curated_1713267587656.tsv](CTD_gene_chems_curated_1713267587656.tsv).
+- For [CTD-genes-list-Edited-1st.tsv](CTD-genes-list-Edited-1st.tsv):
+    - Curated Gene/diseases associations: [CTD_gene_diseases_curated_CTD-list.tsv](CTD_gene_diseases_curated_CTD-list.tsv).
+    - Inferred Gene/diseases associations: [CTD_gene_diseases_inferred_CTD-list.tsv](CTD_gene_diseases_inferred_CTD-list.tsv).
+    - Curated Gene/pathways associations: [CTD_gene_pathways_curated_CTD-list.tsv](CTD_gene_pathways_curated_CTD-list.tsv).
+    - Chemical/Genes interactions at the expression level: [CTD_gene_cgixns_CTD-list.tsv](CTD_gene_cgixns_CTD-list.tsv).
+    - Curated Gene/Chemicals interactions: [CTD_gene_chems_curated_CTD-list.tsv](CTD_gene_chems_curated_CTD-list.tsv).
+
+#### Filtering CTD's results
+We started filtering the inferred gene/diseases associations, since the curated ones are enriched to genetic diseases (inborn). For the Stitch-1st and CTD lists, we obtained a file with 153952 and 50868 rows, respectively. Then, we filtered the results using the presence of the terms `kidney` and `renal`, obtaining 2596 and 818 rows, for Stitch and CTD gene lists. The higher number of entries in the Stitch list is probably associated with the initial filtering process for expression in kidney tissues. The following table describes the number of entries per gene, in each list:
+
+| Stitch |                   | CTD   |                   |
+|:------:|:-----------------:|:-----:|:-----------------:|
+| **Gene**   | **Number of entries** | **Gene**  | **Number of entries** |
+| SLC2A4     |  283 | CKB      | 214 |
+| IGF1       |  431 | CKMT1A   | 39  |
+| GATM       |  172 | CKMT1B   | 37  |
+| SLC6A8     |  157 | CKMT2    | 90  |
+| AKT1       |  691 | SLC16A12 | 114 |
+| AKT2       |  192 | SLC6A8   | 157 |
+| AKT3       |  111 |       |                   |
+| PSMB5      |  119 |       |                   |
+| PSMD3      |  84  |       |                   |
+| SGK1       |  268 |       |                   |
+| PRPS1      |  109 |       |                   |
+
+From the filtered files, we obtained the unique DiseaseIDs, and unique DiseaseIDs/gene.
 
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 

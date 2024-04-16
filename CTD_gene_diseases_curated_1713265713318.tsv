@@ -1,0 +1,124 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	DirectEvidence	OmimIDs	PubMedIDs
+slc2a4	Alzheimer Disease	MESH:D000544	SLC2A4	6517	Mental disorder|Nervous system disease	marker/mechanism		24055495
+slc2a4	Cardiomegaly	MESH:D006332	SLC2A4	6517	Cardiovascular disease|Pathology (anatomical condition)	marker/mechanism		22221582
+slc2a4	Diabetes Mellitus, Experimental	MESH:D003921	SLC2A4	6517	Endocrine system disease|Metabolic disease	marker/mechanism		11947963|14563825|18266981|22138235
+slc2a4	Diabetes Mellitus, Type 2	MESH:D003924	SLC2A4	6517	Endocrine system disease|Metabolic disease	marker/mechanism		11947963|17107852|22384078|31626838
+slc2a4	Insulin Resistance	MESH:D007333	SLC2A4	6517	Metabolic disease	therapeutic		11947963
+igf1	Abortion, Spontaneous	MESH:D000022	IGF1	3479	Pregnancy complication	marker/mechanism		18539642
+igf1	Acromegaly	MESH:D000172	IGF1	3479	Endocrine system disease|Musculoskeletal disease|Nervous system disease	marker/mechanism		1682667|18381583|18388193|9186818
+igf1	Acute Kidney Injury	MESH:D058186	IGF1	3479	Urogenital disease (female)|Urogenital disease (male)	therapeutic		7540432
+igf1	Adenoma	MESH:D000236	IGF1	3479	Cancer	marker/mechanism		1611713
+igf1	Alzheimer Disease	MESH:D000544	IGF1	3479	Mental disorder|Nervous system disease	marker/mechanism		15750215
+igf1	Autistic Disorder	MESH:D001321	IGF1	3479	Mental disorder	marker/mechanism		17547689
+igf1	Bone Diseases, Metabolic	MESH:D001851	IGF1	3479	Metabolic disease|Musculoskeletal disease	therapeutic		11014614
+igf1	Breast Neoplasms	MESH:D001943	IGF1	3479	Cancer|Skin disease	marker/mechanism		17520698|18398872
+igf1	Cachexia	MESH:D002100	IGF1	3479	Signs and symptoms	marker/mechanism		30782979
+igf1	Carcinoma, Hepatocellular	MESH:D006528	IGF1	3479	Cancer|Digestive system disease	marker/mechanism		28284560
+igf1	Cardiomegaly	MESH:D006332	IGF1	3479	Cardiovascular disease|Pathology (anatomical condition)	marker/mechanism		10547078
+igf1	Chemical and Drug Induced Liver Injury	MESH:D056486	IGF1	3479	Digestive system disease	marker/mechanism		23639586|25226513
+igf1	Cholestasis	MESH:D002779	IGF1	3479	Digestive system disease	therapeutic		12826230
+igf1	Colitis	MESH:D003092	IGF1	3479	Digestive system disease	marker/mechanism		24782617
+igf1	Corneal Diseases	MESH:D003316	IGF1	3479	Eye disease	therapeutic		12824234
+igf1	Crohn Disease	MESH:D003424	IGF1	3479	Digestive system disease	marker/mechanism		19751734
+igf1	Demyelinating Diseases	MESH:D003711	IGF1	3479	Nervous system disease	therapeutic		9452187
+igf1	Diabetes Mellitus, Experimental	MESH:D003921	IGF1	3479	Endocrine system disease|Metabolic disease	therapeutic		24632065
+igf1	Diabetes Mellitus, Type 1	MESH:D003922	IGF1	3479	Endocrine system disease|Immune system disease|Metabolic disease	therapeutic		24632065
+igf1	Diabetic Cardiomyopathies	MESH:D058065	IGF1	3479	Cardiovascular disease|Endocrine system disease	therapeutic		11375343
+igf1	Drug-Related Side Effects and Adverse Reactions	MESH:D064420	IGF1	3479		therapeutic		20064577
+igf1	Endometriosis	MESH:D004715	IGF1	3479	Urogenital disease (female)	marker/mechanism		21063030
+igf1	Female Urogenital Diseases	MESH:D052776	IGF1	3479	Urogenital disease (female)	marker/mechanism		16002989
+igf1	Hernia, Diaphragmatic	MESH:D006548	IGF1	3479	Pathology (anatomical condition)	marker/mechanism		10370016
+igf1	Hyperalgesia	MESH:D006930	IGF1	3479	Nervous system disease|Signs and symptoms	therapeutic		9452187
+igf1	Hypertension	MESH:D006973	IGF1	3479	Cardiovascular disease	marker/mechanism|therapeutic		19502719|22228705
+igf1	Infarction, Middle Cerebral Artery	MESH:D020244	IGF1	3479	Cardiovascular disease|Nervous system disease|Pathology (process)	marker/mechanism		25257527
+igf1	Insulin-Like Growth Factor I Deficiency	MESH:C563867	IGF1	3479	Ear-nose-throat disease|Nervous system disease|Pathology (process)|Signs and symptoms	marker/mechanism	608747	
+igf1	Kidney Diseases	MESH:D007674	IGF1	3479	Urogenital disease (female)|Urogenital disease (male)	therapeutic		8825380
+igf1	Kidney Failure, Chronic	MESH:D007676	IGF1	3479	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	therapeutic		10198369
+igf1	Liver Cirrhosis, Experimental	MESH:D008106	IGF1	3479	Digestive system disease|Pathology (process)	therapeutic		15591519|15745444
+igf1	Mammary Neoplasms, Experimental	MESH:D008325	IGF1	3479	Cancer	marker/mechanism		15217511|15528971|17584969
+igf1	Muscular Atrophy	MESH:D009133	IGF1	3479	Nervous system disease|Pathology (anatomical condition)|Signs and symptoms	therapeutic		18467435
+igf1	Myocardial Ischemia	MESH:D017202	IGF1	3479	Cardiovascular disease	marker/mechanism		16214533
+igf1	Neoplasm Invasiveness	MESH:D009361	IGF1	3479	Cancer|Pathology (process)	marker/mechanism		18398872
+igf1	Neoplasm Metastasis	MESH:D009362	IGF1	3479	Cancer|Pathology (process)	marker/mechanism		18398872
+igf1	Nerve Degeneration	MESH:D009410	IGF1	3479	Pathology (process)	therapeutic		10203697|9452187
+igf1	Peripheral Nervous System Diseases	MESH:D010523	IGF1	3479	Nervous system disease	therapeutic		8866126|9452187
+igf1	Pituitary Neoplasms	MESH:D010911	IGF1	3479	Cancer|Endocrine system disease|Nervous system disease	marker/mechanism		1611713
+igf1	Prostatic Neoplasms	MESH:D011471	IGF1	3479	Cancer|Urogenital disease (male)	marker/mechanism		16465378|19208208|24586243
+igf1	Puberty, Precocious	MESH:D011629	IGF1	3479	Endocrine system disease	marker/mechanism		21402727
+igf1	Pulmonary Fibrosis	MESH:D011658	IGF1	3479	Pathology (process)|Respiratory tract disease	marker/mechanism		15286697
+igf1	Skin Neoplasms	MESH:D012878	IGF1	3479	Cancer|Skin disease	marker/mechanism		24353828
+igf1	Squamous Cell Carcinoma of Head and Neck	MESH:D000077195	IGF1	3479	Cancer	marker/mechanism		30594912
+igf1	Urinary Bladder Neoplasms	MESH:D001749	IGF1	3479	Cancer|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism		19415693
+gatm	Arginine-Glycine Amidinotransferase Deficiency	MESH:C567192	GATM	2628	Genetic disease (inborn)|Mental disorder|Metabolic disease|Nervous system disease|Signs and symptoms	marker/mechanism	612718	
+gatm	Carcinoma	MESH:D002277	GATM	2628	Cancer	marker/mechanism		16316942
+gatm	Fanconi Syndrome	MESH:D005198	GATM	2628	Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism	134600	
+gatm	Heart Failure	MESH:D006333	GATM	2628	Cardiovascular disease	marker/mechanism		16820567|36071497
+gatm	Kidney Diseases	MESH:D007674	GATM	2628	Urogenital disease (female)|Urogenital disease (male)	marker/mechanism		22061828
+gatm	Mammary Neoplasms, Animal	MESH:D015674	GATM	2628	Animal disease|Cancer	marker/mechanism		16316942
+gatm	Mammary Neoplasms, Experimental	MESH:D008325	GATM	2628	Cancer	marker/mechanism		16316942
+gatm	Myocardial Ischemia	MESH:D017202	GATM	2628	Cardiovascular disease	marker/mechanism		16214533
+gatm	Necrosis	MESH:D009336	GATM	2628	Pathology (process)	marker/mechanism		22061828
+slc6a8	Autistic Disorder	MESH:D001321	SLC6A8	6535	Mental disorder	marker/mechanism		18461508
+slc6a8	Creatine deficiency, X-linked	MESH:C535598	SLC6A8	6535	Genetic disease (inborn)|Metabolic disease|Nervous system disease	marker/mechanism	300352	11326334|12210795|17465020
+slc6a8	Developmental Disabilities	MESH:D002658	SLC6A8	6535	Mental disorder	marker/mechanism		11326334
+slc6a8	Mental Retardation, X-Linked	MESH:D038901	SLC6A8	6535	Genetic disease (inborn)|Nervous system disease	marker/mechanism		18350323
+akt1	Adenocarcinoma	MESH:D000230	AKT1	207	Cancer	marker/mechanism		33129824
+akt1	Adenomatous Polyposis Coli	MESH:D011125	AKT1	207	Cancer|Digestive system disease|Genetic disease (inborn)	marker/mechanism		17942926
+akt1	Amphetamine-Related Disorders	MESH:D019969	AKT1	207	Mental disorder|Substance-related disorder	marker/mechanism		15982448
+akt1	Aortic Valve, Calcification of	MESH:C562942	AKT1	207	Cardiovascular disease|Metabolic disease	marker/mechanism		23308213
+akt1	Breast Neoplasms	MESH:D001943	AKT1	207	Cancer|Skin disease	marker/mechanism	114480	20228224
+akt1	Carcinogenesis	MESH:D063646	AKT1	207	Cancer|Pathology (process)	marker/mechanism		32045588
+akt1	Carcinoma, Hepatocellular	MESH:D006528	AKT1	207	Cancer|Digestive system disease	marker/mechanism		32045588
+akt1	Carcinoma, Squamous Cell	MESH:D002294	AKT1	207	Cancer	marker/mechanism		21351258
+akt1	Cardiomegaly	MESH:D006332	AKT1	207	Cardiovascular disease|Pathology (anatomical condition)	marker/mechanism		24448315
+akt1	Cardiomyopathies	MESH:D009202	AKT1	207	Cardiovascular disease	marker/mechanism		24448315
+akt1	Colorectal Neoplasms	MESH:D015179	AKT1	207	Cancer|Digestive system disease	marker/mechanism	114500	
+akt1	COWDEN SYNDROME 6	OMIM:615109	AKT1	207	Cancer|Genetic disease (inborn)|Metabolic disease	marker/mechanism	615109	
+akt1	Diabetes Mellitus, Type 2	MESH:D003924	AKT1	207	Endocrine system disease|Metabolic disease	marker/mechanism		31626838
+akt1	Disease Models, Animal	MESH:D004195	AKT1	207	Animal disease	marker/mechanism		25658812|32045588
+akt1	Epilepsy	MESH:D004827	AKT1	207	Nervous system disease	therapeutic		20064661
+akt1	Fatty Liver	MESH:D005234	AKT1	207	Digestive system disease	marker/mechanism		32045588
+akt1	Fibrosis	MESH:D005355	AKT1	207	Pathology (process)	marker/mechanism		24448315
+akt1	Hepatomegaly	MESH:D006529	AKT1	207	Digestive system disease|Pathology (anatomical condition)	marker/mechanism		32045588
+akt1	Hyperplasia	MESH:D006965	AKT1	207	Pathology (process)	marker/mechanism		20530298
+akt1	Hypertriglyceridemia	MESH:D015228	AKT1	207	Metabolic disease	marker/mechanism		32045588
+akt1	Inflammation	MESH:D007249	AKT1	207	Pathology (process)	marker/mechanism		24448315|26297436
+akt1	Leukemia, Promyelocytic, Acute	MESH:D015473	AKT1	207	Blood disease|Cancer	marker/mechanism		12556562
+akt1	Lung Neoplasms	MESH:D008175	AKT1	207	Cancer|Respiratory tract disease	marker/mechanism|therapeutic		12511591|21911043|22619562
+akt1	Lymphoma, T-Cell	MESH:D016399	AKT1	207	Cancer|Immune system disease|Lymphatic disease	marker/mechanism		25658812
+akt1	Marijuana Abuse	MESH:D002189	AKT1	207	Mental disorder|Substance-related disorder	marker/mechanism		21041608
+akt1	Meningioma	MESH:D008579	AKT1	207	Cancer|Nervous system disease	marker/mechanism		23334667
+akt1	Muscular Atrophy	MESH:D009133	AKT1	207	Nervous system disease|Pathology (anatomical condition)|Signs and symptoms	therapeutic		18467435
+akt1	Obesity	MESH:D009765	AKT1	207	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+akt1	Ovarian Neoplasms	MESH:D010051	AKT1	207	Cancer|Endocrine system disease|Urogenital disease (female)	marker/mechanism	167000	16211241|21266360
+akt1	Pain	MESH:D010146	AKT1	207	Signs and symptoms	marker/mechanism		17084039
+akt1	Precancerous Conditions	MESH:D011230	AKT1	207	Cancer	marker/mechanism		26297436
+akt1	Prostatic Neoplasms	MESH:D011471	AKT1	207	Cancer|Urogenital disease (male)	marker/mechanism		15682402|29610475|33129824
+akt1	Proteus Syndrome	MESH:D016715	AKT1	207	Cancer|Congenital abnormality|Musculoskeletal disease	marker/mechanism	176920	
+akt1	Psychoses, Substance-Induced	MESH:D011605	AKT1	207	Mental disorder|Substance-related disorder	marker/mechanism		21041608
+akt1	Schizophrenia	MESH:D012559	AKT1	207	Mental disorder	marker/mechanism		14745448|15982448|17915974|21187413
+akt1	Skin Neoplasms	MESH:D012878	AKT1	207	Cancer|Skin disease	marker/mechanism		21351258
+akt1	Squamous Cell Carcinoma of Head and Neck	MESH:D000077195	AKT1	207	Cancer	marker/mechanism		23873848
+akt1	Urinary Bladder Neoplasms	MESH:D001749	AKT1	207	Cancer|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism		36115647
+akt2	Adenocarcinoma	MESH:D000230	AKT2	208	Cancer	marker/mechanism		33129824
+akt2	Breast Neoplasms	MESH:D001943	AKT2	208	Cancer|Skin disease	marker/mechanism		19075277
+akt2	Diabetes Mellitus, Type 2	MESH:D003924	AKT2	208	Endocrine system disease|Metabolic disease	marker/mechanism	125853	
+akt2	HYPOINSULINEMIC HYPOGLYCEMIA WITH HEMIHYPERTROPHY	OMIM:240900	AKT2	208	Metabolic disease|Pathology (anatomical condition)|Pathology (process)	marker/mechanism	240900	
+akt2	Lipodystrophy, Familial Partial	MESH:D052496	AKT2	208	Genetic disease (inborn)|Metabolic disease|Skin disease	marker/mechanism		19793595
+akt2	Nasopharyngeal Carcinoma	MESH:D000077274	AKT2	208	Cancer|Ear-nose-throat disease|Mouth disease	marker/mechanism		24952746
+akt2	Prostatic Neoplasms	MESH:D011471	AKT2	208	Cancer|Urogenital disease (male)	marker/mechanism		33129824
+akt3	Malformations of Cortical Development	MESH:D054220	AKT3	10000	Congenital abnormality|Nervous system disease	marker/mechanism		22729223
+akt3	Megalancephaly Polymicrogyria-Polydactyly Hydrocephalus Syndrome	MESH:C566381	AKT3	10000	Congenital abnormality|Musculoskeletal disease|Nervous system disease	marker/mechanism	615937	22729224
+psmb5	Myocardial Ischemia	MESH:D017202	PSMB5	5693	Cardiovascular disease	marker/mechanism		16214533
+psmd3	HIV Infections	MESH:D015658	PSMD3	5709	Immune system disease|Viral disease	marker/mechanism		15308739
+sgk1	Carcinoma	MESH:D002277	SGK1	6446	Cancer	marker/mechanism		16316942
+sgk1	Diabetic Neuropathies	MESH:D003929	SGK1	6446	Endocrine system disease|Nervous system disease	marker/mechanism		16696316
+sgk1	Leukemia, Myeloid, Acute	MESH:D015470	SGK1	6446	Blood disease|Cancer	marker/mechanism		17330099
+sgk1	Mammary Neoplasms, Animal	MESH:D015674	SGK1	6446	Animal disease|Cancer	marker/mechanism		16316942
+sgk1	Mammary Neoplasms, Experimental	MESH:D008325	SGK1	6446	Cancer	marker/mechanism		16316942
+sgk1	Uremia	MESH:D014511	SGK1	6446	Urogenital disease (female)|Urogenital disease (male)	marker/mechanism		18768591
+prps1	Arts syndrome	MESH:C535388	PRPS1	5631	Congenital abnormality|Ear-nose-throat disease|Eye disease|Genetic disease (inborn)|Nervous system disease|Signs and symptoms	marker/mechanism	301835	
+prps1	Deafness, X-Linked 1	MESH:C564433	PRPS1	5631	Ear-nose-throat disease|Genetic disease (inborn)|Nervous system disease|Signs and symptoms	marker/mechanism	304500	
+prps1	Optic atrophy polyneuropathy deafness	MESH:C537129	PRPS1	5631	Ear-nose-throat disease|Eye disease|Genetic disease (inborn)|Musculoskeletal disease|Nervous system disease|Signs and symptoms	marker/mechanism	311070	
+prps1	Phosphoribosylpyrophosphate Synthetase Superactivity	MESH:C567064	PRPS1	5631	Genetic disease (inborn)|Metabolic disease	marker/mechanism	300661	
+prps1	Weight Gain	MESH:D015430	PRPS1	5631	Signs and symptoms	marker/mechanism		19030233

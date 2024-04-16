@@ -1,0 +1,824 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	InferenceChemicalName	InferenceScore	OmimIDs	PubMedIDs
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	147.80		10454517|10462288|10529635|15058171|15118981|15546480|1605724|1676404|19109935|19183124|19369842|19515070|19639374|19815612|19995690|22093918|2302954|2873910|30099449|3403780|35020164|35243748|3605153|3747662|3827589|3992409|455818|6173498|6708674|6800515|6802245|6825559|6877410|7100020|7318260|7364436|7969685|8156726|8244261|8317017|8669426|8812206|9085330|9381478|9796772|9858252
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	147.80		14624421|15637469|16897003|19204016|19473638|19526394|19945959|26230185|30236763|30639957
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	147.80		16161930|3057269|6701599|7058372|8099372|9467496
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ampicillin	147.80		14736991|653062|6649724
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	147.80		24530882|26204831|27422293|34677723
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	147.80		18463343
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Azathioprine	147.80		4067979
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	147.80		24625398
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	147.80		16153449|27363640
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cadmium	147.80		37357614
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	147.80		21620867|28759707|29286200|32818823|35122928
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	147.80		11346062|12005248|1494733|19995690|2918954|4653892
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	147.80		24975872|28285099|30825423
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carvedilol	147.80		21044617|24012798
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	147.80		10454517|11977638|12180108|12690470|15814532|16316343|17670903|19144690|19833167|19913604|20369241|20419391|20463654|20510337|20514524|20603111|20650967|20652569|20656754|20676799|20817559|20844023|20844471|20861081|20942565|20943766|21044617|21048024|21048391|21058009|21256724|21272267|21325496|21458517|21470069|21570986|21593185|21633170|2170045|21745194|21802473|21835770|21847101|22005293|22581811|22992436|23384965|23649842|24012798|24113306|24632086|24778426|24973089|24975837|25184746|25382014|25598344|25957482|26165641|26230185|26546572|26723870|27480280|28321044|28414026|28698153|28885000|28902463|29126144|29476062|29599129|30291731|31103702|31153982|3152939|31926187|32110797|32504734|32777238|32888910|33965372|34560070|34785303|35279909|35367536|35403300|36006825|37057715|37087747|37179038|37863467|6350313|657154|7018267|7199128
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	147.80		12503032|55557|7437867
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cocaine	147.80		10095180|10570114|10745478|11147017|11155017|11217644|11391224|11792999|11971848|12218880|14658178|15104930|15335299|16523435|17338430|18081441|18590504|18946498|2076148|2228713|2272809|2772692|2913784|7944088|8191618|8465100
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Copper Sulfate	147.80		30431687|602954
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Curcumin	147.80		17076682|28698153|30431687
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	147.80		11271297|11576359|12131698|1539206|1839490|21058009|22005293|2368707|2576639|2940667|29975447|3086006|3544376|3544821|6342655|7518975|7566623
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cytarabine	147.80		10327034|12180108|7858489|8318674
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Deferoxamine	147.80		12644925|1324513|19204016|30431687|3123518|451459
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	147.80		31654708|32687258|8546128|9763554
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	147.80		24795233
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	147.80		18680783|21354902|21812276|25411067|26825964|28885000|29474904|30543781|3070145|31376360|32289291
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dronabinol	147.80		16161930
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Enzyme Inhibitors	147.80		19326569
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ethanol	147.80		28285099|3747662
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Fluorouracil	147.80		15895229|3978662
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	147.80		1068326|10980121|11532093|135854|15149334|15625121|16316344|16595132|17003819|18480750|18626492|19552531|23255615|24275386|25559736|2566606|30405444|31447676|31593741|33404076|35191561|35772596|4142233|5070373|562503|745638|7531211|851170|8594875
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gallic Acid	147.80		24433871
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gemcitabine	147.80		15895229|18427761
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	147.80		10607017|10729747|10803762|11274264|1130272|1144851|12375257|12617329|12969435|1324513|1355906|14986132|14993807|15149329|16225114|16780655|16999986|17036408|17216604|17464513|1753919|18227104|185707|18767002|19142811|19204016|1932635|19709328|19736602|19737869|19893084|20030531|20063365|20118187|20164825|22005293|23145036|23261757|23707770|2385448|24923469|25034533|25339697|26779593|2689848|2709684|2728142|2907577|2915758|29460972|2972861|3111476|3123518|32110797|33290828|342789|3485932|3534703|3795053|3988600|4069770|4444745|445001|4589000|4703097|4720135|6214598|6223941|6276536|6507171|6645206|6663986|6690474|6715952|6727808|6822758|6877460|7098275|7144139|7199128|7329494|7391838|7400070|7566310|7571189|7800247|7853850|788666|7967229|8157077|8184137|8214103|8771241|8963945|919118|951016
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	147.80		15007713|2191029|2872506|2886806|3071148|3600902|3616022|3727353|3975749|3978662|3980192|4000350|4071154|448822|464454|6589647|6781208|6949485|6952058|7017180|718323|7305576|7375974|7386499|8163032|8240599|8671983|9052853
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lipopolysaccharides	147.80		22253906|24561306|24973090|26055553|31654708|32687258|37436358
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lithium	147.80		12562283|12680891|17408774|694932|8828352
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Melatonin	147.80		35367536
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methionine	147.80		31926187
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	naphthalene	147.80		602954
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Nitroglycerin	147.80		12243603
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Oxygen	147.80		12819242|16153449|27363640
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	perfluorooctane sulfonic acid	147.80		35934180
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	147.80		1485575
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	147.80		18680783|19736602|22021999
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	147.80		11014318|11956877|17415292|7942812|9219172|9550661
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Quercetin	147.80		24958931|25411067|29474904|34751495
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Rotenone	147.80		30099449
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	S-(1,2-dichlorovinyl)cysteine	147.80		16495211|8870953
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	147.80		21094152|23724280|32736004|32818823
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	sulforaphane	147.80		19913604
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Sunitinib	147.80		20652569
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	147.80		29177025
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	147.80		10607690|11604554|12801854|17564563|18363177|8546128|9158667|9763554
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	trichostatin A	147.80		29476062
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	147.80		29968957
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Vitamin D	147.80		24011919
+ckb	Acute Kidney Injury	MESH:D058186	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	147.80		3353995|9763232
+ckb	Chronic Kidney Disease-Mineral and Bone Disorder	MESH:D012080	CKB	1152	Endocrine system disease|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Calcifediol	4.80		6897822
+ckb	Chronic Kidney Diseases of Uncertain Etiology	MESH:D000092702	CKB	1152	Occupational disease|Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Endosulfan	4.17		36513242
+ckb	Kidney Calculi	MESH:D007669	CKB	1152	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	11.03		1671989|8576746
+ckb	Kidney Calculi	MESH:D007669	CKB	1152	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Methionine	11.03		8112761
+ckb	Kidney Calculi	MESH:D007669	CKB	1152	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Vitamin D	11.03		16481635
+ckb	Kidney Calculi	MESH:D007669	CKB	1152	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	11.03		8112761
+ckb	Kidney Cortex Necrosis	MESH:D007673	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	17.62		16133628
+ckb	Kidney Cortex Necrosis	MESH:D007673	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	17.62		23845967
+ckb	Kidney Cortex Necrosis	MESH:D007673	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	17.62		15464296|19761811|28321044
+ckb	Kidney Cortex Necrosis	MESH:D007673	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	17.62		19761811|30682439
+ckb	Kidney Cortex Necrosis	MESH:D007673	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	17.62		15245572|18842672|19761811
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	2,2',4,4',5-brominated diphenyl ether	219.71		20223270
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	2-hydroxyestradiol	219.71		12397044
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	219.71		11334364|11812892|12005112|12587719|12721325|15363587|15629190|15629191|17391827|18068886|1881229|19117117|19345714|19761811|19922764|20067817|20446790|2356566|2651928|26767949|30794797|31777137|3659833|7155631|7979097
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	219.71		14972420|15496615|16877488|17448119|18174269|18278066|18752385|20502036|21424224|30641872|35055458
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acrylamide	219.71		29913234
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ampicillin	219.71		3888810|523366|5396519
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	219.71		20338233|21554934|22086975|22445861|22472514|22525892|23939141|24412304|25663515|31048001|31602497|33722575|35690179|37084829
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	219.71		23471352|26184899|29130132|30516227|31612257|32919218|35317438
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Atrazine	219.71		30360616|35440735
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Azathioprine	219.71		577907
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	219.71		11289703|21803694
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	219.71		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Bleomycin	219.71		2413982|6181679|6203452|7532742
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	219.71		25214260|8086032
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cadmium	219.71		11090055|16226777|16322080|16443174|16601012|16962696|17125799|17303580|17448585|19270785|19615871|19700501|21888673|22027495|22033168|22467032|22995156|23095357|24276216|24629167|24923654|25240712|25940730|28248635|30090589|30684957|31639282|32246071|33398418|33857584|34510229|35384154|37270049|37342552|37949422|7676455
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	219.71		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Caffeine	219.71		1783953|25986755|4821007
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	219.71		25899501|2905310|29522708|34029542
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carvedilol	219.71		11682445|20452391|26751708
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Chlorpyrifos	219.71		28675853|31479757|32500495|33908150
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	219.71		10396320|10812192|11090055|11305414|11745184|11776407|12231392|12649298|12815610|14966836|15190930|15267137|15496615|15934019|16154539|16246977|16428940|16723030|17135156|17922055|1793151|18289764|18956176|19038279|19152827|19356226|19535489|19723570|19736245|19839026|19850470|20435919|20438795|20605904|20716785|21605616|21616140|21640784|21724663|21763304|21803049|21883567|21884784|21902499|21939360|21949094|21993003|22019697|22525860|22989705|23142791|23229315|2326543|23287709|23603837|23770416|23959918|24001450|2413982|2424627|24863737|24880025|25015656|25043994|25308879|25665769|25927922|26558470|26612654|26739623|26751708|27317936|27397436|27616468|27722009|28904298|29216766|29471006|29574132|29752894|29852128|30169741|30452898|30842369|31306688|31493026|31612257|32418911|32991863|33522649|34423507|34476871|35243731|37102204|37561086|37956922|6181679|6203452|6538115|6542584|7191768|7532742|7706473|8178319|8270973|8413339|8584014|8626111|8751544|8845212|9057954|9144837|9256891|9381703
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	219.71		21338618
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cocaine	219.71		10775076|12940616|15013162|1569994|19761732|7740552|8194290|9181276|9786294
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Curcumin	219.71		19345714|25119790|31612257|34802538
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	219.71		10903974|11063349|11091246|11544444|11558484|11583940|11773892|12110003|12243498|12362282|12394605|12427154|12469693|12584269|12883193|1436300|14550466|14659064|15147428|15339989|15365603|16858688|16980036|17132217|17199845|17430485|17461532|17879355|18001539|18582803|18776723|19391111|19761811|21073006|21354196|2165371|21865292|22343435|23347876|23958496|24462674|24502637|24907557|24971338|26311998|2881198|2889119|3032224|3122121|32298299|3458551|3708922|3895668|3899437|3915162|3916516|3925762|6340275|6349046|7508536|7532089|7540737|7542793|7666081|8314463|8832009|9154655|9509456|9664955|9815949
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cytarabine	219.71		806125
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Deferoxamine	219.71		1585386|22115772|7967359|7987999
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	219.71		12414515|12574103|19879934|26271896
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dibutyl Phthalate	219.71		23359474|29526571
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	219.71		24508291|24877639|25025298|26423427|26980705|27292126|29526571|30298849|31063766|31454063|31726037|31811911|31981641|32259528|37054934
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	219.71		23359474|29669060|3206528|36610486
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	diethyl maleate	219.71		6845359
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Dihydrotestosterone	219.71		15670785
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	219.71		10088175|10094850|10344349|10430982|10755322|11124598|11345653|11401411|11867952|11996090|12012391|12386277|12540035|12674635|135666|14564477|14728886|15033991|15369732|15577213|15578190|15699352|16246977|16325981|16775033|16988067|17329577|17522263|1793151|18440303|18487002|19013753|19018148|1905199|19066422|19429242|19883716|19960953|20606417|22287321|24799355|25268985|26721193|2791187|28082111|3124293|31830546|3456068|36988379|3764673|3781430|3898001|7191768|7830283|7838258|7987999|8289579|9192910|9606733|9704904
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Estradiol	219.71		15618244|6305905
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ethanol	219.71		25859307|31811911|32894639|36085217
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ethinyl Estradiol	219.71		19761811
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Fluorouracil	219.71		10396320|2236732|6105503|6412636
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	219.71		11832423|14633603|1482756|160016|18633340|193486|19435794|19934081|20116427|20406136|21647593|22647887|2386429|2840627|29789558|34619300|35124148|4336412
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	furan	219.71		21254322
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gallic Acid	219.71		36272503
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gemcitabine	219.71		9164208
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	219.71		10759677|10990387|12419699|12571406|1263024|12877940|1322021|1340440|1438039|1462001|15086898|15267137|16128912|16925772|17202664|17636248|17899318|17934191|18289764|18441258|1856146|19349640|19500072|19535489|19548288|1976338|19967075|20435566|20816719|20829429|20849911|21081137|21396950|21616119|22061828|22526374|23142791|23335628|2351627|23535405|23651617|2424533|24863737|27401566|2791871|28116922|28904298|2905310|29126144|2914447|30368989|30458643|31628940|319355|3316564|33722575|34350654|3952992|4073872|4306975|475363|500516|6184909|6340504|6364908|6421944|6437310|6479501|659347|659349|659354|6643700|6728084|6797359|696801|6988713|707512|7082782|7103453|7121387|7182340|7194655|7204294|7217852|7235657|7330449|736249|7725344|7872367|80528|8056701|8160791|8308589|8913452|8971904|899868|900916|968458|9741354
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Grape Seed Proanthocyanidins	219.71		11334364|12587719
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	219.71		29463041
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	219.71		10516392|12970633|1489412|15037210|17190690|1913620|19445918|19761811|20035423|2112558|2284768|2424533|25110317|2766920|7019841|7108667|7661171|7791169|8308589|8440438|9284854|9507041|9521382
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Isotretinoin	219.71		9198075
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	lead acetate	219.71		17882470|22581110|22728154|23428833|30980911|32116774
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lipopolysaccharides	219.71		12861172|21327618|22128259|26271896|33038329|9445295
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lithium	219.71		11552956|11721167|12472779|1429477|15055062|15088368|15601320|1603021|17524337|18155820|18758659|1949611|19540417|2125390|2525746|2791367|3092582|3446211|3555125|3811922|3939219|3983343|4091028|415191|436580|464146|538220|5570417|600969|628280|6371681|6440039|6738833|6782612|6806675|6854543|6956771|696319|7096532|7171913|7212107|7237329|7242426|7253363|7315479|7427126|7443778|7468828|78070|7816284|8015291|8167002|926612|9784708
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lycopene	219.71		22108423|30360616|36610486
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Melatonin	219.71		10759677|16236146|16443174|18717515|19117117|27899301
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	219.71		37567421
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methionine	219.71		20406136
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methoxychlor	219.71		25057798|35440735
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	methylmercuric chloride	219.71		28526320
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methylmercury Compounds	219.71		21126564|22903822
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methyltestosterone	219.71		19761811
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Nanotubes, Carbon	219.71		32856799
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Oxaliplatin	219.71		19736245
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Oxygen	219.71		25214260|25448280
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	219.71		11594702|1239223|17006072|2734806|4416261|6782217|7059030|982456
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	219.71		15267137|15577213|16671961|17132217|17135156|17385802|19952499|19960953|21939360|32651782
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Proanthocyanidins	219.71		22108423
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Progesterone	219.71		6305905
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Quercetin	219.71		16962696|19605544|19615871|21909718|22728154|34748891|36990423
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Rosiglitazone	219.71		18413206|19193937|19246972
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	S-(1,2-dichlorovinyl)cysteine	219.71		19409406|2867768|4017103
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Selenium	219.71		1588439|17448585|19913299|21424224
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	219.71		10924798|17882470|18434106|19672740|20008137|24961358|26349760|26631322|29935397|30066062|30558456|31844926|34006163
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Sodium Fluoride	219.71		20859737|23933529|31844926|37105417|982456
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Sodium Selenite	219.71		25728528
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	sulforaphane	219.71		24512358|30835071|37567421
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	T-2 Toxin	219.71		33508416
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Tamoxifen	219.71		17698946
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Thioacetamide	219.71		19761811|23142791|37008694
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Triclosan	219.71		145039
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	219.71		10937350|11322374|3935422|6782217|9175586
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	219.71		12488133|15669049|17448119|23347876|9530244
+ckb	Kidney Diseases	MESH:D007674	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Zearalenone	219.71		17385802
+ckb	Kidney Diseases, Cystic	MESH:D052177	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	2.66		8092206
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	46.53		11752356|3050572|7969358
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Atrazine	46.53		26177651
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cadmium	46.53		23343055
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Carvedilol	46.53		15960146
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cocaine	46.53		10745478|11532684|15335299
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Curcumin	46.53		19225048
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	46.53		11014987|15960146|16707910|9102927
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Folic Acid	46.53		4810836
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Glucose	46.53		9551423
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	46.53		16518626
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	46.53		6986554
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Lithium	46.53		11200820|11418269|12148451|1378968|15601320|19940841|20430244|2517543|2770247|3739727|4090985|6516842|6657461|7884032|8376615|9101586|9408819|9789472
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Melatonin	46.53		12019361
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	46.53		9794581
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	46.53		10344375
+ckb	Kidney Failure, Chronic	MESH:D007676	CKB	1152	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Selenium	46.53		16518626
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	1,2-Dimethylhydrazine	56.77		9695784
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	2,6-dinitrotoluene	56.77		16705839
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	56.77		11679798|2912549|3834336|8793360
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	56.77		19643159|21642617
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Azathioprine	56.77		17454960
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cadmium	56.77		20839231
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Caffeine	56.77		2912549|4638853
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	56.77		28321044
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	56.77		12371664|1825617
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Dactinomycin	56.77		11194540
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Diethylstilbestrol	56.77		14681315|15003126|16435123|16762066
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	56.77		8602639
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Estradiol	56.77		10326862|10402247|15610895|8221684|9683190|9683193
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Fluorouracil	56.77		16985049
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Glucose	56.77		28916336
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	56.77		7614682
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	56.77		28245158
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Tamoxifen	56.77		18625569
+ckb	Kidney Neoplasms	MESH:D007680	CKB	1152	Cancer|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	56.77		9192818
+ckb	Kidney Papillary Necrosis	MESH:D007681	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	11.62		1203171|1919871|2362779|3050572|3559797|6025602|6126946|6590001|6776978|7412682
+ckb	Kidney Papillary Necrosis	MESH:D007681	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Caffeine	11.62		1203171|2240058|4638853|5454357|7412682
+ckb	Kidney Papillary Necrosis	MESH:D007681	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	11.62		3102426
+ckb	Kidney Papillary Necrosis	MESH:D007681	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	11.62		12512867|277165|3102426|4548752|6125715|6953356|861066|9502396|972771
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	64.98		11881430|12060523|12832150|16354242|16532256|17624227|18645506|1987650|20352459|2362779|3173602|3380218|3420447|3559797|3796197|4062453|4082192|6868092|7282722|7566947|7579069|8473360|851123|989539
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	64.98		17365906
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	64.98		22820421
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Azathioprine	64.98		8952354
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Caffeine	64.98		10803761
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	64.98		8107947
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	64.98		23845967
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	64.98		11231351|18368030|19797351|20702592|21881242|24975837|25677510|2680578|29051111|30682439|7855315|8457719|8583688
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cocaine	64.98		12772079|2710269
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	64.98		1778857|6336959|6351368
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Ethanol	64.98		9297132
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	64.98		12969123|12969128|14633603|18480750
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	64.98		11231351|1130930|12176111|12818927|14748758|15795518|16751989|1743919|19802993|25677510|2755919|30682439|3156984|3159593|4122055|4678426|6365403|657154|6877460|7352791|735819|8184137|8583688|9585304
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	64.98		860058
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Lithium	64.98		8629633
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	64.98		11933563
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	64.98		3395247
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	64.98		16492795
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	64.98		16354242
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Quercetin	64.98		15198074
+ckb	Kidney Tubular Necrosis, Acute	MESH:D007683	CKB	1152	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	64.98		9378467
+ckb	Multicystic Dysplastic Kidney	MESH:D021782	CKB	1152	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	10.60		17310358
+ckb	Multicystic Dysplastic Kidney	MESH:D021782	CKB	1152	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	10.60		17310358
+ckb	Polycystic Kidney Diseases	MESH:D007690	CKB	1152	Congenital abnormality|Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	(+)-JQ1 compound	6.99		25877301
+ckb	Polycystic Kidney Diseases	MESH:D007690	CKB	1152	Congenital abnormality|Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	Rosiglitazone	6.99		20507283
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	1,3-dimethylthiourea	128.45		1324513|23384965|3123518
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	128.45		10454517|10462288|10529635|15058171|15118981|15546480|1605724|1676404|19109935|19183124|19369842|19515070|19639374|19815612|19995690|22093918|2302954|2873910|30099449|3403780|35020164|35243748|3605153|3747662|3827589|3992409|455818|6173498|6708674|6800515|6802245|6825559|6877410|7100020|7318260|7364436|7969685|8156726|8244261|8317017|8669426|8812206|9085330|9381478|9796772|9858252
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	128.45		14624421|15637469|16897003|19204016|19473638|19526394|19945959|26230185|30236763|30639957
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Albuterol	128.45		2870244
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Allopurinol	128.45		19814645
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	128.45		16161930|3057269|6701599|7058372|8099372|9467496
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	128.45		18463343
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	128.45		24625398
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	128.45		16153449|27363640
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	128.45		21620867|28759707|29286200|32818823|35122928
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cantharidin	128.45		35398186
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	128.45		24975872|28285099|30825423
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carvedilol	128.45		21044617|24012798
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Clarithromycin	128.45		10441997
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	128.45		12503032|55557|7437867
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cocaine	128.45		10095180|10570114|10745478|11147017|11155017|11217644|11391224|11792999|11971848|12218880|14658178|15104930|15335299|16523435|17338430|18081441|18590504|18946498|2076148|2228713|2272809|2772692|2913784|7944088|8191618|8465100
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Copper Sulfate	128.45		30431687|602954
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Curcumin	128.45		17076682|28698153|30431687
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cyclophosphamide	128.45		10637075|11956877|1411625|15513684|16313266|3270085|8832525
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	128.45		31654708|32687258|8546128|9763554
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	128.45		24795233
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	128.45		18680783|21354902|21812276|25411067|26825964|28885000|29474904|30543781|3070145|31376360|32289291
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Ethanol	128.45		28285099|3747662
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Etoposide	128.45		1411625|3152939|7858489
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gallic Acid	128.45		24433871
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	128.45		10607017|10729747|10803762|11274264|1130272|1144851|12375257|12617329|12969435|1324513|1355906|14986132|14993807|15149329|16225114|16780655|16999986|17036408|17216604|17464513|1753919|18227104|185707|18767002|19142811|19204016|1932635|19709328|19736602|19737869|19893084|20030531|20063365|20118187|20164825|22005293|23145036|23261757|23707770|2385448|24923469|25034533|25339697|26779593|2689848|2709684|2728142|2907577|2915758|29460972|2972861|3111476|3123518|32110797|33290828|342789|3485932|3534703|3795053|3988600|4069770|4444745|445001|4589000|4703097|4720135|6214598|6223941|6276536|6507171|6645206|6663986|6690474|6715952|6727808|6822758|6877460|7098275|7144139|7199128|7329494|7391838|7400070|7566310|7571189|7800247|7853850|788666|7967229|8157077|8184137|8214103|8771241|8963945|919118|951016
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Glycerol	128.45		10677590|1134612|11485932|12021577|1324513|16820301|1751788|2087497|22021999|22613216|30974099|34409680|4644892|6822758
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Lipopolysaccharides	128.45		22253906|24561306|24973090|26055553|31654708|32687258|37436358
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Mitoxantrone	128.45		12180108|8832525
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Nickel	128.45		21600195
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Oxygen	128.45		12819242|16153449|27363640
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Paraquat	128.45		21991918|26988026|28123623|30562684|33838153
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	128.45		19797351|34751495
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Pentoxifylline	128.45		32777238
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	perfluorooctane sulfonic acid	128.45		35934180
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	128.45		1485575
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Phenytoin	128.45		1036571|465192|574201|857181
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	128.45		18680783|19736602|22021999
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Quercetin	128.45		24958931|25411067|29474904|34751495
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Simvastatin	128.45		10620105|11173785|12131698|14712320|16334740|17615423|19112232|19376416|2017280|8941603
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	sodium arsenate	128.45		23724280
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	128.45		21094152|23724280|32736004|32818823
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	128.45		29177025
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	128.45		10607690|11604554|12801854|17564563|18363177|8546128|9158667|9763554
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	128.45		29968957
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	128.45		3353995|9763232
+ckm	Acute Kidney Injury	MESH:D058186	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Zinc	128.45		7800247
+ckm	Kidney Calculi	MESH:D007669	CKM	1158	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Allopurinol	12.27		1682578|7871619
+ckm	Kidney Calculi	MESH:D007669	CKM	1158	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	12.27		1671989|8576746
+ckm	Kidney Calculi	MESH:D007669	CKM	1158	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Phenytoin	12.27		18620500
+ckm	Kidney Calculi	MESH:D007669	CKM	1158	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	12.27		8112761
+ckm	Kidney Cortex Necrosis	MESH:D007673	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	14.54		16133628
+ckm	Kidney Cortex Necrosis	MESH:D007673	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	14.54		23845967
+ckm	Kidney Cortex Necrosis	MESH:D007673	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	14.54		19761811|30682439
+ckm	Kidney Cortex Necrosis	MESH:D007673	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	14.54		15245572|18842672|19761811
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	1,3-dimethylthiourea	225.16		8160791
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	225.16		11334364|11812892|12005112|12587719|12721325|15363587|15629190|15629191|17391827|18068886|1881229|19117117|19345714|19761811|19922764|20067817|20446790|2356566|2651928|26767949|30794797|31777137|3659833|7155631|7979097
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	225.16		14972420|15496615|16877488|17448119|18174269|18278066|18752385|20502036|21424224|30641872|35055458
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acrylamide	225.16		29913234
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Albuterol	225.16		16428940
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Allopurinol	225.16		19605544|19761811|22426011|22865646|34687833
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Apigenin	225.16		30107153
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	225.16		23471352|26184899|29130132|30516227|31612257|32919218|35317438
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	225.16		11289703|21803694
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	225.16		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	225.16		25214260|8086032
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	225.16		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	225.16		25899501|2905310|29522708|34029542
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carmustine	225.16		16126841|8477204
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carvedilol	225.16		11682445|20452391|26751708
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Clarithromycin	225.16		17504225
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	225.16		21338618
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cocaine	225.16		10775076|12940616|15013162|1569994|19761732|7740552|8194290|9181276|9786294
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Copper	225.16		20035423|24627433|30090589
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	crocin	225.16		25899501|26584762
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Curcumin	225.16		19345714|25119790|31612257|34802538
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cyclophosphamide	225.16		17580253|17874068|17922055|19761811|20621952|34748891|8477204|9815949
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Daunorubicin	225.16		17922055|20452391|20888384|7055822
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	decamethrin	225.16		23566885|24121187|28595958|28987327|31454128|33396045|34216712|35055458|35678313
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	225.16		12414515|12574103|19879934|26271896
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Dichloroacetic Acid	225.16		17006073
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	225.16		24508291|24877639|25025298|26423427|26980705|27292126|29526571|30298849|31063766|31454063|31726037|31811911|31981641|32259528|37054934
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	225.16		23359474|29669060|3206528|36610486
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	225.16		10088175|10094850|10344349|10430982|10755322|11124598|11345653|11401411|11867952|11996090|12012391|12386277|12540035|12674635|135666|14564477|14728886|15033991|15369732|15577213|15578190|15699352|16246977|16325981|16775033|16988067|17329577|17522263|1793151|18440303|18487002|19013753|19018148|1905199|19066422|19429242|19883716|19960953|20606417|22287321|24799355|25268985|26721193|2791187|28082111|3124293|31830546|3456068|36988379|3764673|3781430|3898001|7191768|7830283|7838258|7987999|8289579|9192910|9606733|9704904
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Estradiol	225.16		15618244|6305905
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Ethanol	225.16		25859307|31811911|32894639|36085217
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Ethinyl Estradiol	225.16		19761811
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Etoposide	225.16		11149742|11305414|7532742|8477204
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	furan	225.16		21254322
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gallic Acid	225.16		36272503
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	225.16		10759677|10990387|12419699|12571406|1263024|12877940|1322021|1340440|1438039|1462001|15086898|15267137|16128912|16925772|17202664|17636248|17899318|17934191|18289764|18441258|1856146|19349640|19500072|19535489|19548288|1976338|19967075|20435566|20816719|20829429|20849911|21081137|21396950|21616119|22061828|22526374|23142791|23335628|2351627|23535405|23651617|2424533|24863737|27401566|2791871|28116922|28904298|2905310|29126144|2914447|30368989|30458643|31628940|319355|3316564|33722575|34350654|3952992|4073872|4306975|475363|500516|6184909|6340504|6364908|6421944|6437310|6479501|659347|659349|659354|6643700|6728084|6797359|696801|6988713|707512|7082782|7103453|7121387|7182340|7194655|7204294|7217852|7235657|7330449|736249|7725344|7872367|80528|8056701|8160791|8308589|8913452|8971904|899868|900916|968458|9741354
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Glycerol	225.16		19452295|19484701|26562095|34084059
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	225.16		29463041
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Isotretinoin	225.16		9198075
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	lead acetate	225.16		17882470|22581110|22728154|23428833|30980911|32116774
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Lipopolysaccharides	225.16		12861172|21327618|22128259|26271896|33038329|9445295
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Lithium Chloride	225.16		23651617|2873033|8773480|9694524
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Mitoxantrone	225.16		9815949
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Nanotubes, Carbon	225.16		32856799
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Nickel	225.16		30090589|31639282
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Oxygen	225.16		25214260|25448280
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Ozone	225.16		20446790
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Paraquat	225.16		20095327
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	225.16		33393722
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Pentoxifylline	225.16		19212910|22847133|2327772
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	225.16		11594702|1239223|17006072|2734806|4416261|6782217|7059030|982456
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Phenytoin	225.16		1669223|4044332
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Pioglitazone	225.16		22989705|36988379
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	225.16		15267137|15577213|16671961|17132217|17135156|17385802|19952499|19960953|21939360|32651782
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Proanthocyanidins	225.16		22108423
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Progesterone	225.16		6305905
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Quercetin	225.16		16962696|19605544|19615871|21909718|22728154|34748891|36990423
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Rosiglitazone	225.16		18413206|19193937|19246972
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	schizandrin B	225.16		21369715|21616119
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Simvastatin	225.16		20403180
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	sodium arsenate	225.16		30456172|33418080
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	225.16		10924798|17882470|18434106|19672740|20008137|24961358|26349760|26631322|29935397|30066062|30558456|31844926|34006163
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	sodium bichromate	225.16		11489360
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Sodium Fluoride	225.16		20859737|23933529|31844926|37105417|982456
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Sodium Selenite	225.16		25728528
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Thioacetamide	225.16		19761811|23142791|37008694
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	titanium dioxide	225.16		25406100
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	225.16		17285313|22728725|23037997|31068537|31618666|33132242
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Triclosan	225.16		145039
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	225.16		10937350|11322374|3935422|6782217|9175586
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	vinclozolin	225.16		20927350|21570938|31682807
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	225.16		12488133|15669049|17448119|23347876|9530244
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Water Pollutants, Chemical	225.16		22471926
+ckm	Kidney Diseases	MESH:D007674	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Zinc	225.16		16960431|19369054|19445918|21424224|30090589|32544558
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	43.42		11752356|3050572|7969358
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Albuterol	43.42		2384735
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Allopurinol	43.42		8842764
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Carvedilol	43.42		15960146
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cocaine	43.42		10745478|11532684|15335299
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Copper	43.42		16518626
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Curcumin	43.42		19225048
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Daunorubicin	43.42		1895550|2250403|2352357
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	43.42		11014987|15960146|16707910|9102927
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	43.42		16518626
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Paraquat	43.42		26177651
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Petroleum	43.42		26177651
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Simvastatin	43.42		12410059
+ckm	Kidney Failure, Chronic	MESH:D007676	CKM	1158	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Zinc	43.42		16518626
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	4,4'-diaminodiphenylmethane	30.74		6582329
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	30.74		11679798|2912549|3834336|8793360
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Captan	30.74		8441825
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cyclophosphamide	30.74		10806575|12094715|1414768|18298334|3586163|6868239|7288948|8602639|9739590
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Dichloroacetic Acid	30.74		11532874
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	30.74		8602639
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Estradiol	30.74		10326862|10402247|15610895|8221684|9683190|9683193
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	30.74		28245158
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	30.74		20663906|24923549
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	30.74		9192818
+ckm	Kidney Neoplasms	MESH:D007680	CKM	1158	Cancer|Urogenital disease (female)|Urogenital disease (male)	Water Pollutants, Chemical	30.74		24552493
+ckm	Kidney Papillary Necrosis	MESH:D007681	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	12.93		1203171|1919871|2362779|3050572|3559797|6025602|6126946|6590001|6776978|7412682
+ckm	Kidney Papillary Necrosis	MESH:D007681	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Allopurinol	12.93		620206
+ckm	Kidney Papillary Necrosis	MESH:D007681	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cyclophosphamide	12.93		1488776
+ckm	Kidney Papillary Necrosis	MESH:D007681	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	12.93		3102426
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	34.55		11881430|12060523|12832150|16354242|16532256|17624227|18645506|1987650|20352459|2362779|3173602|3380218|3420447|3559797|3796197|4062453|4082192|6868092|7282722|7566947|7579069|8473360|851123|989539
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Acetylcysteine	34.55		17365906
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	34.55		23845967
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Cocaine	34.55		12772079|2710269
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Copper	34.55		22465980
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Ethanol	34.55		9297132
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Gentamicins	34.55		11231351|1130930|12176111|12818927|14748758|15795518|16751989|1743919|19802993|25677510|2755919|30682439|3156984|3159593|4122055|4678426|6365403|657154|6877460|7352791|735819|8184137|8583688|9585304
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Glycerol	34.55		8583688
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	34.55		3395247
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	34.55		16492795
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Quercetin	34.55		15198074
+ckm	Kidney Tubular Necrosis, Acute	MESH:D007683	CKM	1158	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	34.55		9378467
+ckm	Multicystic Dysplastic Kidney	MESH:D021782	CKM	1158	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	3.94		17310358
+ckm	Polycystic Kidney Diseases	MESH:D007690	CKM	1158	Congenital abnormality|Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	Rosiglitazone	3.34		20507283
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	32.88		21620867|28759707|29286200|32818823|35122928
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	32.88		31654708|32687258|8546128|9763554
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Ethanol	32.88		28285099|3747662
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	32.88		1068326|10980121|11532093|135854|15149334|15625121|16316344|16595132|17003819|18480750|18626492|19552531|23255615|24275386|25559736|2566606|30405444|31447676|31593741|33404076|35191561|35772596|4142233|5070373|562503|745638|7531211|851170|8594875
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	32.88		15007713|2191029|2872506|2886806|3071148|3600902|3616022|3727353|3975749|3978662|3980192|4000350|4071154|448822|464454|6589647|6781208|6949485|6952058|7017180|718323|7305576|7375974|7386499|8163032|8240599|8671983|9052853
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	32.88		19797351|34751495
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	32.88		18680783|19736602|22021999
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	32.88		16488442|16538975|21593185|24958931
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	32.88		29177025
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	32.88		10607690|11604554|12801854|17564563|18363177|8546128|9158667|9763554
+ckmt1a	Acute Kidney Injury	MESH:D058186	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Zinc	32.88		7800247
+ckmt1a	Kidney Calculi	MESH:D007669	CKMT1A	548596	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	7.54		1671989|8576746
+ckmt1a	Kidney Calculi	MESH:D007669	CKMT1A	548596	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Resveratrol	7.54		24145091|34333021
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	42.26		11289703|21803694
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	42.26		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	42.26		12414515|12574103|19879934|26271896
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Dibutyl Phthalate	42.26		23359474|29526571
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	42.26		23359474|29669060|3206528|36610486
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Ethanol	42.26		25859307|31811911|32894639|36085217
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	42.26		11832423|14633603|1482756|160016|18633340|193486|19435794|19934081|20116427|20406136|21647593|22647887|2386429|2840627|29789558|34619300|35124148|4336412
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	42.26		10516392|12970633|1489412|15037210|17190690|1913620|19445918|19761811|20035423|2112558|2284768|2424533|25110317|2766920|7019841|7108667|7661171|7791169|8308589|8440438|9284854|9507041|9521382
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	42.26		33393722
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	42.26		15267137|15577213|16671961|17132217|17135156|17385802|19952499|19960953|21939360|32651782
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	42.26		16971220|17202664|18754105|20651248|22865646|23471352|23767859|25025298|26423427|27377006|29574132|32894639
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Thalidomide	42.26		21505091|26134001
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Triclosan	42.26		145039
+ckmt1a	Kidney Diseases	MESH:D007674	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Zinc	42.26		16960431|19369054|19445918|21424224|30090589|32544558
+ckmt1a	Kidney Diseases, Cystic	MESH:D052177	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	3.59		8092206
+ckmt1a	Kidney Failure, Chronic	MESH:D007676	CKMT1A	548596	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Folic Acid	10.11		4810836
+ckmt1a	Kidney Failure, Chronic	MESH:D007676	CKMT1A	548596	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	10.11		6986554
+ckmt1a	Kidney Failure, Chronic	MESH:D007676	CKMT1A	548596	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Zinc	10.11		16518626
+ckmt1a	Kidney Neoplasms	MESH:D007680	CKMT1A	548596	Cancer|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	2.57		7614682
+ckmt1a	Kidney Papillary Necrosis	MESH:D007681	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	7.99		3102426
+ckmt1a	Kidney Papillary Necrosis	MESH:D007681	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	7.99		12512867|277165|3102426|4548752|6125715|6953356|861066|9502396|972771
+ckmt1a	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Ethanol	18.70		9297132
+ckmt1a	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	18.70		12969123|12969128|14633603|18480750
+ckmt1a	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	18.70		860058
+ckmt1a	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	18.70		16492795
+ckmt1a	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1A	548596	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	18.70		9378467
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	30.82		24625398
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	30.82		21620867|28759707|29286200|32818823|35122928
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	30.82		10454517|11977638|12180108|12690470|15814532|16316343|17670903|19144690|19833167|19913604|20369241|20419391|20463654|20510337|20514524|20603111|20650967|20652569|20656754|20676799|20817559|20844023|20844471|20861081|20942565|20943766|21044617|21048024|21048391|21058009|21256724|21272267|21325496|21458517|21470069|21570986|21593185|21633170|2170045|21745194|21802473|21835770|21847101|22005293|22581811|22992436|23384965|23649842|24012798|24113306|24632086|24778426|24973089|24975837|25184746|25382014|25598344|25957482|26165641|26230185|26546572|26723870|27480280|28321044|28414026|28698153|28885000|28902463|29126144|29476062|29599129|30291731|31103702|31153982|3152939|31926187|32110797|32504734|32777238|32888910|33965372|34560070|34785303|35279909|35367536|35403300|36006825|37057715|37087747|37179038|37863467|6350313|657154|7018267|7199128
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Etoposide	30.82		1411625|3152939|7858489
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Methotrexate	30.82		10609804|10752997|10985069|11459208|12605394|1282715|1450620|14970366|15139068|15252273|15504095|15668713|15984523|16326413|16786587|16912244|17349162|17387702|17519458|1758061|17609630|17701600|18045317|1838364|18924527|18997139|19131789|1920332|19833686|19863208|19956493|20009434|20155268|2546688|2689182|2872506|2918955|31039415|3427224|36249937|3812535|3978662|6350313|6607976|666479|7857106|8569964|8625136|9243235|9638991
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Mitomycin	30.82		2508290|2982552|6796250|6870446
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Paraquat	30.82		21991918|26988026|28123623|30562684|33838153
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	30.82		11014318|11956877|17415292|7942812|9219172|9550661
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Smoke	30.82		10095180|578557
+ckmt1b	Acute Kidney Injury	MESH:D058186	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	30.82		29177025
+ckmt1b	Kidney Cortex Necrosis	MESH:D007673	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	9.21		15464296|19761811|28321044
+ckmt1b	Kidney Cortex Necrosis	MESH:D007673	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Mitomycin	9.21		6796250
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Acrylamide	40.82		29913234
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Atrazine	40.82		30360616|35440735
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	40.82		11289703|21803694
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	40.82		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	40.82		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	40.82		10396320|10812192|11090055|11305414|11745184|11776407|12231392|12649298|12815610|14966836|15190930|15267137|15496615|15934019|16154539|16246977|16428940|16723030|17135156|17922055|1793151|18289764|18956176|19038279|19152827|19356226|19535489|19723570|19736245|19839026|19850470|20435919|20438795|20605904|20716785|21605616|21616140|21640784|21724663|21763304|21803049|21883567|21884784|21902499|21939360|21949094|21993003|22019697|22525860|22989705|23142791|23229315|2326543|23287709|23603837|23770416|23959918|24001450|2413982|2424627|24863737|24880025|25015656|25043994|25308879|25665769|25927922|26558470|26612654|26739623|26751708|27317936|27397436|27616468|27722009|28904298|29216766|29471006|29574132|29752894|29852128|30169741|30452898|30842369|31306688|31493026|31612257|32418911|32991863|33522649|34423507|34476871|35243731|37102204|37561086|37956922|6181679|6203452|6538115|6542584|7191768|7532742|7706473|8178319|8270973|8413339|8584014|8626111|8751544|8845212|9057954|9144837|9256891|9381703
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Copper	40.82		20035423|24627433|30090589
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Estradiol	40.82		15618244|6305905
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Etoposide	40.82		11149742|11305414|7532742|8477204
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	furan	40.82		21254322
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Methotrexate	40.82		10206466|11881788|12196049|12376811|12533039|16246977|16877488|17613868|18055849|18551038|1913620|24241962|27377006|29216766|37312617|5763245|6609105|8943876
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Mitomycin	40.82		6010939|6105503
+ckmt1b	Kidney Diseases	MESH:D007674	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Paraquat	40.82		20095327
+ckmt1b	Kidney Failure, Chronic	MESH:D007676	CKMT1B	1159	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Atrazine	19.98		26177651
+ckmt1b	Kidney Failure, Chronic	MESH:D007676	CKMT1B	1159	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Copper	19.98		16518626
+ckmt1b	Kidney Failure, Chronic	MESH:D007676	CKMT1B	1159	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Mitomycin	19.98		6340628|6796250|6810311|9016902
+ckmt1b	Kidney Failure, Chronic	MESH:D007676	CKMT1B	1159	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Paraquat	19.98		26177651
+ckmt1b	Kidney Failure, Chronic	MESH:D007676	CKMT1B	1159	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	19.98		10344375
+ckmt1b	Kidney Neoplasms	MESH:D007680	CKMT1B	1159	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	10.25		28321044
+ckmt1b	Kidney Neoplasms	MESH:D007680	CKMT1B	1159	Cancer|Urogenital disease (female)|Urogenital disease (male)	Estradiol	10.25		10326862|10402247|15610895|8221684|9683190|9683193
+ckmt1b	Kidney Neoplasms	MESH:D007680	CKMT1B	1159	Cancer|Urogenital disease (female)|Urogenital disease (male)	Smoke	10.25		2912549|8602639
+ckmt1b	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	10.30		11231351|18368030|19797351|20702592|21881242|24975837|25677510|2680578|29051111|30682439|7855315|8457719|8583688
+ckmt1b	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Copper	10.30		22465980
+ckmt1b	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT1B	1159	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	10.30		16354242
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	68.54		10454517|10462288|10529635|15058171|15118981|15546480|1605724|1676404|19109935|19183124|19369842|19515070|19639374|19815612|19995690|22093918|2302954|2873910|30099449|3403780|35020164|35243748|3605153|3747662|3827589|3992409|455818|6173498|6708674|6800515|6802245|6825559|6877410|7100020|7318260|7364436|7969685|8156726|8244261|8317017|8669426|8812206|9085330|9381478|9796772|9858252
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	68.54		16161930|3057269|6701599|7058372|8099372|9467496
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	68.54		24625398
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cadmium	68.54		37357614
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	68.54		21620867|28759707|29286200|32818823|35122928
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cantharidin	68.54		35398186
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	68.54		12503032|55557|7437867
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	68.54		11271297|11576359|12131698|1539206|1839490|21058009|22005293|2368707|2576639|2940667|29975447|3086006|3544376|3544821|6342655|7518975|7566623
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	68.54		31654708|32687258|8546128|9763554
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	68.54		18680783|21354902|21812276|25411067|26825964|28885000|29474904|30543781|3070145|31376360|32289291
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	68.54		24361898|32818823
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	68.54		15007713|2191029|2872506|2886806|3071148|3600902|3616022|3727353|3975749|3978662|3980192|4000350|4071154|448822|464454|6589647|6781208|6949485|6952058|7017180|718323|7305576|7375974|7386499|8163032|8240599|8671983|9052853
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Nickel	68.54		21600195
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Nicotine	68.54		21511693
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Oxygen	68.54		12819242|16153449|27363640
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	68.54		19797351|34751495
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	pirinixic acid	68.54		12503032
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	68.54		18680783|19736602|22021999
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	68.54		16488442|16538975|21593185|24958931
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Streptozocin	68.54		6281169
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Sunitinib	68.54		20652569
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	68.54		29177025
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	68.54		29968957
+ckmt2	Acute Kidney Injury	MESH:D058186	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Vehicle Emissions	68.54		19797351|34751495
+ckmt2	Kidney Calculi	MESH:D007669	CKMT2	1160	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	10.57		1671989|8576746
+ckmt2	Kidney Calculi	MESH:D007669	CKMT2	1160	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Resveratrol	10.57		24145091|34333021
+ckmt2	Kidney Calculi	MESH:D007669	CKMT2	1160	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Streptozocin	10.57		2827466
+ckmt2	Kidney Cortex Necrosis	MESH:D007673	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Amphetamine	7.35		16133628
+ckmt2	Kidney Cortex Necrosis	MESH:D007673	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	7.35		19761811|30682439
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	98.66		11334364|11812892|12005112|12587719|12721325|15363587|15629190|15629191|17391827|18068886|1881229|19117117|19345714|19761811|19922764|20067817|20446790|2356566|2651928|26767949|30794797|31777137|3659833|7155631|7979097
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acrolein	98.66		12488133|17891346
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acrylamide	98.66		29913234
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Atrazine	98.66		30360616|35440735
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	98.66		11289703|21803694
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	98.66		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cadmium	98.66		11090055|16226777|16322080|16443174|16601012|16962696|17125799|17303580|17448585|19270785|19615871|19700501|21888673|22027495|22033168|22467032|22995156|23095357|24276216|24629167|24923654|25240712|25940730|28248635|30090589|30684957|31639282|32246071|33398418|33857584|34510229|35384154|37270049|37342552|37949422|7676455
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	98.66		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Clofibrate	98.66		21338618
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	98.66		10903974|11063349|11091246|11544444|11558484|11583940|11773892|12110003|12243498|12362282|12394605|12427154|12469693|12584269|12883193|1436300|14550466|14659064|15147428|15339989|15365603|16858688|16980036|17132217|17199845|17430485|17461532|17879355|18001539|18582803|18776723|19391111|19761811|21073006|21354196|2165371|21865292|22343435|23347876|23958496|24462674|24502637|24907557|24971338|26311998|2881198|2889119|3032224|3122121|32298299|3458551|3708922|3895668|3899437|3915162|3916516|3925762|6340275|6349046|7508536|7532089|7540737|7542793|7666081|8314463|8832009|9154655|9509456|9664955|9815949
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	98.66		12414515|12574103|19879934|26271896
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Dichloroacetic Acid	98.66		17006073
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	98.66		23359474|29669060|3206528|36610486
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Dioxins	98.66		35440735
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	98.66		10088175|10094850|10344349|10430982|10755322|11124598|11345653|11401411|11867952|11996090|12012391|12386277|12540035|12674635|135666|14564477|14728886|15033991|15369732|15577213|15578190|15699352|16246977|16325981|16775033|16988067|17329577|17522263|1793151|18440303|18487002|19013753|19018148|1905199|19066422|19429242|19883716|19960953|20606417|22287321|24799355|25268985|26721193|2791187|28082111|3124293|31830546|3456068|36988379|3764673|3781430|3898001|7191768|7830283|7838258|7987999|8289579|9192910|9606733|9704904
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Estradiol	98.66		15618244|6305905
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	98.66		25434756|33296237|35440735|37001608
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	98.66		10516392|12970633|1489412|15037210|17190690|1913620|19445918|19761811|20035423|2112558|2284768|2424533|25110317|2766920|7019841|7108667|7661171|7791169|8308589|8440438|9284854|9507041|9521382
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	JP8 aviation fuel	98.66		32905848|35440735|8748423
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Nanotubes, Carbon	98.66		32856799
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Nickel	98.66		30090589|31639282
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Oxygen	98.66		25214260|25448280
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Ozone	98.66		20446790
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	98.66		33393722
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Pioglitazone	98.66		22989705|36988379
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	98.66		15267137|15577213|16671961|17132217|17135156|17385802|19952499|19960953|21939360|32651782
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	98.66		16971220|17202664|18754105|20651248|22865646|23471352|23767859|25025298|26423427|27377006|29574132|32894639
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Streptozocin	98.66		11798618|12093613|12956402|135666|15053821|16037304|18413206|185926|19246972|19369054|19616452|199092|20732820|21450970|21630391|23376009|23767859|24877639|24923654|25665769|27292126|29526571|30642005|31063766|31726037|32246071|33387473|33639173|34039237|34212273|35243728|37054934
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	T-2 Toxin	98.66		33508416
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	titanium dioxide	98.66		25406100
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	98.66		17285313|22728725|23037997|31068537|31618666|33132242
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	98.66		10937350|11322374|3935422|6782217|9175586
+ckmt2	Kidney Diseases	MESH:D007674	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Vehicle Emissions	98.66		33393722
+ckmt2	Kidney Diseases, Cystic	MESH:D052177	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	13.54		31011160
+ckmt2	Kidney Diseases, Cystic	MESH:D052177	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	13.54		8092206
+ckmt2	Kidney Diseases, Cystic	MESH:D052177	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Streptozocin	13.54		9879822
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	18.72		11752356|3050572|7969358
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Atrazine	18.72		26177651
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cadmium	18.72		23343055
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	18.72		11014987|15960146|16707910|9102927
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	18.72		6986554
+ckmt2	Kidney Failure, Chronic	MESH:D007676	CKMT2	1160	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Streptozocin	18.72		6459048
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	1,2-Dimethylhydrazine	39.31		9695784
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	4,4'-diaminodiphenylmethane	39.31		6582329
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	39.31		11679798|2912549|3834336|8793360
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cadmium	39.31		20839231
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	39.31		12371664|1825617
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Dichloroacetic Acid	39.31		11532874
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	39.31		8602639
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Estradiol	39.31		10326862|10402247|15610895|8221684|9683190|9683193
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	39.31		7614682
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Streptozocin	39.31		11396141|145871|1825617|1834880|207424|2532796|6210642|6225653|7697213|8290873|9083521
+ckmt2	Kidney Neoplasms	MESH:D007680	CKMT2	1160	Cancer|Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	39.31		20663906|24923549
+ckmt2	Kidney Papillary Necrosis	MESH:D007681	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	10.99		1203171|1919871|2362779|3050572|3559797|6025602|6126946|6590001|6776978|7412682
+ckmt2	Kidney Papillary Necrosis	MESH:D007681	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Diethylhexyl Phthalate	10.99		3102426
+ckmt2	Kidney Papillary Necrosis	MESH:D007681	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	10.99		12512867|277165|3102426|4548752|6125715|6953356|861066|9502396|972771
+ckmt2	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	14.48		11881430|12060523|12832150|16354242|16532256|17624227|18645506|1987650|20352459|2362779|3173602|3380218|3420447|3559797|3796197|4062453|4082192|6868092|7282722|7566947|7579069|8473360|851123|989539
+ckmt2	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	14.48		1778857|6336959|6351368
+ckmt2	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	14.48		860058
+ckmt2	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	14.48		16492795
+ckmt2	Kidney Tubular Necrosis, Acute	MESH:D007683	CKMT2	1160	Urogenital disease (female)|Urogenital disease (male)	Streptozocin	14.48		15590127|15954931|3156984
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	75.68		10454517|10462288|10529635|15058171|15118981|15546480|1605724|1676404|19109935|19183124|19369842|19515070|19639374|19815612|19995690|22093918|2302954|2873910|30099449|3403780|35020164|35243748|3605153|3747662|3827589|3992409|455818|6173498|6708674|6800515|6802245|6825559|6877410|7100020|7318260|7364436|7969685|8156726|8244261|8317017|8669426|8812206|9085330|9381478|9796772|9858252
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	alpha-Chlorohydrin	75.68		29860048
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	75.68		24530882|26204831|27422293|34677723
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	75.68		24625398
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cadmium	75.68		37357614
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	75.68		21620867|28759707|29286200|32818823|35122928
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	75.68		24975872|28285099|30825423
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cephaloridine	75.68		1130272|1201976|2728142|4589000|4982004|5074752|5289757|5475848|8164396|9455678
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	chromium hexavalent ion	75.68		30236763
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	75.68		10454517|11977638|12180108|12690470|15814532|16316343|17670903|19144690|19833167|19913604|20369241|20419391|20463654|20510337|20514524|20603111|20650967|20652569|20656754|20676799|20817559|20844023|20844471|20861081|20942565|20943766|21044617|21048024|21048391|21058009|21256724|21272267|21325496|21458517|21470069|21570986|21593185|21633170|2170045|21745194|21802473|21835770|21847101|22005293|22581811|22992436|23384965|23649842|24012798|24113306|24632086|24778426|24973089|24975837|25184746|25382014|25598344|25957482|26165641|26230185|26546572|26723870|27480280|28321044|28414026|28698153|28885000|28902463|29126144|29476062|29599129|30291731|31103702|31153982|3152939|31926187|32110797|32504734|32777238|32888910|33965372|34560070|34785303|35279909|35367536|35403300|36006825|37057715|37087747|37179038|37863467|6350313|657154|7018267|7199128
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	75.68		31654708|32687258|8546128|9763554
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	75.68		24795233
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	75.68		18680783|21354902|21812276|25411067|26825964|28885000|29474904|30543781|3070145|31376360|32289291
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Flutamide	75.68		12180480
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	75.68		15007713|2191029|2872506|2886806|3071148|3600902|3616022|3727353|3975749|3978662|3980192|4000350|4071154|448822|464454|6589647|6781208|6949485|6952058|7017180|718323|7305576|7375974|7386499|8163032|8240599|8671983|9052853
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Paraquat	75.68		21991918|26988026|28123623|30562684|33838153
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	75.68		19797351|34751495
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	perfluorooctane sulfonic acid	75.68		35934180
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	75.68		1485575
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	75.68		18680783|19736602|22021999
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Potassium Dichromate	75.68		10463391|18331393|19766176|20433818
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	75.68		16488442|16538975|21593185|24958931
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Rifampin	75.68		10493553|10493554|10599213|10778640|1105220|11100541|11209029|11344970|11471316|1161475|11744817|11798598|11820654|11837753|11977498|12043271|12324902|1232790|1358323|14677899|1504213|15195854|1522360|15282971|16334628|171721|1751695|17879217|18445910|188103|19764465|19861876|2083961|27331|2773924|2782777|2849191|2865789|3107382|3440849|3658067|3711013|3721334|3738573|3746041|3984005|4113222|4123591|4216838|441713|4431274|4431709|4458064|4522073|4573698|4733898|4759231|4760680|4760681|4761453|4830481|4834100|4843503|5314737|538115|605260|613422|6222344|6232081|6264568|6320343|6472533|6487531|6535234|6536642|6549453|6619694|6627764|674760|6837655|694100|699240|7145904|7184224|724142|7255395|7255821|7259963|7299234|7328998|7342359|7360681|7391636|7394612|7404471|7443620|746030|7705802|7936035|798137|8015255|8184201|824103|8502323|866165|879592|9175425|935113|9428460|946666|9546693|9568851|968107|9740177|982002|997458
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	75.68		21094152|23724280|32736004|32818823
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	75.68		29177025
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	75.68		29968957
+slc16a12	Acute Kidney Injury	MESH:D058186	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Vehicle Emissions	75.68		19797351|34751495
+slc16a12	Chronic Kidney Diseases of Uncertain Etiology	MESH:D000092702	SLC16A12	387700	Occupational disease|Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Endosulfan	4.63		36513242
+slc16a12	Kidney Calculi	MESH:D007669	SLC16A12	387700	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	5.94		1671989|8576746
+slc16a12	Kidney Calculi	MESH:D007669	SLC16A12	387700	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Resveratrol	5.94		24145091|34333021
+slc16a12	Kidney Cortex Necrosis	MESH:D007673	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	11.73		23845967
+slc16a12	Kidney Cortex Necrosis	MESH:D007673	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	11.73		15464296|19761811|28321044
+slc16a12	Kidney Cortex Necrosis	MESH:D007673	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	11.73		19761811|30682439
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	125.41		11334364|11812892|12005112|12587719|12721325|15363587|15629190|15629191|17391827|18068886|1881229|19117117|19345714|19761811|19922764|20067817|20446790|2356566|2651928|26767949|30794797|31777137|3659833|7155631|7979097
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Aflatoxin B1	125.41		32894639|35304092
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	alpha-Chlorohydrin	125.41		27017489|30107153|33187795|33651226|34915118|35149085
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	125.41		20338233|21554934|22086975|22445861|22472514|22525892|23939141|24412304|25663515|31048001|31602497|33722575|35690179|37084829
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Atrazine	125.41		30360616|35440735
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	125.41		11289703|21803694
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	125.41		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cadmium	125.41		11090055|16226777|16322080|16443174|16601012|16962696|17125799|17303580|17448585|19270785|19615871|19700501|21888673|22027495|22033168|22467032|22995156|23095357|24276216|24629167|24923654|25240712|25940730|28248635|30090589|30684957|31639282|32246071|33398418|33857584|34510229|35384154|37270049|37342552|37949422|7676455
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	125.41		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	125.41		25899501|2905310|29522708|34029542
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cephaloridine	125.41		12147306|1588439|2681127|2752494|2905310|5396519|5488206|595008|6375559|6845359|7624867|7861655|8584014|9933756
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Chlorpyrifos	125.41		28675853|31479757|32500495|33908150
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	chromium hexavalent ion	125.41		17822687|19913299|20348018|36108929
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	125.41		10396320|10812192|11090055|11305414|11745184|11776407|12231392|12649298|12815610|14966836|15190930|15267137|15496615|15934019|16154539|16246977|16428940|16723030|17135156|17922055|1793151|18289764|18956176|19038279|19152827|19356226|19535489|19723570|19736245|19839026|19850470|20435919|20438795|20605904|20716785|21605616|21616140|21640784|21724663|21763304|21803049|21883567|21884784|21902499|21939360|21949094|21993003|22019697|22525860|22989705|23142791|23229315|2326543|23287709|23603837|23770416|23959918|24001450|2413982|2424627|24863737|24880025|25015656|25043994|25308879|25665769|25927922|26558470|26612654|26739623|26751708|27317936|27397436|27616468|27722009|28904298|29216766|29471006|29574132|29752894|29852128|30169741|30452898|30842369|31306688|31493026|31612257|32418911|32991863|33522649|34423507|34476871|35243731|37102204|37561086|37956922|6181679|6203452|6538115|6542584|7191768|7532742|7706473|8178319|8270973|8413339|8584014|8626111|8751544|8845212|9057954|9144837|9256891|9381703
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	decamethrin	125.41		23566885|24121187|28595958|28987327|31454128|33396045|34216712|35055458|35678313
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Dexamethasone	125.41		12414515|12574103|19879934|26271896
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	125.41		24508291|24877639|25025298|26423427|26980705|27292126|29526571|30298849|31063766|31454063|31726037|31811911|31981641|32259528|37054934
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Dioxins	125.41		35440735
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	125.41		10088175|10094850|10344349|10430982|10755322|11124598|11345653|11401411|11867952|11996090|12012391|12386277|12540035|12674635|135666|14564477|14728886|15033991|15369732|15577213|15578190|15699352|16246977|16325981|16775033|16988067|17329577|17522263|1793151|18440303|18487002|19013753|19018148|1905199|19066422|19429242|19883716|19960953|20606417|22287321|24799355|25268985|26721193|2791187|28082111|3124293|31830546|3456068|36988379|3764673|3781430|3898001|7191768|7830283|7838258|7987999|8289579|9192910|9606733|9704904
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Estradiol	125.41		15618244|6305905
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	125.41		29463041
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Hydroxyurea	125.41		9256830
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	125.41		10516392|12970633|1489412|15037210|17190690|1913620|19445918|19761811|20035423|2112558|2284768|2424533|25110317|2766920|7019841|7108667|7661171|7791169|8308589|8440438|9284854|9507041|9521382
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Nanotubes, Carbon	125.41		32856799
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Ozone	125.41		20446790
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Paraquat	125.41		20095327
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	125.41		33393722
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	125.41		11594702|1239223|17006072|2734806|4416261|6782217|7059030|982456
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	125.41		15267137|15577213|16671961|17132217|17135156|17385802|19952499|19960953|21939360|32651782
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Potassium Dichromate	125.41		15854231|17822687|18155343|18441258|18805471|19665454|19913299|22115772|25245570|2905310|30090589|32980475
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Resveratrol	125.41		16971220|17202664|18754105|20651248|22865646|23471352|23767859|25025298|26423427|27377006|29574132|32894639
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Rifampin	125.41		19761811
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	schizandrin B	125.41		21369715|21616119
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	sodium arsenite	125.41		10924798|17882470|18434106|19672740|20008137|24961358|26349760|26631322|29935397|30066062|30558456|31844926|34006163
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Thioacetamide	125.41		19761811|23142791|37008694
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	titanium dioxide	125.41		25406100
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	125.41		17285313|22728725|23037997|31068537|31618666|33132242
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Triclosan	125.41		145039
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	125.41		10937350|11322374|3935422|6782217|9175586
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Vehicle Emissions	125.41		33393722
+slc16a12	Kidney Diseases	MESH:D007674	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Zearalenone	125.41		17385802
+slc16a12	Kidney Diseases, Cystic	MESH:D052177	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	3.10		8092206
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	21.62		11752356|3050572|7969358
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Atrazine	21.62		26177651
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cadmium	21.62		23343055
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	21.62		11014987|15960146|16707910|9102927
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	21.62		16518626
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	21.62		6986554
+slc16a12	Kidney Failure, Chronic	MESH:D007676	SLC16A12	387700	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Paraquat	21.62		26177651
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	1,2-Dimethylhydrazine	55.65		9695784
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	2,6-dinitrotoluene	55.65		16705839
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	4,4'-diaminodiphenylmethane	55.65		6582329
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	55.65		11679798|2912549|3834336|8793360
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Aflatoxin B1	55.65		22545673
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	55.65		19643159|21642617
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cadmium	55.65		20839231
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Chloroprene	55.65		12562636|23125180
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	55.65		28321044
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	55.65		8602639
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Estradiol	55.65		10326862|10402247|15610895|8221684|9683190|9683193
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Indomethacin	55.65		7614682
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Methylnitrosourea	55.65		11532874|28245158
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	55.65		28245158
+slc16a12	Kidney Neoplasms	MESH:D007680	SLC16A12	387700	Cancer|Urogenital disease (female)|Urogenital disease (male)	Trichloroethylene	55.65		20663906|24923549
+slc16a12	Kidney Papillary Necrosis	MESH:D007681	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	15.26		1203171|1919871|2362779|3050572|3559797|6025602|6126946|6590001|6776978|7412682
+slc16a12	Kidney Papillary Necrosis	MESH:D007681	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Bilirubin	15.26		4640596
+slc16a12	Kidney Papillary Necrosis	MESH:D007681	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	15.26		12512867|277165|3102426|4548752|6125715|6953356|861066|9502396|972771
+slc16a12	Kidney Papillary Necrosis	MESH:D007681	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Rifampin	15.26		3476051
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	33.26		11881430|12060523|12832150|16354242|16532256|17624227|18645506|1987650|20352459|2362779|3173602|3380218|3420447|3559797|3796197|4062453|4082192|6868092|7282722|7566947|7579069|8473360|851123|989539
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	aristolochic acid I	33.26		22820421
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	33.26		23845967
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cephaloridine	33.26		1159324|18500788|19802993|20305092|3172294|471144|5097409|6071504|6271094|7201831|735819|7576815|851123|8583688
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	33.26		11231351|18368030|19797351|20702592|21881242|24975837|25677510|2680578|29051111|30682439|7855315|8457719|8583688
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Indomethacin	33.26		860058
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	33.26		3395247
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Plant Extracts	33.26		16492795
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Potassium Dichromate	33.26		20305092|9765069
+slc16a12	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC16A12	387700	Urogenital disease (female)|Urogenital disease (male)	Rifampin	33.26		7121659
+slc16a12	Multicystic Dysplastic Kidney	MESH:D021782	SLC16A12	387700	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	Phenobarbital	4.24		17310358
+slc16a12	Polycystic Kidney Diseases	MESH:D007690	SLC16A12	387700	Congenital abnormality|Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	(+)-JQ1 compound	3.35		25877301
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	133.98		10454517|10462288|10529635|15058171|15118981|15546480|1605724|1676404|19109935|19183124|19369842|19515070|19639374|19815612|19995690|22093918|2302954|2873910|30099449|3403780|35020164|35243748|3605153|3747662|3827589|3992409|455818|6173498|6708674|6800515|6802245|6825559|6877410|7100020|7318260|7364436|7969685|8156726|8244261|8317017|8669426|8812206|9085330|9381478|9796772|9858252
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	alpha-Chlorohydrin	133.98		29860048
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ampicillin	133.98		14736991|653062|6649724
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	133.98		18463343
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Atenolol	133.98		9640485
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	133.98		24625398
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	133.98		16153449|27363640
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cadmium	133.98		37357614
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	133.98		21620867|28759707|29286200|32818823|35122928
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	133.98		11346062|12005248|1494733|19995690|2918954|4653892
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	133.98		24975872|28285099|30825423
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	chromium hexavalent ion	133.98		30236763
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	133.98		10454517|11977638|12180108|12690470|15814532|16316343|17670903|19144690|19833167|19913604|20369241|20419391|20463654|20510337|20514524|20603111|20650967|20652569|20656754|20676799|20817559|20844023|20844471|20861081|20942565|20943766|21044617|21048024|21048391|21058009|21256724|21272267|21325496|21458517|21470069|21570986|21593185|21633170|2170045|21745194|21802473|21835770|21847101|22005293|22581811|22992436|23384965|23649842|24012798|24113306|24632086|24778426|24973089|24975837|25184746|25382014|25598344|25957482|26165641|26230185|26546572|26723870|27480280|28321044|28414026|28698153|28885000|28902463|29126144|29476062|29599129|30291731|31103702|31153982|3152939|31926187|32110797|32504734|32777238|32888910|33965372|34560070|34785303|35279909|35367536|35403300|36006825|37057715|37087747|37179038|37863467|6350313|657154|7018267|7199128
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Copper Sulfate	133.98		30431687|602954
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Creatine	133.98		12394880|16509464|20223410|22005293
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	133.98		11271297|11576359|12131698|1539206|1839490|21058009|22005293|2368707|2576639|2940667|29975447|3086006|3544376|3544821|6342655|7518975|7566623
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	133.98		24795233
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Diflunisal	133.98		3763032|6444363|7100020
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Diquat	133.98		37277018
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	133.98		18680783|21354902|21812276|25411067|26825964|28885000|29474904|30543781|3070145|31376360|32289291
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Dronabinol	133.98		16161930
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	epigallocatechin gallate	133.98		25382014|36309138
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ethanol	133.98		28285099|3747662
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	133.98		1068326|10980121|11532093|135854|15149334|15625121|16316344|16595132|17003819|18480750|18626492|19552531|23255615|24275386|25559736|2566606|30405444|31447676|31593741|33404076|35191561|35772596|4142233|5070373|562503|745638|7531211|851170|8594875
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	133.98		24361898|32818823
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	133.98		10423592|11700753|14745553|1591437|17879100|18446376|19048246|19183124|2870244|3080108|3404105|3600902|3689062|3975749|3983674|420719|6228839|6375363|6420135|6748567|6844855|7180901|719345|7513099|7579049|8134235|9030680|9035187|9840327
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Methionine	133.98		31926187
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	N-Methyl-3,4-methylenedioxyamphetamine	133.98		11147017|16161930|8099372
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Oxygen	133.98		12819242|16153449|27363640
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	133.98		19797351|34751495
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	perfluorooctane sulfonic acid	133.98		35934180
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	pirinixic acid	133.98		12503032
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Piroxicam	133.98		12185885|2713628|4004367|6602576|6637756|8298379
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	133.98		11014318|11956877|17415292|7942812|9219172|9550661
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Quercetin	133.98		24958931|25411067|29474904|34751495
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Rotenone	133.98		30099449
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	sodium arsenate	133.98		23724280
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Sunitinib	133.98		20652569
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Tobacco Smoke Pollution	133.98		29177025
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	133.98		10607690|11604554|12801854|17564563|18363177|8546128|9158667|9763554
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	trichostatin A	133.98		29476062
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	133.98		29968957
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	133.98		3353995|9763232
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Warfarin	133.98		10620105|12243603|19577348|2500616|25499135|8632041
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Zidovudine	133.98		11214960
+slc6a8	Acute Kidney Injury	MESH:D058186	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Zoledronic Acid	133.98		17491196|19715164
+slc6a8	Chronic Kidney Disease-Mineral and Bone Disorder	MESH:D012080	SLC6A8	6535	Endocrine system disease|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Aluminum	3.82		9626627
+slc6a8	Kidney Calculi	MESH:D007669	SLC6A8	6535	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Methionine	5.62		8112761
+slc6a8	Kidney Calculi	MESH:D007669	SLC6A8	6535	Pathology (anatomical condition)|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	5.62		8112761
+slc6a8	Kidney Cortex Necrosis	MESH:D007673	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	15.24		23845967
+slc6a8	Kidney Cortex Necrosis	MESH:D007673	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	15.24		15464296|19761811|28321044
+slc6a8	Kidney Cortex Necrosis	MESH:D007673	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	15.24		19761811|30682439
+slc6a8	Kidney Cortex Necrosis	MESH:D007673	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	15.24		3729220
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	9,10-Dimethyl-1,2-benzanthracene	154.69		24995432|32623939|35243731
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	154.69		11334364|11812892|12005112|12587719|12721325|15363587|15629190|15629191|17391827|18068886|1881229|19117117|19345714|19761811|19922764|20067817|20446790|2356566|2651928|26767949|30794797|31777137|3659833|7155631|7979097
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Aflatoxin B1	154.69		32894639|35304092
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	alpha-Chlorohydrin	154.69		27017489|30107153|33187795|33651226|34915118|35149085
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ampicillin	154.69		3888810|523366|5396519
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Arsenic	154.69		10828279|11836136|22066453|22949133|24348802|30835071|31775542|32246071|32270456|32544558|32818499|33026618|33518152|36822304
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Arsenic Trioxide	154.69		23471352|26184899|29130132|30516227|31612257|32919218|35317438
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Atenolol	154.69		16428940
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Benzo(a)pyrene	154.69		11289703|21803694
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	bisphenol A	154.69		18445619|23359474|30303745|30641872|30997025|31091348|34281243|36830956
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Blood Glucose	154.69		25214260|8086032
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cadmium	154.69		11090055|16226777|16322080|16443174|16601012|16962696|17125799|17303580|17448585|19270785|19615871|19700501|21888673|22027495|22033168|22467032|22995156|23095357|24276216|24629167|24923654|25240712|25940730|28248635|30090589|30684957|31639282|32246071|33398418|33857584|34510229|35384154|37270049|37342552|37949422|7676455
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cadmium Chloride	154.69		10924798|16962696|17882470|18414974|19063931|19371613|21284339|21540277|23750309|24200859|24632105|25588984|26815315|29421648|33127495|33722575
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Caffeine	154.69		1783953|25986755|4821007
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	154.69		25899501|2905310|29522708|34029542
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Chlorpyrifos	154.69		28675853|31479757|32500495|33908150
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	chromium hexavalent ion	154.69		17822687|19913299|20348018|36108929
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	154.69		10396320|10812192|11090055|11305414|11745184|11776407|12231392|12649298|12815610|14966836|15190930|15267137|15496615|15934019|16154539|16246977|16428940|16723030|17135156|17922055|1793151|18289764|18956176|19038279|19152827|19356226|19535489|19723570|19736245|19839026|19850470|20435919|20438795|20605904|20716785|21605616|21616140|21640784|21724663|21763304|21803049|21883567|21884784|21902499|21939360|21949094|21993003|22019697|22525860|22989705|23142791|23229315|2326543|23287709|23603837|23770416|23959918|24001450|2413982|2424627|24863737|24880025|25015656|25043994|25308879|25665769|25927922|26558470|26612654|26739623|26751708|27317936|27397436|27616468|27722009|28904298|29216766|29471006|29574132|29752894|29852128|30169741|30452898|30842369|31306688|31493026|31612257|32418911|32991863|33522649|34423507|34476871|35243731|37102204|37561086|37956922|6181679|6203452|6538115|6542584|7191768|7532742|7706473|8178319|8270973|8413339|8584014|8626111|8751544|8845212|9057954|9144837|9256891|9381703
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Copper	154.69		20035423|24627433|30090589
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Creatine	154.69		20061359
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	154.69		10903974|11063349|11091246|11544444|11558484|11583940|11773892|12110003|12243498|12362282|12394605|12427154|12469693|12584269|12883193|1436300|14550466|14659064|15147428|15339989|15365603|16858688|16980036|17132217|17199845|17430485|17461532|17879355|18001539|18582803|18776723|19391111|19761811|21073006|21354196|2165371|21865292|22343435|23347876|23958496|24462674|24502637|24907557|24971338|26311998|2881198|2889119|3032224|3122121|32298299|3458551|3708922|3895668|3899437|3915162|3916516|3925762|6340275|6349046|7508536|7532089|7540737|7542793|7666081|8314463|8832009|9154655|9509456|9664955|9815949
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Dietary Fats	154.69		24508291|24877639|25025298|26423427|26980705|27292126|29526571|30298849|31063766|31454063|31726037|31811911|31981641|32259528|37054934
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Diflunisal	154.69		370954|699625
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Diquat	154.69		36851058|6527399
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	154.69		10088175|10094850|10344349|10430982|10755322|11124598|11345653|11401411|11867952|11996090|12012391|12386277|12540035|12674635|135666|14564477|14728886|15033991|15369732|15577213|15578190|15699352|16246977|16325981|16775033|16988067|17329577|17522263|1793151|18440303|18487002|19013753|19018148|1905199|19066422|19429242|19883716|19960953|20606417|22287321|24799355|25268985|26721193|2791187|28082111|3124293|31830546|3456068|36988379|3764673|3781430|3898001|7191768|7830283|7838258|7987999|8289579|9192910|9606733|9704904
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	epigallocatechin gallate	154.69		25927922|30368989
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ethanol	154.69		25859307|31811911|32894639|36085217
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ethinyl Estradiol	154.69		19761811
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	154.69		11832423|14633603|1482756|160016|18633340|193486|19435794|19934081|20116427|20406136|21647593|22647887|2386429|2840627|29789558|34619300|35124148|4336412
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	154.69		25434756|33296237|35440735|37001608
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Hexachlorocyclohexane	154.69		1699300|6206125
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	154.69		29463041
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	154.69		12190173|20390303|2321664|8126257
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	JP8 aviation fuel	154.69		32905848|35440735|8748423
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	lead acetate	154.69		17882470|22581110|22728154|23428833|30980911|32116774
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	154.69		37567421
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Methionine	154.69		20406136
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	methylmercuric chloride	154.69		28526320
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Methyltestosterone	154.69		19761811
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Nanotubes, Carbon	154.69		32856799
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Oxygen	154.69		25214260|25448280
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ozone	154.69		20446790
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Particulate Matter	154.69		33393722
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Quercetin	154.69		16962696|19605544|19615871|21909718|22728154|34748891|36990423
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Selenium	154.69		1588439|17448585|19913299|21424224
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	sodium arsenate	154.69		30456172|33418080
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	sodium bichromate	154.69		11489360
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Tamoxifen	154.69		17698946
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Thioacetamide	154.69		19761811|23142791|37008694
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Valproic Acid	154.69		10937350|11322374|3935422|6782217|9175586
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Vitamin E	154.69		12488133|15669049|17448119|23347876|9530244
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Warfarin	154.69		10604355|16538970|3944305|4171018
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Zidovudine	154.69		8806849
+slc6a8	Kidney Diseases	MESH:D007674	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Zoledronic Acid	154.69		17136870
+slc6a8	Kidney Diseases, Cystic	MESH:D052177	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Glyphosate	3.15		31011160
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	37.63		11752356|3050572|7969358
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Cadmium	37.63		23343055
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Copper	37.63		16518626
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	37.63		11014987|15960146|16707910|9102927
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Folic Acid	37.63		4810836
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Hydrogen Peroxide	37.63		16518626
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	37.63		1561566|7914617
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	37.63		9794581
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	N-Methyl-3,4-methylenedioxyamphetamine	37.63		9794581
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	37.63		10344375
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Selenium	37.63		16518626
+slc6a8	Kidney Failure, Chronic	MESH:D007676	SLC6A8	6535	Pathology (process)|Urogenital disease (female)|Urogenital disease (male)	Zidovudine	37.63		11263401
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	1,2-Dimethylhydrazine	53.20		9695784
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	2,4-dinitrotoluene	53.20		16705839
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	2,6-dinitrotoluene	53.20		16705839
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	53.20		11679798|2912549|3834336|8793360
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Aflatoxin B1	53.20		22545673
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Arsenic	53.20		23471352|9554605
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cadmium	53.20		20839231
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Caffeine	53.20		2912549|4638853
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Captan	53.20		8441825
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	53.20		28321044
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	53.20		12371664|1825617
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Doxorubicin	53.20		8602639
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Ethylnitrosourea	53.20		17379185
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Tamoxifen	53.20		18625569
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Vitamin E	53.20		9192818
+slc6a8	Kidney Neoplasms	MESH:D007680	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Zidovudine	53.20		12579204
+slc6a8	Kidney Papillary Necrosis	MESH:D007681	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	9.50		1203171|1919871|2362779|3050572|3559797|6025602|6126946|6590001|6776978|7412682
+slc6a8	Kidney Papillary Necrosis	MESH:D007681	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Caffeine	9.50		1203171|2240058|4638853|5454357|7412682
+slc6a8	Kidney Papillary Necrosis	MESH:D007681	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	9.50		10423592|12512867|6953356|7306246|861066
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Acetaminophen	44.82		11881430|12060523|12832150|16354242|16532256|17624227|18645506|1987650|20352459|2362779|3173602|3380218|3420447|3559797|3796197|4062453|4082192|6868092|7282722|7566947|7579069|8473360|851123|989539
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Caffeine	44.82		10803761
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	44.82		8107947
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Carbon Tetrachloride	44.82		23845967
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cisplatin	44.82		11231351|18368030|19797351|20702592|21881242|24975837|25677510|2680578|29051111|30682439|7855315|8457719|8583688
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Copper	44.82		22465980
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Cyclosporine	44.82		1778857|6336959|6351368
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ethanol	44.82		9297132
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Folic Acid	44.82		12969123|12969128|14633603|18480750
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Ibuprofen	44.82		3689062|7180901|7579049|7932183|8820499
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Methamphetamine	44.82		11933563
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Propylthiouracil	44.82		16354242
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Quercetin	44.82		15198074
+slc6a8	Kidney Tubular Necrosis, Acute	MESH:D007683	SLC6A8	6535	Urogenital disease (female)|Urogenital disease (male)	Tretinoin	44.82		9378467
+slc6a8	Multicystic Dysplastic Kidney	MESH:D021782	SLC6A8	6535	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	Carbamazepine	4.35		17310358
+slc6a8	Polycystic Kidney Diseases	MESH:D007690	SLC6A8	6535	Congenital abnormality|Genetic disease (inborn)|Urogenital disease (female)|Urogenital disease (male)	(+)-JQ1 compound	3.14		25877301
+ckb	Hypomagnesemia 2, renal	MESH:C537152	CKB	1152	Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	2.77		19850470
+ckmt1b	Hypomagnesemia 2, renal	MESH:C537152	CKMT1B	1159	Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	3.79		19850470
+slc16a12	Hypomagnesemia 2, renal	MESH:C537152	SLC16A12	387700	Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	3.22		19850470
+slc6a8	Clear-cell metastatic renal cell carcinoma	MESH:C538445	SLC6A8	6535	Cancer|Urogenital disease (female)|Urogenital disease (male)	Arsenic	3.56		27292127
+slc6a8	Hypomagnesemia 2, renal	MESH:C537152	SLC6A8	6535	Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	Cisplatin	3.01		19850470

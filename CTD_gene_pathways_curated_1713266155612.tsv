@@ -1,0 +1,913 @@
+# Input	GeneSymbol	GeneID	PathwayName	PathwayID
+slc2a4	SLC2A4	6517	Adipocytokine signaling pathway	KEGG:hsa04920
+slc2a4	SLC2A4	6517	AMPK signaling pathway	KEGG:hsa04152
+slc2a4	SLC2A4	6517	Developmental Biology	REACT:R-HSA-1266738
+slc2a4	SLC2A4	6517	Facilitative Na+-independent glucose transporters	REACT:R-HSA-428790
+slc2a4	SLC2A4	6517	FoxO signaling pathway	KEGG:hsa04068
+slc2a4	SLC2A4	6517	Glucose transport	REACT:R-HSA-70153
+slc2a4	SLC2A4	6517	Hexose transport	REACT:R-HSA-189200
+slc2a4	SLC2A4	6517	Insulin resistance	KEGG:hsa04931
+slc2a4	SLC2A4	6517	Insulin signaling pathway	KEGG:hsa04910
+slc2a4	SLC2A4	6517	Membrane Trafficking	REACT:R-HSA-199991
+slc2a4	SLC2A4	6517	Metabolism	REACT:R-HSA-1430728
+slc2a4	SLC2A4	6517	Metabolism of carbohydrates	REACT:R-HSA-71387
+slc2a4	SLC2A4	6517	SLC-mediated transmembrane transport	REACT:R-HSA-425407
+slc2a4	SLC2A4	6517	Transcriptional regulation of white adipocyte differentiation	REACT:R-HSA-381340
+slc2a4	SLC2A4	6517	Translocation of GLUT4 to the plasma membrane	REACT:R-HSA-1445148
+slc2a4	SLC2A4	6517	Transmembrane transport of small molecules	REACT:R-HSA-382551
+slc2a4	SLC2A4	6517	Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	REACT:R-HSA-425366
+slc2a4	SLC2A4	6517	Type II diabetes mellitus	KEGG:hsa04930
+slc2a4	SLC2A4	6517	Vesicle-mediated transport	REACT:R-HSA-5653656
+igf1	IGF1	3479	Aldosterone-regulated sodium reabsorption	KEGG:hsa04960
+igf1	IGF1	3479	AMPK signaling pathway	KEGG:hsa04152
+igf1	IGF1	3479	Breast cancer	KEGG:hsa05224
+igf1	IGF1	3479	Dilated cardiomyopathy	KEGG:hsa05414
+igf1	IGF1	3479	EGFR tyrosine kinase inhibitor resistance	KEGG:hsa01521
+igf1	IGF1	3479	Endocrine resistance	KEGG:hsa01522
+igf1	IGF1	3479	Focal adhesion	KEGG:hsa04510
+igf1	IGF1	3479	FoxO signaling pathway	KEGG:hsa04068
+igf1	IGF1	3479	Glioma	KEGG:hsa05214
+igf1	IGF1	3479	Hemostasis	REACT:R-HSA-109582
+igf1	IGF1	3479	HIF-1 signaling pathway	KEGG:hsa04066
+igf1	IGF1	3479	Hypertrophic cardiomyopathy (HCM)	KEGG:hsa05410
+igf1	IGF1	3479	IGF1R signaling cascade	REACT:R-HSA-2428924
+igf1	IGF1	3479	Inflammatory mediator regulation of TRP channels	KEGG:hsa04750
+igf1	IGF1	3479	IRS-related events triggered by IGF1R	REACT:R-HSA-2428928
+igf1	IGF1	3479	Longevity regulating pathway	KEGG:hsa04211
+igf1	IGF1	3479	Longevity regulating pathway - multiple species	KEGG:hsa04213
+igf1	IGF1	3479	Long-term depression	KEGG:hsa04730
+igf1	IGF1	3479	Melanoma	KEGG:hsa05218
+igf1	IGF1	3479	Metabolism of proteins	REACT:R-HSA-392499
+igf1	IGF1	3479	mTOR signaling pathway	KEGG:hsa04150
+igf1	IGF1	3479	Oocyte meiosis	KEGG:hsa04114
+igf1	IGF1	3479	Ovarian steroidogenesis	KEGG:hsa04913
+igf1	IGF1	3479	p53 signaling pathway	KEGG:hsa04115
+igf1	IGF1	3479	Pathways in cancer	KEGG:hsa05200
+igf1	IGF1	3479	Peptide hormone metabolism	REACT:R-HSA-2980736
+igf1	IGF1	3479	PI3K-Akt signaling pathway	KEGG:hsa04151
+igf1	IGF1	3479	Platelet activation, signaling and aggregation	REACT:R-HSA-76002
+igf1	IGF1	3479	Platelet degranulation	REACT:R-HSA-114608
+igf1	IGF1	3479	Progesterone-mediated oocyte maturation	KEGG:hsa04914
+igf1	IGF1	3479	Prostate cancer	KEGG:hsa05215
+igf1	IGF1	3479	Proteoglycans in cancer	KEGG:hsa05205
+igf1	IGF1	3479	Rap1 signaling pathway	KEGG:hsa04015
+igf1	IGF1	3479	Ras signaling pathway	KEGG:hsa04014
+igf1	IGF1	3479	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	REACT:R-HSA-381426
+igf1	IGF1	3479	Response to elevated platelet cytosolic Ca2+	REACT:R-HSA-76005
+igf1	IGF1	3479	SHC-related events triggered by IGF1R	REACT:R-HSA-2428933
+igf1	IGF1	3479	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	REACT:R-HSA-2404192
+igf1	IGF1	3479	Signaling pathways regulating pluripotency of stem cells	KEGG:hsa04550
+igf1	IGF1	3479	Signal Transduction	REACT:R-HSA-162582
+igf1	IGF1	3479	Synthesis, secretion, and deacylation of Ghrelin	REACT:R-HSA-422085
+igf1	IGF1	3479	Transcriptional misregulation in cancer	KEGG:hsa05202
+gatm	GATM	2628	Arginine and proline metabolism	KEGG:hsa00330
+gatm	GATM	2628	Creatine metabolism	REACT:R-HSA-71288
+gatm	GATM	2628	Creatine pathway	KEGG:hsa_M00047
+gatm	GATM	2628	Glycine, serine and threonine metabolism	KEGG:hsa00260
+gatm	GATM	2628	Metabolic pathways	KEGG:hsa01100
+gatm	GATM	2628	Metabolism	REACT:R-HSA-1430728
+gatm	GATM	2628	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+gatm	GATM	2628	Metabolism of polyamines	REACT:R-HSA-351202
+slc6a8	SLC6A8	6535	Creatine metabolism	REACT:R-HSA-71288
+slc6a8	SLC6A8	6535	Metabolism	REACT:R-HSA-1430728
+slc6a8	SLC6A8	6535	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+slc6a8	SLC6A8	6535	Metabolism of polyamines	REACT:R-HSA-351202
+akt1	AKT1	207	Activation of BAD and translocation to mitochondria	REACT:R-HSA-111447
+akt1	AKT1	207	Activation of BH3-only proteins	REACT:R-HSA-114452
+akt1	AKT1	207	Acute myeloid leukemia	KEGG:hsa05221
+akt1	AKT1	207	Adaptive Immune System	REACT:R-HSA-1280218
+akt1	AKT1	207	Adipocytokine signaling pathway	KEGG:hsa04920
+akt1	AKT1	207	Adrenergic signaling in cardiomyocytes	KEGG:hsa04261
+akt1	AKT1	207	AGE-RAGE signaling pathway in diabetic complications	KEGG:hsa04933
+akt1	AKT1	207	AKT-mediated inactivation of FOXO1A	REACT:R-HSA-211163
+akt1	AKT1	207	AKT phosphorylates targets in the cytosol	REACT:R-HSA-198323
+akt1	AKT1	207	AKT phosphorylates targets in the nucleus	REACT:R-HSA-198693
+akt1	AKT1	207	AMPK signaling pathway	KEGG:hsa04152
+akt1	AKT1	207	Apelin signaling pathway	KEGG:hsa04371
+akt1	AKT1	207	Apoptosis	REACT:R-HSA-109581
+akt1	AKT1	207	Apoptosis	KEGG:hsa04210
+akt1	AKT1	207	Autophagy - animal	KEGG:hsa04140
+akt1	AKT1	207	B cell receptor signaling pathway	KEGG:hsa04662
+akt1	AKT1	207	Breast cancer	KEGG:hsa05224
+akt1	AKT1	207	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	REACT:R-HSA-450385
+akt1	AKT1	207	cAMP signaling pathway	KEGG:hsa04024
+akt1	AKT1	207	Carbohydrate digestion and absorption	KEGG:hsa04973
+akt1	AKT1	207	CD28 co-stimulation	REACT:R-HSA-389356
+akt1	AKT1	207	CD28 dependent PI3K/Akt signaling	REACT:R-HSA-389357
+akt1	AKT1	207	Cell Cycle	REACT:R-HSA-1640170
+akt1	AKT1	207	Cell Cycle, Mitotic	REACT:R-HSA-69278
+akt1	AKT1	207	Central carbon metabolism in cancer	KEGG:hsa05230
+akt1	AKT1	207	cGMP-PKG signaling pathway	KEGG:hsa04022
+akt1	AKT1	207	Chagas disease (American trypanosomiasis)	KEGG:hsa05142
+akt1	AKT1	207	Chemokine signaling pathway	KEGG:hsa04062
+akt1	AKT1	207	Choline metabolism in cancer	KEGG:hsa05231
+akt1	AKT1	207	Cholinergic synapse	KEGG:hsa04725
+akt1	AKT1	207	Chronic myeloid leukemia	KEGG:hsa05220
+akt1	AKT1	207	Colorectal cancer	KEGG:hsa05210
+akt1	AKT1	207	Constitutive Signaling by AKT1 E17K in Cancer	REACT:R-HSA-5674400
+akt1	AKT1	207	Costimulation by the CD28 family	REACT:R-HSA-388841
+akt1	AKT1	207	CTLA4 inhibitory signaling	REACT:R-HSA-389513
+akt1	AKT1	207	Cyclin E associated events during G1/S transition	REACT:R-HSA-69202
+akt1	AKT1	207	Cytokine Signaling in Immune system	REACT:R-HSA-1280215
+akt1	AKT1	207	DAP12 interactions	REACT:R-HSA-2172127
+akt1	AKT1	207	DAP12 signaling	REACT:R-HSA-2424491
+akt1	AKT1	207	Deactivation of the beta-catenin transactivating complex	REACT:R-HSA-3769402
+akt1	AKT1	207	Developmental Biology	REACT:R-HSA-1266738
+akt1	AKT1	207	Disease	REACT:R-HSA-1643685
+akt1	AKT1	207	Diseases of signal transduction	REACT:R-HSA-5663202
+akt1	AKT1	207	Dopaminergic synapse	KEGG:hsa04728
+akt1	AKT1	207	Downregulation of ERBB2:ERBB3 signaling	REACT:R-HSA-1358803
+akt1	AKT1	207	Downregulation of ERBB2 signaling	REACT:R-HSA-8863795
+akt1	AKT1	207	Downstream signaling events of B Cell Receptor (BCR)	REACT:R-HSA-1168372
+akt1	AKT1	207	Downstream signal transduction	REACT:R-HSA-186763
+akt1	AKT1	207	EGFR tyrosine kinase inhibitor resistance	KEGG:hsa01521
+akt1	AKT1	207	Endocrine resistance	KEGG:hsa01522
+akt1	AKT1	207	Endometrial cancer	KEGG:hsa05213
+akt1	AKT1	207	eNOS activation	REACT:R-HSA-203615
+akt1	AKT1	207	eNOS activation and regulation	REACT:R-HSA-203765
+akt1	AKT1	207	Epstein-Barr virus infection	KEGG:hsa05169
+akt1	AKT1	207	ErbB signaling pathway	KEGG:hsa04012
+akt1	AKT1	207	Estrogen signaling pathway	KEGG:hsa04915
+akt1	AKT1	207	Fc epsilon receptor (FCERI) signaling	REACT:R-HSA-2454202
+akt1	AKT1	207	Fc epsilon RI signaling pathway	KEGG:hsa04664
+akt1	AKT1	207	Fc gamma R-mediated phagocytosis	KEGG:hsa04666
+akt1	AKT1	207	Fluid shear stress and atherosclerosis	KEGG:hsa05418
+akt1	AKT1	207	Focal adhesion	KEGG:hsa04510
+akt1	AKT1	207	FoxO signaling pathway	KEGG:hsa04068
+akt1	AKT1	207	G1/S Transition	REACT:R-HSA-69206
+akt1	AKT1	207	GAB1 signalosome	REACT:R-HSA-180292
+akt1	AKT1	207	G beta:gamma signalling through PI3Kgamma	REACT:R-HSA-392451
+akt1	AKT1	207	Gene Expression	REACT:R-HSA-74160
+akt1	AKT1	207	Generic Transcription Pathway	REACT:R-HSA-212436
+akt1	AKT1	207	Glioma	KEGG:hsa05214
+akt1	AKT1	207	Glucagon signaling pathway	KEGG:hsa04922
+akt1	AKT1	207	GPCR downstream signaling	REACT:R-HSA-388396
+akt1	AKT1	207	G-protein beta:gamma signalling	REACT:R-HSA-397795
+akt1	AKT1	207	GPVI-mediated activation cascade	REACT:R-HSA-114604
+akt1	AKT1	207	Hemostasis	REACT:R-HSA-109582
+akt1	AKT1	207	Hepatitis B	KEGG:hsa05161
+akt1	AKT1	207	Hepatitis C	KEGG:hsa05160
+akt1	AKT1	207	HIF-1 signaling pathway	KEGG:hsa04066
+akt1	AKT1	207	HTLV-I infection	KEGG:hsa05166
+akt1	AKT1	207	IGF1R signaling cascade	REACT:R-HSA-2428924
+akt1	AKT1	207	Immune System	REACT:R-HSA-168256
+akt1	AKT1	207	Influenza A	KEGG:hsa05164
+akt1	AKT1	207	Innate Immune System	REACT:R-HSA-168249
+akt1	AKT1	207	Insulin receptor signalling cascade	REACT:R-HSA-74751
+akt1	AKT1	207	Insulin resistance	KEGG:hsa04931
+akt1	AKT1	207	Insulin signaling pathway	KEGG:hsa04910
+akt1	AKT1	207	Integrin alphaIIb beta3 signaling	REACT:R-HSA-354192
+akt1	AKT1	207	Interleukin-4 and 13 signaling	REACT:R-HSA-6785807
+akt1	AKT1	207	Intrinsic Pathway for Apoptosis	REACT:R-HSA-109606
+akt1	AKT1	207	IRS-mediated signalling	REACT:R-HSA-112399
+akt1	AKT1	207	IRS-related events triggered by IGF1R	REACT:R-HSA-2428928
+akt1	AKT1	207	Jak-STAT signaling pathway	KEGG:hsa04630
+akt1	AKT1	207	KSRP (KHSRP) binds and destabilizes mRNA	REACT:R-HSA-450604
+akt1	AKT1	207	Longevity regulating pathway	KEGG:hsa04211
+akt1	AKT1	207	Longevity regulating pathway - multiple species	KEGG:hsa04213
+akt1	AKT1	207	MAPK signaling pathway	KEGG:hsa04010
+akt1	AKT1	207	Measles	KEGG:hsa05162
+akt1	AKT1	207	Melanoma	KEGG:hsa05218
+akt1	AKT1	207	Membrane Trafficking	REACT:R-HSA-199991
+akt1	AKT1	207	Metabolism	REACT:R-HSA-1430728
+akt1	AKT1	207	Metabolism of nitric oxide	REACT:R-HSA-202131
+akt1	AKT1	207	Mitotic G1-G1/S phases	REACT:R-HSA-453279
+akt1	AKT1	207	mTOR signaling pathway	KEGG:hsa04150
+akt1	AKT1	207	mTOR signalling	REACT:R-HSA-165159
+akt1	AKT1	207	Negative regulation of the PI3K/AKT network	REACT:R-HSA-199418
+akt1	AKT1	207	Neurotrophin signaling pathway	KEGG:hsa04722
+akt1	AKT1	207	NGF signalling via TRKA from the plasma membrane	REACT:R-HSA-187037
+akt1	AKT1	207	Non-alcoholic fatty liver disease (NAFLD)	KEGG:hsa04932
+akt1	AKT1	207	Non-small cell lung cancer	KEGG:hsa05223
+akt1	AKT1	207	Osteoclast differentiation	KEGG:hsa04380
+akt1	AKT1	207	Pancreatic cancer	KEGG:hsa05212
+akt1	AKT1	207	Pathways in cancer	KEGG:hsa05200
+akt1	AKT1	207	Phospholipase D signaling pathway	KEGG:hsa04072
+akt1	AKT1	207	PI3K/AKT activation	REACT:R-HSA-198203
+akt1	AKT1	207	PI3K-Akt signaling	KEGG:hsa_M00676
+akt1	AKT1	207	PI3K/AKT Signaling in Cancer	REACT:R-HSA-2219528
+akt1	AKT1	207	PI3K-Akt signaling pathway	KEGG:hsa04151
+akt1	AKT1	207	PI3K Cascade	REACT:R-HSA-109704
+akt1	AKT1	207	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	REACT:R-HSA-6811558
+akt1	AKT1	207	PIP3 activates AKT signaling	REACT:R-HSA-1257604
+akt1	AKT1	207	PKB-mediated events	REACT:R-HSA-109703
+akt1	AKT1	207	Platelet activation	KEGG:hsa04611
+akt1	AKT1	207	Platelet activation, signaling and aggregation	REACT:R-HSA-76002
+akt1	AKT1	207	Platelet Aggregation (Plug Formation)	REACT:R-HSA-76009
+akt1	AKT1	207	Platinum drug resistance	KEGG:hsa01524
+akt1	AKT1	207	Progesterone-mediated oocyte maturation	KEGG:hsa04914
+akt1	AKT1	207	Programmed Cell Death	REACT:R-HSA-5357801
+akt1	AKT1	207	Prolactin signaling pathway	KEGG:hsa04917
+akt1	AKT1	207	Prostate cancer	KEGG:hsa05215
+akt1	AKT1	207	Proteoglycans in cancer	KEGG:hsa05205
+akt1	AKT1	207	PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	REACT:R-HSA-8849469
+akt1	AKT1	207	RAB GEFs exchange GTP for GDP on RABs	REACT:R-HSA-8876198
+akt1	AKT1	207	Rap1 signaling pathway	KEGG:hsa04015
+akt1	AKT1	207	Ras signaling pathway	KEGG:hsa04014
+akt1	AKT1	207	Regulation of beta-cell development	REACT:R-HSA-186712
+akt1	AKT1	207	Regulation of gene expression in beta cells	REACT:R-HSA-210745
+akt1	AKT1	207	Regulation of lipolysis in adipocytes	KEGG:hsa04923
+akt1	AKT1	207	Regulation of mRNA stability by proteins that bind AU-rich elements	REACT:R-HSA-450531
+akt1	AKT1	207	Regulation of TP53 Activity	REACT:R-HSA-5633007
+akt1	AKT1	207	Regulation of TP53 Activity through Acetylation	REACT:R-HSA-6804758
+akt1	AKT1	207	Regulation of TP53 Activity through Association with Co-factors	REACT:R-HSA-6804759
+akt1	AKT1	207	Regulation of TP53 Degradation	REACT:R-HSA-6804757
+akt1	AKT1	207	Regulation of TP53 Expression and Degradation	REACT:R-HSA-6806003
+akt1	AKT1	207	Renal cell carcinoma	KEGG:hsa05211
+akt1	AKT1	207	Role of LAT2/NTAL/LAB on calcium mobilization	REACT:R-HSA-2730905
+akt1	AKT1	207	Signaling by EGFR	REACT:R-HSA-177929
+akt1	AKT1	207	Signaling by ERBB2	REACT:R-HSA-1227986
+akt1	AKT1	207	Signaling by GPCR	REACT:R-HSA-372790
+akt1	AKT1	207	Signaling by Insulin receptor	REACT:R-HSA-74752
+akt1	AKT1	207	Signaling by Interleukins	REACT:R-HSA-449147
+akt1	AKT1	207	Signaling by PDGF	REACT:R-HSA-186797
+akt1	AKT1	207	Signaling by PTK6	REACT:R-HSA-8848021
+akt1	AKT1	207	Signaling by SCF-KIT	REACT:R-HSA-1433557
+akt1	AKT1	207	Signaling by the B Cell Receptor (BCR)	REACT:R-HSA-983705
+akt1	AKT1	207	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	REACT:R-HSA-2404192
+akt1	AKT1	207	Signaling by VEGF	REACT:R-HSA-194138
+akt1	AKT1	207	Signaling by Wnt	REACT:R-HSA-195721
+akt1	AKT1	207	Signaling pathways regulating pluripotency of stem cells	KEGG:hsa04550
+akt1	AKT1	207	Signalling by NGF	REACT:R-HSA-166520
+akt1	AKT1	207	Signal Transduction	REACT:R-HSA-162582
+akt1	AKT1	207	Small cell lung cancer	KEGG:hsa05222
+akt1	AKT1	207	Sphingolipid signaling pathway	KEGG:hsa04071
+akt1	AKT1	207	T cell receptor signaling pathway	KEGG:hsa04660
+akt1	AKT1	207	TCF dependent signaling in response to WNT	REACT:R-HSA-201681
+akt1	AKT1	207	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	REACT:R-HSA-1474151
+akt1	AKT1	207	Thyroid hormone signaling pathway	KEGG:hsa04919
+akt1	AKT1	207	TNF signaling pathway	KEGG:hsa04668
+akt1	AKT1	207	Toll-like receptor signaling pathway	KEGG:hsa04620
+akt1	AKT1	207	Toxoplasmosis	KEGG:hsa05145
+akt1	AKT1	207	TP53 Regulates Metabolic Genes	REACT:R-HSA-5628897
+akt1	AKT1	207	Transcriptional Regulation by TP53	REACT:R-HSA-3700989
+akt1	AKT1	207	Translocation of GLUT4 to the plasma membrane	REACT:R-HSA-1445148
+akt1	AKT1	207	Tuberculosis	KEGG:hsa05152
+akt1	AKT1	207	VEGFA-VEGFR2 Pathway	REACT:R-HSA-4420097
+akt1	AKT1	207	VEGFR2 mediated vascular permeability	REACT:R-HSA-5218920
+akt1	AKT1	207	VEGF signaling pathway	KEGG:hsa04370
+akt1	AKT1	207	Vesicle-mediated transport	REACT:R-HSA-5653656
+akt2	AKT2	208	Activation of AKT2	REACT:R-HSA-165158
+akt2	AKT2	208	Activation of BAD and translocation to mitochondria	REACT:R-HSA-111447
+akt2	AKT2	208	Activation of BH3-only proteins	REACT:R-HSA-114452
+akt2	AKT2	208	Acute myeloid leukemia	KEGG:hsa05221
+akt2	AKT2	208	Adaptive Immune System	REACT:R-HSA-1280218
+akt2	AKT2	208	Adipocytokine signaling pathway	KEGG:hsa04920
+akt2	AKT2	208	Adrenergic signaling in cardiomyocytes	KEGG:hsa04261
+akt2	AKT2	208	AGE-RAGE signaling pathway in diabetic complications	KEGG:hsa04933
+akt2	AKT2	208	AKT-mediated inactivation of FOXO1A	REACT:R-HSA-211163
+akt2	AKT2	208	AKT phosphorylates targets in the cytosol	REACT:R-HSA-198323
+akt2	AKT2	208	AKT phosphorylates targets in the nucleus	REACT:R-HSA-198693
+akt2	AKT2	208	AMPK signaling pathway	KEGG:hsa04152
+akt2	AKT2	208	Apelin signaling pathway	KEGG:hsa04371
+akt2	AKT2	208	Apoptosis	KEGG:hsa04210
+akt2	AKT2	208	Apoptosis	REACT:R-HSA-109581
+akt2	AKT2	208	Autophagy - animal	KEGG:hsa04140
+akt2	AKT2	208	B cell receptor signaling pathway	KEGG:hsa04662
+akt2	AKT2	208	Breast cancer	KEGG:hsa05224
+akt2	AKT2	208	cAMP signaling pathway	KEGG:hsa04024
+akt2	AKT2	208	Carbohydrate digestion and absorption	KEGG:hsa04973
+akt2	AKT2	208	CD28 co-stimulation	REACT:R-HSA-389356
+akt2	AKT2	208	CD28 dependent PI3K/Akt signaling	REACT:R-HSA-389357
+akt2	AKT2	208	Cell Cycle	REACT:R-HSA-1640170
+akt2	AKT2	208	Cell Cycle, Mitotic	REACT:R-HSA-69278
+akt2	AKT2	208	Central carbon metabolism in cancer	KEGG:hsa05230
+akt2	AKT2	208	cGMP-PKG signaling pathway	KEGG:hsa04022
+akt2	AKT2	208	Chagas disease (American trypanosomiasis)	KEGG:hsa05142
+akt2	AKT2	208	Chemokine signaling pathway	KEGG:hsa04062
+akt2	AKT2	208	Choline metabolism in cancer	KEGG:hsa05231
+akt2	AKT2	208	Cholinergic synapse	KEGG:hsa04725
+akt2	AKT2	208	Chronic myeloid leukemia	KEGG:hsa05220
+akt2	AKT2	208	Colorectal cancer	KEGG:hsa05210
+akt2	AKT2	208	Constitutive Signaling by AKT1 E17K in Cancer	REACT:R-HSA-5674400
+akt2	AKT2	208	Costimulation by the CD28 family	REACT:R-HSA-388841
+akt2	AKT2	208	CTLA4 inhibitory signaling	REACT:R-HSA-389513
+akt2	AKT2	208	Cyclin E associated events during G1/S transition	REACT:R-HSA-69202
+akt2	AKT2	208	DAP12 interactions	REACT:R-HSA-2172127
+akt2	AKT2	208	DAP12 signaling	REACT:R-HSA-2424491
+akt2	AKT2	208	Deactivation of the beta-catenin transactivating complex	REACT:R-HSA-3769402
+akt2	AKT2	208	Developmental Biology	REACT:R-HSA-1266738
+akt2	AKT2	208	Disease	REACT:R-HSA-1643685
+akt2	AKT2	208	Diseases of signal transduction	REACT:R-HSA-5663202
+akt2	AKT2	208	Dopaminergic synapse	KEGG:hsa04728
+akt2	AKT2	208	Downregulation of ERBB2:ERBB3 signaling	REACT:R-HSA-1358803
+akt2	AKT2	208	Downregulation of ERBB2 signaling	REACT:R-HSA-8863795
+akt2	AKT2	208	Downstream signaling events of B Cell Receptor (BCR)	REACT:R-HSA-1168372
+akt2	AKT2	208	Downstream signal transduction	REACT:R-HSA-186763
+akt2	AKT2	208	EGFR tyrosine kinase inhibitor resistance	KEGG:hsa01521
+akt2	AKT2	208	Endocrine resistance	KEGG:hsa01522
+akt2	AKT2	208	Endometrial cancer	KEGG:hsa05213
+akt2	AKT2	208	Epstein-Barr virus infection	KEGG:hsa05169
+akt2	AKT2	208	ErbB signaling pathway	KEGG:hsa04012
+akt2	AKT2	208	Estrogen signaling pathway	KEGG:hsa04915
+akt2	AKT2	208	Fc epsilon receptor (FCERI) signaling	REACT:R-HSA-2454202
+akt2	AKT2	208	Fc epsilon RI signaling pathway	KEGG:hsa04664
+akt2	AKT2	208	Fc gamma R-mediated phagocytosis	KEGG:hsa04666
+akt2	AKT2	208	Fluid shear stress and atherosclerosis	KEGG:hsa05418
+akt2	AKT2	208	Focal adhesion	KEGG:hsa04510
+akt2	AKT2	208	FoxO signaling pathway	KEGG:hsa04068
+akt2	AKT2	208	G1/S Transition	REACT:R-HSA-69206
+akt2	AKT2	208	GAB1 signalosome	REACT:R-HSA-180292
+akt2	AKT2	208	G beta:gamma signalling through PI3Kgamma	REACT:R-HSA-392451
+akt2	AKT2	208	Gene Expression	REACT:R-HSA-74160
+akt2	AKT2	208	Generic Transcription Pathway	REACT:R-HSA-212436
+akt2	AKT2	208	Glioma	KEGG:hsa05214
+akt2	AKT2	208	Glucagon signaling pathway	KEGG:hsa04922
+akt2	AKT2	208	GPCR downstream signaling	REACT:R-HSA-388396
+akt2	AKT2	208	G-protein beta:gamma signalling	REACT:R-HSA-397795
+akt2	AKT2	208	GPVI-mediated activation cascade	REACT:R-HSA-114604
+akt2	AKT2	208	Hemostasis	REACT:R-HSA-109582
+akt2	AKT2	208	Hepatitis B	KEGG:hsa05161
+akt2	AKT2	208	Hepatitis C	KEGG:hsa05160
+akt2	AKT2	208	HIF-1 signaling pathway	KEGG:hsa04066
+akt2	AKT2	208	HTLV-I infection	KEGG:hsa05166
+akt2	AKT2	208	IGF1R signaling cascade	REACT:R-HSA-2428924
+akt2	AKT2	208	Immune System	REACT:R-HSA-168256
+akt2	AKT2	208	Influenza A	KEGG:hsa05164
+akt2	AKT2	208	Inhibition of TSC complex formation by PKB	REACT:R-HSA-165181
+akt2	AKT2	208	Innate Immune System	REACT:R-HSA-168249
+akt2	AKT2	208	Insulin receptor signalling cascade	REACT:R-HSA-74751
+akt2	AKT2	208	Insulin resistance	KEGG:hsa04931
+akt2	AKT2	208	Insulin signaling pathway	KEGG:hsa04910
+akt2	AKT2	208	Intrinsic Pathway for Apoptosis	REACT:R-HSA-109606
+akt2	AKT2	208	IRS-mediated signalling	REACT:R-HSA-112399
+akt2	AKT2	208	IRS-related events triggered by IGF1R	REACT:R-HSA-2428928
+akt2	AKT2	208	Jak-STAT signaling pathway	KEGG:hsa04630
+akt2	AKT2	208	Longevity regulating pathway	KEGG:hsa04211
+akt2	AKT2	208	Longevity regulating pathway - multiple species	KEGG:hsa04213
+akt2	AKT2	208	MAPK signaling pathway	KEGG:hsa04010
+akt2	AKT2	208	Measles	KEGG:hsa05162
+akt2	AKT2	208	Melanoma	KEGG:hsa05218
+akt2	AKT2	208	Membrane Trafficking	REACT:R-HSA-199991
+akt2	AKT2	208	Mitotic G1-G1/S phases	REACT:R-HSA-453279
+akt2	AKT2	208	mTOR signaling pathway	KEGG:hsa04150
+akt2	AKT2	208	mTOR signalling	REACT:R-HSA-165159
+akt2	AKT2	208	Negative regulation of the PI3K/AKT network	REACT:R-HSA-199418
+akt2	AKT2	208	Neurotrophin signaling pathway	KEGG:hsa04722
+akt2	AKT2	208	NGF signalling via TRKA from the plasma membrane	REACT:R-HSA-187037
+akt2	AKT2	208	Non-alcoholic fatty liver disease (NAFLD)	KEGG:hsa04932
+akt2	AKT2	208	Non-small cell lung cancer	KEGG:hsa05223
+akt2	AKT2	208	Osteoclast differentiation	KEGG:hsa04380
+akt2	AKT2	208	Pancreatic cancer	KEGG:hsa05212
+akt2	AKT2	208	Pathways in cancer	KEGG:hsa05200
+akt2	AKT2	208	PDE3B signalling	REACT:R-HSA-165160
+akt2	AKT2	208	Phospholipase D signaling pathway	KEGG:hsa04072
+akt2	AKT2	208	PI3K/AKT activation	REACT:R-HSA-198203
+akt2	AKT2	208	PI3K-Akt signaling	KEGG:hsa_M00676
+akt2	AKT2	208	PI3K/AKT Signaling in Cancer	REACT:R-HSA-2219528
+akt2	AKT2	208	PI3K-Akt signaling pathway	KEGG:hsa04151
+akt2	AKT2	208	PI3K Cascade	REACT:R-HSA-109704
+akt2	AKT2	208	PIP3 activates AKT signaling	REACT:R-HSA-1257604
+akt2	AKT2	208	PKB-mediated events	REACT:R-HSA-109703
+akt2	AKT2	208	Platelet activation	KEGG:hsa04611
+akt2	AKT2	208	Platelet activation, signaling and aggregation	REACT:R-HSA-76002
+akt2	AKT2	208	Platinum drug resistance	KEGG:hsa01524
+akt2	AKT2	208	Progesterone-mediated oocyte maturation	KEGG:hsa04914
+akt2	AKT2	208	Programmed Cell Death	REACT:R-HSA-5357801
+akt2	AKT2	208	Prolactin signaling pathway	KEGG:hsa04917
+akt2	AKT2	208	Prostate cancer	KEGG:hsa05215
+akt2	AKT2	208	Proteoglycans in cancer	KEGG:hsa05205
+akt2	AKT2	208	RAB GEFs exchange GTP for GDP on RABs	REACT:R-HSA-8876198
+akt2	AKT2	208	Rap1 signaling pathway	KEGG:hsa04015
+akt2	AKT2	208	Ras signaling pathway	KEGG:hsa04014
+akt2	AKT2	208	Regulation of beta-cell development	REACT:R-HSA-186712
+akt2	AKT2	208	Regulation of gene expression in beta cells	REACT:R-HSA-210745
+akt2	AKT2	208	Regulation of lipolysis in adipocytes	KEGG:hsa04923
+akt2	AKT2	208	Regulation of TP53 Activity	REACT:R-HSA-5633007
+akt2	AKT2	208	Regulation of TP53 Activity through Acetylation	REACT:R-HSA-6804758
+akt2	AKT2	208	Regulation of TP53 Activity through Association with Co-factors	REACT:R-HSA-6804759
+akt2	AKT2	208	Regulation of TP53 Degradation	REACT:R-HSA-6804757
+akt2	AKT2	208	Regulation of TP53 Expression and Degradation	REACT:R-HSA-6806003
+akt2	AKT2	208	Renal cell carcinoma	KEGG:hsa05211
+akt2	AKT2	208	Role of LAT2/NTAL/LAB on calcium mobilization	REACT:R-HSA-2730905
+akt2	AKT2	208	Signaling by EGFR	REACT:R-HSA-177929
+akt2	AKT2	208	Signaling by ERBB2	REACT:R-HSA-1227986
+akt2	AKT2	208	Signaling by GPCR	REACT:R-HSA-372790
+akt2	AKT2	208	Signaling by Insulin receptor	REACT:R-HSA-74752
+akt2	AKT2	208	Signaling by PDGF	REACT:R-HSA-186797
+akt2	AKT2	208	Signaling by SCF-KIT	REACT:R-HSA-1433557
+akt2	AKT2	208	Signaling by the B Cell Receptor (BCR)	REACT:R-HSA-983705
+akt2	AKT2	208	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	REACT:R-HSA-2404192
+akt2	AKT2	208	Signaling by VEGF	REACT:R-HSA-194138
+akt2	AKT2	208	Signaling by Wnt	REACT:R-HSA-195721
+akt2	AKT2	208	Signaling pathways regulating pluripotency of stem cells	KEGG:hsa04550
+akt2	AKT2	208	Signalling by NGF	REACT:R-HSA-166520
+akt2	AKT2	208	Signal Transduction	REACT:R-HSA-162582
+akt2	AKT2	208	Small cell lung cancer	KEGG:hsa05222
+akt2	AKT2	208	Sphingolipid signaling pathway	KEGG:hsa04071
+akt2	AKT2	208	T cell receptor signaling pathway	KEGG:hsa04660
+akt2	AKT2	208	TCF dependent signaling in response to WNT	REACT:R-HSA-201681
+akt2	AKT2	208	Thyroid hormone signaling pathway	KEGG:hsa04919
+akt2	AKT2	208	TNF signaling pathway	KEGG:hsa04668
+akt2	AKT2	208	Toll-like receptor signaling pathway	KEGG:hsa04620
+akt2	AKT2	208	Toxoplasmosis	KEGG:hsa05145
+akt2	AKT2	208	TP53 Regulates Metabolic Genes	REACT:R-HSA-5628897
+akt2	AKT2	208	Transcriptional Regulation by TP53	REACT:R-HSA-3700989
+akt2	AKT2	208	Translocation of GLUT4 to the plasma membrane	REACT:R-HSA-1445148
+akt2	AKT2	208	Tuberculosis	KEGG:hsa05152
+akt2	AKT2	208	VEGFA-VEGFR2 Pathway	REACT:R-HSA-4420097
+akt2	AKT2	208	VEGFR2 mediated vascular permeability	REACT:R-HSA-5218920
+akt2	AKT2	208	VEGF signaling pathway	KEGG:hsa04370
+akt2	AKT2	208	Vesicle-mediated transport	REACT:R-HSA-5653656
+akt3	AKT3	10000	Activation of BAD and translocation to mitochondria	REACT:R-HSA-111447
+akt3	AKT3	10000	Activation of BH3-only proteins	REACT:R-HSA-114452
+akt3	AKT3	10000	Acute myeloid leukemia	KEGG:hsa05221
+akt3	AKT3	10000	Adaptive Immune System	REACT:R-HSA-1280218
+akt3	AKT3	10000	Adipocytokine signaling pathway	KEGG:hsa04920
+akt3	AKT3	10000	Adrenergic signaling in cardiomyocytes	KEGG:hsa04261
+akt3	AKT3	10000	AGE-RAGE signaling pathway in diabetic complications	KEGG:hsa04933
+akt3	AKT3	10000	AKT-mediated inactivation of FOXO1A	REACT:R-HSA-211163
+akt3	AKT3	10000	AKT phosphorylates targets in the cytosol	REACT:R-HSA-198323
+akt3	AKT3	10000	AKT phosphorylates targets in the nucleus	REACT:R-HSA-198693
+akt3	AKT3	10000	AMPK signaling pathway	KEGG:hsa04152
+akt3	AKT3	10000	Apelin signaling pathway	KEGG:hsa04371
+akt3	AKT3	10000	Apoptosis	REACT:R-HSA-109581
+akt3	AKT3	10000	Apoptosis	KEGG:hsa04210
+akt3	AKT3	10000	Autophagy - animal	KEGG:hsa04140
+akt3	AKT3	10000	B cell receptor signaling pathway	KEGG:hsa04662
+akt3	AKT3	10000	Breast cancer	KEGG:hsa05224
+akt3	AKT3	10000	cAMP signaling pathway	KEGG:hsa04024
+akt3	AKT3	10000	Carbohydrate digestion and absorption	KEGG:hsa04973
+akt3	AKT3	10000	CD28 co-stimulation	REACT:R-HSA-389356
+akt3	AKT3	10000	CD28 dependent PI3K/Akt signaling	REACT:R-HSA-389357
+akt3	AKT3	10000	Cell Cycle	REACT:R-HSA-1640170
+akt3	AKT3	10000	Cell Cycle, Mitotic	REACT:R-HSA-69278
+akt3	AKT3	10000	Central carbon metabolism in cancer	KEGG:hsa05230
+akt3	AKT3	10000	cGMP-PKG signaling pathway	KEGG:hsa04022
+akt3	AKT3	10000	Chagas disease (American trypanosomiasis)	KEGG:hsa05142
+akt3	AKT3	10000	Chemokine signaling pathway	KEGG:hsa04062
+akt3	AKT3	10000	Choline metabolism in cancer	KEGG:hsa05231
+akt3	AKT3	10000	Cholinergic synapse	KEGG:hsa04725
+akt3	AKT3	10000	Chronic myeloid leukemia	KEGG:hsa05220
+akt3	AKT3	10000	Colorectal cancer	KEGG:hsa05210
+akt3	AKT3	10000	Constitutive Signaling by AKT1 E17K in Cancer	REACT:R-HSA-5674400
+akt3	AKT3	10000	Costimulation by the CD28 family	REACT:R-HSA-388841
+akt3	AKT3	10000	CTLA4 inhibitory signaling	REACT:R-HSA-389513
+akt3	AKT3	10000	Cyclin E associated events during G1/S transition	REACT:R-HSA-69202
+akt3	AKT3	10000	DAP12 interactions	REACT:R-HSA-2172127
+akt3	AKT3	10000	DAP12 signaling	REACT:R-HSA-2424491
+akt3	AKT3	10000	Developmental Biology	REACT:R-HSA-1266738
+akt3	AKT3	10000	Disease	REACT:R-HSA-1643685
+akt3	AKT3	10000	Diseases of signal transduction	REACT:R-HSA-5663202
+akt3	AKT3	10000	Dopaminergic synapse	KEGG:hsa04728
+akt3	AKT3	10000	Downregulation of ERBB2:ERBB3 signaling	REACT:R-HSA-1358803
+akt3	AKT3	10000	Downregulation of ERBB2 signaling	REACT:R-HSA-8863795
+akt3	AKT3	10000	Downstream signaling events of B Cell Receptor (BCR)	REACT:R-HSA-1168372
+akt3	AKT3	10000	Downstream signal transduction	REACT:R-HSA-186763
+akt3	AKT3	10000	EGFR tyrosine kinase inhibitor resistance	KEGG:hsa01521
+akt3	AKT3	10000	Endocrine resistance	KEGG:hsa01522
+akt3	AKT3	10000	Endometrial cancer	KEGG:hsa05213
+akt3	AKT3	10000	Epstein-Barr virus infection	KEGG:hsa05169
+akt3	AKT3	10000	ErbB signaling pathway	KEGG:hsa04012
+akt3	AKT3	10000	Estrogen signaling pathway	KEGG:hsa04915
+akt3	AKT3	10000	Fc epsilon receptor (FCERI) signaling	REACT:R-HSA-2454202
+akt3	AKT3	10000	Fc epsilon RI signaling pathway	KEGG:hsa04664
+akt3	AKT3	10000	Fc gamma R-mediated phagocytosis	KEGG:hsa04666
+akt3	AKT3	10000	Fluid shear stress and atherosclerosis	KEGG:hsa05418
+akt3	AKT3	10000	Focal adhesion	KEGG:hsa04510
+akt3	AKT3	10000	FoxO signaling pathway	KEGG:hsa04068
+akt3	AKT3	10000	G1/S Transition	REACT:R-HSA-69206
+akt3	AKT3	10000	GAB1 signalosome	REACT:R-HSA-180292
+akt3	AKT3	10000	G beta:gamma signalling through PI3Kgamma	REACT:R-HSA-392451
+akt3	AKT3	10000	Gene Expression	REACT:R-HSA-74160
+akt3	AKT3	10000	Generic Transcription Pathway	REACT:R-HSA-212436
+akt3	AKT3	10000	Glioma	KEGG:hsa05214
+akt3	AKT3	10000	Glucagon signaling pathway	KEGG:hsa04922
+akt3	AKT3	10000	GPCR downstream signaling	REACT:R-HSA-388396
+akt3	AKT3	10000	G-protein beta:gamma signalling	REACT:R-HSA-397795
+akt3	AKT3	10000	GPVI-mediated activation cascade	REACT:R-HSA-114604
+akt3	AKT3	10000	Hemostasis	REACT:R-HSA-109582
+akt3	AKT3	10000	Hepatitis B	KEGG:hsa05161
+akt3	AKT3	10000	Hepatitis C	KEGG:hsa05160
+akt3	AKT3	10000	HIF-1 signaling pathway	KEGG:hsa04066
+akt3	AKT3	10000	HTLV-I infection	KEGG:hsa05166
+akt3	AKT3	10000	Immune System	REACT:R-HSA-168256
+akt3	AKT3	10000	Influenza A	KEGG:hsa05164
+akt3	AKT3	10000	Innate Immune System	REACT:R-HSA-168249
+akt3	AKT3	10000	Insulin resistance	KEGG:hsa04931
+akt3	AKT3	10000	Insulin signaling pathway	KEGG:hsa04910
+akt3	AKT3	10000	Intrinsic Pathway for Apoptosis	REACT:R-HSA-109606
+akt3	AKT3	10000	Jak-STAT signaling pathway	KEGG:hsa04630
+akt3	AKT3	10000	Longevity regulating pathway	KEGG:hsa04211
+akt3	AKT3	10000	Longevity regulating pathway - multiple species	KEGG:hsa04213
+akt3	AKT3	10000	MAPK signaling pathway	KEGG:hsa04010
+akt3	AKT3	10000	Measles	KEGG:hsa05162
+akt3	AKT3	10000	Melanoma	KEGG:hsa05218
+akt3	AKT3	10000	Membrane Trafficking	REACT:R-HSA-199991
+akt3	AKT3	10000	Mitotic G1-G1/S phases	REACT:R-HSA-453279
+akt3	AKT3	10000	mTOR signaling pathway	KEGG:hsa04150
+akt3	AKT3	10000	Negative regulation of the PI3K/AKT network	REACT:R-HSA-199418
+akt3	AKT3	10000	Neurotrophin signaling pathway	KEGG:hsa04722
+akt3	AKT3	10000	NGF signalling via TRKA from the plasma membrane	REACT:R-HSA-187037
+akt3	AKT3	10000	Non-alcoholic fatty liver disease (NAFLD)	KEGG:hsa04932
+akt3	AKT3	10000	Non-small cell lung cancer	KEGG:hsa05223
+akt3	AKT3	10000	Osteoclast differentiation	KEGG:hsa04380
+akt3	AKT3	10000	Pancreatic cancer	KEGG:hsa05212
+akt3	AKT3	10000	Pathways in cancer	KEGG:hsa05200
+akt3	AKT3	10000	Phospholipase D signaling pathway	KEGG:hsa04072
+akt3	AKT3	10000	PI3K/AKT activation	REACT:R-HSA-198203
+akt3	AKT3	10000	PI3K-Akt signaling	KEGG:hsa_M00676
+akt3	AKT3	10000	PI3K/AKT Signaling in Cancer	REACT:R-HSA-2219528
+akt3	AKT3	10000	PI3K-Akt signaling pathway	KEGG:hsa04151
+akt3	AKT3	10000	PIP3 activates AKT signaling	REACT:R-HSA-1257604
+akt3	AKT3	10000	Platelet activation	KEGG:hsa04611
+akt3	AKT3	10000	Platelet activation, signaling and aggregation	REACT:R-HSA-76002
+akt3	AKT3	10000	Platinum drug resistance	KEGG:hsa01524
+akt3	AKT3	10000	Progesterone-mediated oocyte maturation	KEGG:hsa04914
+akt3	AKT3	10000	Programmed Cell Death	REACT:R-HSA-5357801
+akt3	AKT3	10000	Prolactin signaling pathway	KEGG:hsa04917
+akt3	AKT3	10000	Prostate cancer	KEGG:hsa05215
+akt3	AKT3	10000	Proteoglycans in cancer	KEGG:hsa05205
+akt3	AKT3	10000	RAB GEFs exchange GTP for GDP on RABs	REACT:R-HSA-8876198
+akt3	AKT3	10000	Rap1 signaling pathway	KEGG:hsa04015
+akt3	AKT3	10000	Ras signaling pathway	KEGG:hsa04014
+akt3	AKT3	10000	Regulation of beta-cell development	REACT:R-HSA-186712
+akt3	AKT3	10000	Regulation of gene expression in beta cells	REACT:R-HSA-210745
+akt3	AKT3	10000	Regulation of lipolysis in adipocytes	KEGG:hsa04923
+akt3	AKT3	10000	Regulation of TP53 Activity	REACT:R-HSA-5633007
+akt3	AKT3	10000	Regulation of TP53 Activity through Acetylation	REACT:R-HSA-6804758
+akt3	AKT3	10000	Regulation of TP53 Activity through Association with Co-factors	REACT:R-HSA-6804759
+akt3	AKT3	10000	Regulation of TP53 Degradation	REACT:R-HSA-6804757
+akt3	AKT3	10000	Regulation of TP53 Expression and Degradation	REACT:R-HSA-6806003
+akt3	AKT3	10000	Renal cell carcinoma	KEGG:hsa05211
+akt3	AKT3	10000	Role of LAT2/NTAL/LAB on calcium mobilization	REACT:R-HSA-2730905
+akt3	AKT3	10000	Signaling by EGFR	REACT:R-HSA-177929
+akt3	AKT3	10000	Signaling by ERBB2	REACT:R-HSA-1227986
+akt3	AKT3	10000	Signaling by GPCR	REACT:R-HSA-372790
+akt3	AKT3	10000	Signaling by PDGF	REACT:R-HSA-186797
+akt3	AKT3	10000	Signaling by SCF-KIT	REACT:R-HSA-1433557
+akt3	AKT3	10000	Signaling by the B Cell Receptor (BCR)	REACT:R-HSA-983705
+akt3	AKT3	10000	Signaling by VEGF	REACT:R-HSA-194138
+akt3	AKT3	10000	Signaling pathways regulating pluripotency of stem cells	KEGG:hsa04550
+akt3	AKT3	10000	Signalling by NGF	REACT:R-HSA-166520
+akt3	AKT3	10000	Signal Transduction	REACT:R-HSA-162582
+akt3	AKT3	10000	Small cell lung cancer	KEGG:hsa05222
+akt3	AKT3	10000	Sphingolipid signaling pathway	KEGG:hsa04071
+akt3	AKT3	10000	T cell receptor signaling pathway	KEGG:hsa04660
+akt3	AKT3	10000	Thyroid hormone signaling pathway	KEGG:hsa04919
+akt3	AKT3	10000	TNF signaling pathway	KEGG:hsa04668
+akt3	AKT3	10000	Toll-like receptor signaling pathway	KEGG:hsa04620
+akt3	AKT3	10000	Toxoplasmosis	KEGG:hsa05145
+akt3	AKT3	10000	TP53 Regulates Metabolic Genes	REACT:R-HSA-5628897
+akt3	AKT3	10000	Transcriptional Regulation by TP53	REACT:R-HSA-3700989
+akt3	AKT3	10000	Tuberculosis	KEGG:hsa05152
+akt3	AKT3	10000	VEGFA-VEGFR2 Pathway	REACT:R-HSA-4420097
+akt3	AKT3	10000	VEGFR2 mediated vascular permeability	REACT:R-HSA-5218920
+akt3	AKT3	10000	VEGF signaling pathway	KEGG:hsa04370
+akt3	AKT3	10000	Vesicle-mediated transport	REACT:R-HSA-5653656
+psmb5	PSMB5	5693	ABC-family proteins mediated transport	REACT:R-HSA-382556
+psmb5	PSMB5	5693	ABC transporter disorders	REACT:R-HSA-5619084
+psmb5	PSMB5	5693	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	REACT:R-HSA-176814
+psmb5	PSMB5	5693	Activation of NF-kappaB in B cells	REACT:R-HSA-1169091
+psmb5	PSMB5	5693	Adaptive Immune System	REACT:R-HSA-1280218
+psmb5	PSMB5	5693	Antigen processing-Cross presentation	REACT:R-HSA-1236975
+psmb5	PSMB5	5693	Antigen processing: Ubiquitination & Proteasome degradation	REACT:R-HSA-983168
+psmb5	PSMB5	5693	APC/C:Cdc20 mediated degradation of mitotic proteins	REACT:R-HSA-176409
+psmb5	PSMB5	5693	APC/C:Cdc20 mediated degradation of Securin	REACT:R-HSA-174154
+psmb5	PSMB5	5693	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	REACT:R-HSA-174178
+psmb5	PSMB5	5693	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	REACT:R-HSA-179419
+psmb5	PSMB5	5693	APC/C-mediated degradation of cell cycle proteins	REACT:R-HSA-174143
+psmb5	PSMB5	5693	Apoptosis	REACT:R-HSA-109581
+psmb5	PSMB5	5693	ARMS-mediated activation	REACT:R-HSA-170984
+psmb5	PSMB5	5693	Assembly of the pre-replicative complex	REACT:R-HSA-68867
+psmb5	PSMB5	5693	Asymmetric localization of PCP proteins	REACT:R-HSA-4608870
+psmb5	PSMB5	5693	AUF1 (hnRNP D0) binds and destabilizes mRNA	REACT:R-HSA-450408
+psmb5	PSMB5	5693	Autodegradation of Cdh1 by Cdh1:APC/C	REACT:R-HSA-174084
+psmb5	PSMB5	5693	Autodegradation of the E3 ubiquitin ligase COP1	REACT:R-HSA-349425
+psmb5	PSMB5	5693	Axon guidance	REACT:R-HSA-422475
+psmb5	PSMB5	5693	Beta-catenin independent WNT signaling	REACT:R-HSA-3858494
+psmb5	PSMB5	5693	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	REACT:R-HSA-174184
+psmb5	PSMB5	5693	CDK-mediated phosphorylation and removal of Cdc6	REACT:R-HSA-69017
+psmb5	PSMB5	5693	CDT1 association with the CDC6:ORC:origin complex	REACT:R-HSA-68827
+psmb5	PSMB5	5693	Cell Cycle	REACT:R-HSA-1640170
+psmb5	PSMB5	5693	Cell Cycle Checkpoints	REACT:R-HSA-69620
+psmb5	PSMB5	5693	Cell Cycle, Mitotic	REACT:R-HSA-69278
+psmb5	PSMB5	5693	Cellular responses to stress	REACT:R-HSA-2262752
+psmb5	PSMB5	5693	Cellular response to hypoxia	REACT:R-HSA-2262749
+psmb5	PSMB5	5693	Class I MHC mediated antigen processing & presentation	REACT:R-HSA-983169
+psmb5	PSMB5	5693	CLEC7A (Dectin-1) signaling	REACT:R-HSA-5607764
+psmb5	PSMB5	5693	Cross-presentation of soluble exogenous antigens (endosomes)	REACT:R-HSA-1236978
+psmb5	PSMB5	5693	C-type lectin receptors (CLRs)	REACT:R-HSA-5621481
+psmb5	PSMB5	5693	Cyclin A:Cdk2-associated events at S phase entry	REACT:R-HSA-69656
+psmb5	PSMB5	5693	Cyclin E associated events during G1/S transition	REACT:R-HSA-69202
+psmb5	PSMB5	5693	Cytokine Signaling in Immune system	REACT:R-HSA-1280215
+psmb5	PSMB5	5693	DAP12 interactions	REACT:R-HSA-2172127
+psmb5	PSMB5	5693	DAP12 signaling	REACT:R-HSA-2424491
+psmb5	PSMB5	5693	Dectin-1 mediated noncanonical NF-kB signaling	REACT:R-HSA-5607761
+psmb5	PSMB5	5693	Defective CFTR causes cystic fibrosis	REACT:R-HSA-5678895
+psmb5	PSMB5	5693	Degradation of AXIN	REACT:R-HSA-4641257
+psmb5	PSMB5	5693	Degradation of beta-catenin by the destruction complex	REACT:R-HSA-195253
+psmb5	PSMB5	5693	Degradation of DVL	REACT:R-HSA-4641258
+psmb5	PSMB5	5693	Degradation of GLI1 by the proteasome	REACT:R-HSA-5610780
+psmb5	PSMB5	5693	Degradation of GLI2 by the proteasome	REACT:R-HSA-5610783
+psmb5	PSMB5	5693	Deubiquitination	REACT:R-HSA-5688426
+psmb5	PSMB5	5693	Developmental Biology	REACT:R-HSA-1266738
+psmb5	PSMB5	5693	Disease	REACT:R-HSA-1643685
+psmb5	PSMB5	5693	Diseases of signal transduction	REACT:R-HSA-5663202
+psmb5	PSMB5	5693	Disorders of transmembrane transporters	REACT:R-HSA-5619115
+psmb5	PSMB5	5693	DNA Replication	REACT:R-HSA-69306
+psmb5	PSMB5	5693	DNA Replication Pre-Initiation	REACT:R-HSA-69002
+psmb5	PSMB5	5693	Downstream signaling events of B Cell Receptor (BCR)	REACT:R-HSA-1168372
+psmb5	PSMB5	5693	Downstream signal transduction	REACT:R-HSA-186763
+psmb5	PSMB5	5693	Downstream TCR signaling	REACT:R-HSA-202424
+psmb5	PSMB5	5693	ER-Phagosome pathway	REACT:R-HSA-1236974
+psmb5	PSMB5	5693	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	REACT:R-HSA-8854050
+psmb5	PSMB5	5693	Fc epsilon receptor (FCERI) signaling	REACT:R-HSA-2454202
+psmb5	PSMB5	5693	FCERI mediated MAPK activation	REACT:R-HSA-2871796
+psmb5	PSMB5	5693	FCERI mediated NF-kB activation	REACT:R-HSA-2871837
+psmb5	PSMB5	5693	Frs2-mediated activation	REACT:R-HSA-170968
+psmb5	PSMB5	5693	G1/S DNA Damage Checkpoints	REACT:R-HSA-69615
+psmb5	PSMB5	5693	G1/S Transition	REACT:R-HSA-69206
+psmb5	PSMB5	5693	G2/M Checkpoints	REACT:R-HSA-69481
+psmb5	PSMB5	5693	G2/M Transition	REACT:R-HSA-69275
+psmb5	PSMB5	5693	Gastrin-CREB signalling pathway via PKC and MAPK	REACT:R-HSA-881907
+psmb5	PSMB5	5693	Gene Expression	REACT:R-HSA-74160
+psmb5	PSMB5	5693	GLI3 is processed to GLI3R by the proteasome	REACT:R-HSA-5610785
+psmb5	PSMB5	5693	GRB2 events in EGFR signaling	REACT:R-HSA-179812
+psmb5	PSMB5	5693	Hedgehog ligand biogenesis	REACT:R-HSA-5358346
+psmb5	PSMB5	5693	Hedgehog 'off' state	REACT:R-HSA-5610787
+psmb5	PSMB5	5693	Hedgehog 'on' state	REACT:R-HSA-5632684
+psmb5	PSMB5	5693	Hh mutants abrogate ligand secretion	REACT:R-HSA-5387390
+psmb5	PSMB5	5693	Hh mutants that don't undergo autocatalytic processing are degraded by ERAD	REACT:R-HSA-5362768
+psmb5	PSMB5	5693	HIV Infection	REACT:R-HSA-162906
+psmb5	PSMB5	5693	Host Interactions of HIV factors	REACT:R-HSA-162909
+psmb5	PSMB5	5693	IGF1R signaling cascade	REACT:R-HSA-2428924
+psmb5	PSMB5	5693	Immune System	REACT:R-HSA-168256
+psmb5	PSMB5	5693	Infectious disease	REACT:R-HSA-5663205
+psmb5	PSMB5	5693	Innate Immune System	REACT:R-HSA-168249
+psmb5	PSMB5	5693	Insulin receptor signalling cascade	REACT:R-HSA-74751
+psmb5	PSMB5	5693	Interleukin-2 signaling	REACT:R-HSA-451927
+psmb5	PSMB5	5693	Interleukin-3, 5 and GM-CSF signaling	REACT:R-HSA-512988
+psmb5	PSMB5	5693	Interleukin receptor SHC signaling	REACT:R-HSA-912526
+psmb5	PSMB5	5693	IRS-mediated signalling	REACT:R-HSA-112399
+psmb5	PSMB5	5693	IRS-related events triggered by IGF1R	REACT:R-HSA-2428928
+psmb5	PSMB5	5693	MAPK1/MAPK3 signaling	REACT:R-HSA-5684996
+psmb5	PSMB5	5693	MAPK6/MAPK4 signaling	REACT:R-HSA-5687128
+psmb5	PSMB5	5693	MAPK family signaling cascades	REACT:R-HSA-5683057
+psmb5	PSMB5	5693	Metabolism	REACT:R-HSA-1430728
+psmb5	PSMB5	5693	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+psmb5	PSMB5	5693	Metabolism of polyamines	REACT:R-HSA-351202
+psmb5	PSMB5	5693	Metabolism of proteins	REACT:R-HSA-392499
+psmb5	PSMB5	5693	M/G1 Transition	REACT:R-HSA-68874
+psmb5	PSMB5	5693	Mitotic Anaphase	REACT:R-HSA-68882
+psmb5	PSMB5	5693	Mitotic G1-G1/S phases	REACT:R-HSA-453279
+psmb5	PSMB5	5693	Mitotic G2-G2/M phases	REACT:R-HSA-453274
+psmb5	PSMB5	5693	Mitotic Metaphase and Anaphase	REACT:R-HSA-2555396
+psmb5	PSMB5	5693	M Phase	REACT:R-HSA-68886
+psmb5	PSMB5	5693	NCAM signaling for neurite out-growth	REACT:R-HSA-375165
+psmb5	PSMB5	5693	NGF signalling via TRKA from the plasma membrane	REACT:R-HSA-187037
+psmb5	PSMB5	5693	NIK-->noncanonical NF-kB signaling	REACT:R-HSA-5676590
+psmb5	PSMB5	5693	Orc1 removal from chromatin	REACT:R-HSA-68949
+psmb5	PSMB5	5693	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	REACT:R-HSA-1234176
+psmb5	PSMB5	5693	p53-Dependent G1 DNA Damage Response	REACT:R-HSA-69563
+psmb5	PSMB5	5693	p53-Dependent G1/S DNA damage checkpoint	REACT:R-HSA-69580
+psmb5	PSMB5	5693	p53-Independent DNA Damage Response	REACT:R-HSA-69610
+psmb5	PSMB5	5693	p53-Independent G1/S DNA damage checkpoint	REACT:R-HSA-69613
+psmb5	PSMB5	5693	PCP/CE pathway	REACT:R-HSA-4086400
+psmb5	PSMB5	5693	Post-translational protein modification	REACT:R-HSA-597592
+psmb5	PSMB5	5693	Programmed Cell Death	REACT:R-HSA-5357801
+psmb5	PSMB5	5693	Prolonged ERK activation events	REACT:R-HSA-169893
+psmb5	PSMB5	5693	Proteasome	KEGG:hsa03050
+psmb5	PSMB5	5693	Proteasome, 20S core particle	KEGG:hsa_M00340
+psmb5	PSMB5	5693	RAF/MAP kinase cascade	REACT:R-HSA-5673001
+psmb5	PSMB5	5693	Regulation of activated PAK-2p34 by proteasome mediated degradation	REACT:R-HSA-211733
+psmb5	PSMB5	5693	Regulation of APC/C activators between G1/S and early anaphase	REACT:R-HSA-176408
+psmb5	PSMB5	5693	Regulation of Apoptosis	REACT:R-HSA-169911
+psmb5	PSMB5	5693	Regulation of DNA replication	REACT:R-HSA-69304
+psmb5	PSMB5	5693	Regulation of Hypoxia-inducible Factor (HIF) by oxygen	REACT:R-HSA-1234174
+psmb5	PSMB5	5693	Regulation of mitotic cell cycle	REACT:R-HSA-453276
+psmb5	PSMB5	5693	Regulation of mRNA stability by proteins that bind AU-rich elements	REACT:R-HSA-450531
+psmb5	PSMB5	5693	Regulation of ornithine decarboxylase (ODC)	REACT:R-HSA-350562
+psmb5	PSMB5	5693	Regulation of RAS by GAPs	REACT:R-HSA-5658442
+psmb5	PSMB5	5693	Removal of licensing factors from origins	REACT:R-HSA-69300
+psmb5	PSMB5	5693	RET signaling	REACT:R-HSA-8853659
+psmb5	PSMB5	5693	SCF-beta-TrCP mediated degradation of Emi1	REACT:R-HSA-174113
+psmb5	PSMB5	5693	SCF(Skp2)-mediated degradation of p27/p21	REACT:R-HSA-187577
+psmb5	PSMB5	5693	Separation of Sister Chromatids	REACT:R-HSA-2467813
+psmb5	PSMB5	5693	SHC1 events in EGFR signaling	REACT:R-HSA-180336
+psmb5	PSMB5	5693	Signaling by EGFR	REACT:R-HSA-177929
+psmb5	PSMB5	5693	Signaling by GPCR	REACT:R-HSA-372790
+psmb5	PSMB5	5693	Signaling by Hedgehog	REACT:R-HSA-5358351
+psmb5	PSMB5	5693	Signaling by Insulin receptor	REACT:R-HSA-74752
+psmb5	PSMB5	5693	Signaling by Interleukins	REACT:R-HSA-449147
+psmb5	PSMB5	5693	Signaling by Leptin	REACT:R-HSA-2586552
+psmb5	PSMB5	5693	Signaling by PDGF	REACT:R-HSA-186797
+psmb5	PSMB5	5693	Signaling by SCF-KIT	REACT:R-HSA-1433557
+psmb5	PSMB5	5693	Signaling by the B Cell Receptor (BCR)	REACT:R-HSA-983705
+psmb5	PSMB5	5693	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	REACT:R-HSA-2404192
+psmb5	PSMB5	5693	Signaling by VEGF	REACT:R-HSA-194138
+psmb5	PSMB5	5693	Signaling by Wnt	REACT:R-HSA-195721
+psmb5	PSMB5	5693	Signalling by NGF	REACT:R-HSA-166520
+psmb5	PSMB5	5693	Signalling to ERKs	REACT:R-HSA-187687
+psmb5	PSMB5	5693	Signalling to p38 via RIT and RIN	REACT:R-HSA-187706
+psmb5	PSMB5	5693	Signalling to RAS	REACT:R-HSA-167044
+psmb5	PSMB5	5693	Signal Transduction	REACT:R-HSA-162582
+psmb5	PSMB5	5693	SOS-mediated signalling	REACT:R-HSA-112412
+psmb5	PSMB5	5693	S Phase	REACT:R-HSA-69242
+psmb5	PSMB5	5693	Stabilization of p53	REACT:R-HSA-69541
+psmb5	PSMB5	5693	Switching of origins to a post-replicative state	REACT:R-HSA-69052
+psmb5	PSMB5	5693	Synthesis of DNA	REACT:R-HSA-69239
+psmb5	PSMB5	5693	TCF dependent signaling in response to WNT	REACT:R-HSA-201681
+psmb5	PSMB5	5693	TCR signaling	REACT:R-HSA-202403
+psmb5	PSMB5	5693	The role of GTSE1 in G2/M progression after G2 checkpoint	REACT:R-HSA-8852276
+psmb5	PSMB5	5693	TNFR2 non-canonical NF-kB pathway	REACT:R-HSA-5668541
+psmb5	PSMB5	5693	Transmembrane transport of small molecules	REACT:R-HSA-382551
+psmb5	PSMB5	5693	Ubiquitin-dependent degradation of Cyclin D	REACT:R-HSA-75815
+psmb5	PSMB5	5693	Ubiquitin-dependent degradation of Cyclin D1	REACT:R-HSA-69229
+psmb5	PSMB5	5693	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	REACT:R-HSA-69601
+psmb5	PSMB5	5693	Ub-specific processing proteases	REACT:R-HSA-5689880
+psmb5	PSMB5	5693	UCH proteinases	REACT:R-HSA-5689603
+psmb5	PSMB5	5693	VEGFA-VEGFR2 Pathway	REACT:R-HSA-4420097
+psmb5	PSMB5	5693	VEGFR2 mediated cell proliferation	REACT:R-HSA-5218921
+psmb5	PSMB5	5693	Vif-mediated degradation of APOBEC3G	REACT:R-HSA-180585
+psmb5	PSMB5	5693	Vpu mediated degradation of CD4	REACT:R-HSA-180534
+psmd3	PSMD3	5709	ABC-family proteins mediated transport	REACT:R-HSA-382556
+psmd3	PSMD3	5709	ABC transporter disorders	REACT:R-HSA-5619084
+psmd3	PSMD3	5709	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	REACT:R-HSA-176814
+psmd3	PSMD3	5709	Activation of NF-kappaB in B cells	REACT:R-HSA-1169091
+psmd3	PSMD3	5709	Adaptive Immune System	REACT:R-HSA-1280218
+psmd3	PSMD3	5709	Antigen processing-Cross presentation	REACT:R-HSA-1236975
+psmd3	PSMD3	5709	Antigen processing: Ubiquitination & Proteasome degradation	REACT:R-HSA-983168
+psmd3	PSMD3	5709	APC/C:Cdc20 mediated degradation of mitotic proteins	REACT:R-HSA-176409
+psmd3	PSMD3	5709	APC/C:Cdc20 mediated degradation of Securin	REACT:R-HSA-174154
+psmd3	PSMD3	5709	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	REACT:R-HSA-174178
+psmd3	PSMD3	5709	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	REACT:R-HSA-179419
+psmd3	PSMD3	5709	APC/C-mediated degradation of cell cycle proteins	REACT:R-HSA-174143
+psmd3	PSMD3	5709	Apoptosis	REACT:R-HSA-109581
+psmd3	PSMD3	5709	ARMS-mediated activation	REACT:R-HSA-170984
+psmd3	PSMD3	5709	Assembly of the pre-replicative complex	REACT:R-HSA-68867
+psmd3	PSMD3	5709	Asymmetric localization of PCP proteins	REACT:R-HSA-4608870
+psmd3	PSMD3	5709	AUF1 (hnRNP D0) binds and destabilizes mRNA	REACT:R-HSA-450408
+psmd3	PSMD3	5709	Autodegradation of Cdh1 by Cdh1:APC/C	REACT:R-HSA-174084
+psmd3	PSMD3	5709	Autodegradation of the E3 ubiquitin ligase COP1	REACT:R-HSA-349425
+psmd3	PSMD3	5709	Axon guidance	REACT:R-HSA-422475
+psmd3	PSMD3	5709	Beta-catenin independent WNT signaling	REACT:R-HSA-3858494
+psmd3	PSMD3	5709	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	REACT:R-HSA-174184
+psmd3	PSMD3	5709	CDK-mediated phosphorylation and removal of Cdc6	REACT:R-HSA-69017
+psmd3	PSMD3	5709	CDT1 association with the CDC6:ORC:origin complex	REACT:R-HSA-68827
+psmd3	PSMD3	5709	Cell Cycle	REACT:R-HSA-1640170
+psmd3	PSMD3	5709	Cell Cycle Checkpoints	REACT:R-HSA-69620
+psmd3	PSMD3	5709	Cell Cycle, Mitotic	REACT:R-HSA-69278
+psmd3	PSMD3	5709	Cellular responses to stress	REACT:R-HSA-2262752
+psmd3	PSMD3	5709	Cellular response to hypoxia	REACT:R-HSA-2262749
+psmd3	PSMD3	5709	Class I MHC mediated antigen processing & presentation	REACT:R-HSA-983169
+psmd3	PSMD3	5709	CLEC7A (Dectin-1) signaling	REACT:R-HSA-5607764
+psmd3	PSMD3	5709	Cross-presentation of soluble exogenous antigens (endosomes)	REACT:R-HSA-1236978
+psmd3	PSMD3	5709	C-type lectin receptors (CLRs)	REACT:R-HSA-5621481
+psmd3	PSMD3	5709	Cyclin A:Cdk2-associated events at S phase entry	REACT:R-HSA-69656
+psmd3	PSMD3	5709	Cyclin E associated events during G1/S transition	REACT:R-HSA-69202
+psmd3	PSMD3	5709	Cytokine Signaling in Immune system	REACT:R-HSA-1280215
+psmd3	PSMD3	5709	DAP12 interactions	REACT:R-HSA-2172127
+psmd3	PSMD3	5709	DAP12 signaling	REACT:R-HSA-2424491
+psmd3	PSMD3	5709	Dectin-1 mediated noncanonical NF-kB signaling	REACT:R-HSA-5607761
+psmd3	PSMD3	5709	Defective CFTR causes cystic fibrosis	REACT:R-HSA-5678895
+psmd3	PSMD3	5709	Degradation of AXIN	REACT:R-HSA-4641257
+psmd3	PSMD3	5709	Degradation of beta-catenin by the destruction complex	REACT:R-HSA-195253
+psmd3	PSMD3	5709	Degradation of DVL	REACT:R-HSA-4641258
+psmd3	PSMD3	5709	Degradation of GLI1 by the proteasome	REACT:R-HSA-5610780
+psmd3	PSMD3	5709	Degradation of GLI2 by the proteasome	REACT:R-HSA-5610783
+psmd3	PSMD3	5709	Deubiquitination	REACT:R-HSA-5688426
+psmd3	PSMD3	5709	Developmental Biology	REACT:R-HSA-1266738
+psmd3	PSMD3	5709	Disease	REACT:R-HSA-1643685
+psmd3	PSMD3	5709	Diseases of signal transduction	REACT:R-HSA-5663202
+psmd3	PSMD3	5709	Disorders of transmembrane transporters	REACT:R-HSA-5619115
+psmd3	PSMD3	5709	DNA Replication	REACT:R-HSA-69306
+psmd3	PSMD3	5709	DNA Replication Pre-Initiation	REACT:R-HSA-69002
+psmd3	PSMD3	5709	Downstream signaling events of B Cell Receptor (BCR)	REACT:R-HSA-1168372
+psmd3	PSMD3	5709	Downstream signal transduction	REACT:R-HSA-186763
+psmd3	PSMD3	5709	Downstream TCR signaling	REACT:R-HSA-202424
+psmd3	PSMD3	5709	Epstein-Barr virus infection	KEGG:hsa05169
+psmd3	PSMD3	5709	ER-Phagosome pathway	REACT:R-HSA-1236974
+psmd3	PSMD3	5709	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	REACT:R-HSA-8854050
+psmd3	PSMD3	5709	Fc epsilon receptor (FCERI) signaling	REACT:R-HSA-2454202
+psmd3	PSMD3	5709	FCERI mediated MAPK activation	REACT:R-HSA-2871796
+psmd3	PSMD3	5709	FCERI mediated NF-kB activation	REACT:R-HSA-2871837
+psmd3	PSMD3	5709	Frs2-mediated activation	REACT:R-HSA-170968
+psmd3	PSMD3	5709	G1/S DNA Damage Checkpoints	REACT:R-HSA-69615
+psmd3	PSMD3	5709	G1/S Transition	REACT:R-HSA-69206
+psmd3	PSMD3	5709	G2/M Checkpoints	REACT:R-HSA-69481
+psmd3	PSMD3	5709	G2/M Transition	REACT:R-HSA-69275
+psmd3	PSMD3	5709	Gastrin-CREB signalling pathway via PKC and MAPK	REACT:R-HSA-881907
+psmd3	PSMD3	5709	Gene Expression	REACT:R-HSA-74160
+psmd3	PSMD3	5709	GLI3 is processed to GLI3R by the proteasome	REACT:R-HSA-5610785
+psmd3	PSMD3	5709	GRB2 events in EGFR signaling	REACT:R-HSA-179812
+psmd3	PSMD3	5709	Hedgehog ligand biogenesis	REACT:R-HSA-5358346
+psmd3	PSMD3	5709	Hedgehog 'off' state	REACT:R-HSA-5610787
+psmd3	PSMD3	5709	Hedgehog 'on' state	REACT:R-HSA-5632684
+psmd3	PSMD3	5709	Hh mutants abrogate ligand secretion	REACT:R-HSA-5387390
+psmd3	PSMD3	5709	Hh mutants that don't undergo autocatalytic processing are degraded by ERAD	REACT:R-HSA-5362768
+psmd3	PSMD3	5709	HIV Infection	REACT:R-HSA-162906
+psmd3	PSMD3	5709	Host Interactions of HIV factors	REACT:R-HSA-162909
+psmd3	PSMD3	5709	IGF1R signaling cascade	REACT:R-HSA-2428924
+psmd3	PSMD3	5709	Immune System	REACT:R-HSA-168256
+psmd3	PSMD3	5709	Infectious disease	REACT:R-HSA-5663205
+psmd3	PSMD3	5709	Innate Immune System	REACT:R-HSA-168249
+psmd3	PSMD3	5709	Insulin receptor signalling cascade	REACT:R-HSA-74751
+psmd3	PSMD3	5709	Interleukin-2 signaling	REACT:R-HSA-451927
+psmd3	PSMD3	5709	Interleukin-3, 5 and GM-CSF signaling	REACT:R-HSA-512988
+psmd3	PSMD3	5709	Interleukin receptor SHC signaling	REACT:R-HSA-912526
+psmd3	PSMD3	5709	IRS-mediated signalling	REACT:R-HSA-112399
+psmd3	PSMD3	5709	IRS-related events triggered by IGF1R	REACT:R-HSA-2428928
+psmd3	PSMD3	5709	MAPK1/MAPK3 signaling	REACT:R-HSA-5684996
+psmd3	PSMD3	5709	MAPK6/MAPK4 signaling	REACT:R-HSA-5687128
+psmd3	PSMD3	5709	MAPK family signaling cascades	REACT:R-HSA-5683057
+psmd3	PSMD3	5709	Metabolism	REACT:R-HSA-1430728
+psmd3	PSMD3	5709	Metabolism of amino acids and derivatives	REACT:R-HSA-71291
+psmd3	PSMD3	5709	Metabolism of polyamines	REACT:R-HSA-351202
+psmd3	PSMD3	5709	Metabolism of proteins	REACT:R-HSA-392499
+psmd3	PSMD3	5709	M/G1 Transition	REACT:R-HSA-68874
+psmd3	PSMD3	5709	Mitotic Anaphase	REACT:R-HSA-68882
+psmd3	PSMD3	5709	Mitotic G1-G1/S phases	REACT:R-HSA-453279
+psmd3	PSMD3	5709	Mitotic G2-G2/M phases	REACT:R-HSA-453274
+psmd3	PSMD3	5709	Mitotic Metaphase and Anaphase	REACT:R-HSA-2555396
+psmd3	PSMD3	5709	M Phase	REACT:R-HSA-68886
+psmd3	PSMD3	5709	NCAM signaling for neurite out-growth	REACT:R-HSA-375165
+psmd3	PSMD3	5709	Neutrophil degranulation	REACT:R-HSA-6798695
+psmd3	PSMD3	5709	NGF signalling via TRKA from the plasma membrane	REACT:R-HSA-187037
+psmd3	PSMD3	5709	NIK-->noncanonical NF-kB signaling	REACT:R-HSA-5676590
+psmd3	PSMD3	5709	Orc1 removal from chromatin	REACT:R-HSA-68949
+psmd3	PSMD3	5709	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	REACT:R-HSA-1234176
+psmd3	PSMD3	5709	p53-Dependent G1 DNA Damage Response	REACT:R-HSA-69563
+psmd3	PSMD3	5709	p53-Dependent G1/S DNA damage checkpoint	REACT:R-HSA-69580
+psmd3	PSMD3	5709	p53-Independent DNA Damage Response	REACT:R-HSA-69610
+psmd3	PSMD3	5709	p53-Independent G1/S DNA damage checkpoint	REACT:R-HSA-69613
+psmd3	PSMD3	5709	PCP/CE pathway	REACT:R-HSA-4086400
+psmd3	PSMD3	5709	Post-translational protein modification	REACT:R-HSA-597592
+psmd3	PSMD3	5709	Programmed Cell Death	REACT:R-HSA-5357801
+psmd3	PSMD3	5709	Prolonged ERK activation events	REACT:R-HSA-169893
+psmd3	PSMD3	5709	Proteasome	KEGG:hsa03050
+psmd3	PSMD3	5709	Proteasome, 19S regulatory particle (PA700)	KEGG:hsa_M00341
+psmd3	PSMD3	5709	RAF/MAP kinase cascade	REACT:R-HSA-5673001
+psmd3	PSMD3	5709	Regulation of activated PAK-2p34 by proteasome mediated degradation	REACT:R-HSA-211733
+psmd3	PSMD3	5709	Regulation of APC/C activators between G1/S and early anaphase	REACT:R-HSA-176408
+psmd3	PSMD3	5709	Regulation of Apoptosis	REACT:R-HSA-169911
+psmd3	PSMD3	5709	Regulation of DNA replication	REACT:R-HSA-69304
+psmd3	PSMD3	5709	Regulation of Hypoxia-inducible Factor (HIF) by oxygen	REACT:R-HSA-1234174
+psmd3	PSMD3	5709	Regulation of mitotic cell cycle	REACT:R-HSA-453276
+psmd3	PSMD3	5709	Regulation of mRNA stability by proteins that bind AU-rich elements	REACT:R-HSA-450531
+psmd3	PSMD3	5709	Regulation of ornithine decarboxylase (ODC)	REACT:R-HSA-350562
+psmd3	PSMD3	5709	Regulation of RAS by GAPs	REACT:R-HSA-5658442
+psmd3	PSMD3	5709	Removal of licensing factors from origins	REACT:R-HSA-69300
+psmd3	PSMD3	5709	RET signaling	REACT:R-HSA-8853659
+psmd3	PSMD3	5709	SCF-beta-TrCP mediated degradation of Emi1	REACT:R-HSA-174113
+psmd3	PSMD3	5709	SCF(Skp2)-mediated degradation of p27/p21	REACT:R-HSA-187577
+psmd3	PSMD3	5709	Separation of Sister Chromatids	REACT:R-HSA-2467813
+psmd3	PSMD3	5709	SHC1 events in EGFR signaling	REACT:R-HSA-180336
+psmd3	PSMD3	5709	Signaling by EGFR	REACT:R-HSA-177929
+psmd3	PSMD3	5709	Signaling by GPCR	REACT:R-HSA-372790
+psmd3	PSMD3	5709	Signaling by Hedgehog	REACT:R-HSA-5358351
+psmd3	PSMD3	5709	Signaling by Insulin receptor	REACT:R-HSA-74752
+psmd3	PSMD3	5709	Signaling by Interleukins	REACT:R-HSA-449147
+psmd3	PSMD3	5709	Signaling by Leptin	REACT:R-HSA-2586552
+psmd3	PSMD3	5709	Signaling by PDGF	REACT:R-HSA-186797
+psmd3	PSMD3	5709	Signaling by SCF-KIT	REACT:R-HSA-1433557
+psmd3	PSMD3	5709	Signaling by the B Cell Receptor (BCR)	REACT:R-HSA-983705
+psmd3	PSMD3	5709	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	REACT:R-HSA-2404192
+psmd3	PSMD3	5709	Signaling by VEGF	REACT:R-HSA-194138
+psmd3	PSMD3	5709	Signaling by Wnt	REACT:R-HSA-195721
+psmd3	PSMD3	5709	Signalling by NGF	REACT:R-HSA-166520
+psmd3	PSMD3	5709	Signalling to ERKs	REACT:R-HSA-187687
+psmd3	PSMD3	5709	Signalling to p38 via RIT and RIN	REACT:R-HSA-187706
+psmd3	PSMD3	5709	Signalling to RAS	REACT:R-HSA-167044
+psmd3	PSMD3	5709	Signal Transduction	REACT:R-HSA-162582
+psmd3	PSMD3	5709	SOS-mediated signalling	REACT:R-HSA-112412
+psmd3	PSMD3	5709	S Phase	REACT:R-HSA-69242
+psmd3	PSMD3	5709	Stabilization of p53	REACT:R-HSA-69541
+psmd3	PSMD3	5709	Switching of origins to a post-replicative state	REACT:R-HSA-69052
+psmd3	PSMD3	5709	Synthesis of DNA	REACT:R-HSA-69239
+psmd3	PSMD3	5709	TCF dependent signaling in response to WNT	REACT:R-HSA-201681
+psmd3	PSMD3	5709	TCR signaling	REACT:R-HSA-202403
+psmd3	PSMD3	5709	The role of GTSE1 in G2/M progression after G2 checkpoint	REACT:R-HSA-8852276
+psmd3	PSMD3	5709	TNFR2 non-canonical NF-kB pathway	REACT:R-HSA-5668541
+psmd3	PSMD3	5709	Transmembrane transport of small molecules	REACT:R-HSA-382551
+psmd3	PSMD3	5709	Ubiquitin-dependent degradation of Cyclin D	REACT:R-HSA-75815
+psmd3	PSMD3	5709	Ubiquitin-dependent degradation of Cyclin D1	REACT:R-HSA-69229
+psmd3	PSMD3	5709	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	REACT:R-HSA-69601
+psmd3	PSMD3	5709	Ub-specific processing proteases	REACT:R-HSA-5689880
+psmd3	PSMD3	5709	UCH proteinases	REACT:R-HSA-5689603
+psmd3	PSMD3	5709	VEGFA-VEGFR2 Pathway	REACT:R-HSA-4420097
+psmd3	PSMD3	5709	VEGFR2 mediated cell proliferation	REACT:R-HSA-5218921
+psmd3	PSMD3	5709	Vif-mediated degradation of APOBEC3G	REACT:R-HSA-180585
+psmd3	PSMD3	5709	Vpu mediated degradation of CD4	REACT:R-HSA-180534
+sgk1	SGK1	6446	Aldosterone-regulated sodium reabsorption	KEGG:hsa04960
+sgk1	SGK1	6446	FoxO signaling pathway	KEGG:hsa04068
+sgk1	SGK1	6446	Gene Expression	REACT:R-HSA-74160
+sgk1	SGK1	6446	Generic Transcription Pathway	REACT:R-HSA-212436
+sgk1	SGK1	6446	Ion channel transport	REACT:R-HSA-983712
+sgk1	SGK1	6446	mTOR signaling pathway	KEGG:hsa04150
+sgk1	SGK1	6446	PI3K-Akt signaling pathway	KEGG:hsa04151
+sgk1	SGK1	6446	Regulation of TP53 Activity	REACT:R-HSA-5633007
+sgk1	SGK1	6446	Regulation of TP53 Degradation	REACT:R-HSA-6804757
+sgk1	SGK1	6446	Regulation of TP53 Expression and Degradation	REACT:R-HSA-6806003
+sgk1	SGK1	6446	Stimuli-sensing channels	REACT:R-HSA-2672351
+sgk1	SGK1	6446	Transcriptional Regulation by TP53	REACT:R-HSA-3700989
+sgk1	SGK1	6446	Transmembrane transport of small molecules	REACT:R-HSA-382551
+prps1	PRPS1	5631	5-Phosphoribose 1-diphosphate biosynthesis	REACT:R-HSA-73843
+prps1	PRPS1	5631	Biosynthesis of amino acids	KEGG:hsa01230
+prps1	PRPS1	5631	Carbon metabolism	KEGG:hsa01200
+prps1	PRPS1	5631	Metabolic pathways	KEGG:hsa01100
+prps1	PRPS1	5631	Metabolism	REACT:R-HSA-1430728
+prps1	PRPS1	5631	Metabolism of carbohydrates	REACT:R-HSA-71387
+prps1	PRPS1	5631	Pentose phosphate pathway	KEGG:hsa00030
+prps1	PRPS1	5631	PRPP biosynthesis, ribose 5P => PRPP	KEGG:hsa_M00005
+prps1	PRPS1	5631	Purine metabolism	KEGG:hsa00230
