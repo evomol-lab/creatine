@@ -102,27 +102,27 @@ Presence/Absence of DiseaseID per gene from the CTD-list
 Here are the number of DiseaseIDs and counts, common to the two genes lists:
 ```
 DiseaseID      
-MESH:D007676       77
-MESH:D007674       77
-MESH:D007680       77
-MESH:D007683       77
-MESH:D058186       77
-MESH:D007681       66
-MESH:D007673       66
-MESH:D007669       60
-MESH:D052177       40
-MESH:C537152       32
-MESH:D007690       32
-MESH:D021782       32
-MESH:D012080       10
-MESH:C538445        9
-MESH:D000092702     8
+MESH:D007676       77   Kidney Failure, Chronic
+MESH:D007674       77   Kidney Diseases
+MESH:D007680       77   Kidney Neoplasms
+MESH:D007683       77   Kidney Tubular Necrosis, Acute
+MESH:D058186       77   Acute Kidney Injury
+MESH:D007681       66   Kidney Papillary Necrosis
+MESH:D007673       66   Kidney Cortex Necrosis
+MESH:D007669       60   Kidney Calculi
+MESH:D052177       40   Kidney Diseases, Cystic
+MESH:C537152       32   Hypomagnesemia 2, renal [Supplementary Concept]
+MESH:D007690       32   Polycystic Kidney Diseases
+MESH:D021782       32   Multicystic Dysplastic Kidney
+MESH:D012080       10   Chronic Kidney Disease-Mineral and Bone Disorder
+MESH:C538445        9   Clear-cell metastatic renal cell carcinoma [Supplementary Concept]
+MESH:D000092702     8   Chronic Kidney Diseases of Uncertain Etiology
 ```
 The list from the Stitch database has these unique DiseaseID counts:
 ```
 DiseaseID
-MESH:D016891    3
-MESH:C531755    1
+MESH:D016891    3   Polycystic Kidney, Autosomal Dominant
+MESH:C531755    1   Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules [Supplementary Concept]
 ```
 
 ### Resultado enrichr-KG

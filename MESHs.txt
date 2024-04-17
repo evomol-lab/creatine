@@ -1,0 +1,19 @@
+-------Common IDs-------
+MESH:D007676    Kidney Failure, Chronic
+MESH:D007674    Kidney Diseases
+MESH:D007680    Kidney Neoplasms
+MESH:D007683    Kidney Tubular Necrosis, Acute
+MESH:D058186    Acute Kidney Injury
+MESH:D007681    Kidney Papillary Necrosis
+MESH:D007673    Kidney Cortex Necrosis
+MESH:D007669    Kidney Calculi
+MESH:D052177    Kidney Diseases, Cystic
+MESH:C537152    Hypomagnesemia 2, renal [Supplementary Concept]
+MESH:D007690    Polycystic Kidney Diseases
+MESH:D021782    Multicystic Dysplastic Kidney
+MESH:D012080    Chronic Kidney Disease-Mineral and Bone Disorder
+MESH:C538445    Clear-cell metastatic renal cell carcinoma [Supplementary Concept]
+MESH:D000092702 Chronic Kidney Diseases of Uncertain Etiology
+-------Unique IDs-------
+MESH:D016891    Polycystic Kidney, Autosomal Dominant
+MESH:C531755    Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules [Supplementary Concept]
