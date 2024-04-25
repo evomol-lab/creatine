@@ -175,6 +175,7 @@ Only three databases retrieved results within the selection criteria. The table 
 ## Important Information
 
 I noticed the following results from GTex database:
+
 | CellTypes | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
 |:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
 | Pancreas Female 30-39 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
