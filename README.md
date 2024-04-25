@@ -193,9 +193,6 @@ Only three databases retrieved results within the selection criteria. The table 
 [9]: https://doi.org/10.3390/cancers10040103.
 
 
-
-
-
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
 - **From Gene Ontology:** PSMB5, and PSMD3 belong to the biological process regulation of cellular amino acid metabolic process (GO:0006521). PSMB5, and PSMD3 belong to the biological process regulation of cellular ketone metabolic process (GO:0010565). SLC6A8, and GATM belong to the biological process creatine metabolic process (GO:0006600). PSMB5, and PSMD3 belong to the biological process regulation of cellular amine metabolic process (GO:0033238). PSMB5, and PSMD3 belong to the biological process negative regulation of cell cycle G2/M phase transition (GO:1902750).
