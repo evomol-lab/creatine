@@ -125,6 +125,77 @@ MESH:D016891    3   Polycystic Kidney, Autosomal Dominant
 MESH:C531755    1   Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules [Supplementary Concept]
 ```
 
+## Gene enrichment analyses
+
+We merged the two above lists and use them as input for a gene enrichment analysis (GEA), using enrichR and enrichR-KG.
+
+```
+SLC2A4
+IGF1
+GATM
+SLC6A8
+AKT1
+AKT2
+AKT3
+PSMB5
+PSMD3
+SGK1
+PRPS1
+CKB
+CKM
+CKMT1A
+CKMT1B
+CKMT2
+SLC16A12
+```
+The first filter used was CellTypes enrichment analysis. As a selection criterion, we chose the databases where the words "kidney" or "renal" were present with associated terms (P-value<0.05), from the all tested databases. Using the `.tsv` tables as input, we executed the following command:
+
+```
+awk -F'\t' '$1 ~ /Kidney/ && $3 < 0.05 {print $1, $3, $4, $7, $8, $9}' listName
+```
+We also searched against Kidney cell lines:
+- **ARCHS4 cell-lines database**: 293F, FLPIN TREX 293, and HEK293.
+
+
+Only three databases retrieved results within the selection criteria. The table below describes the terms and their associated values:
+
+| Database | CellTypes | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:--------:|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| **CellMarker 2024** | Collecting Duct Intercalated Cell Kidney Mouse | 0.003593 | 0.07843 | 25.49 | 143.46 | CKMT1B, SGK1 |
+| **HuBMAP ASCTplusB augmented 2022** | Kidney Interstitial fibroblast - Kidney | 8.808317003142788E-5 | 0.0013050178709848516 | 42.18246110325318 | 393.86730230343085 | GATM, SLC16A12, IGF1 |
+| | Connecting Tubule Intercalated Cell Type A - Kidney | 0.0033964046824717384 | 0.022655611815195546 | 26.246864686468648 | 149.2144192699383 | CKMT2, SLC16A12 |
+| | Kidney Outer Medulla Collecting Duct Intercalated cell - Kidney | 0.0034612740273215416 | 0.022655611815195546 | 25.988235294117647 | 147.2524218660231 | CKMT2, SLC16A12 |
+| **MoTrPAC 2023** | T59-Kidney Consensus | 0.0027283289091587022 | 0.024323568734636137 | 12.568017057569296 | 74.20240192548566 | SLC2A4, IGF1, CKB|
+| | T59-Kidney Female 4W Up | 0.004243143988996933 | 0.026702092577683224 | 312.171875 | 1705.2235013634931 | SLC2A4 |
+| **ARCHS4 cell-lines database** | HEK293 | 0.04417020235184285 | 0.8857370659521143 | 3.0671199442119943 | 9.568509033514891 | PRPS1, CKMT1A, AKT3, CKMT1B, CKB |
+| **ProteomicsDB_2020** | Renal SN-12C BTO:0004221 P0001751 | 0.04134985878495573 | 0.44706319361150326 | 6.841535776614311 | 21.794986607296053 | PRPS1, AKT1 |
+| **ARCHS4 Tissues** | KIDNEY (BULK TISSUE) | 2.952357524640197E-4 | 0.025095038959441675 | 6.807240516079338 | 55.327456253044275 | PRPS1, SLC6A8, PSMB5, CKMT1A,PSMD3, CKMT1B, SLC2A4, CKB |
+
+>From Copilot:
+>
+>**GATM (Glycine Amidinotransferase)**:
+>*GATM plays a crucial role in the synthesis of guanidinoacetic acid (GAA), a metabolite associated with pancreatic ductal adenocarcinoma (PDAC) liver metastasis¹>[6]. High expression of GATM has been positively correlated with advanced N stage in PDAC¹[6]. Knockdown of GATM significantly reduced the intracellular level of >GAA, suppressed epithelial-mesenchymal transition (EMT), and inhibited PDAC liver metastasis¹[6]. These findings suggest that GATM-mediated de novo GAA synthesis >promotes PDAC metastasis¹[6].*
+>
+>**SLC16A12 (Solute Carrier Family 16 Member 12)**:
+>*The SLC16A family members, including SLC16A12, play crucial roles in tumorigenesis and tumor progression²[1]. However, the exact role of SLC16A12 in human >pancreatic cancer remains unclear²[1]. The SLC16A family of monocarboxylate transporters (MCTs) is known to play an important role in cell metabolism, such as >aerobic glycolysis and pH homeostasis²[1]. Current research progress on the MCT family, including SLC16A12, is mainly based on the findings of MCT1-4²[1]. These >proteins exhibit broad substrate specificity and are also involved in the transport of other monocarboxylic metabolites²[1].*
+>
+>*Please note that while these genes and their proteins have been associated with pancreatic cancer, the exact mechanisms and their potential as therapeutic >targets are still under investigation. For more detailed information, please refer to the respective scientific research articles²[1]¹[6].*
+>
+>**References:**
+[1]: https://www.nature.com/articles/s41598-020-64356-y.pdf.
+[2]: https://www.mdpi.com/2072-6694/10/4/103. 
+[3]: https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf. 
+[4]: https://columbiasurgery.org/pancreas/genetics-pancreatic-cancer. 
+[5]: https://link.springer.com/article/10.1007/s11605-022-05553-0. 
+[6]: https://jeccr.biomedcentral.com/articles/10.1186/s13046-023-02698-x. 
+[7]: https://www.nature.com/articles/s41392-023-01662-7.pdf. 
+[8]: https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer. 
+[9]: https://doi.org/10.3390/cancers10040103.
+
+
+
+
+
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
 - **From Gene Ontology:** PSMB5, and PSMD3 belong to the biological process regulation of cellular amino acid metabolic process (GO:0006521). PSMB5, and PSMD3 belong to the biological process regulation of cellular ketone metabolic process (GO:0010565). SLC6A8, and GATM belong to the biological process creatine metabolic process (GO:0006600). PSMB5, and PSMD3 belong to the biological process regulation of cellular amine metabolic process (GO:0033238). PSMB5, and PSMD3 belong to the biological process negative regulation of cell cycle G2/M phase transition (GO:1902750).
