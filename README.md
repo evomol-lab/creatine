@@ -170,18 +170,36 @@ Only three databases retrieved results within the selection criteria. The table 
 | **ARCHS4 cell-lines database** | HEK293 | 0.04417020235184285 | 0.8857370659521143 | 3.0671199442119943 | 9.568509033514891 | PRPS1, CKMT1A, AKT3, CKMT1B, CKB |
 | **ProteomicsDB_2020** | Renal SN-12C BTO:0004221 P0001751 | 0.04134985878495573 | 0.44706319361150326 | 6.841535776614311 | 21.794986607296053 | PRPS1, AKT1 |
 | **ARCHS4 Tissues** | KIDNEY (BULK TISSUE) | 2.952357524640197E-4 | 0.025095038959441675 | 6.807240516079338 | 55.327456253044275 | PRPS1, SLC6A8, PSMB5, CKMT1A,PSMD3, CKMT1B, SLC2A4, CKB |
+--------------------------------
 
->From Copilot:
->
->**GATM (Glycine Amidinotransferase)**:
->*GATM plays a crucial role in the synthesis of guanidinoacetic acid (GAA), a metabolite associated with pancreatic ductal adenocarcinoma (PDAC) liver metastasis¹>[6]. High expression of GATM has been positively correlated with advanced N stage in PDAC¹[6]. Knockdown of GATM significantly reduced the intracellular level of >GAA, suppressed epithelial-mesenchymal transition (EMT), and inhibited PDAC liver metastasis¹[6]. These findings suggest that GATM-mediated de novo GAA synthesis >promotes PDAC metastasis¹[6].*
->
->**SLC16A12 (Solute Carrier Family 16 Member 12)**:
->*The SLC16A family members, including SLC16A12, play crucial roles in tumorigenesis and tumor progression²[1]. However, the exact role of SLC16A12 in human >pancreatic cancer remains unclear²[1]. The SLC16A family of monocarboxylate transporters (MCTs) is known to play an important role in cell metabolism, such as >aerobic glycolysis and pH homeostasis²[1]. Current research progress on the MCT family, including SLC16A12, is mainly based on the findings of MCT1-4²[1]. These >proteins exhibit broad substrate specificity and are also involved in the transport of other monocarboxylic metabolites²[1].*
->
->*Please note that while these genes and their proteins have been associated with pancreatic cancer, the exact mechanisms and their potential as therapeutic >targets are still under investigation. For more detailed information, please refer to the respective scientific research articles²[1]¹[6].*
->
->**References:**
+## Important Information
+
+I noticed the following results from GTex database:
+| CellTypes | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| Pancreas Female 30-39 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+| Pancreas Female 20-29 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+| Pancreas Female 40-49 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+| Pancreas Female 60-69 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+| Pancreas Female 50-59 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+| Pancreas Male 20-29 Up | 0.00320528834894988 | 0.0293818098653739 | 27.05442176870748 | 155.3722787250682 | GATM;SLC16A12 |
+ 
+ - *Why do pancreas cells have these genes upregulated?*
+ - *In which conditions did these increased expression occur?*
+ - *Is it probable that a creatine-induced high expression of GATM and SLC16A12 is associated with the observed improvement of creatine-supplmented streptozotocin-induced diabetic rats? How?* 
+
+ ### Generative-IA search (From Copilot):
+
+**Query:** *Write something about the importance of the genes GATM and SLC16A12, as well as their respective proteins, in pancreatic tissues or pancreatic cancer.*
+
+**GATM (Glycine Amidinotransferase)**:
+*GATM plays a crucial role in the synthesis of guanidinoacetic acid (GAA), a metabolite associated with pancreatic ductal adenocarcinoma (PDAC) liver metastasis¹>[6]. High expression of GATM has been positively correlated with advanced N stage in PDAC¹[6]. Knockdown of GATM significantly reduced the intracellular level of >GAA, suppressed epithelial-mesenchymal transition (EMT), and inhibited PDAC liver metastasis¹[6]. These findings suggest that GATM-mediated de novo GAA synthesis >promotes PDAC metastasis¹[6].*
+
+**SLC16A12 (Solute Carrier Family 16 Member 12)**:
+*The SLC16A family members, including SLC16A12, play crucial roles in tumorigenesis and tumor progression²[1]. However, the exact role of SLC16A12 in human pancreatic cancer remains unclear²[1]. The SLC16A family of monocarboxylate transporters (MCTs) is known to play an important role in cell metabolism, such as aerobic glycolysis and pH homeostasis²[1]. Current research progress on the MCT family, including SLC16A12, is mainly based on the findings of MCT1-4²[1]. These proteins exhibit broad substrate specificity and are also involved in the transport of other monocarboxylic metabolites²[1].*
+*Please note that while these genes and their proteins have been associated with pancreatic cancer, the exact mechanisms and their potential as therapeutic targets are still under investigation. For more detailed information, please refer to the respective scientific research articles²[1]¹[6].*
+
+**References:**
 [1]: https://www.nature.com/articles/s41598-020-64356-y.pdf.
 [2]: https://www.mdpi.com/2072-6694/10/4/103. 
 [3]: https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf. 
@@ -192,6 +210,7 @@ Only three databases retrieved results within the selection criteria. The table 
 [8]: https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer. 
 [9]: https://doi.org/10.3390/cancers10040103.
 
+---------------------------------------------
 
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
