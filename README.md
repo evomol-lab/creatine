@@ -233,7 +233,6 @@ awk -F'\t' '$1 ~ /Kidney/ && $3 < 0.05 {print $1, $3, $4, $7, $8, $9}' listName
 We also searched against Kidney cell lines:
 - **ARCHS4 cell-lines database**: 293F, FLPIN TREX 293, and HEK293.
 
-
 Only three databases retrieved results within the selection criteria. The table below describes the terms and their associated values:
 
 | Database | CellTypes | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
@@ -251,7 +250,50 @@ Only three databases retrieved results within the selection criteria. The table 
 
 ### Pathways and regulation
 
-In our GEA analsys, for the pathways enrichment we used the results of just three databases: Reactome, Elsevier Pathway Collection, and KEGG. We also retrieved the analyses against kinases-regulation and PPI Hub proteins datasets in ordere to estimate the general regulation of the proteins coded by the creatine-related genes from our list.
+For the pathways enrichment analysis we used the results of just three databases: Reactome, Elsevier Pathway Collection, and KEGG. We also retrieved the analyses against kinases-regulation and PPI Hub proteins datasets in order to estimate the general regulation of the proteins coded by the creatine-related genes from our list. The inclusion criteria was the same for all analysis: the first 10 results, ordered by P-value<=0.05.
+
+#### ReactomeDB
+
+It generated the following results:
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| Creatine Metabolism R-HSA-71288 | 2.9184899635801106E-17 | 7.033560812228066E-15 | 2724.409090909091 | 103726.10102698307 | CKMT2;GATM;SLC6A8;CKM;CKMT1A;CKB |
+| Metabolism Of Amino Acids And Derivatives R-HSA-71291 | 2.3490852446193955E-10 | 2.8306477197663716E-8 | 49.006242197253435 | 1086.5578227282188 | CKMT2;GATM;SLC6A8;PSMB5;CKM;CKMT1A;PSMD3;CKB |
+| Regulation Of PTEN Stability And Activity R-HSA-8948751 | 2.173230381584124E-9 | 1.7458284065392463E-7 | 133.877688172043 | 2670.4650899604635 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Cyclin E Associated Events During G1/S Transition R-HSA-69202 | 6.09405957169532E-9 | 3.3201285234231814E-7 | 107.71645021645021 | 2037.5591352243764 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Cyclin A:Cdk2-associated Events At S Phase Entry R-HSA-69656 | 6.888233451085438E-9 | 3.3201285234231814E-7 | 104.9789029535865 | 1972.915887374166 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| KEAP1-NFE2L2 Pathway R-HSA-9755511 | 1.6664329868330147E-8 | 6.693505830445942E-7 | 87.2280701754386 | 1562.2543301775686 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Regulation Of TP53 Degradation R-HSA-6804757 | 2.0684898383664146E-8 | 6.983015044641323E-7 | 191.83653846153845 | 3394.3292284288705 | AKT2;AKT3;AKT1;SGK1 |
+| Regulation Of TP53 Expression And Degradation R-HSA-6806003 | 2.3180132928269954E-8 | 6.983015044641323E-7 | 186.01398601398603 | 3270.120342895983 | AKT2;AKT3;AKT1;SGK1 |
+| RUNX2 Regulates Genes Involved In Cell Migration R-HSA-8941332 | 2.8485265782063636E-8 | 7.627721170530374E-7 | 856.2 | 14875.51509145671 | AKT2;AKT3;AKT1 |
+| Transcriptional Regulation By RUNX2 R-HSA-8878166 | 4.0042433537616845E-8 | 9.65022648256566E-7 | 72.62061403508773 | 1236.9706009272475 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+
+The first two terms were expected, since the gene list was originally retrieved using their interaction with creatine, and its overlap with the amino acid metabolism. Interestingly, the other eigth terms relate to processes involved in the regulation of the Cell Cycle, including the degradation and stability of the known tumor suppressor genes TP53 and PTEN. We also observed the overlap of the genes PSMB5, AKT2, AKT1, AKT3, PSMD3, and SGK1, with several retrieved terms. The integration of amino acid metabolism with some Glycolysis' reactions can explain this relationship with the cell cycle control. PKM2, a glycolytic enzyme, phosphorylates and activates ERK1/2, crucial for cell proliferation. Another glycolytic enzyme, PFKFB3, promotes cell proliferation by stimulating glycolytic ATP production and modulating the expression of cell cycle regulators [Kalucka et al. 2015](https://www.tandfonline.com/doi/full/10.1080/15384101.2015.1090068).
+The involvement of CK in mitosis regulation is well established in the scientific literature. In addition, previous studies report contrasting roles of the creatine metabolism in tumor cells. Both up and downregulation of CK may impair cell viability and induce cell death. The effect seem to depend on the nature of the tumor [Yan et al. 2016](https://link.springer.com/article/10.1007/s00726-016-2217-0). We can work with the following questions:
+- How is the expression of crucial cell cycle regulators in kidney tissue samples from supplemented creatine patients (or murine models)? Is there any correlation with creatine supplementation?
+- How do these levels compare with the ones observed for kidney cancer samples or kidney cancer-cell lines?
+
+> *We can also apply the same questions using pancreas samples.*
+
+#### Kyoto Encyclopedia of Genes and Genomes (KEGG)
+
+From KEGG, we got the following results:
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| Arginine and proline metabolism | 2.167863990086027E-12 | 2.471364948698071E-10 | 247.17768595041323 | 6638.520017174931 | CKMT2;GATM;CKM;CKMT1A;CKMT1B;CKB |
+| FoxO signaling pathway | 8.206604458116714E-10 | 4.6777645411265273E-8 | 86.6530909090909 | 1812.861661545776 | AKT2;AKT3;AKT1;SLC2A4;IGF1;SGK1 |
+| AMPK signaling pathway | 4.1762472319220094E-8 | 1.5869739481303636E-6 | 71.98550724637681 | 1223.125023573209 | AKT2;AKT3;AKT1;SLC2A4;IGF1 |
+| Spinocerebellar ataxia | 1.005795294602024E-7 | 2.8665165896157683E-6 | 59.91847826086956 | 965.4255209585073 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| mTOR signaling pathway | 1.4562974080079344E-7 | 3.3203580902580907E-6 | 55.46420581655481 | 873.1285352962645 | AKT2;AKT3;AKT1;IGF1;SGK1 |
+| Adipocytokine signaling pathway | 2.9841568453594475E-7 | 5.66989800618295E-6 | 94.28639053254437 | 1416.6321246303487 | AKT2;AKT3;AKT1;SLC2A4 |
+| Melanoma | 3.545726530398664E-7 | 5.774468920934967E-6 | 90.1131221719457 | 1338.3918613989156 | AKT2;AKT3;AKT1;IGF1 |
+| Glioma | 4.182518410872301E-7 | 5.9600887354930285E-6 | 86.29252437703141 | 1267.3940189805464 | AKT2;AKT3;AKT1;IGF1 |
+| Prostate cancer | 1.1787217874989481E-6 | 1.4930475974986676E-5 | 65.80645161290323 | 898.3291313734982 | AKT2;AKT3;AKT1;IGF1 |
+| Progesterone-mediated oocyte maturation | 1.331899620230903E-6 | 1.4943595273294845E-5 | 63.74038461538461 | 862.3375666219024 | AKT2;AKT3;AKT1;IGF1 |
+
+Other results within the same P-Value<=0.05 criterion correlate with insulin resistance and signaling metabolism, renal cell carcinoma, type II diabetes mellitus, central carbon metabolism in cancer, etc. However, the involvement of AKT genes in several metabolic processes explains the high number of associated terms.
+
+
 
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
