@@ -1,0 +1,2 @@
+Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Fibromyocyte CL0000192	1/15	0.012678709933633063	0.012678709933633063	0	0	89.14732142857143	389.38044082427126	IGF1

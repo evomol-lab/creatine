@@ -1250,7 +1250,7 @@ pre[class*="language-"] {
 <body>
   <article class="markdown-body"><h1 class="atx" id="creatine">Creatine</h1>
 <p>Files for a bioinformatic analyses on creatine effects on kidney tissues.</p>
-<h1 class="atx" id="creatine-review">Creatine review</h1>
+<div class="toc-container"><p class="toc-title">Table of Contents</p><ul class="toc-list"><li><span><a class="toc-h1" href="#creatine">Creatine</a><span class="dots"></span></span></li><li><span><a class="toc-h1" href="#creatine-review">Creatine review</a><span class="dots"></span></span><ul><li><span><a class="toc-h2" href="#running-title">Running Title</a><span class="dots"></span></span></li><li><span><a class="toc-h2" href="#first-steps">First Steps</a><span class="dots"></span></span><ul><li><span><a class="toc-h3" href="#creatine-related-proteins-on-stitch-database">Creatine-related proteins on Stitch Database</a><span class="dots"></span></span><ul><li><span><a class="toc-h4" href="#first-observations">First observations</a><span class="dots"></span></span></li></ul></li><li><span><a class="toc-h3" href="#using-the-comparative-toxicogenomics-database">Using the Comparative Toxicogenomics Database</a><span class="dots"></span></span><ul><li><span><a class="toc-h4" href="#filtering-ctdsingle-quotes-results">Filtering CTD's results</a><span class="dots"></span></span></li></ul></li></ul></li><li><span><a class="toc-h2" href="#gene-expression">Gene Expression</a><span class="dots"></span></span><ul><li><span><a class="toc-h3" href="#important-information">Important Information</a><span class="dots"></span></span></li></ul></li><li><span><a class="toc-h2" href="#gene-enrichment-analyses">Gene enrichment analyses</a><span class="dots"></span></span><ul><li><span><a class="toc-h3" href="#resultado-enrichr-kg">Resultado enrichr-KG</a><span class="dots"></span></span></li></ul></li></ul></li></ul></div><h1 class="atx" id="creatine-review">Creatine review</h1>
 <h2 class="atx" id="running-title">Running Title</h2>
 <p><em>Creatine effects on kidney tissues and renal function: new insights to old questions.</em></p>
 <h2 class="atx" id="first-steps">First Steps</h2>
@@ -1429,8 +1429,8 @@ MESH:D000092702     8   Chronic Kidney Diseases of Uncertain Etiology</code></pr
 <pre><code class="fenced-code-block">DiseaseID
 MESH:D016891    3   Polycystic Kidney, Autosomal Dominant
 MESH:C531755    1   Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules [Supplementary Concept]</code></pre>
-<h2 class="atx" id="gene-enrichment-analyses">Gene enrichment analyses</h2>
-<p>We merged the two above lists and use them as input for a gene enrichment analysis (GEA), using enrichR and enrichR-KG.</p>
+<h2 class="atx" id="gene-expression">Gene Expression</h2>
+<p>We merged the two above lists into one. </p>
 <pre><code class="fenced-code-block">SLC2A4
 IGF1
 GATM
@@ -1448,6 +1448,118 @@ CKMT1A
 CKMT1B
 CKMT2
 SLC16A12</code></pre>
+<p>The first step was to retrieve a general expression panel of these genes, for all tissues. For this we used the tool <code>Multi-Gene Query</code> of the <a href="https://gtexportal.org/home/">GTEx Portal</a>. The figure below describes the relative expression of these genes in transcripts per million (TPM).</p>
+<p><img alt="The general expression panel for all tissues of the 17 creatine-related genes used in the present study" src="GTex-AllTissue.svg">
+The general expression panel for all tissues of the 17 creatine-related genes used in the present study</p>
+<p>We also highlighted the specific expression for kidney tissues:</p>
+<p><img alt="Kidney tissues expression levels of the 17 creatine-related genes used in the present study" src="GTex-Kidney.svg">
+Kidney tissues expression levels of the 17 creatine-related genes used in the present study</p>
+<p>And from pancreas tissues:</p>
+<p><img alt="Pancreas expression levels of the 17 creatine-related genes used in the present study" src="GTex-Pancreas.svg">
+Pancreas expression levels of the 17 creatine-related genes used in the present study</p>
+<h3 class="atx" id="important-information">Important Information</h3>
+<p>As highlighted above, we noticed the following results from GTex database:</p>
+<table>
+<thead>
+<tr>
+<th align="center">CellTypes</th>
+<th align="center">P-value</th>
+<th align="center">adjusted P-value</th>
+<th align="center">OddsRatio</th>
+<th align="center">Combined Score</th>
+<th align="center">Genes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Pancreas Female 30-39 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+<tr>
+<td align="center">Pancreas Female 20-29 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+<tr>
+<td align="center">Pancreas Female 40-49 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+<tr>
+<td align="center">Pancreas Female 60-69 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+<tr>
+<td align="center">Pancreas Female 50-59 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+<tr>
+<td align="center">Pancreas Male 20-29 Up</td>
+<td align="center">0.00320528834894988</td>
+<td align="center">0.0293818098653739</td>
+<td align="center">27.05442176870748</td>
+<td align="center">155.3722787250682</td>
+<td align="center">GATM;SLC16A12</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p><em>Why do pancreas cells have these genes upregulated?</em></p>
+</li>
+<li><p><em>In which conditions did these increased expression occur?</em></p>
+</li>
+<li><p><em>Is it probable that a creatine-induced high expression of GATM and SLC16A12 is associated with the observed improvement of creatine-supplmented streptozotocin-induced diabetic rats? How?</em> </p>
+<h4 class="atx" id="generative-ia-search-from-copilot-and-chat-gpt">Generative-IA search (From Copilot and Chat-GPT):</h4>
+<blockquote>
+<p><em>Just to give us some ideas in an short text. Not for use in final texts and the listed references should be reviewed.</em>  </p>
+</blockquote>
+</li>
+</ul>
+<p><strong>Query:</strong> <em>Write something about the importance of the genes GATM and SLC16A12, as well as their respective proteins, in pancreatic tissues or pancreatic cancer.</em>
+<strong>Combined answer:</strong>
+<em>GATM (Glycine Amidinotransferase) and SLC16A12 (Solute Carrier Family 16 Member 12) are two genes that have garnered attention in recent years due to their potential significance in pancreatic tissues and pancreatic cancer.</em></p>
+<p><strong>GATM Gene and Protein:</strong> <em>GATM encodes the enzyme Glycine Amidinotransferase, which plays a crucial role in creatine biosynthesis. Creatine is essential for providing energy to cells, particularly those with high energy demands like muscle cells. While initially identified for its role in muscle metabolism, emerging research suggests that GATM may also be involved in pancreatic tissue function. Studies have indicated that GATM expression may be altered in pancreatic cancer cells, although the exact mechanisms and implications of this alteration are still being elucidated. Understanding the role of GATM in pancreatic tissues could provide insights into both normal pancreatic physiology and the pathological processes underlying pancreatic cancer.</em>
+<strong>SLC16A12 Gene and Protein:</strong> <em>SLC16A12 belongs to the Solute Carrier Family of transporters and is involved in the transport of metabolites across cell membranes. Specifically, SLC16A12 encodes a monocarboxylate transporter involved in the transport of monocarboxylates such as lactate and pyruvate. While the role of SLC16A12 in pancreatic tissues is less well-characterized compared to GATM, there is evidence to suggest its involvement in various cancers, including pancreatic cancer. Dysregulation of monocarboxylate transporters like SLC16A12 can influence cellular metabolism, which is a hallmark of cancer cells.</em></p>
+<p><strong>GATM (Glycine Amidinotransferase)</strong>:
+<em>GATM plays a crucial role in the synthesis of guanidinoacetic acid (GAA), a metabolite associated with pancreatic ductal adenocarcinoma (PDAC) liver metastasis¹&gt;[6]. High expression of GATM has been positively correlated with advanced N stage in PDAC¹[6]. Knockdown of GATM significantly reduced the intracellular level of GAA, suppressed epithelial-mesenchymal transition (EMT), and inhibited PDAC liver metastasis¹[6]. These findings suggest that GATM-mediated de novo GAA synthesis &gt;promotes PDAC metastasis¹[6].</em></p>
+<p><strong>SLC16A12 (Solute Carrier Family 16 Member 12)</strong>:
+<em>The SLC16A family members, including SLC16A12, play crucial roles in tumorigenesis and tumor progression²[1]. However, the exact role of SLC16A12 in human pancreatic cancer remains unclear²[1]. The SLC16A family of monocarboxylate transporters (MCTs) is known to play an important role in cell metabolism, such as aerobic glycolysis and pH homeostasis²[1]. Current research progress on the MCT family, including SLC16A12, is mainly based on the findings of MCT1-4²[1]. These proteins exhibit broad substrate specificity and are also involved in the transport of other monocarboxylic metabolites²[1].</em>
+<em>Please note that while these genes and their proteins have been associated with pancreatic cancer, the exact mechanisms and their potential as therapeutic targets are still under investigation. For more detailed information, please refer to the respective scientific research articles²[1]¹[6].</em></p>
+<p><em>Understanding the significance of GATM and SLC16A12 in pancreatic tissues and pancreatic cancer could have several implications:</em></p>
+<ul>
+<li><em>Biomarkers: These genes and their respective proteins could serve as potential biomarkers for pancreatic cancer diagnosis, prognosis, or treatment response.</em></li>
+<li><em>Therapeutic Targets: Targeting the pathways involving GATM and SLC16A12 could offer novel therapeutic strategies for pancreatic cancer treatment.</em></li>
+<li><em>Molecular Mechanisms: Investigating the molecular mechanisms by which GATM and SLC16A12 contribute to pancreatic cancer development could provide insights into the underlying biology of the disease, potentially leading to the identification of new therapeutic targets or diagnostic tools.</em></li>
+</ul>
+<p><em>Overall, while further research is needed to fully elucidate the roles of GATM and SLC16A12 in pancreatic tissues and pancreatic cancer, their importance in cellular metabolism and potential implications for cancer biology make them intriguing candidates for further investigation in the field of oncology.</em></p>
+<p><strong>References:</strong>
+[1]: <a href="https://www.nature.com/articles/s41598-020-64356-y.pdf">https://www.nature.com/articles/s41598-020-64356-y.pdf</a>.
+[2]: <a href="https://www.mdpi.com/2072-6694/10/4/103">https://www.mdpi.com/2072-6694/10/4/103</a>. 
+[3]: <a href="https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf">https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf</a>. 
+[4]: <a href="https://columbiasurgery.org/pancreas/genetics-pancreatic-cancer">https://columbiasurgery.org/pancreas/genetics-pancreatic-cancer</a>. 
+[5]: <a href="https://link.springer.com/article/10.1007/s11605-022-05553-0">https://link.springer.com/article/10.1007/s11605-022-05553-0</a>. 
+[6]: <a href="https://jeccr.biomedcentral.com/articles/10.1186/s13046-023-02698-x">https://jeccr.biomedcentral.com/articles/10.1186/s13046-023-02698-x</a>. 
+[7]: <a href="https://www.nature.com/articles/s41392-023-01662-7.pdf">https://www.nature.com/articles/s41392-023-01662-7.pdf</a>. 
+[8]: <a href="https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer">https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer</a>. 
+[9]: <a href="https://doi.org/10.3390/cancers10040103">https://doi.org/10.3390/cancers10040103</a>.</p>
+<h2 class="atx" id="gene-enrichment-analyses">Gene enrichment analyses</h2>
+<p>We also used the final list as input for a gene enrichment analysis (GEA), using enrichR and enrichR-KG.</p>
 <p>The first filter used was CellTypes enrichment analysis. As a selection criterion, we chose the databases where the words "kidney" or "renal" were present with associated terms (P-value&lt;0.05), from the all tested databases. Using the <code>.tsv</code> tables as input, we executed the following command:</p>
 <pre><code class="fenced-code-block">awk -F'\t' '$1 ~ /Kidney/ &amp;&amp; $3 &lt; 0.05 {print $1, $3, $4, $7, $8, $9}' listName</code></pre>
 <p>We also searched against Kidney cell lines:</p>
@@ -1548,95 +1660,16 @@ SLC16A12</code></pre>
 <td align="center">55.327456253044275</td>
 <td align="center">PRPS1, SLC6A8, PSMB5, CKMT1A,PSMD3, CKMT1B, SLC2A4, CKB</td>
 </tr>
-</tbody></table>
-<hr>
-<h2 class="atx" id="important-information">Important Information</h2>
-<p>I noticed the following results from GTex database:</p>
-<table>
-<thead>
 <tr>
-<th align="center">CellTypes</th>
-<th align="center">P-value</th>
-<th align="center">adjusted P-value</th>
-<th align="center">OddsRatio</th>
-<th align="center">Combined Score</th>
-<th align="center">Genes</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Pancreas Female 30-39 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
-</tr>
-<tr>
-<td align="center">Pancreas Female 20-29 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
-</tr>
-<tr>
-<td align="center">Pancreas Female 40-49 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
-</tr>
-<tr>
-<td align="center">Pancreas Female 60-69 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
-</tr>
-<tr>
-<td align="center">Pancreas Female 50-59 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
-</tr>
-<tr>
-<td align="center">Pancreas Male 20-29 Up</td>
-<td align="center">0.00320528834894988</td>
-<td align="center">0.0293818098653739</td>
-<td align="center">27.05442176870748</td>
-<td align="center">155.3722787250682</td>
-<td align="center">GATM;SLC16A12</td>
+<td align="center"><strong>GTexGTEx Tissue Expression Up</strong></td>
+<td align="center">GTEX-XPVG-0526-SM-4B65N kidney male 50-59 years</td>
+<td align="center">0.03125629534977868</td>
+<td align="center">0.264210273152955</td>
+<td align="center">3.915257819103973</td>
+<td align="center">13.568460938462728</td>
+<td align="center">GATM, SLC6A8, SLC16A12, SGK1</td>
 </tr>
 </tbody></table>
-<ul>
-<li><p><em>Why do pancreas cells have these genes upregulated?</em></p>
-</li>
-<li><p><em>In which conditions did these increased expression occur?</em></p>
-</li>
-<li><p><em>Is it probable that a creatine-induced high expression of GATM and SLC16A12 is associated with the observed improvement of creatine-supplmented streptozotocin-induced diabetic rats? How?</em> </p>
-<h3 class="atx" id="generative-ia-search-from-copilot">Generative-IA search (From Copilot):</h3>
-</li>
-</ul>
-<p><strong>Query:</strong> <em>Write something about the importance of the genes GATM and SLC16A12, as well as their respective proteins, in pancreatic tissues or pancreatic cancer.</em></p>
-<p><strong>GATM (Glycine Amidinotransferase)</strong>:
-<em>GATM plays a crucial role in the synthesis of guanidinoacetic acid (GAA), a metabolite associated with pancreatic ductal adenocarcinoma (PDAC) liver metastasis¹&gt;[6]. High expression of GATM has been positively correlated with advanced N stage in PDAC¹[6]. Knockdown of GATM significantly reduced the intracellular level of &gt;GAA, suppressed epithelial-mesenchymal transition (EMT), and inhibited PDAC liver metastasis¹[6]. These findings suggest that GATM-mediated de novo GAA synthesis &gt;promotes PDAC metastasis¹[6].</em></p>
-<p><strong>SLC16A12 (Solute Carrier Family 16 Member 12)</strong>:
-<em>The SLC16A family members, including SLC16A12, play crucial roles in tumorigenesis and tumor progression²[1]. However, the exact role of SLC16A12 in human pancreatic cancer remains unclear²[1]. The SLC16A family of monocarboxylate transporters (MCTs) is known to play an important role in cell metabolism, such as aerobic glycolysis and pH homeostasis²[1]. Current research progress on the MCT family, including SLC16A12, is mainly based on the findings of MCT1-4²[1]. These proteins exhibit broad substrate specificity and are also involved in the transport of other monocarboxylic metabolites²[1].</em>
-<em>Please note that while these genes and their proteins have been associated with pancreatic cancer, the exact mechanisms and their potential as therapeutic targets are still under investigation. For more detailed information, please refer to the respective scientific research articles²[1]¹[6].</em></p>
-<p><strong>References:</strong>
-[1]: <a href="https://www.nature.com/articles/s41598-020-64356-y.pdf">https://www.nature.com/articles/s41598-020-64356-y.pdf</a>.
-[2]: <a href="https://www.mdpi.com/2072-6694/10/4/103">https://www.mdpi.com/2072-6694/10/4/103</a>. 
-[3]: <a href="https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf">https://www.medrxiv.org/content/10.1101/2024.03.03.24303664v1.full.pdf</a>. 
-[4]: <a href="https://columbiasurgery.org/pancreas/genetics-pancreatic-cancer">https://columbiasurgery.org/pancreas/genetics-pancreatic-cancer</a>. 
-[5]: <a href="https://link.springer.com/article/10.1007/s11605-022-05553-0">https://link.springer.com/article/10.1007/s11605-022-05553-0</a>. 
-[6]: <a href="https://jeccr.biomedcentral.com/articles/10.1186/s13046-023-02698-x">https://jeccr.biomedcentral.com/articles/10.1186/s13046-023-02698-x</a>. 
-[7]: <a href="https://www.nature.com/articles/s41392-023-01662-7.pdf">https://www.nature.com/articles/s41392-023-01662-7.pdf</a>. 
-[8]: <a href="https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer">https://www.nebraskamed.com/cancer/pancreatic/the-role-that-genes-play-in-pancreatic-cancer</a>. 
-[9]: <a href="https://doi.org/10.3390/cancers10040103">https://doi.org/10.3390/cancers10040103</a>.</p>
 <hr>
 <h3 class="atx" id="resultado-enrichr-kg">Resultado enrichr-KG</h3>
 <p>The subnetwork shows the following associations: </p>
