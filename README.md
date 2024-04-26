@@ -278,6 +278,7 @@ The involvement of CK in mitosis regulation is well established in the scientifi
 #### Kyoto Encyclopedia of Genes and Genomes (KEGG)
 
 From KEGG, we got the following results:
+
 | Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
 |:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
 | Arginine and proline metabolism | 2.167863990086027E-12 | 2.471364948698071E-10 | 247.17768595041323 | 6638.520017174931 | CKMT2;GATM;CKM;CKMT1A;CKMT1B;CKB |
@@ -293,7 +294,53 @@ From KEGG, we got the following results:
 
 Other results within the same P-Value<=0.05 criterion correlate with insulin resistance and signaling metabolism, renal cell carcinoma, type II diabetes mellitus, central carbon metabolism in cancer, etc. However, the involvement of AKT genes in several metabolic processes explains the high number of associated terms.
 
+#### Elsevier Pathway Collection
 
+The results were similar to the previous ones. Again, overlap of the genes from AKT family.
+
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+|PI3K/AKT/MTOR Signaling Activation in Cancer | 3.442744264155221E-7 | 9.138563669603297E-5 | 305.6479591836735 | 4548.599973962004 | AKT2;AKT3;AKT1 |
+|Proteins Involved in Insulin Resistance | 5.707296999774423E-7 | 9.138563669603297E-5 | 79.54445554445554 | 1143.5589429676934 | AKT2;AKT1;SLC2A4;IGF1 |
+|mTOR Signaling | 5.707296999774423E-7 | 9.138563669603297E-5 | 79.54445554445554 | 1143.5589429676934 | AKT1;SLC2A4;IGF1;SGK1 |
+|Dexamethasone Induced Diabetes | 6.719532110002424E-7 | 9.138563669603297E-5 | 237.67857142857142 | 3378.1438667537373 | AKT1;SLC2A4;SGK1 |
+|PI3K/AKT/MTOR Signaling Activation by Blocking of Tumor Suppressors | 1.15959377718675E-6 | 1.261638029579184E-4 | 194.42532467532467 | 2657.2966162374837  |AKT2;AKT3;AKT1 |
+|Myostatin-IGF1 Crosstalk in Skeletal Muscles in Muscular Dystrophies | 2.4915350814739284E-6 | 2.1287904870031856E-4 | 147.44334975369458 | 1902.4042658603282 |AKT1;|SLC2A4;IGF1 |
+|IGF1 Role in Muscle Hypertrophy | 2.7392524648938054E-6 | 2.1287904870031856E-4 | 142.52142857142857 | 1825.3895868426932 | AKT1;SLC2A4;IGF1 |
+|Glucocorticoids in Insulin Resistance in Skeletal Muscles | 3.2825551383464033E-6 | 2.2321374940755543E-4 | 133.60044642857142 | 1686.9579316849192 | AKT1;SLC2A4;SGK1 |
+|mTOR Signaling Hyperfunction | 8.615629850848899E-6 | 5.207669598735334E-4 | 94.94285714285714 | 1107.217198924578 | AKT1;IGF1;SGK1 |
+|Proteins with Altered Expression in Cancer-Associated Sustaining of Proliferative Signaling | 1.2331668345829871E-5 | 6.708427580131449E-4 | 35.64912280701754 | 402.9541537249656 | AKT2;AKT3;AKT1;IGF1 |
+
+The clustergram also evidences that AKT1 is involved in all significant associated terms:
+
+![Clustergram from the enrichment using the Elsevier Pathway Collection](clustergrammer.svg)
+
+#### Regulation by kinases
+
+We chose three datasets to investigate regulation by kinases.
+
+For the ARCHS4_Kinases dataset, which describe coexpression with several kinases, we obtained the following results:
+
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| STK25 human kinase ARCHS4 coexpression | 9.992190247741576E-5 | 0.008343478856864216 | 20.535071707953065 | 189.15104364111238 | CKMT2;CKM;PSMD3;AKT1 |
+| CDK16 human kinase ARCHS4 coexpression | 9.992190247741576E-5 | 0.008343478856864216 | 20.535071707953065 | 189.15104364111238 | SLC6A8;AKT2;PSMD3;AKT1 |
+| DMPK human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | CKMT2;CKM;AKT2 |
+| MAST2 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | CKMT2;CKM;AKT1 |
+| PRKACA human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | CKMT2;CKM;AKT1 |
+| ABL1 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | SLC6A8;PSMD3;AKT1 |
+| STK11 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | AKT2;PSMD3;AKT1 |
+| TNK1 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | CKMT1A;AKT1;CKMT1B |
+| EIF2AK1 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | SLC6A8;PSMD3;AKT1 |
+| GSK3A human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | AKT2;PSMD3;AKT1 |
+
+Using these kinases symbols, together with the starting gene list, we collected the general tissue expression profiles from the GTex Portal. Interestingly, the expression of these genes in kidney and pancreas cluster together.
+
+![GTex expression profiles for the creatine-related genes together with kinases - All tissues.](heatmapRoot-Genes-kinases.svg)
+GTex expression profiles for the creatine-related genes together with kinases - All tissues.
+
+![GTex expression profiles for the creatine-related genes together with kinases - Kidney and Pancreas tissues.](heatmapRoot-kidneyPancreasGeneskinases.svg)
+GTex expression profiles for the creatine-related genes together with kinases - Kidney and Pancreas tissues.
 
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
