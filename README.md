@@ -344,6 +344,25 @@ GTex expression profiles for the creatine-related genes together with kinases - 
 
 We also searched against the dataset [Kinase Library 2023](https://kinase-library.mit.edu/home). The results are described in the file [The_Kinase_Library_2023_table.txt](tables-Enrich/The_Kinase_Library_2023_table.txt). In this new results we observed additional kinases directly related to proteins of the creatine metabolism, such as CKB, CKM and CKMT1.
 
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| CAMKK2 | 5.125942179754265E-4 | 0.022482293685173876 | 9.602888086642599 72.75173004896666 | SLC6A8;AKT2;AKT3;AKT1;CKB |
+| MEK2 | 5.651178823731518E-4 | 0.022482293685173876 | 9.390459363957596 | 70.22632692814807 | CKM;AKT2;AKT3;AKT1;SGK1 |
+| VRK1 | 6.548240879176856E-4 | 0.022482293685173876 | 9.077347016343596 | 66.54733744727787 | CKM;AKT2;AKT3;AKT1;SGK1 |
+| PDHK4 | 0.0038968095151162767 | 0.08545734549852911 | 7.46552562481766 | 41.41572855778749 | AKT2;AKT3;AKT1;SGK1 |
+| PLK4 | 0.004148414830025685 | 0.08545734549852911 | 7.3303392259914 | 40.20712313453663 CKM;AKT2;AKT3;AKT1 |
+| PDK1 | 0.005872262249694354 | 0.08847744264005385 | 6.616424116424116 | 3.991980312135105 | AKT2;AKT3;AKT1;SGK1 |
+| DMPK1 | 0.006013030082333757 | 0.08847744264005385 | 6.56995353639649 | 3.597602393431934 | CKMT2;CKM;AKT1;CKB |
+| AAK1 | 0.023617828209109744 | 0.1592957450548465 | 5.564488143435512 | 20.84320049135658 | CKMT2;CKM;CKB |
+| TBK1 | 0.024624843228191095 | 0.1592957450548465 | 5.472396129766648 | 20.26975230032503 | CKM;AKT2;SLC2A4 |
+| GAK | 0.025309233574566194 | 0.1592957450548465 | 5.412614980289093 | 19.899944386363845 | CKMT2;CKM;CKB |
+| NEK7 | 0.025395516635510477 | 0.1592957450548465 | 5.405230596175478 | 19.854399142153525  | CKMT2;CKMT1A;CKMT1B |
+| PBK  | 0.025481962898088663 | 0.1592957450548465 | 5.3978655682456465 | 19.809002933529143 | CKMT2;CKM;CKB |
+| BIKE | 0.0261794093655069 | 0.1592957450548465 | 5.339633129516398 | 19.45111987412097 | CKMT2;CKM;CKB |
+| MASTL | 0.026355403573110305 | 0.1592957450548465 | 5.325263352430235 | 19.363093985816114 | CKM;AKT2;AKT3 |
+| VRK2 | 0.02796874656539955 | 0.1592957450548465 | 5.199205345855156 | 18.59582923508135 | SLC6A8;PSMB5;CKM |
+
+
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
 - **From Gene Ontology:** PSMB5, and PSMD3 belong to the biological process regulation of cellular amino acid metabolic process (GO:0006521). PSMB5, and PSMD3 belong to the biological process regulation of cellular ketone metabolic process (GO:0010565). SLC6A8, and GATM belong to the biological process creatine metabolic process (GO:0006600). PSMB5, and PSMD3 belong to the biological process regulation of cellular amine metabolic process (GO:0033238). PSMB5, and PSMD3 belong to the biological process negative regulation of cell cycle G2/M phase transition (GO:1902750).
