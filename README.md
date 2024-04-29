@@ -342,6 +342,8 @@ GTex expression profiles for the creatine-related genes together with kinases - 
 ![GTex expression profiles for the creatine-related genes together with kinases - Kidney and Pancreas tissues.](heatmapRoot-kidneyPancreasGeneskinases.svg)
 GTex expression profiles for the creatine-related genes together with kinases - Kidney and Pancreas tissues.
 
+We also searched against the dataset [Kinase Library 2023](https://kinase-library.mit.edu/home). The results are described in the file [The_Kinase_Library_2023_table.txt](tables-Enrich/The_Kinase_Library_2023_table.txt). In this new results we observed additional kinases directly related to proteins of the creatine metabolism, such as CKB, CKM and CKMT1.
+
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
 - **From Gene Ontology:** PSMB5, and PSMD3 belong to the biological process regulation of cellular amino acid metabolic process (GO:0006521). PSMB5, and PSMD3 belong to the biological process regulation of cellular ketone metabolic process (GO:0010565). SLC6A8, and GATM belong to the biological process creatine metabolic process (GO:0006600). PSMB5, and PSMD3 belong to the biological process regulation of cellular amine metabolic process (GO:0033238). PSMB5, and PSMD3 belong to the biological process negative regulation of cell cycle G2/M phase transition (GO:1902750).
