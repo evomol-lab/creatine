@@ -223,6 +223,14 @@ As highlighted above, we noticed the following results from GTex database:
 
 We also used the final list as input for a gene enrichment analysis (GEA), using enrichR and enrichR-KG.
 
+### Gene Ontologies (GO)
+
+Our first analysis was against the GO dataset to verify the terms associated to these 17 genes. The resulted network from the top ten P-value rated results is described in the figure below:
+
+![NetworkGo](networkGO.png)
+
+From the above figure one can note that the only direct integration of the creatine metabolism to all other proccess is the gene IGF1, which also participates in several carbohydrate-metabolism-related terms. Increasing the number of results to the top 30 rated results did not retrieved any other gene integration between creatine metabolism and other terms.
+
 ### Cell-types analysis
 
 The first filter used was CellTypes enrichment analysis. As a selection criterion, we chose the databases where the words "kidney" or "renal" were present with associated terms (P-value<0.05), from the all tested databases. Using the `.tsv` tables as input, we executed the following command:
@@ -257,16 +265,16 @@ For the pathways enrichment analysis we used the results of just three databases
 It generated the following results:
 | Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
 |:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
-| Creatine Metabolism R-HSA-71288 | 2.9184899635801106E-17 | 7.033560812228066E-15 | 2724.409090909091 | 103726.10102698307 | CKMT2;GATM;SLC6A8;CKM;CKMT1A;CKB |
-| Metabolism Of Amino Acids And Derivatives R-HSA-71291 | 2.3490852446193955E-10 | 2.8306477197663716E-8 | 49.006242197253435 | 1086.5578227282188 | CKMT2;GATM;SLC6A8;PSMB5;CKM;CKMT1A;PSMD3;CKB |
-| Regulation Of PTEN Stability And Activity R-HSA-8948751 | 2.173230381584124E-9 | 1.7458284065392463E-7 | 133.877688172043 | 2670.4650899604635 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
-| Cyclin E Associated Events During G1/S Transition R-HSA-69202 | 6.09405957169532E-9 | 3.3201285234231814E-7 | 107.71645021645021 | 2037.5591352243764 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
-| Cyclin A:Cdk2-associated Events At S Phase Entry R-HSA-69656 | 6.888233451085438E-9 | 3.3201285234231814E-7 | 104.9789029535865 | 1972.915887374166 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
-| KEAP1-NFE2L2 Pathway R-HSA-9755511 | 1.6664329868330147E-8 | 6.693505830445942E-7 | 87.2280701754386 | 1562.2543301775686 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
-| Regulation Of TP53 Degradation R-HSA-6804757 | 2.0684898383664146E-8 | 6.983015044641323E-7 | 191.83653846153845 | 3394.3292284288705 | AKT2;AKT3;AKT1;SGK1 |
-| Regulation Of TP53 Expression And Degradation R-HSA-6806003 | 2.3180132928269954E-8 | 6.983015044641323E-7 | 186.01398601398603 | 3270.120342895983 | AKT2;AKT3;AKT1;SGK1 |
-| RUNX2 Regulates Genes Involved In Cell Migration R-HSA-8941332 | 2.8485265782063636E-8 | 7.627721170530374E-7 | 856.2 | 14875.51509145671 | AKT2;AKT3;AKT1 |
-| Transcriptional Regulation By RUNX2 R-HSA-8878166 | 4.0042433537616845E-8 | 9.65022648256566E-7 | 72.62061403508773 | 1236.9706009272475 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Creatine Metabolism [R-HSA-71288](https://reactome.org/content/detail/R-HSA-71288) | 2.9184899635801106E-17 | 7.033560812228066E-15 | 2724.409090909091 | 103726.10102698307 | CKMT2;GATM;SLC6A8;CKM;CKMT1A;CKB |
+| Metabolism Of Amino Acids And Derivatives [R-HSA-71291](https://reactome.org/content/detail/R-HSA-71291) | 2.3490852446193955E-10 | 2.8306477197663716E-8 | 49.006242197253435 | 1086.5578227282188 | CKMT2;GATM;SLC6A8;PSMB5;CKM;CKMT1A;PSMD3;CKB |
+| Regulation Of PTEN Stability And Activity [R-HSA-8948751](https://reactome.org/content/detail/R-HSA-89487551) | 2.173230381584124E-9 | 1.7458284065392463E-7 | 133.877688172043 | 2670.4650899604635 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Cyclin E Associated Events During G1/S Transition [R-HSA-69202](https://reactome.org/content/detail/R-HSA-69202) | 6.09405957169532E-9 | 3.3201285234231814E-7 | 107.71645021645021 | 2037.5591352243764 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Cyclin A:Cdk2-associated Events At S Phase Entry [R-HSA-69656](https://reactome.org/content/detail/R-HSA-69656) | 6.888233451085438E-9 | 3.3201285234231814E-7 | 104.9789029535865 | 1972.915887374166 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| KEAP1-NFE2L2 Pathway [R-HSA-9755511](https://reactome.org/content/detail/R-HSA-9755511) | 1.6664329868330147E-8 | 6.693505830445942E-7 | 87.2280701754386 | 1562.2543301775686 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
+| Regulation Of TP53 Degradation [R-HSA-6804757](https://reactome.org/content/detail/R-HSA-6804757) | 2.0684898383664146E-8 | 6.983015044641323E-7 | 191.83653846153845 | 3394.3292284288705 | AKT2;AKT3;AKT1;SGK1 |
+| Regulation Of TP53 Expression And Degradation [R-HSA-6806003](https://reactome.org/content/detail/R-HSA-6806003) | 2.3180132928269954E-8 | 6.983015044641323E-7 | 186.01398601398603 | 3270.120342895983 | AKT2;AKT3;AKT1;SGK1 |
+| RUNX2 Regulates Genes Involved In Cell Migration [R-HSA-8941332](https://reactome.org/content/detail/R-HSA-8941332) | 2.8485265782063636E-8 | 7.627721170530374E-7 | 856.2 | 14875.51509145671 | AKT2;AKT3;AKT1 |
+| Transcriptional Regulation By RUNX2 [R-HSA-8878166](https://reactome.org/content/detail/R-HSA-8878166) | 4.0042433537616845E-8 | 9.65022648256566E-7 | 72.62061403508773 | 1236.9706009272475 | PSMB5;AKT2;AKT3;PSMD3;AKT1 |
 
 The first two terms were expected, since the gene list was originally retrieved using their interaction with creatine, and its overlap with the amino acid metabolism. Interestingly, the other eigth terms relate to processes involved in the regulation of the Cell Cycle, including the degradation and stability of the known tumor suppressor genes TP53 and PTEN. We also observed the overlap of the genes PSMB5, AKT2, AKT1, AKT3, PSMD3, and SGK1, with several retrieved terms. The integration of amino acid metabolism with some Glycolysis' reactions can explain this relationship with the cell cycle control. PKM2, a glycolytic enzyme, phosphorylates and activates ERK1/2, crucial for cell proliferation. Another glycolytic enzyme, PFKFB3, promotes cell proliferation by stimulating glycolytic ATP production and modulating the expression of cell cycle regulators [Kalucka et al. 2015](https://www.tandfonline.com/doi/full/10.1080/15384101.2015.1090068).
 The involvement of CK in mitosis regulation is well established in the scientific literature. In addition, previous studies report contrasting roles of the creatine metabolism in tumor cells. Both up and downregulation of CK may impair cell viability and induce cell death. The effect seem to depend on the nature of the tumor [Yan et al. 2016](https://link.springer.com/article/10.1007/s00726-016-2217-0). We can work with the following questions:
@@ -293,6 +301,12 @@ From KEGG, we got the following results:
 | Progesterone-mediated oocyte maturation | 1.331899620230903E-6 | 1.4943595273294845E-5 | 63.74038461538461 | 862.3375666219024 | AKT2;AKT3;AKT1;IGF1 |
 
 Other results within the same P-Value<=0.05 criterion correlate with insulin resistance and signaling metabolism, renal cell carcinoma, type II diabetes mellitus, central carbon metabolism in cancer, etc. However, the involvement of AKT genes in several metabolic processes explains the high number of associated terms.
+
+The graph below represents the top ten results from KEGG terms:
+
+![KEGG Network](networkKEGG10.png)
+
+The KEGG classification did not retrieve any integration between genes of the creatine metabolism process and all the other retrieved process. The green lines represent the genes that are co-expressed.
 
 #### Elsevier Pathway Collection
 
@@ -334,6 +348,9 @@ For the ARCHS4_Kinases dataset, which describe coexpression with several kinases
 | EIF2AK1 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | SLC6A8;PSMD3;AKT1 |
 | GSK3A human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | AKT2;PSMD3;AKT1 |
 
+
+
+
 Using these kinases symbols, together with the starting gene list, we collected the general tissue expression profiles from the GTex Portal. Interestingly, the expression of these genes in kidney and pancreas cluster together.
 
 ![GTex expression profiles for the creatine-related genes together with kinases - All tissues.](heatmapRoot-Genes-kinases.svg)
@@ -362,6 +379,55 @@ We also searched against the dataset [Kinase Library 2023](https://kinase-librar
 | MASTL | 0.026355403573110305 | 0.1592957450548465 | 5.325263352430235 | 19.363093985816114 | CKM;AKT2;AKT3 |
 | VRK2 | 0.02796874656539955 | 0.1592957450548465 | 5.199205345855156 | 18.59582923508135 | SLC6A8;PSMB5;CKM |
 
+The next figure describes the network obtained with the top 10 rated results:
+
+![Kinase library network](networkKinases10.png)
+
+#### Kinase pertubartions from GEO
+
+From these datasets we identified the genes from our list that up or downregulated in GEO datasets that have kinase perturbations, like mutants lines, overexpression, etc.
+
+The kinase-perturbation upregulated associated genes were:
+
+| Kinase/perturbation | GEO Entry | P-value | adjusted P-value | OddsRatio | Combined Score | Upregulated Genes |
+|:---------:|:-------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| IRAK4 defectivemutant 200 | [GSE6789](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6789) | 1.0121923535514024E-4 | 0.007996319593056078 | 20.464656964656964 | 188.23845272683081 | AKT3;SLC16A12;IGF1;CKB |
+| HIPK2 knockout 171 | [GSE39253](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39253) | 0.001944001714153394 | 0.051192045139372706 | 14.203463203463203 | 88.67231581712312 | PSMD3;IGF1;CKB |
+| MAP2K4 knockdown 62 | [GSE19091](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19091) | 0.001944001714153394 | 0.051192045139372706 | 14.203463203463203 | 88.67231581712312 | PRPS1;GATM;PSMB5 |
+| AKT1 activemutant 10 | [GDS2304](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GDS2304) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | AKT1;CKB |
+| AKT1 activemutant 9 | [GDS2304](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GDS2304) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | AKT1;CKB |
+| HIPK2 knockdown 106 | [GSE27869](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27869) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | PRPS1;PSMD3 |
+| EGFR drugactivation 19 | [GDS2146](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GDS2146) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | PRPS1;SGK1 |
+| FGFR1 activemutant 58 | [GSE17916](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17916) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | CKMT2;PSMD3 |
+| MET knockout 247 | [GDS3148](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GDS3148) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | IGF1;SGK1 |
+| ROCK2 knockdown 157 | [GSE34769](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE34769) | 0.026291292253072487 | 0.14835800628519477 | 8.807606263982104 | 32.04662941593047 | CKB;SGK1 |
+
+And the downregulated ones were:
+
+| Kinase/perturbation | GEO Entry | P-value | adjusted P-value | OddsRatio | Combined Score | Downregulated Genes |
+|:---------:|:-------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| AKT1 activemutant 9 | [GDS2304](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GDS2304) | 1.0121923535514024E-4 | 0.008806073475897201 | 20.464656964656964 | 188.23845272683081 | SLC6A8;AKT2;AKT3;SLC2A4 |
+| KSR1 knockout 126 | [GSE28228](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28228) | 0.001944001714153394 | 0.08456407456567264 | 14.203463203463203 | 88.67231581712312 | PRPS1;PSMB5;SGK1 |
+| MYLK knockdown 48 | [GSE14525](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28228) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | PSMB5;AKT1 |
+| TGFBR2 knockout 295 | [GSE45968](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45968) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | PRPS1;AKT2 |
+| TRIM28 knockout 302 | [GSE32224](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE32224) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | CKMT2;AKT3 |
+| PRKACB knockdown 91 | [GSE27869](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27869) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | IGF1;SGK1 |
+| PLK2 knockdown 87 | [GSE27869](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27869) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | AKT2;PSMD3 |
+| MAP2K1 druginhibition 172 | [GSE39984](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39984) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | SLC6A8;SGK1 |
+| WEE1 druginhibition 307 | [GSE38972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38972) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | PRPS1;PSMB5 |
+| PIK3CA knockdown 182 | [GSE46869](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46869) | 0.026291292253072487 | 0.15248949506782042 | 8.807606263982104 | 32.04662941593047 | PSMB5;SGK1 |
+
+### Regulation by phosphatases
+
+The dataset used for the evaluation of possible phosphatases-mediated regulation was Phosphatase Substrates from DEPOD. All of the retrieved phosphatases relate to the regulation of the genes from AKT family (AKT1, AKT2 and AKT3) associated to creatine metabolism.
+
+| Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
+|:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
+| PHLPP1 | 1.0183823146040292E-8 | 2.545955786510073E-8 | 1427.142857142857 | 26262.94696623494 | AKT2;AKT3;AKT1 |
+| PHLPP2 | 1.0183823146040292E-8 | 2.545955786510073E-8 | 1427.142857142857 | 26262.94696623494 | AKT2;AKT3;AKT1 |
+| PPP2CA | 0.002493640221385313 | 0.004156067035642188 | 30.848062015503874 | 184.90364463692268 | AKT3;AKT1 |
+| ACP1 | 0.012678709933633063 | 0.01584838741704133 | 89.14732142857143 | 389.38044082427126 | AKT1 |
+| PPP1CA | 0.0384036388314902 | 0.03840363883149023 | 27.691666666666666 | 90.26384147630849 | AKT1 |
 
 ### Resultado enrichr-KG
 The subnetwork shows the following associations: 
