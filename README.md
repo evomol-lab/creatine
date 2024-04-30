@@ -263,6 +263,7 @@ For the pathways enrichment analysis we used the results of just three databases
 #### ReactomeDB
 
 It generated the following results:
+
 | Term | P-value | adjusted P-value | OddsRatio | Combined Score | Genes |
 |:---------:|:-------:|:----------------:|:---------:|:--------------:|:-----:|
 | Creatine Metabolism [R-HSA-71288](https://reactome.org/content/detail/R-HSA-71288) | 2.9184899635801106E-17 | 7.033560812228066E-15 | 2724.409090909091 | 103726.10102698307 | CKMT2;GATM;SLC6A8;CKM;CKMT1A;CKB |
