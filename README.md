@@ -349,9 +349,6 @@ For the ARCHS4_Kinases dataset, which describe coexpression with several kinases
 | EIF2AK1 human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | SLC6A8;PSMD3;AKT1 |
 | GSK3A human kinase ARCHS4 coexpression | 0.001925573805929655 | 0.024736217353096338 | 14.252171814671815 | 89.11215000302461 | AKT2;PSMD3;AKT1 |
 
-
-
-
 Using these kinases symbols, together with the starting gene list, we collected the general tissue expression profiles from the GTex Portal. Interestingly, the expression of these genes in kidney and pancreas cluster together.
 
 ![GTex expression profiles for the creatine-related genes together with kinases - All tissues.](heatmapRoot-Genes-kinases.svg)
@@ -436,3 +433,41 @@ The subnetwork shows the following associations:
 - **From KEGG**: The gene products PSMB5, and PSMD3 are members of the KEGG pathway Proteasome. The gene products PSMB5, and PSMD3 are members of the KEGG pathway Huntington disease. The gene products PSMB5, and PSMD3 are members of the KEGG pathway Prion disease. The gene products PSMB5, and PSMD3 are members of the KEGG pathway Parkinson disease. The gene products PSMB5, and PSMD3 are members of the KEGG pathway Spinocerebellar ataxia.
 - **From Jensen lab:** The disease Arts syndrome is associated with the gene PRPS1. The disease Intellectual disability is associated with the genes SLC6A8, and PRPS1. The disease Gyrate atrophy is associated with the gene GATM. The disease Purine nucleoside phosphorylase deficiency is associated with the gene PRPS1. The disease AGAT deficiency is associated with the gene SLC6A8. 
 - **From DisGeNET:** The disease Mammary Carcinoma, Animal is associated with the following genes: SGK1, and GATM. The disease Drug Resistant Epilepsy is associated with the following genes: SLC6A8, and SGK1. The disease Congenital pes cavus is associated with the following genes: SLC6A8, and PRPS1. The disease Neonatal Hypotonia is associated with the following genes: SLC6A8, and PRPS1. The disease Creatine deficiency, X-linked is associated with the following genes: SLC6A8, and GATM.
+
+## Analysis of Datasets
+
+We did not find specific datasets that evaluated the creatine-treatment on renal tissues from human organism or cells. Therefore, we restricted our search for datasets that evaluated specific kidney diseases.
+
+### Nephrosclerosis
+
+The dataset [GDS3712](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3712) and the series [GSE20602](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE20602) are from renal biopsy specimens from 14 patients with nephrosclerosis (NSC) and four tumor-free kidney specimens from patients undergoing tumor nephrectomy (TN), which served served as controls [Neusser et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20019191/). The *functional annotation analysis revealed significant regulation of hypoxia-associated biological processes in NSC, including angiogenesis, fibrosis, and inflammation. The glomerular expression levels of a majority of genes regulated by the hypoxia-inducible factors (HIFs) were significantly altered in NSC*<sup>Summarized by Generative AI</sup>. We analyzed the expression values from the creatine-related gene list using the R packages, [GEOquery](https://bioconductor.org/packages/release/bioc/html/GEOquery.html) and [limma](https://bioconductor.org/packages/release/bioc/html/limma.html). Then, the expression values were represented in a heatmap, constructed using the R package [pheatmap](https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap). We used the following cutoffs: P-value <= 0.05 and LogFC <= 1.
+
+![Heatmap describing the creatine-related genes expression values from the GSE20602 series](pheatmap-creatine-genes3712.png)
+
+Ten of the initial 17 creatine-related had significative differentiall expression in the above dataset. The genes represented were:
+- GATM - 2 trasncript isoforms.
+    - [X86401](https://ncbi.nlm.nih.gov/nuccore/X86401.1?report=genbank) - UniprotID [P50440](https://www.uniprot.org/uniprotkb/P50440/entry), highly expressed in kidney tissues.
+    - [NM_001482](https://ncbi.nlm.nih.gov/nuccore/NM_001482) - Precursor with the transit peptide.
+- SLC6A8 - 3 transcript isoforms.
+    - [NM_005629.4](https://ncbi.nlm.nih.gov/nuccore/NM_005629) - Homo sapiens solute carrier family 6 member 8 (SLC6A8), transcript variant 1, mRNA.
+    - [U17986](https://ncbi.nlm.nih.gov/nuccore/U17986) - Seems to be a highly similar protein, the Human GABA/noradrenaline transporter.
+    - [AW276522](https://ncbi.nlm.nih.gov/nuccore/AW276522) - SW:NTCS_HUMAN P53796 SODIUM- AND CHLORIDE-DEPENDENT CREATINE TRANSPORTER 2 - Obsolete entry in UNIPROT.
+- IGF1 - 3 transcript isoforms.
+    - [AU144912](https://ncbi.nlm.nih.gov/nuccore/M29644) - [AAA52543.1](https://ncbi.nlm.nih.gov/protein/183120).
+    - [AI972496](https://ncbi.nlm.nih.gov/nuccore/AI972496) - wr38c02.x1 NCI_CGAP_Pr28 Homo sapiens cDNA clone IMAGE:2489954 3' similar to gb:X57025_rna1 INSULIN-LIKE GROWTH FACTOR IA PRECURSOR (HUMAN). *Seems to be prostate-specific.*
+    - [M29644](https://ncbi.nlm.nih.gov/nuccore/M29644) - [AAA52543.1](https://ncbi.nlm.nih.gov/protein/183120).
+- AKT3 - 2 transcript isoforms.
+    - Both of them seem deprecated.
+- PRPS1 - 2 transcript isoforms.
+    - [BC001605](https://ncbi.nlm.nih.gov/nuccore/BC001605).
+    - [NM_002764](https://ncbi.nlm.nih.gov/nuccore/NM_002764).
+- AKT1, CKB, SGK1, PSMD3 and PSMB5 - one transcript isoform.
+    - AKT1 - [NM_005163](https://ncbi.nlm.nih.gov/nuccore/NM_005163).
+    - CKB - [NM_001823](https://ncbi.nlm.nih.gov/nuccore/NM_001823).
+    - SGK1 - [NM_005627](https://ncbi.nlm.nih.gov/nuccore/NM_005627).
+    - PSMD3 - [NM_002809](https://ncbi.nlm.nih.gov/nuccore/NM_002809).
+    - PSMB5 - [BC004146](https://ncbi.nlm.nih.gov/nuccore/BC004146) - chimeric clone.
+
+TN samples have an upregulated expression of transcript isoforms of GATM and SLC6A8 genes, when compared to NSC samples. As previously described, GATM encodes the enzyme Glycine Amidinotransferase, which plays a crucial role in creatine biosynthesis. Furthermore The SLC6A8 codes the **sodium- and chloride-dependent creatine transporter 1**, responsible for the creatine-transport into cells [REF](https://medlineplus.gov/genetics/gene/slc6a8/). The transcriptional upregulation of this gene under hypoxic conditions was previously reported [REF](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A8). The increased creatine production promotes survival by maintaining redox homeostasis in hypoxic cells [REF](https://jeccr.biomedcentral.com/track/pdf/10.1186/s13046-021-01933-7.pdf). The reduced AOS accumulation could lead to an activation og the AKT-ERK signaling, which protects the viability of hypoxic cells. Therefore, it seems that nephrosclerosis patients may have a reduced creatine production and accumulation in the cell. In addition, this may also explain the relationship between creatine accumulation and members of the AKT gene family.
+
+
