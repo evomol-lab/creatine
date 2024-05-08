@@ -444,7 +444,7 @@ The dataset [GDS3712](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3712)
 
 ![Heatmap describing the creatine-related genes expression values from the GSE20602 series](pheatmap-creatine-genes3712.png)
 
-Ten of the initial 17 creatgit reset --soft HEAD~1ine-related had significative differentiall expression in the above dataset. The genes represented were:
+Ten of the initial 17 creatine-related had significative differentiall expression in the above dataset. The genes represented were:
 - GATM - 2 trasncript isoforms.
     - [X86401](https://ncbi.nlm.nih.gov/nuccore/X86401.1?report=genbank) - UniprotID [P50440](https://www.uniprot.org/uniprotkb/P50440/entry), highly expressed in kidney tissues.
     - [NM_001482](https://ncbi.nlm.nih.gov/nuccore/NM_001482) - Precursor with the transit peptide.
