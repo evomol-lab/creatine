@@ -438,6 +438,26 @@ The subnetwork shows the following associations:
 
 We did not find specific datasets that evaluated the creatine-treatment on renal tissues from human organism or cells. Therefore, we restricted our search for datasets that evaluated specific kidney diseases.
 
+### Kidney baseline expression
+
+As previously noticed, kidney tissues highly express the following genes:
+
+```
+CKB
+PRPS1
+AKT3
+SLC16A12
+CKMT2
+GATM
+SGK1
+AKT1
+AKT2
+PSMB5
+SLC6A8
+PSMD3
+```
+
+
 ### Nephrosclerosis
 
 The dataset [GDS3712](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3712) and the series [GSE20602](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE20602) are from renal biopsy specimens from 14 patients with nephrosclerosis (NSC) and four tumor-free kidney specimens from patients undergoing tumor nephrectomy (TN), which served served as controls [Neusser et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20019191/). The *functional annotation analysis revealed significant regulation of hypoxia-associated biological processes in NSC, including angiogenesis, fibrosis, and inflammation. The glomerular expression levels of a majority of genes regulated by the hypoxia-inducible factors (HIFs) were significantly altered in NSC*<sup>Summarized by Generative AI</sup>. We analyzed the expression values from the creatine-related gene list using the R packages, [GEOquery](https://bioconductor.org/packages/release/bioc/html/GEOquery.html) and [limma](https://bioconductor.org/packages/release/bioc/html/limma.html). Then, the expression values were represented in a heatmap, constructed using the R package [pheatmap](https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap). We used the following cutoffs: P-value <= 0.05 and LogFC <= 1.
