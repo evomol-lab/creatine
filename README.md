@@ -225,7 +225,7 @@ We also used the final list as input for a gene enrichment analysis (GEA), using
 
 ### Gene Ontologies (GO)
 
-Our first analysis was against the GO dataset to verify the terms associated to these 17 genes. The resulted network from the top ten P-value rated results is described in the figure below:
+Our first analysis was against the GO dataset to verify the terms associated to these 17 genes. The resulted network from the top ten P-value rated results is described in the figure beloHere is the gene table with DEs values, when comparing Tumor x Normal samples. Give me the DE of the genes related to Creatine Metabolismw:
 
 ![NetworkGo](networkGO.png)
 
