@@ -201,3 +201,103 @@ pheatmap(gene_matrixfiltered21,
 pheatmap(gene_matrixfiltered22,
          labels_row = gene_namesfiltered22,
          scale="row", annotation_col=sampleInfo2)
+
+
+my_id <- "GSE19817"
+gse <- getGEO(my_id)
+if (!require("BiocManager", quietly = TRUE))
+install.packages("BiocManager")
+BiocManager::install("org.Mm.eg.db")
+length(gse)
+gse <- gse[[1]]
+boxplot(exprs(gse),outline=FALSE)
+exprs(gse) <- log2(exprs(gse))
+boxplot(exprs(gse),outline=FALSE)
+sampleInfo <- pData(gse)
+View(gse)
+sampleInfo
+summary(exprs(gse))
+library(dplyr)
+sampleInfo <- pData(gse)
+sampleInfo
+sampleInfo <- select(sampleInfo, "condition:ch1","tissue:ch1")
+sampleInfo <- rename(sampleInfo, "Condition"="condition:ch1","Tissue"="tissue:ch1")
+View(sampleInfo)
+subset = subset(sampleInfo, Tissue == "Kidney")
+View(sampleInfo)
+View(subset)
+library(pheatmap)
+## argument use="c" stops an error if there are any missing data points
+corMatrix <- cor(exprs(gse),use="c")
+pheatmap(corMatrix)
+pheatmap(corMatrix,
+annotation_col=sampleInfo)
+library(ggplot2)
+library(ggrepel)
+pca <- prcomp(t(exprs(gse)))
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition,label=paste("", Condition))) + geom_point() + geom_text_repel()
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition,label=paste("", Tissue))) + geom_point() + geom_text_repel()
+cbind(sampleInfo, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition,label=paste("", Tissue))) + geom_point() + geom_text_repel()
+sample_ids = rownames(subset)
+expression_values = exprs(gse)[ , sample_ids]
+View(expression_values)
+corMatrix <- cor(expression_values,use="c")
+pheatmap(corMatrix)
+pheatmap(corMatrix,
+annotation_col=subset)
+pca <- prcomp(t(expression_values))
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition,label=paste("", Tissue))) + geom_point() + geom_text_repel()
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition) + geom_point() + geom_text_repel()
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition)) + geom_point() + geom_text_repel()
+cbind(subset, pca$x) %>%
+ggplot(aes(x = PC1, y=PC2, col=Condition)) + geom_point()
+features <- expression_values
+View(features)
+fData(gse)
+View(expression_values)
+expression_values
+features <- fData(gse)
+View(features)
+full_output <- cbind(features, expression_values)
+View(full_output)
+library(readr)
+write_csv(full_output, file="KidneyPressure_full_output.csv")
+library(limma)
+View(subset)
+design <- model.matrix(~0+subset$Condition)
+design
+colnames(design) <- c("BPHi", "BPLo","BPN")
+design
+summary(expression_values)
+cutoff <- median(expression_values)
+is_expressed <- expression_values > cutoff
+keep <- rowSums(is_expressed) > 2
+table(keep)
+expression_values <- expression_values[keep,]
+View(expression_values)
+fit <- lmFit(expression_values, design)
+head(fit$coefficients)
+contrasts <- makeContrasts(BPHi - BPN, BPLo - BPN, BPHi - BPLo, levels=design)
+fit2 <- contrasts.fit(fit, contrasts)
+fit2 <- eBayes(fit2)
+topTable(fit2)
+topTable(fit2, coef=1)
+topTable(fit2, coef=2)
+topTable(fit2, coef=3)
+decideTests(fit2)
+table(decideTests(fit2))
+fData(gse)
+anno <- fData(gse)
+anno
+fit2$genes <- anno
+topTable(fit2)
+full_results <- topTable(fit2, number=Inf)
+full_results2 <- subset(full_results, select =-ID)
+View(full_results2)
+full_results2 <- tibble::rownames_to_column(full_results2,"ID")
