@@ -696,4 +696,15 @@ TN samples have an upregulated expression of transcript isoforms of GATM and SLC
 
 ### Rejection after kidney transplant
 
-We analyzed the expression series [GDS1563](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1563), from the dataset [GDS724](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS724). The experiment evaluated kidney biopsies expression profiles after transplant, unique to rejection (AR samples), dysfunction without rejection (NR samples), and well-functioning transplants (TX Samples). For our analyses, we excluded the samples extracted from lymphocytes
+We analyzed the expression series [GDS1563](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1563), from the dataset [GDS724](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS724). The experiment evaluated kidney biopsies expression profiles after transplant, unique to rejection (AR samples), dysfunction without rejection (NR samples), and well-functioning transplants (TX Samples). For our analyses, we excluded the samples extracted from lymphocytes. We analyzed the expression of the creatine-related genes of TX, AR and NR samples versus Control kidney biopsies. Note that not all the genes were differentially expressed, under our criteria (P<0.05).
+
+#### Well-functioning transplants (TX Samples) versus Control samples
+
+The comparison of the DE of the well-functioning transplants versus control biopsy samples indicated the differential expression of the following genes: AKT1 (upregulated), AKT2 (downregulated), SLC6A8 (downregulated), PRPS1 (upregulated), and PSMB5 (upregulated).
+
+![DE - TX samples versus Control Samples](GSE1563-TXvsN.png)
+
+Although significative, we can see that the Log2 Fold Change values are below 1, which indicates that the expression of these genes does not present wide variation between the well-functioning transplants and the control biopsies.
+
+#### Acute rejection transplants (AR samples) versus Control samples
+
