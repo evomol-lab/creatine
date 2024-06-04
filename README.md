@@ -700,11 +700,38 @@ We analyzed the expression series [GDS1563](https://www.ncbi.nlm.nih.gov/geo/que
 
 #### Well-functioning transplants (TX Samples) versus Control samples
 
-The comparison of the DE of the well-functioning transplants versus control biopsy samples indicated the differential expression of the following genes: AKT1 (upregulated), AKT2 (downregulated), SLC6A8 (downregulated), PRPS1 (upregulated), and PSMB5 (upregulated).
+The comparison of the DE of the well-functioning transplants versus control biopsy samples indicated the differential expression of the following genes: AKT1 (upregulated), AKT2 (downregulated), SLC6A8 (downregulated), PRPS1 (upregulated), and PSMB5 (upregulated). The total number of DE genes were 7267.
 
 ![DE - TX samples versus Control Samples](GSE1563-TXvsN.png)
 
 Although significative, we can see that the Log2 Fold Change values are below 1, which indicates that the expression of these genes does not present wide variation between the well-functioning transplants and the control biopsies.
 
+![DE - TX samples versus Control Samples](GSE1563-TXvsControl.png)
+
+The bars are the mean Log2 Fold Change for each gene and error bars represent the variation between different probes/transcripts for the same Gene Symbol. The different transcripts for the gene PRPS1 were the only ones that presented both up and downregulation.
+
+The plot provides a clear visual comparison of the log2 fold change between the genes. Error bars help indicate the variation in fold change for genes measured by multiple probes.
+
+P-values shown above each bar provide a measure of the statistical significance of the differential expression for each gene.
+
 #### Acute rejection transplants (AR samples) versus Control samples
+
+3607 transcripts were differently expressed between Acute Rejection kidney biopsy (AR) versus control samples. Among them, we observed DE for the following creatine-related genes:
+
+![Acute rejection vs. Control](GSE1563-ARvsControl.png)
+
+The p-values indicate all the genes shown have statistically significant differential expression (p < 0.05).
+
+- GATM shows the largest downregulation with a log2 fold change around -2.4. The error bars indicate the two GATM probes have very consistent fold change values.
+
+- SGK1, AKT2, and CKB are also downregulated but to a lesser extent (log2 fold change between -0.3 and -0.5).
+
+- AKT1 is slightly upregulated with a log2 fold change around 0.4.
+
+- AKT2 has two probes showing opposite direction of fold change, resulting in a mean close to 0. The large error bar spans the positive and negative values.
+
+- Several genes from the original list (PRPS1, AKT3, SLC16A12, CKMT2, PSMB5, SLC6A8, PSMD3) are not present, likely because they were not significantly differentially expressed in this dataset.
+
+#### Samples from transplant patients with renal dysfunction without rejection
+
 
