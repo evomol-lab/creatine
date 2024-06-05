@@ -706,7 +706,7 @@ The comparison of the DE of the well-functioning transplants versus control biop
 
 Although significative, we can see that the Log2 Fold Change values are below 1, which indicates that the expression of these genes does not present wide variation between the well-functioning transplants and the control biopsies.
 
-![DE - TX samples versus Control Samples](GSE1563-TXvsControl.png)
+![DE - TX samples versus Control Samples](TXvsControl-GAMT.png)
 
 The bars are the mean Log2 Fold Change for each gene and error bars represent the variation between different probes/transcripts for the same Gene Symbol. The different transcripts for the gene PRPS1 were the only ones that presented both up and downregulation.
 
@@ -738,7 +738,7 @@ Only three genes were differentially expressed, none of them are the one creatin
 
 ####  Well-functioning transplants (TX Samples) versus Acute rejection transplants (AR samples)
 
-![TX versus AR](TXvsAR.png)
+![TX versus AR](TXvsAR-GAMT.png)
 
 Key observations:
 
@@ -756,7 +756,7 @@ This plot provides an interesting comparison to the previous one (AR vs Control)
 
 #### Well-functioning transplants (TX Samples) versus transplant patients with renal dysfunction without rejection
 
-![TX versus NR](TXvsNR.png)
+![TX versus NR](TXvsNR-IGF1-GAMT.png)
 
 Key observations:
 
