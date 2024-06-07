@@ -881,7 +881,10 @@ Two GEO datasets demonstrated differential expression of the creatine-related ge
 
 #### Stage 1 cRCC tissues versus Stage 1 Control Samples
 
-![ST1 Tumor versus ST1 Control](GSE6344-ST1-TvsST1-N-96.png)
+For this comparison, we observed a total of 4694 DE genes for the platform GPL96.
+
+![ST1 Tumor versus ST1 Control - GPL96](GSE6344-ST1-TvsST1-N-96.png)
+ST1 Tumor versus ST1 Control - GPL96
 
 Key observations:
 
@@ -928,4 +931,22 @@ Key observations:
 #### Stage 2 x Stage 1 Samples
 
 When we compare the two stages of normal samples, 81 genes were differentially expressed, none of them from our list of creatine-related genes. The same was observed for the comparison of the Stage 1 versus Stage 2 tumor samples, where 23 genes were differentially expressed, again none of them related to creatine metabolism/regulation. These observation indicates that creatine-related gene expression is altered in tumor states, but without any difference between the two stages tested by the authors.
+
+## RNA-Seq - Fibrosis (Chronic Renal disease) vs Normal tissues
+
+The dataset [GSE137570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137570) performed the transcriptome profiling of chronic kidney disease, using RNA-Seq. The expression of the creatine-related genes comparing the fibrosis versus Normal samples, revealed the altered expression of the following genes:
+
+![FibrosisXNormal-ALL](FibrosisXNormal-ALL.png)
+
+Expression Changes:
+
+- **AKT1**: Shows a slight decrease in expression (approximately -0.1).
+- **IGF1**: Shows a significant increase in expression (approximately 0.9).
+- **PRPS1**: Shows a moderate increase in expression (approximately 0.4).
+- **PSMB5**: Shows a slight decrease in expression (approximately -0.2).
+- **PSMD3**: Shows a slight decrease in expression (approximately -0.1).
+- **SLC1A12**: Shows a significant increase in expression (approximately 0.9).
+- **SLC6A8**: Shows a significant increase in expression (approximately 0.9).
+
+These observations suggest that genes IGF1, SLC1A12, and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while AKT1, PSMB5, and PSMD3 show slight downregulation. The p-values indicate that these changes are statistically significant.
 
