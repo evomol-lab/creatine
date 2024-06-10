@@ -948,5 +948,24 @@ Expression Changes:
 - **SLC1A12**: Shows a significant increase in expression (approximately 0.9).
 - **SLC6A8**: Shows a significant increase in expression (approximately 0.9).
 
-These observations suggest that genes IGF1, SLC1A12, and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while AKT1, PSMB5, and PSMD3 show slight downregulation. The p-values indicate that these changes are statistically significant.
+These observations suggest that genes IGF1, SLC1A12, and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while AKT1, PSMB5, and PSMD3 show slight downregulation. The p-values indicate that these changes are statistically significant. Interestingly, the gene GATM did not present differential expression.
 
+### Using EGFR (Estimated Glomerular Filtration Rate) as sample categories.
+
+We divided the samples from the series [GSE137570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137570) into addtional categories, based on the reported EGFR: EGFR>50 and EGFR < 50%, for samples with EFGR > 50%.
+
+#### EGFR>50% versus Normal samples
+
+![EGFR>50% versus Normal samples](Up50EGFRXNormal.png)
+
+#### EGFR<50% versus Normal samples
+
+![EGFR<50% versus Normal samples](Down50xNormal.png)
+
+#### EGFR>50% versus EGFR<50% samples
+
+![EGFR>50% versus EGFR<50% samples](UPxDOWN-EGFR.png)
+
+#### Fibrosis>50% versus Normal samples
+
+![Fibrosis>50% versus Normal samples](FibrosisUp50xNormal.png)
