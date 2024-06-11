@@ -940,15 +940,15 @@ The dataset [GSE137570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13
 
 Expression Changes:
 
-- **AKT1**: Shows a slight decrease in expression (approximately -0.1).
+- **AKT1**: Shows a slight increase in expression (approximately 0.4).
 - **IGF1**: Shows a significant increase in expression (approximately 0.9).
-- **PRPS1**: Shows a moderate increase in expression (approximately 0.4).
-- **PSMB5**: Shows a slight decrease in expression (approximately -0.2).
-- **PSMD3**: Shows a slight decrease in expression (approximately -0.1).
-- **SLC1A12**: Shows a significant increase in expression (approximately 0.9).
-- **SLC6A8**: Shows a significant increase in expression (approximately 0.9).
+- **PSMB5**: Shows a slight decrease in expression (approximately -0.4).
+- **PRPS1**: Shows a slight decrease in expression (approximately -0.2).
+- **PSMD3**: Shows a slight increase in expression (approximately 0.4).
+- **SLC6A12**: Shows a significant decrease in expression (approximately -0.8).
+- **SLC6A8**: Shows a significant increase in expression (approximately 0.7).
 
-These observations suggest that genes IGF1, SLC1A12, and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while AKT1, PSMB5, and PSMD3 show slight downregulation. The p-values indicate that these changes are statistically significant. Interestingly, the gene GATM did not present differential expression.
+These observations suggest that genes IGF1 and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while PRPS1, PSMB5, and SLC6A12 show slight downregulation. The p-values indicate that these changes are statistically significant. Interestingly, the gene GATM did not present differential expression.
 
 ### Using EGFR (Estimated Glomerular Filtration Rate) as sample categories.
 
@@ -958,13 +958,19 @@ We divided the samples from the series [GSE137570](https://www.ncbi.nlm.nih.gov/
 
 ![EGFR>50% versus Normal samples](Up50EGFRXNormal.png)
 
+Samples with eGFR higher than 50% presented significative upregulation of the genes GAMT, IGF1, PSMD3 and SLC6A8. The gene IGF1 is the one that connect the GO terms of genes directly related to creatine metabolism, among them the GAMT and the SLC6A8. It is probable that IGF1-mediated signalling actively mediate the creatine-related genes, as well as the uptake of creatine mediated by the specific transporter coded by the gene SLC6A8. Also worthy noting that the gene PSMD3 presented expression values above 0.5 Log2FC for the first time in our analysis.
+
 #### EGFR<50% versus Normal samples
 
 ![EGFR<50% versus Normal samples](Down50xNormal.png)
 
+In this comparison, the genes IGF1 and SLC6A8 were still upregulated in samples with eGFR<50%, but we can observe the downregulation of the genes GATM and SLC6A12. This situation could indicate that the creatine metabolism is severely depleted at these samples and could be related to the observed reduction in the kidney function.
+
 #### EGFR>50% versus EGFR<50% samples
 
 ![EGFR>50% versus EGFR<50% samples](UPxDOWN-EGFR.png)
+
+Samples with altered eGFR values were also compared. However, only the GAMT gene had differential expression values higher than the threshold of Log2FC±0.5. This gene is upregulated in samples with eGFR>50% when compared to the eGFR<50% samples.
 
 #### Fibrosis>50% versus Normal samples
 
