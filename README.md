@@ -466,7 +466,7 @@ We started a search within the the [GeoProfiles Database}(https://www.ncbi.nlm.n
 - Exclusion criteria: expression undetected, experimental design not comparing disease/metabolic/chemical treatment conditions or with mutants cell lines.
 We then merged the results, excluded any "renal" name variations (i.e. adrenal), and counted the overlapped profiles.
 
-The results per gene will be discussed bellow.
+The results per gene will be reported bellow.
 
 #### GATM
 
