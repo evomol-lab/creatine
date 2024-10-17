@@ -466,7 +466,7 @@ We started a search within the the [GeoProfiles Database}(https://www.ncbi.nlm.n
 - Exclusion criteria: expression undetected, experimental design not comparing disease/metabolic/chemical treatment conditions or with mutants cell lines.
 We then merged the results, excluded any "renal" name variations (i.e. adrenal), and counted the overlapped profiles.
 
-The results per gene will be discussed bellow.
+The results per gene will be reported bellow.
 
 #### GATM
 
@@ -706,7 +706,7 @@ The comparison of the DE of the well-functioning transplants versus control biop
 
 Although significative, we can see that the Log2 Fold Change values are below 1, which indicates that the expression of these genes does not present wide variation between the well-functioning transplants and the control biopsies.
 
-![DE - TX samples versus Control Samples](GSE1563-TXvsControl.png)
+![DE - TX samples versus Control Samples](TXvsControl-GAMT.png)
 
 The bars are the mean Log2 Fold Change for each gene and error bars represent the variation between different probes/transcripts for the same Gene Symbol. The different transcripts for the gene PRPS1 were the only ones that presented both up and downregulation.
 
@@ -732,6 +732,249 @@ The p-values indicate all the genes shown have statistically significant differe
 
 - Several genes from the original list (PRPS1, AKT3, SLC16A12, CKMT2, PSMB5, SLC6A8, PSMD3) are not present, likely because they were not significantly differentially expressed in this dataset.
 
-#### Samples from transplant patients with renal dysfunction without rejection
+#### Samples from transplant patients with renal dysfunction without rejection versus Control Samples
 
+Only three genes were differentially expressed, none of them are the one creatine-related genes.
+
+####  Well-functioning transplants (TX Samples) versus Acute rejection transplants (AR samples)
+
+![TX versus AR](TXvsAR-GAMT.png)
+
+Key observations:
+
+- GATM shows the largest upregulation with a log2 fold change around 2.4. The error bars indicate the two GATM probes have somewhat different fold change values, with one probe showing a larger increase.
+
+- PRPS1, CKMT2, PSMB5, SGK1, and PSMD3 are also upregulated to a lesser extent (log2 fold change between 0.3 and 0.7).
+
+- AKT2, SLC6A8, and AKT3 are slightly downregulated with log2 fold changes between -0.3 and -0.7.
+
+- CKB, SLC16A12 and AKT1 are not present, likely because they were not significantly differentially expressed in this dataset.
+
+The p-values indicate all the genes shown have statistically significant differential expression (p < 0.05).
+
+This plot provides an interesting comparison to the previous one (AR vs Control). GATM shows opposite direction of differential expression, being highly upregulated in TX vs AR but downregulated in AR vs Control. AKT2 is consistently downregulated in both comparisons.
+
+#### Well-functioning transplants (TX Samples) versus transplant patients with renal dysfunction without rejection
+
+![TX versus NR](TXvsNR-IGF1-GAMT.png)
+
+Key observations:
+
+- Only 4 out of the 12 specified genes are present in this dataset: PRPS1, GATM, SLC6A8, and AKT2. The others were likely not significantly differentially expressed.
+
+- GATM shows the largest log2 fold change of about 1.7, indicating it is upregulated in TX compared to NR.
+
+- PRPS1 is also slightly upregulated with a log2 fold change around 0.6.
+
+- SLC6A8 and AKT2 are downregulated, with log2 fold changes of approximately -0.6.
+
+- All 4 genes have statistically significant differential expression, as indicated by the p-values shown above each bar (p < 0.05).
+
+Comparing this to the previous TX vs AR plot, we see some similarities and differences:
+
+- GATM is upregulated in both TX vs AR and TX vs NR.
+- AKT2 and SLC6A8 are consistently downregulated.
+- PRPS1 shows slight upregulation in both comparisons.
+- Some genes like CKMT2, PSMB5, SGK1 and PSMD3 were upregulated in TX vs AR but are not significant in TX vs NR.
+
+#### Acute rejection transplants (AR samples) versus transplant patients with renal dysfunction without rejection
+
+The genes CKB, PRPS1, AKT3, SLC16A12, CKMT2, GATM, SGK1, AKT1, AKT2, PSMB5, SLC6A8, and PSMD3 do not show statistically significant changes in expression between the AR and NR groups.
+
+In contrast to the TXvsNR comparison, where 4 out of the 12 genes were present, here we see no overlap with the queried gene set. This suggests these particular genes may be more relevant in distinguishing the TX phenotype rather than the AR phenotype from NR.
+
+#### Including the gene IGF1
+
+##### TX versus NR
+
+![IGF1 - TX vs NR](TXvsNR-IGF1.png)
+
+##### AR versus NR
+IGF1 is the only gene out of the specified set that is differentially expressed between the AR and NR conditions. IGF1 has a positive log2 fold change of about 1.5, indicating it is upregulated in AR compared to NR. The p-value is also very low (< 1e-5), supporting the statistical significance of this change.
+
+None of the other queried genes (CKB, PRPS1, AKT3, SLC16A12, CKMT2, GATM, SGK1, AKT1, AKT2, PSMB5, SLC6A8, PSMD3) appear in the plot, meaning they do not show significant differential expression between AR and NR.
+
+In summary:
+
+- IGF1 is significantly upregulated in AR vs NR.
+- GATM, PRPS1, SLC6A8 and AKT2 are significantly changed in TX vs NR but not AR vs NR.
+- The other genes do not show significant changes in either comparison.
+
+##### TX versus AR
+
+![TX vs AR - IGF1](TXvsAR-IGF1.png)
+
+Notable changes:
+
+- GATM is strongly upregulated with a log2 fold change of 2.43 and p-value of 1.6e-5.
+- AKT2 is downregulated with a log2 fold change of -0.74 and p-value of 1.1e-5.
+- PRPS1, PSMB5, PSMD3 and SGK1 show small but significant upregulation
+SLC6A8 and AKT3 are slightly downregulated.
+- The remaining genes CKB and SLC16A12 are not present in the table, likely because they did not meet the significance threshold for this comparison.
+
+In summary, comparing the three conditions:
+
+- IGF1 is upregulated in AR vs NR, but downregulated in TX vs AR.
+- GATM is upregulated in TX vs NR and also TX vs AR.
+- PRPS1, SLC6A8 and AKT2 are upregulated in TX vs NR but do not change in the other comparisons.
+- The remaining genes do not show significant differential expression.
+
+##### TX versus Control
+
+![TX vs Control - IGF1](TXvsControl-IGF1.png)
+
+The plot shows the log2 fold change for the genes that met the significance threshold in the TX vs Control comparison. The p-values are displayed above each bar.
+
+Key observations:
+
+- IGF1 shows the largest change with a log2 fold change around -0.8, indicating strong downregulation in TX compared to Control. The p-value is highly significant at 3.1e-9.
+
+- AKT2 and SLC6A8 also show moderate downregulation with log2 fold changes around -0.6 and -0.4 respectively. Their p-values (2.3e-4 and 5.8e-4) support the significance of these changes.
+
+- PSMB5, AKT1, and PRPS1 have small positive log2 fold changes between 0.2 to 0.5, suggesting slight upregulation in TX vs Control. The p-values indicate these changes are significant, especially for AKT1 and PRPS1.
+
+The error bars represent the standard deviation of log2 fold change for genes with multiple measurements. This provides a measure of variability in the fold change estimate.
+
+The remaining genes from the original list are not present, likely because they did not meet the significance threshold for differential expression in this dataset.
+
+In summary, the plot highlights the significant downregulation of IGF1, AKT2 and SLC6A8, and the slight upregulation of PSMB5, AKT1 and PRPS1 in TX compared to Control.
+
+##### AR versus Control
+
+![AR versus control IGF1](ARvsControl-IGF1.png)
+
+Key observations:
+
+- GATM shows the largest change with a log2 fold change around 4.5, indicating strong upregulation in AR compared to Control. The p-value is highly significant.
+
+- SLC6A8, PRPS1, PSMD3, PSMB5, and AKT2 also show moderate upregulation with log2 fold changes between 0.5 to 1.5. Their p-values support the significance of these changes.
+
+- The remaining genes from the list are not present, likely because they did not meet the significance threshold for differential expression in this dataset.
+
+The error bars represent the standard deviation of log2 fold change for genes with multiple measurements.
+
+#### Summary
+
+![TX and AR versus Control](TX-ARvsControl.png)
+
+The plot shows the log2 fold change values for each gene in the AR vs Control and TX vs Control comparisons, with error bars representing the p-values. The p-value is displayed above each bar in scientific notation, indicating the statistical significance of the gene expression change.
+
+Key observations:
+
+- GATM has the most significant downregulation in AR vs Control (p=0.00e+00) but no significant change in TX vs Control.
+
+- IGF1 and AKT1 show significant changes in both comparisons, with smaller p-values in TX vs Control (p=1.00e-03 and p=1.00e-04, respectively).
+
+- AKT2, CKB, and SGK1 have significant downregulation in AR vs Control (p=1.00e-04, p=1.00e-04, and p=1.00e-03, respectively) but not TX vs Control.
+
+- PSMB5 and PRPS1 have significant upregulation in TX vs Control (p=1.00e-03 and p=1.00e-04, respectively) but not AR vs Control.
+
+- SLC6A8 is significantly downregulated in TX vs Control (p=1.00e-04) but not AR vs Control.
+
+- CKMT2 is upregulated in TX vs Control but the change is not statistically significant (p=1.75e-01).
+
+- AKT3, SLC16A12 and PSMD3 have no significant changes in either comparison.
+
+### Clear Renal Cell Carcinoma (cRCC)
+
+Two GEO datasets demonstrated differential expression of the creatine-related genes, [GDS2880](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS2880) and [GDS505](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS505), with the respective [GSE6344](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6344) and [GSE781](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE781) expression reference series.
+
+#### Stage 1 cRCC tissues versus Stage 1 Control Samples
+
+For this comparison, we observed a total of 4694 DE genes for the platform GPL96.
+
+![ST1 Tumor versus ST1 Control - GPL96](GSE6344-ST1-TvsST1-N-96.png)
+ST1 Tumor versus ST1 Control - GPL96
+
+Key observations:
+
+- The genes CKMT2 and GATM show the largest negative log2 fold changes, indicating significant downregulation in the ST1_cRCC condition compared to ST1_Normal.
+
+- The genes SLC6A8 and IGF1 exhibit the highest positive log2 fold changes, suggesting substantial upregulation in ST1_cRCC compared to ST1_Normal.
+
+- The error bars for most genes are relatively small, indicating consistent differential expression across multiple measurements. However, some genes like SLC16A12 and PSMB5 have larger error bars, suggesting more variability in their log2 fold change values.
+
+- The p-values for all genes are displayed in scientific notation and appear to be quite small (< 0.05), indicating that the observed differential expression is statistically significant.
+
+- CKMT2 and GATM have the lowest mean log2 fold changes (-1.73 and -1.456, respectively), confirming their significant downregulation in ST1_cRCC compared to ST1_Normal.
+
+- SLC6A8 has the highest mean log2 fold change (1.4355), indicating its substantial upregulation in ST1_cRCC.
+
+- The standard deviation of log2 fold change is relatively small for GATM and SLC6A8, suggesting consistent differential expression across measurements.
+
+- The mean p-values for all three genes are greater than 3 (-log10 scale), indicating strong statistical significance of the observed differential expression.
+
+#### Stage 2 cRCC tissues versus Stage 2 Control Samples
+
+![ST2 Tumor versus ST2 Control](GSE6344-ST2-TvsST2-N-96.png)
+
+Key observations:
+
+- GATM has the lowest mean log2 fold change (-1.9975), indicating significant downregulation in ST2_cRCC compared to ST2_Normal.
+
+- AKT3 and PSMD3 also show negative mean log2 fold changes (-0.64 and -0.507, respectively), suggesting downregulation in ST2_cRCC.
+
+- The standard deviation of log2 fold change is provided for GATM (0.3783), indicating some variability across measurements.
+
+- The mean p-values for all three genes are greater than 2 (-log10 scale), suggesting statistical significance of the observed differential expression.
+
+- GATM shows the largest negative log2 fold change, indicating significant downregulation in ST2_cRCC compared to ST2_Normal.
+
+- AKT3, PSMD3, and PSMB5 also exhibit negative log2 fold changes, suggesting downregulation in ST2_cRCC.
+
+- SLC6A8 and IGF1 have positive log2 fold changes, indicating upregulation in ST2_cRCC.
+
+- The error bars for some genes, such as GATM and SLC6A8, are larger than others, suggesting more variability in their log2 fold change values across measurements.
+
+- The p-values for most genes are quite small (< 0.05), indicating statistical significance of the observed differential expression.
+
+#### Stage 2 x Stage 1 Samples
+
+When we compare the two stages of normal samples, 81 genes were differentially expressed, none of them from our list of creatine-related genes. The same was observed for the comparison of the Stage 1 versus Stage 2 tumor samples, where 23 genes were differentially expressed, again none of them related to creatine metabolism/regulation. These observation indicates that creatine-related gene expression is altered in tumor states, but without any difference between the two stages tested by the authors.
+
+## RNA-Seq - Fibrosis (Chronic Renal disease) vs Normal tissues
+
+The dataset [GSE137570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137570) performed the transcriptome profiling of chronic kidney disease, using RNA-Seq. The expression of the creatine-related genes comparing the fibrosis versus Normal samples, revealed the altered expression of the following genes:
+
+![FibrosisXNormal-ALL](FibrosisXNormal-ALL.png)
+
+Expression Changes:
+
+- **AKT1**: Shows a slight increase in expression (approximately 0.4).
+- **IGF1**: Shows a significant increase in expression (approximately 0.9).
+- **PSMB5**: Shows a slight decrease in expression (approximately -0.4).
+- **PRPS1**: Shows a slight decrease in expression (approximately -0.2).
+- **PSMD3**: Shows a slight increase in expression (approximately 0.4).
+- **SLC6A12**: Shows a significant decrease in expression (approximately -0.8).
+- **SLC6A8**: Shows a significant increase in expression (approximately 0.7).
+
+These observations suggest that genes IGF1 and SLC6A8 are significantly upregulated in fibrosis compared to normal conditions, while PRPS1, PSMB5, and SLC6A12 show slight downregulation. The p-values indicate that these changes are statistically significant. Interestingly, the gene GATM did not present differential expression.
+
+### Using EGFR (Estimated Glomerular Filtration Rate) as sample categories.
+
+We divided the samples from the series [GSE137570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137570) into addtional categories, based on the reported EGFR: EGFR>50 and EGFR < 50%, for samples with EFGR > 50%.
+
+#### EGFR>50% versus Normal samples
+
+![EGFR>50% versus Normal samples](Up50EGFRXNormal.png)
+
+Samples with eGFR higher than 50% presented significative upregulation of the genes GAMT, IGF1, PSMD3 and SLC6A8. The gene IGF1 is the one that connect the GO terms of genes directly related to creatine metabolism, among them the GAMT and the SLC6A8. It is probable that IGF1-mediated signalling actively mediate the creatine-related genes, as well as the uptake of creatine mediated by the specific transporter coded by the gene SLC6A8. Also worthy noting that the gene PSMD3 presented expression values above 0.5 Log2FC for the first time in our analysis.
+
+#### EGFR<50% versus Normal samples
+
+![EGFR<50% versus Normal samples](Down50xNormal.png)
+
+In this comparison, the genes IGF1 and SLC6A8 were still upregulated in samples with eGFR<50%, but we can observe the downregulation of the genes GATM and SLC6A12. This situation could indicate that the creatine metabolism is severely depleted at these samples and could be related to the observed reduction in the kidney function.
+
+#### EGFR>50% versus EGFR<50% samples
+
+![EGFR>50% versus EGFR<50% samples](UPxDOWN-EGFR.png)
+
+Samples with altered eGFR values were also compared. However, only the GAMT gene had differential expression values higher than the threshold of Log2FC±0.5. This gene is upregulated in samples with eGFR>50% when compared to the eGFR<50% samples.
+
+#### Fibrosis>50% versus Normal samples
+
+![Fibrosis>50% versus Normal samples](FibrosisUp50xNormal.png)
+
+## Evolutionary Root of the creatine-related genes
 

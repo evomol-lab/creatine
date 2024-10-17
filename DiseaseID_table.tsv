@@ -1,0 +1,44 @@
+DiseaseID Count Disease Term      
+D007676    77  Kidney Failure, Chronic
+D007674    77  Kidney Diseases
+D007680    77  Kidney Neoplasms
+D007683    77  Kidney Tubular Necrosis, Acute
+D058186    77  Acute Kidney Injury
+D007681    66  Kidney Papillary Necrosis
+D007673    66  Kidney Cortex Necrosis
+D007669    60  Kidney Calculi
+D052177    40  Kidney Diseases, Cystic
+C537152    32  Hypomagnesemia 2, renal [Supplementary Concept]
+D007690    32  Polycystic Kidney Diseases
+D021782    32  Multicystic Dysplastic Kidney
+D012080    10  Chronic Kidney Disease-Mineral and Bone Disorder
+C538445    9   Clear-cell metastatic renal cell carcinoma [Supplementary Concept]
+D000092702 8   Chronic Kidney Diseases of Uncertain Etiology
+D016891    3   Polycystic Kidney, Autosomal Dominant
+C531755    1   Kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules
+
+Gene Symbol Gene short description
+SLC2A4  Insulin-regulated facilitative glucose transporter GLUT4.
+IGF1    Insulin-like growth factor 1, a hormone involved in growth and development.
+GATM    Glycine amidinotransferase, key in creatine biosynthesis.
+SLC6A8  Creatine transporter involved in transporting creatine into cells.
+AKT1    AKT serine-threonine protein kinase 1, involved in signaling pathways regulating cell growth and survival.
+AKT2    AKT serine-threonine protein kinase 2, involved in metabolism and insulin signaling.
+AKT3    AKT serine-threonine protein kinase 3, involved in brain development and function.
+PSMB5   A component of the 20S core proteasome complex involved in protein degradation.
+PSMD3   A non-ATPase subunit of the 26S proteasome involved in protein degradation.
+SGK1    Serum/glucocorticoid regulated kinase 1, involved in cellular stress response.
+PRPS1   Phosphoribosyl pyrophosphate synthetase 1, involved in purine metabolism and nucleotide biosynthesis.
+CKB Creatine kinase B, which plays a role in energy homeostasis by transferring phosphate between ATP and various phosphogens.
+CKM Creatine kinase M, involved in energy homeostasis and is a marker for myocardial infarction.
+CKMT1A  Ubiquitous mitochondrial creatine kinase, involved in energy transduction and impaired in various diseases.
+CKMT1B  Identical protein to CKMT1A and is also involved in energy transduction in tissues with large energy demands.
+CKMT2   Sarcomeric mitochondrial creatine kinase, involved in energy transduction in muscle tissues.
+SLC16A12    Transporter likely involved in monocarboxylic acid transport and associated with juvenile cataracts and renal glucosuria.
+
+The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403; Citations: 3,096)
+Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran M, and Lancet D
+Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 [PDF]
+
+SLC2A4, IGF1, GATM, SLC6A8, AKT1, AKT2, AKT3, PSMB5, PSMD3, SGK1, PRPS1, CKB, CKM,
+CKMT1A, CKMT1B, CKMT2, SLC16A12, GAMT
