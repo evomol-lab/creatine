@@ -7,7 +7,9 @@ If you use this repository or would like to cite our analyses, you can use our p
 [Creatine Effects on Kidney Tissues and Renal Function: New Insights from a Bioinformatic Study](https://www.preprints.org/manuscript/202406.1733/v1)
 
 ```
-Medeiros,  M. A.; Abreu,  B. J.; Lima,  J. P. M. S. Creatine Effects on Kidney Tissues and Renal Function: New Insights from a Bioinformatic Study. Preprints 2024, 2024061733. https://doi.org/10.20944/preprints202406.1733.v1
+Medeiros,  M. A.; Abreu,  B. J.; Lima,  J. P. M. S. Creatine Effects on Kidney Tissues and 
+Renal Function: New Insights from a Bioinformatic Study. Preprints 2024, 2024061733. 
+https://doi.org/10.20944/preprints202406.1733.v1
 ```
 
 # Creatine review
