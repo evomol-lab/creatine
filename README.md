@@ -1,11 +1,13 @@
 # Creatine
-Files for a bioinformatic analyses on creatine effects on kidney tissues.
+Files for a bioinformatic analysis on creatine effects on kidney tissues.
 
 ## Citation
-If you use this repository or would like to cite our analyses, you can use our preprint:
+If you use this repository or would like to cite our analyses, you can use our final paper or our preprint:
 
-[Creatine Effects on Kidney Tissues and Renal Function: New Insights from a Bioinformatic Study](https://www.preprints.org/manuscript/202406.1733/v1)
+- **Article:**
+Medeiros, M.A.; Abreu, B.J.; Lima, J.P.M.S. [**Assessing Creatine-Related Gene Expression in Kidney Disease: Can Available Data Give Insights into an Old Discussion?**](https://doi.org/10.3390/nu17040651) Nutrients 2025, 17, 651. [https://doi.org/10.3390/nu17040651](https://doi.org/10.3390/nu17040651).
 
+- Preprint:
 ```
 Medeiros,  M. A.; Abreu,  B. J.; Lima,  J. P. M. S. Creatine Effects on Kidney Tissues and 
 Renal Function: New Insights from a Bioinformatic Study. Preprints 2024, 2024061733. 
