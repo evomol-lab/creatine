@@ -1,0 +1,22 @@
+# Virtual environments
+.evol/
+.venv/
+.evoemu/
+.fig/
+sauron/
+tree/
+env/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# OS & IDE files
+.DS_Store
+.idea/
+.vscode/

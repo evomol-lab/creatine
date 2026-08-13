@@ -1,0 +1,244 @@
+uniprot_id,gene,posicao,aa_wild,aa_mut,AAposAA,AAposAA_3letras,dbSNP_id,significancia_clinica
+P50440,GATM,2,L,V,L2V,Leu2Val,rs753489854,Variant of uncertain significance
+P50440,GATM,3,R,G,R3G,Arg3Gly,rs796052538,Variant of uncertain significance
+P50440,GATM,4,V,L,V4L,Val4Leu,rs1252937232,Variant of uncertain significance
+P50440,GATM,4,V,M,V4M,Val4Met,rs1252937232,Variant of uncertain significance
+P50440,GATM,5,R,L,R5L,Arg5Leu,rs2542010154,Variant of uncertain significance
+P50440,GATM,8,R,H,R8H,Arg8His,rs1889681963,Variant of uncertain significance
+P50440,GATM,11,S,T,S11T,Ser11Thr,rs2542010023,Variant of uncertain significance
+P50440,GATM,13,G,S,G13S,Gly13Ser,rs1566843333,Variant of uncertain significance
+P50440,GATM,17,V,L,V17L,Val17Leu,rs746749338,Variant of uncertain significance
+P50440,GATM,19,Y,C,Y19C,Tyr19Cys,rs1286036723,Variant of uncertain significance
+P50440,GATM,20,I,M,I20M,Ile20Met,rs1000621646,Variant of uncertain significance
+P50440,GATM,21,G,R,G21R,Gly21Arg,rs903485357,Variant of uncertain significance
+P50440,GATM,22,S,F,S22F,Ser22Phe,rs1284933524,Variant of uncertain significance
+P50440,GATM,22,S,T,S22T,Ser22Thr,rs1595486636,Variant of uncertain significance
+P50440,GATM,23,R,P,R23P,Arg23Pro,rs370155767,Variant of uncertain significance
+P50440,GATM,23,R,Q,R23Q,Arg23Gln,rs370155767,Variant of uncertain significance
+P50440,GATM,23,R,W,R23W,Arg23Trp,rs1240389133,Variant of uncertain significance
+P50440,GATM,25,G,E,G25E,Gly25Glu,rs2542006053,Variant of uncertain significance
+P50440,GATM,26,R,*,R26*,Arg26*,rs1032267288,Pathogenic
+P50440,GATM,26,R,G,R26G,Arg26Gly,rs1032267288,Variant of uncertain significance
+P50440,GATM,26,R,L,R26L,Arg26Leu,rs1193533349,Variant of uncertain significance
+P50440,GATM,26,R,Q,R26Q,Arg26Gln,rs1193533349,Variant of uncertain significance
+P50440,GATM,29,T,A,T29A,Thr29Ala,rs763273843,Variant of uncertain significance
+P50440,GATM,30,G,R,G30R,Gly30Arg,rs1245821498,Variant of uncertain significance
+P50440,GATM,30,G,V,G30V,Gly30Val,rs773473195,Variant of uncertain significance
+P50440,GATM,34,R,Q,R34Q,Arg34Gln,rs1889644849,Variant of uncertain significance
+P50440,GATM,35,T,N,T35N,Thr35Asn,rs1331986925,Variant of uncertain significance
+P50440,GATM,35,T,S,T35S,Thr35Ser,rs1331986925,Variant of uncertain significance
+P50440,GATM,38,S,G,S38G,Ser38Gly,rs1889644507,Variant of uncertain significance
+P50440,GATM,40,Q,H,Q40H,Gln40His,rs2542005881,Variant of uncertain significance
+P50440,GATM,41,A,V,A41V,Ala41Val,rs2140657480,Variant of uncertain significance
+P50440,GATM,42,A,T,A42T,Ala42Thr,rs1889644323,Variant of uncertain significance
+P50440,GATM,43,T,M,T43M,Thr43Met,rs868522260,Variant of uncertain significance
+P50440,GATM,43,T,R,T43R,Thr43Arg,rs868522260,Variant of uncertain significance
+P50440,GATM,45,S,A,S45A,Ser45Ala,rs2542005825,Variant of uncertain significance
+P50440,GATM,45,S,P,S45P,Ser45Pro,rs2542005825,Variant of uncertain significance
+P50440,GATM,46,S,C,S46C,Ser46Cys,rs199530681,Variant of uncertain significance
+P50440,GATM,47,R,G,R47G,Arg47Gly,rs749075034,Likely benign
+P50440,GATM,47,R,Q,R47Q,Arg47Gln,rs777639154,Variant of uncertain significance
+P50440,GATM,47,R,W,R47W,Arg47Trp,rs749075034,Likely benign
+P50440,GATM,49,S,A,S49A,Ser49Ala,rs796052537,Variant of uncertain significance
+P50440,GATM,49,S,P,S49P,Ser49Pro,rs796052537,Variant of uncertain significance
+P50440,GATM,54,D,H,D54H,Asp54His,rs780777061,Variant of uncertain significance
+P50440,GATM,54,D,N,D54N,Asp54Asn,rs780777061,Likely benign
+P50440,GATM,56,A,D,A56D,Ala56Asp,rs752102323,Variant of uncertain significance
+P50440,GATM,59,P,S,P59S,Pro59Ser,rs1889642821,Variant of uncertain significance
+P50440,GATM,61,P,A,P61A,Pro61Ala,rs765462268,Variant of uncertain significance
+P50440,GATM,64,C,F,C64F,Cys64Phe,rs1418671209,Variant of uncertain significance
+P50440,GATM,64,C,W,C64W,Cys64Trp,rs2542005571,Variant of uncertain significance
+P50440,GATM,69,Y,*,Y69*,Tyr69*,rs1159856922,Pathogenic
+P50440,GATM,72,W,*,W72*,Trp72*,rs1566842679,Likely pathogenic
+P50440,GATM,73,D,N,D73N,Asp73Asn,rs1889642061,Variant of uncertain significance
+P50440,GATM,74,P,L,P74L,Pro74Leu,rs764270822,Variant of uncertain significance
+P50440,GATM,74,P,T,P74T,Pro74Thr,rs1377599591,Variant of uncertain significance
+P50440,GATM,75,L,I,L75I,Leu75Ile,rs1204057066,Variant of uncertain significance
+P50440,GATM,78,V,L,V78L,Val78Leu,rs1333483024,Variant of uncertain significance
+P50440,GATM,82,R,K,R82K,Arg82Lys,rs1595485790,Variant of uncertain significance
+P50440,GATM,86,A,S,A86S,Ala86Ser,rs1889641277,Likely benign
+P50440,GATM,87,C,R,C87R,Cys87Arg,rs2140657166,Likely pathogenic
+P50440,GATM,90,P,L,P90L,Pro90Leu,rs1261342154,Variant of uncertain significance
+P50440,GATM,90,P,R,P90R,Pro90Arg,rs1261342154,Variant of uncertain significance
+P50440,GATM,91,F,I,F91I,Phe91Ile,rs2542005247,Variant of uncertain significance
+P50440,GATM,92,T,I,T92I,Thr92Ile,rs2140657134,Variant of uncertain significance
+P50440,GATM,93,I,M,I93M,Ile93Met,rs192378417,Variant of uncertain significance
+P50440,GATM,93,I,V,I93V,Ile93Val,rs34991226,Likely benign
+P50440,GATM,94,E,K,E94K,Glu94Lys,rs2542005192,Variant of uncertain significance
+P50440,GATM,97,A,G,A97G,Ala97Gly,rs2541994598,Variant of uncertain significance
+P50440,GATM,102,K,N,K102N,Lys102Asn,rs376335787,Variant of uncertain significance
+P50440,GATM,105,P,L,P105L,Pro105Leu,rs147804855,Variant of uncertain significance
+P50440,GATM,108,Q,E,Q108E,Gln108Glu,rs1889504721,Variant of uncertain significance
+P50440,GATM,108,Q,R,Q108R,Gln108Arg,rs1398822076,Variant of uncertain significance
+P50440,GATM,110,Q,H,Q110H,Gln110His,rs1288775,Benign
+P50440,GATM,112,G,R,G112R,Gly112Arg,rs1889504321,Variant of uncertain significance
+P50440,GATM,113,H,D,H113D,His113Asp,rs1889504232,Variant of uncertain significance
+P50440,GATM,113,H,R,H113R,His113Arg,rs910754475,Variant of uncertain significance
+P50440,GATM,116,P,L,P116L,Pro116Leu,rs1180365337,Variant of uncertain significance
+P50440,GATM,117,K,R,K117R,Lys117Arg,rs1472551759,Variant of uncertain significance
+P50440,GATM,119,H,D,H119D,His119Asp,rs757696021,Variant of uncertain significance
+P50440,GATM,119,H,N,H119N,His119Asn,rs757696021,Variant of uncertain significance
+P50440,GATM,123,A,T,A123T,Ala123Thr,rs1566840902,Variant of uncertain significance
+P50440,GATM,123,A,V,A123V,Ala123Val,rs2541994349,Variant of uncertain significance
+P50440,GATM,124,V,A,V124A,Val124Ala,rs1889503302,Variant of uncertain significance
+P50440,GATM,124,V,I,V124I,Val124Ile,rs2541994335,Variant of uncertain significance
+P50440,GATM,126,E,D,E126D,Glu126Asp,rs1889503051,Variant of uncertain significance
+P50440,GATM,127,I,T,I127T,Ile127Thr,rs1896556912,Variant of uncertain significance
+P50440,GATM,129,E,D,E129D,Glu129Asp,rs756420233,Variant of uncertain significance
+P50440,GATM,132,N,H,N132H,Asn132His,rs767740292,Variant of uncertain significance
+P50440,GATM,132,N,K,N132K,Asn132Lys,rs1454154614,Likely benign
+P50440,GATM,132,N,S,N132S,Asn132Ser,rs759658712,Variant of uncertain significance
+P50440,GATM,132,N,T,N132T,Asn132Thr,rs759658712,Variant of uncertain significance
+P50440,GATM,134,L,*,L134*,Leu134*,rs2140646735,Pathogenic
+P50440,GATM,136,T,M,T136M,Thr136Met,rs148564534,Benign
+P50440,GATM,145,D,A,D145A,Asp145Ala,rs1566840842,Variant of uncertain significance
+P50440,GATM,145,D,H,D145H,Asp145His,rs796052539,Variant of uncertain significance
+P50440,GATM,145,D,N,D145N,Asp145Asn,rs1555384309,Variant of uncertain significance
+P50440,GATM,146,P,T,P146T,Pro146Thr,rs2541994110,Variant of uncertain significance
+P50440,GATM,147,I,T,I147T,Ile147Thr,rs977391578,Variant of uncertain significance
+P50440,GATM,148,D,E,D148E,Asp148Glu,rs1889500716,Likely benign
+P50440,GATM,149,W,*,W149*,Trp149*,rs80338737,Pathogenic
+P50440,GATM,149,W,L,W149L,Trp149Leu,rs80338737,Pathogenic
+P50440,GATM,150,S,A,S150A,Ser150Ala,rs2541994081,Variant of uncertain significance
+P50440,GATM,154,K,E,K154E,Lys154Glu,rs1889500330,Variant of uncertain significance
+P50440,GATM,155,T,S,T155S,Thr155Ser,rs2541994017,Variant of uncertain significance
+P50440,GATM,156,P,S,P156S,Pro156Ser,rs771614762,Variant of uncertain significance
+P50440,GATM,158,F,L,F158L,Phe158Leu,rs2541993996,Variant of uncertain significance
+P50440,GATM,161,T,M,T161M,Thr161Met,rs1889500162,Variant of uncertain significance
+P50440,GATM,165,S,N,S165N,Ser165Asn,rs780398292,Variant of uncertain significance
+P50440,GATM,169,R,*,R169*,Arg169*,rs397514708,Pathogenic
+P50440,GATM,169,R,Q,R169Q,Arg169Gln,rs1210723596,Variant of uncertain significance
+P50440,GATM,171,I,F,I171F,Ile171Phe,rs747203599,Variant of uncertain significance
+P50440,GATM,173,I,M,I173M,Ile173Met,rs796052534,Variant of uncertain significance
+P50440,GATM,181,E,K,E181K,Glu181Lys,rs376982466,Variant of uncertain significance
+P50440,GATM,183,P,S,P183S,Pro183Ser,rs1392379976,Variant of uncertain significance
+P50440,GATM,185,A,P,A185P,Ala185Pro,rs2140644920,Pathogenic
+P50440,GATM,185,A,S,A185S,Ala185Ser,rs2140644920,Likely pathogenic
+P50440,GATM,187,R,C,R187C,Arg187Cys,rs751757258,N/A
+P50440,GATM,189,R,C,R189C,Arg189Cys,rs377578020,Variant of uncertain significance
+P50440,GATM,189,R,H,R189H,Arg189His,rs2140644856,Likely pathogenic
+P50440,GATM,189,R,L,R189L,Arg189Leu,rs2140644856,Variant of uncertain significance
+P50440,GATM,194,R,*,R194*,Arg194*,rs1217229880,Pathogenic
+P50440,GATM,194,R,Q,R194Q,Arg194Gln,rs774017569,Variant of uncertain significance
+P50440,GATM,195,A,V,A195V,Ala195Val,rs752950030,Variant of uncertain significance
+P50440,GATM,197,R,S,R197S,Arg197Ser,rs1167013064,Likely benign
+P50440,GATM,198,S,A,S198A,Ser198Ala,rs796052535,Variant of uncertain significance
+P50440,GATM,199,I,V,I199V,Ile199Val,rs1595483270,Variant of uncertain significance
+P50440,GATM,200,I,V,I200V,Ile200Val,rs1171642313,Variant of uncertain significance
+P50440,GATM,201,K,N,K201N,Lys201Asn,rs748600834,Likely benign
+P50440,GATM,203,Y,S,Y203S,Tyr203Ser,rs397514709,Pathogenic
+P50440,GATM,205,H,P,H205P,His205Pro,rs1889478297,Variant of uncertain significance
+P50440,GATM,206,R,C,R206C,Arg206Cys,rs769023072,Variant of uncertain significance
+P50440,GATM,206,R,H,R206H,Arg206His,rs565509522,Likely benign
+P50440,GATM,208,A,T,A208T,Ala208Thr,rs374059924,Variant of uncertain significance
+P50440,GATM,209,K,E,K209E,Lys209Glu,rs1393968087,Variant of uncertain significance
+P50440,GATM,210,W,*,W210*,Trp210*,rs1889477819,Pathogenic
+P50440,GATM,211,T,A,T211A,Thr211Ala,rs2541991870,Variant of uncertain significance
+P50440,GATM,212,T,A,T212A,Thr212Ala,rs2541991858,Variant of uncertain significance
+P50440,GATM,213,A,V,A213V,Ala213Val,rs778893952,Variant of uncertain significance
+P50440,GATM,215,K,R,K215R,Lys215Arg,rs759012962,Variant of uncertain significance
+P50440,GATM,216,P,S,P216S,Pro216Ser,rs2140644628,Variant of uncertain significance
+P50440,GATM,217,T,A,T217A,Thr217Ala,rs1057524679,Variant of uncertain significance
+P50440,GATM,218,M,I,M218I,Met218Ile,rs1555384217,Variant of uncertain significance
+P50440,GATM,218,M,V,M218V,Met218Val,rs2541991801,Variant of uncertain significance
+P50440,GATM,219,A,T,A219T,Ala219Thr,rs369580400,Variant of uncertain significance
+P50440,GATM,226,D,Y,D226Y,Asp226Tyr,rs2541989296,Variant of uncertain significance
+P50440,GATM,228,P,R,P228R,Pro228Arg,rs2541989265,Variant of uncertain significance
+P50440,GATM,229,I,V,I229V,Ile229Val,rs570670146,Variant of uncertain significance
+P50440,GATM,230,H,Y,H230Y,His230Tyr,rs2541989251,Variant of uncertain significance
+P50440,GATM,231,S,C,S231C,Ser231Cys,rs202225656,Benign
+P50440,GATM,231,S,Y,S231Y,Ser231Tyr,rs202225656,Likely benign
+P50440,GATM,234,D,G,D234G,Asp234Gly,rs146057680,Benign
+P50440,GATM,237,K,I,K237I,Lys237Ile,rs764877849,Variant of uncertain significance
+P50440,GATM,237,K,R,K237R,Lys237Arg,rs764877849,Variant of uncertain significance
+P50440,GATM,239,A,S,A239S,Ala239Ser,rs2541989180,Variant of uncertain significance
+P50440,GATM,242,G,R,G242R,Gly242Arg,rs1236954285,Variant of uncertain significance
+P50440,GATM,245,V,M,V245M,Val245Met,rs2541989124,Variant of uncertain significance
+P50440,GATM,246,T,A,T246A,Thr246Ala,rs2541989116,Variant of uncertain significance
+P50440,GATM,248,E,K,E248K,Glu248Lys,rs1388250183,Variant of uncertain significance
+P50440,GATM,251,P,L,P251L,Pro251Leu,rs1424827158,Variant of uncertain significance
+P50440,GATM,260,R,*,R260*,Arg260*,rs775933965,Pathogenic
+P50440,GATM,260,R,Q,R260Q,Arg260Gln,rs1364915703,Variant of uncertain significance
+P50440,GATM,263,R,S,R263S,Arg263Ser,rs1431820716,Variant of uncertain significance
+P50440,GATM,264,D,E,D264E,Asp264Glu,rs1174673551,Variant of uncertain significance
+P50440,GATM,266,F,L,F266L,Phe266Leu,rs2140641810,Variant of uncertain significance
+P50440,GATM,276,L,R,L276R,Leu276Arg,rs1889446108,Variant of uncertain significance
+P50440,GATM,278,I,M,I278M,Ile278Met,rs3210026,Variant of uncertain significance
+P50440,GATM,278,I,V,I278V,Ile278Val,rs1179509859,Variant of uncertain significance
+P50440,GATM,281,M,I,M281I,Met281Ile,rs2541988486,Variant of uncertain significance
+P50440,GATM,282,R,C,R282C,Arg282Cys,rs766583032,Variant of uncertain significance
+P50440,GATM,282,R,H,R282H,Arg282His,rs371447931,Likely pathogenic
+P50440,GATM,284,H,Y,H284Y,His284Tyr,rs1429541102,Variant of uncertain significance
+P50440,GATM,287,P,S,P287S,Pro287Ser,rs773358289,Variant of uncertain significance
+P50440,GATM,289,Y,H,Y289H,Tyr289His,rs769715877,Variant of uncertain significance
+P50440,GATM,290,R,T,R290T,Arg290Thr,rs794727787,Variant of uncertain significance
+P50440,GATM,292,H,R,H292R,His292Arg,rs747005297,Variant of uncertain significance
+P50440,GATM,293,I,F,I293F,Ile293Phe,rs2140641528,Variant of uncertain significance
+P50440,GATM,293,I,T,I293T,Ile293Thr,rs1595482625,Variant of uncertain significance
+P50440,GATM,294,I,V,I294V,Ile294Val,rs1216363658,Variant of uncertain significance
+P50440,GATM,298,D,N,D298N,Asp298Asn,rs2541988327,Variant of uncertain significance
+P50440,GATM,300,N,S,N300S,Asn300Ser,rs1889444443,Variant of uncertain significance
+P50440,GATM,302,M,T,M302T,Met302Thr,rs1889444334,Variant of uncertain significance
+P50440,GATM,304,I,T,I304T,Ile304Thr,rs1334969328,Variant of uncertain significance
+P50440,GATM,306,A,G,A306G,Ala306Gly,rs2541988270,Variant of uncertain significance
+P50440,GATM,308,F,L,F308L,Phe308Leu,rs2140641473,Variant of uncertain significance
+P50440,GATM,310,I,M,I310M,Ile310Met,rs2140641456,Variant of uncertain significance
+P50440,GATM,311,I,T,I311T,Ile311Thr,rs1460902723,Variant of uncertain significance
+P50440,GATM,313,P,A,P313A,Pro313Ala,rs2541988196,Variant of uncertain significance
+P50440,GATM,314,G,A,G314A,Gly314Ala,rs1889443912,Variant of uncertain significance
+P50440,GATM,314,G,D,G314D,Gly314Asp,rs1889443912,Variant of uncertain significance
+P50440,GATM,316,V,M,V316M,Val316Met,rs1889443760,Variant of uncertain significance
+P50440,GATM,320,P,S,P320S,Pro320Ser,rs1889443535,Pathogenic
+P50440,GATM,322,R,P,R322P,Arg322Pro,rs1325460408,Likely pathogenic
+P50440,GATM,323,P,A,P323A,Pro323Ala,rs777371743,Variant of uncertain significance
+P50440,GATM,325,H,Q,H325Q,His325Gln,rs1889443132,Variant of uncertain significance
+P50440,GATM,329,L,I,L329I,Leu329Ile,rs373802463,Variant of uncertain significance
+P50440,GATM,329,L,V,L329V,Leu329Val,rs373802463,Variant of uncertain significance
+P50440,GATM,330,F,L,F330L,Phe330Leu,rs770808654,Variant of uncertain significance
+P50440,GATM,330,F,S,F330S,Phe330Ser,rs2140639842,Variant of uncertain significance
+P50440,GATM,331,K,Q,K331Q,Lys331Gln,rs1566839535,Variant of uncertain significance
+P50440,GATM,331,K,R,K331R,Lys331Arg,rs2541986257,Variant of uncertain significance
+P50440,GATM,333,A,V,A333V,Ala333Val,rs1156646457,Variant of uncertain significance
+P50440,GATM,334,G,R,G334R,Gly334Arg,rs749007953,Variant of uncertain significance
+P50440,GATM,336,T,A,T336A,Thr336Ala,rs1889422994,Pathogenic
+P50440,GATM,336,T,I,T336I,Thr336Ile,rs1481334244,Pathogenic
+P50440,GATM,337,I,V,I337V,Ile337Val,rs558560751,Variant of uncertain significance
+P50440,GATM,341,P,L,P341L,Pro341Leu,rs1889422661,Pathogenic
+P50440,GATM,344,I,V,I344V,Ile344Val,rs747608698,Benign
+P50440,GATM,346,P,L,P346L,Pro346Leu,rs142814307,Variant of uncertain significance
+P50440,GATM,346,P,Q,P346Q,Pro346Gln,rs142814307,Variant of uncertain significance
+P50440,GATM,347,D,E,D347E,Asp347Glu,rs139599307,Variant of uncertain significance
+P50440,GATM,348,D,N,D348N,Asp348Asn,rs755493537,Variant of uncertain significance
+P50440,GATM,356,K,R,K356R,Lys356Arg,rs1889406981,Variant of uncertain significance
+P50440,GATM,360,M,T,M360T,Met360Thr,rs2541984179,Variant of uncertain significance
+P50440,GATM,361,N,I,N361I,Asn361Ile,rs2140638679,Variant of uncertain significance
+P50440,GATM,362,V,A,V362A,Val362Ala,rs1479969521,Variant of uncertain significance
+P50440,GATM,362,V,L,V362L,Val362Leu,rs2541984159,Variant of uncertain significance
+P50440,GATM,363,L,S,L363S,Leu363Ser,rs753968876,Variant of uncertain significance
+P50440,GATM,369,R,C,R369C,Arg369Cys,rs768118194,Variant of uncertain significance
+P50440,GATM,369,R,H,R369H,Arg369His,rs747557239,Variant of uncertain significance
+P50440,GATM,370,V,I,V370I,Val370Ile,rs1889406411,Variant of uncertain significance
+P50440,GATM,373,D,G,D373G,Asp373Gly,rs1889405958,Variant of uncertain significance
+P50440,GATM,375,N,S,N375S,Asn375Ser,rs758861947,Variant of uncertain significance
+P50440,GATM,382,M,L,M382L,Met382Leu,rs1380682430,Variant of uncertain significance
+P50440,GATM,384,E,G,E384G,Glu384Gly,rs796052536,Variant of uncertain significance
+P50440,GATM,387,G,D,G387D,Gly387Asp,rs757608369,Variant of uncertain significance
+P50440,GATM,387,G,R,G387R,Gly387Arg,rs886051202,Variant of uncertain significance
+P50440,GATM,388,I,V,I388V,Ile388Val,rs1170650328,Variant of uncertain significance
+P50440,GATM,389,T,I,T389I,Thr389Ile,rs1450827920,Variant of uncertain significance
+P50440,GATM,389,T,S,T389S,Thr389Ser,rs1450827920,Variant of uncertain significance
+P50440,GATM,395,I,V,I395V,Ile395Val,rs2541981228,Variant of uncertain significance
+P50440,GATM,396,R,C,R396C,Arg396Cys,rs1183535332,Variant of uncertain significance
+P50440,GATM,396,R,H,R396H,Arg396His,rs1357528739,Variant of uncertain significance
+P50440,GATM,396,R,S,R396S,Arg396Ser,rs1183535332,Variant of uncertain significance
+P50440,GATM,397,N,S,N397S,Asn397Ser,rs2140635964,Variant of uncertain significance
+P50440,GATM,399,N,S,N399S,Asn399Ser,rs566966378,Variant of uncertain significance
+P50440,GATM,411,D,N,D411N,Asp411Asn,rs768171759,Variant of uncertain significance
+P50440,GATM,412,V,I,V412I,Val412Ile,rs2541981090,Variant of uncertain significance
+P50440,GATM,413,R,Q,R413Q,Arg413Gln,rs1461653218,Pathogenic
+P50440,GATM,413,R,W,R413W,Arg413Trp,rs1244824806,Pathogenic
+P50440,GATM,414,R,C,R414C,Arg414Cys,rs761575775,N/A
+P50440,GATM,414,R,H,R414H,Arg414His,rs1383052173,Variant of uncertain significance
+P50440,GATM,415,R,*,R415*,Arg415*,rs1357374472,Variant of uncertain significance
+P50440,GATM,415,R,Q,R415Q,Arg415Gln,rs374592247,Benign
+P50440,GATM,423,D,E,D423E,Asp423Glu,rs1566838768,Variant of uncertain significance

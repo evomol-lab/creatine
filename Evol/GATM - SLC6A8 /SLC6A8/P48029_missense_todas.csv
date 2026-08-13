@@ -1,0 +1,558 @@
+uniprot_id,gene,posicao,aa_wild,aa_mut,AAposAA,AAposAA_3letra,dbSNP_id,significancia_clinica,fonte
+P48029,SLC6A8,1,M,V,M1V,Met1Val,rs1557043709,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,2,A,E,A2E,Ala2Glu,N/A,N/A,large_scale_study
+P48029,SLC6A8,3,K,E,K3E,Lys3Glu,rs2091435790,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,3,K,R,K3R,Lys3Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,4,K,N,K4N,Lys4Asn,rs1486125548,Likely benign,large_scale_study
+P48029,SLC6A8,4,K,R,K4R,Lys4Arg,rs1190261367,Variant of uncertain significance,mixed
+P48029,SLC6A8,5,S,G,S5G,Ser5Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,5,S,R,S5R,Ser5Arg,rs1557043724,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,6,A,S,A6S,Ala6Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,6,A,V,A6V,Ala6Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,7,E,*,E7*,Glu7*,N/A,N/A,large_scale_study
+P48029,SLC6A8,7,E,D,E7D,Glu7Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,7,E,G,E7G,Glu7Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,7,E,K,E7K,Glu7Lys,N/A,N/A,large_scale_study
+P48029,SLC6A8,8,N,H,N8H,Asn8His,N/A,N/A,large_scale_study
+P48029,SLC6A8,9,G,C,G9C,Gly9Cys,rs2091436097,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,9,G,V,G9V,Gly9Val,rs1198790754,Benign,large_scale_study
+P48029,SLC6A8,11,Y,C,Y11C,Tyr11Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,15,G,D,G15D,Gly15Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,16,D,E,D16E,Asp16Glu,rs1057524586,Likely benign,large_scale_study
+P48029,SLC6A8,16,D,G,D16G,Asp16Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,17,E,D,E17D,Glu17Asp,rs2091436339,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,17,E,Q,E17Q,Glu17Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,18,K,N,K18N,Lys18Asn,rs1261794545,Likely benign,large_scale_study
+P48029,SLC6A8,19,K,T,K19T,Lys19Thr,rs1238996324,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,21,P,S,P21S,Pro21Ser,rs1327459880,Benign,large_scale_study
+P48029,SLC6A8,24,A,P,A24P,Ala24Pro,rs1557043775,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,24,A,T,A24T,Ala24Thr,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,24,A,V,A24V,Ala24Val,rs2091436513,Benign,large_scale_study
+P48029,SLC6A8,25,P,L,P25L,Pro25Leu,rs1557043779,Benign,large_scale_study
+P48029,SLC6A8,25,P,R,P25R,Pro25Arg,N/A,Benign,large_scale_study
+P48029,SLC6A8,26,G,R,G26R,Gly26Arg,rs1233444890,Benign,mixed
+P48029,SLC6A8,30,A,P,A30P,Ala30Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,30,A,T,A30T,Ala30Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,30,A,V,A30V,Ala30Val,rs782598816,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,31,P,L,P31L,Pro31Leu,rs868950793,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,31,P,Q,P31Q,Pro31Gln,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,31,P,R,P31R,Pro31Arg,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,31,P,T,P31T,Pro31Thr,rs1385095471,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,32,A,T,A32T,Ala32Thr,rs2522144872,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,33,K,Q,K33Q,Lys33Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,36,G,S,G36S,Gly36Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,36,G,V,G36V,Gly36Val,rs1557043804,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,37,P,S,P37S,Pro37Ser,rs2522145001,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,38,V,A,V38A,Val38Ala,rs2148358486,Likely benign,large_scale_study
+P48029,SLC6A8,38,V,E,V38E,Val38Glu,rs2148358486,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,38,V,M,V38M,Val38Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,39,G,A,G39A,Gly39Ala,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,39,G,D,G39D,Gly39Asp,rs781997638,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,39,G,S,G39S,Gly39Ser,rs2522145050,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,40,L,M,L40M,Leu40Met,rs2522145082,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,41,G,R,G41R,Gly41Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,42,T,A,T42A,Thr42Ala,rs1368093500,Likely benign,large_scale_study
+P48029,SLC6A8,42,T,I,T42I,Thr42Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,43,P,A,P43A,Pro43Ala,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,43,P,S,P43S,Pro43Ser,rs1185738875,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,44,G,C,G44C,Gly44Cys,rs2091437228,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,44,G,D,G44D,Gly44Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,44,G,S,G44S,Gly44Ser,rs2091437228,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,46,R,C,R46C,Arg46Cys,rs1557043834,Likely benign,large_scale_study
+P48029,SLC6A8,46,R,H,R46H,Arg46His,N/A,N/A,large_scale_study
+P48029,SLC6A8,46,R,L,R46L,Arg46Leu,rs781975330,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,49,V,A,V49A,Val49Ala,rs1557043838,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,49,V,L,V49L,Val49Leu,rs1463935788,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,49,V,M,V49M,Val49Met,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,50,P,L,P50L,Pro50Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,50,P,Q,P50Q,Pro50Gln,rs2522145332,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,50,P,S,P50S,Pro50Ser,rs2148358552,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,51,P,L,P51L,Pro51Leu,rs2091437446,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,52,R,H,R52H,Arg52His,N/A,N/A,large_scale_study
+P48029,SLC6A8,53,E,Q,E53Q,Glu53Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,55,W,*,W55*,Trp55*,N/A,N/A,large_scale_study
+P48029,SLC6A8,57,R,H,R57H,Arg57His,N/A,N/A,large_scale_study
+P48029,SLC6A8,57,R,L,R57L,Arg57Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,60,D,H,D60H,Asp60His,N/A,N/A,large_scale_study
+P48029,SLC6A8,61,F,C,F61C,Phe61Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,62,I,M,I62M,Ile62Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,62,I,V,I62V,Ile62Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,63,M,L,M63L,Met63Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,63,M,V,M63V,Met63Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,64,S,P,S64P,Ser64Pro,rs1557043854,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,66,V,M,V66M,Val66Met,rs2522145658,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,67,G,R,G67R,Gly67Arg,rs1557043855,Likely pathogenic,large_scale_study
+P48029,SLC6A8,67,G,S,G67S,Gly67Ser,N/A,Likely pathogenic,large_scale_study
+P48029,SLC6A8,70,V,L,V70L,Val70Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,70,V,M,V70M,Val70Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,76,W,C,W76C,Trp76Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,77,R,H,R77H,Arg77His,rs2522145854,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,77,R,S,R77S,Arg77Ser,rs2522145845,Likely pathogenic,large_scale_study
+P48029,SLC6A8,80,Y,D,Y80D,Tyr80Asp,rs2522145913,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,80,Y,H,Y80H,Tyr80His,N/A,Pathogenic,uniprot
+P48029,SLC6A8,81,L,R,L81R,Leu81Arg,rs2522145926,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,83,Y,*,Y83*,Tyr83*,rs2148358634,Pathogenic,large_scale_study
+P48029,SLC6A8,83,Y,H,Y83H,Tyr83His,rs2522145971,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,86,G,D,G86D,Gly86Asp,rs2522145985,Likely pathogenic,large_scale_study
+P48029,SLC6A8,87,G,R,G87R,Gly87Arg,rs122453115,Likely pathogenic,mixed
+P48029,SLC6A8,88,G,D,G88D,Gly88Asp,rs2522152137,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,93,P,L,P93L,Pro93Leu,rs1557044167,N/A,large_scale_study
+P48029,SLC6A8,95,V,I,V95I,Val95Ile,rs782040427,Likely benign,large_scale_study
+P48029,SLC6A8,97,I,V,I97V,Ile97Val,rs2091448720,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,98,A,T,A98T,Ala98Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,99,L,V,L99V,Leu99Val,rs2091448804,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,100,V,A,V100A,Val100Ala,rs2522152289,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,101,G,R,G101R,Gly101Arg,rs2522152299,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,102,G,E,G102E,Gly102Glu,rs2148360123,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,103,I,V,I103V,Ile103Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,108,L,I,L108I,Leu108Ile,rs2148360140,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,108,L,S,L108S,Leu108Ser,rs2522152338,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,109,E,D,E109D,Glu109Asp,rs2522152365,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,109,E,Q,E109Q,Glu109Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,111,S,L,S111L,Ser111Leu,rs782704042,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,113,G,D,G113D,Gly113Asp,rs2522152410,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,114,Q,H,Q114H,Gln114His,rs2091449037,Likely pathogenic,large_scale_study
+P48029,SLC6A8,114,Q,K,Q114K,Gln114Lys,rs1569539246,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,115,F,L,F115L,Phe115Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,119,G,S,G119S,Gly119Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,124,W,R,W124R,Trp124Arg,rs2522152479,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,125,N,K,N125K,Asn125Lys,N/A,N/A,large_scale_study
+P48029,SLC6A8,128,P,R,P128R,Pro128Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,131,K,N,K131N,Lys131Asn,N/A,N/A,large_scale_study
+P48029,SLC6A8,132,G,V,G132V,Gly132Val,rs122453117,Pathogenic,mixed
+P48029,SLC6A8,133,L,V,L133V,Leu133Val,rs2091454860,Likely benign,large_scale_study
+P48029,SLC6A8,136,A,G,A136G,Ala136Gly,rs2522155728,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,136,A,T,A136T,Ala136Thr,rs1557044406,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,136,A,V,A136V,Ala136Val,rs2522155728,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,137,S,A,S137A,Ser137Ala,rs782360920,Likely benign,large_scale_study
+P48029,SLC6A8,138,M,K,M138K,Met138Lys,rs2522155760,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,138,M,V,M138V,Met138Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,140,I,L,I140L,Ile140Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,140,I,M,I140M,Ile140Met,rs2091455049,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,141,V,I,V141I,Val141Ile,rs1557044413,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,142,F,L,F142L,Phe142Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,142,F,Y,F142Y,Phe142Tyr,N/A,N/A,large_scale_study
+P48029,SLC6A8,143,Y,*,Y143*,Tyr143*,rs2148360995,Likely pathogenic,large_scale_study
+P48029,SLC6A8,146,T,I,T146I,Thr146Ile,rs2522155827,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,152,L,A,L152A,Leu152Ala,rs2148361006,Pathogenic,large_scale_study
+P48029,SLC6A8,153,A,T,A153T,Ala153Thr,rs2522155890,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,155,G,D,G155D,Gly155Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,155,G,S,G155S,Gly155Ser,rs782174461,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,155,G,V,G155V,Gly155Val,rs2522155913,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,158,Y,D,Y158D,Tyr158Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,163,F,L,F163L,Phe163Leu,rs2522155960,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,164,T,I,T164I,Thr164Ile,rs2522155968,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,164,T,S,T164S,Thr164Ser,rs642454,N/A,uniprot
+P48029,SLC6A8,165,T,P,T165P,Thr165Pro,rs2522155987,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,166,T,A,T166A,Thr166Ala,rs1603215030,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,166,T,M,T166M,Thr166Met,rs1479462836,Benign,large_scale_study
+P48029,SLC6A8,169,W,*,W169*,Trp169*,rs2522156087,Pathogenic,large_scale_study
+P48029,SLC6A8,173,G,D,G173D,Gly173Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,173,G,S,G173S,Gly173Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,175,T,I,T175I,Thr175Ile,rs1557044434,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,176,W,S,W176S,Trp176Ser,rs2148361058,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,178,T,S,T178S,Thr178Ser,rs199937648,Benign,large_scale_study
+P48029,SLC6A8,180,D,N,D180N,Asp180Asn,rs2522156199,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,181,C,R,C181R,Cys181Arg,N/A,Pathogenic,uniprot
+P48029,SLC6A8,182,V,M,V182M,Val182Met,rs149024147,Benign,mixed
+P48029,SLC6A8,183,E,G,E183G,Glu183Gly,rs2522156215,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,184,I,N,I184N,Ile184Asn,rs2522156231,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,186,R,H,R186H,Arg186His,rs372601430,Benign,mixed
+P48029,SLC6A8,187,H,R,H187R,His187Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,191,A,G,A191G,Ala191Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,191,A,V,A191V,Ala191Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,193,A,G,A193G,Ala193Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,194,S,N,S194N,Ser194Asn,rs2522156380,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,198,L,I,L198I,Leu198Ile,rs1557044451,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,198,L,R,L198R,Leu198Arg,rs2522156415,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,201,D,E,D201E,Asp201Glu,N/A,N/A,large_scale_study
+P48029,SLC6A8,201,D,G,D201G,Asp201Gly,rs2522156437,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,204,A,D,A204D,Ala204Asp,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,204,A,D,A204D,Ala204Asp,rs1569539288,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,204,A,V,A204V,Ala204Val,rs781871613,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,206,R,H,R206H,Arg206His,rs782620409,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,207,R,Q,R207Q,Arg207Gln,rs1175883803,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,207,R,W,R207W,Arg207Trp,rs1557044461,Pathogenic,large_scale_study
+P48029,SLC6A8,208,S,C,S208C,Ser208Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,209,P,R,P209R,Pro209Arg,rs2522156561,Likely pathogenic,large_scale_study
+P48029,SLC6A8,211,I,F,I211F,Ile211Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,211,I,M,I211M,Ile211Met,N/A,Benign,large_scale_study
+P48029,SLC6A8,211,I,S,I211S,Ile211Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,211,I,W,I211W,Ile211Trp,rs2522156598,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,212,E,*,E212*,Glu212*,rs2522156636,Pathogenic,large_scale_study
+P48029,SLC6A8,212,E,K,E212K,Glu212Lys,rs2522156636,Likely pathogenic,large_scale_study
+P48029,SLC6A8,215,E,*,E215*,Glu215*,N/A,N/A,large_scale_study
+P48029,SLC6A8,215,E,G,E215G,Glu215Gly,rs2091456256,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,223,G,R,G223R,Gly223Arg,rs2522158135,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,223,G,V,G223V,Gly223Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,225,L,M,L225M,Leu225Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,225,L,P,L225P,Leu225Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,226,E,*,E226*,Glu226*,rs2522158159,Pathogenic,large_scale_study
+P48029,SLC6A8,227,V,M,V227M,Val227Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,228,P,Q,P228Q,Pro228Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,228,P,S,P228S,Pro228Ser,rs781848986,Likely benign,large_scale_study
+P48029,SLC6A8,232,N,T,N232T,Asn232Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,233,W,*,W233*,Trp233*,rs2091458828,Pathogenic,large_scale_study
+P48029,SLC6A8,236,T,A,T236A,Thr236Ala,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,236,T,S,T236S,Thr236Ser,rs1328810626,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,237,L,F,L237F,Leu237Phe,rs782587269,Likely benign,large_scale_study
+P48029,SLC6A8,237,L,V,L237V,Leu237Val,N/A,Likely benign,large_scale_study
+P48029,SLC6A8,239,L,P,L239P,Leu239Pro,rs2148361704,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,241,A,G,A241G,Ala241Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,241,A,V,A241V,Ala241Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,243,W,*,W243*,Trp243*,rs2522158368,Pathogenic,large_scale_study
+P48029,SLC6A8,248,F,L,F248L,Phe248Leu,rs2091459025,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,248,F,Y,F248Y,Phe248Tyr,N/A,N/A,large_scale_study
+P48029,SLC6A8,254,V,I,V254I,Val254Ile,rs782287359,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,254,V,S,V254S,Val254Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,258,G,*,G258*,Gly258*,N/A,N/A,large_scale_study
+P48029,SLC6A8,258,G,E,G258E,Gly258Glu,N/A,N/A,large_scale_study
+P48029,SLC6A8,261,V,M,V261M,Val261Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,262,Y,*,Y262*,Tyr262*,rs1557044940,Pathogenic,large_scale_study
+P48029,SLC6A8,263,F,L,F263L,Phe263Leu,rs2522161817,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,268,P,H,P268H,Pro268His,rs2091465921,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,270,V,M,V270M,Val270Met,rs146985734,Variant of uncertain significance,mixed
+P48029,SLC6A8,272,L,M,L272M,Leu272Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,274,V,M,V274M,Val274Met,rs782208622,Likely benign,large_scale_study
+P48029,SLC6A8,278,R,C,R278C,Arg278Cys,rs1557044958,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,278,R,H,R278H,Arg278His,rs782802482,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,280,V,L,V280L,Val280Leu,rs1557044962,Likely benign,large_scale_study
+P48029,SLC6A8,281,L,M,L281M,Leu281Met,rs2091466286,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,286,L,V,L286V,Leu286Val,rs782005985,Benign,large_scale_study
+P48029,SLC6A8,287,D,H,D287H,Asp287His,rs2522162079,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,288,G,V,G288V,Gly288Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,290,I,V,I290V,Ile290Val,rs2522162092,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,292,Y,C,Y292C,Tyr292Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,292,Y,H,Y292H,Tyr292His,rs2148362804,Likely pathogenic,large_scale_study
+P48029,SLC6A8,293,L,F,L293F,Leu293Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,293,L,V,L293V,Leu293Val,rs2522162106,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,294,K,Q,K294Q,Lys294Gln,rs376937460,Variant of uncertain significance,mixed
+P48029,SLC6A8,295,P,T,P295T,Pro295Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,296,D,H,D296H,Asp296His,N/A,N/A,large_scale_study
+P48029,SLC6A8,299,K,T,K299T,Lys299Thr,rs782767368,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,301,G,R,G301R,Gly301Arg,rs2091466491,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,302,S,C,S302C,Ser302Cys,rs1183910478,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,302,S,F,S302F,Ser302Phe,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,302,S,Y,S302Y,Ser302Tyr,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,304,Q,*,Q304*,Gln304*,N/A,N/A,large_scale_study
+P48029,SLC6A8,304,Q,H,Q304H,Gln304His,rs1064794836,Likely pathogenic,large_scale_study
+P48029,SLC6A8,305,V,M,V305M,Val305Met,rs1603216798,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,306,W,*,W306*,Trp306*,rs2522162557,Pathogenic,large_scale_study
+P48029,SLC6A8,306,W,R,W306R,Trp306Arg,rs2091467425,Likely pathogenic,large_scale_study
+P48029,SLC6A8,308,D,E,D308E,Asp308Glu,rs2522162570,Likely pathogenic,large_scale_study
+P48029,SLC6A8,309,A,V,A309V,Ala309Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,310,G,R,G310R,Gly310Arg,rs1603216804,N/A,large_scale_study
+P48029,SLC6A8,314,F,L,F314L,Phe314Leu,rs144678921,Variant of uncertain significance,mixed
+P48029,SLC6A8,316,S,F,S316F,Ser316Phe,rs2148362940,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,317,Y,*,Y317*,Tyr317*,rs1569539359,Pathogenic,large_scale_study
+P48029,SLC6A8,318,A,T,A318T,Ala318Thr,rs373953317,Variant of uncertain significance,mixed
+P48029,SLC6A8,322,G,R,G322R,Gly322Arg,rs1603216830,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,322,G,W,G322W,Gly322Trp,rs1603216830,Likely pathogenic,large_scale_study
+P48029,SLC6A8,323,A,T,A323T,Ala323Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,324,L,F,L324F,Leu324Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,325,T,R,T325R,Thr325Arg,rs797045972,Pathogenic,large_scale_study
+P48029,SLC6A8,326,A,T,A326T,Ala326Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,327,L,P,L327P,Leu327Pro,rs1557045056,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,329,S,C,S329C,Ser329Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,329,S,R,S329R,Ser329Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,331,N,K,N331K,Asn331Lys,rs2522162815,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,332,R,C,R332C,Arg332Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,332,R,H,R332H,Arg332His,N/A,N/A,large_scale_study
+P48029,SLC6A8,334,N,K,N334K,Asn334Lys,N/A,N/A,large_scale_study
+P48029,SLC6A8,337,C,R,C337R,Cys337Arg,rs2091468099,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,337,C,W,C337W,Cys337Trp,rs122453116,Pathogenic,mixed
+P48029,SLC6A8,338,Y,*,Y338*,Tyr338*,N/A,N/A,large_scale_study
+P48029,SLC6A8,340,D,N,D340N,Asp340Asn,N/A,N/A,large_scale_study
+P48029,SLC6A8,341,A,T,A341T,Ala341Thr,rs782741852,Likely benign,large_scale_study
+P48029,SLC6A8,342,I,T,I342T,Ile342Thr,rs781962672,Likely benign,large_scale_study
+P48029,SLC6A8,343,I,V,I343V,Ile343Val,rs2148363171,Benign,large_scale_study
+P48029,SLC6A8,345,A,V,A345V,Ala345Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,346,L,P,L346P,Leu346Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,346,L,V,L346V,Leu346Val,rs1406686625,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,349,S,G,S349G,Ser349Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,350,G,R,G350R,Gly350Arg,rs2148363200,Likely pathogenic,large_scale_study
+P48029,SLC6A8,352,S,N,S352N,Ser352Asn,rs2148363211,Pathogenic,large_scale_study
+P48029,SLC6A8,353,F,L,F353L,Phe353Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,357,F,L,F357L,Phe357Leu,rs782782179,Benign,large_scale_study
+P48029,SLC6A8,358,V,L,V358L,Val358Leu,rs781834528,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,360,F,L,F360L,Phe360Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,368,A,T,A368T,Ala368Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,368,A,V,A368V,Ala368Val,rs2522163686,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,370,Q,*,Q370*,Gln370*,rs2148363243,Pathogenic,large_scale_study
+P48029,SLC6A8,372,V,M,V372M,Val372Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,373,H,P,H373P,His373Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,374,I,F,I374F,Ile374Phe,rs2522163716,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,375,S,C,S375C,Ser375Cys,rs2148363255,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,376,K,R,K376R,Lys376Arg,rs1557045159,Likely benign,large_scale_study
+P48029,SLC6A8,376,K,T,K376T,Lys376Thr,rs1557045159,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,381,G,R,G381R,Gly381Arg,rs122453114,Pathogenic,mixed
+P48029,SLC6A8,382,P,L,P382L,Pro382Leu,rs1557045250,Pathogenic,large_scale_study
+P48029,SLC6A8,383,G,C,G383C,Gly383Cys,N/A,Pathogenic,uniprot
+P48029,SLC6A8,385,A,P,A385P,Ala385Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,387,I,M,I387M,Ile387Met,rs782582952,Likely benign,large_scale_study
+P48029,SLC6A8,388,A,T,A388T,Ala388Thr,rs374163604,Benign,large_scale_study
+P48029,SLC6A8,390,P,L,P390L,Pro390Leu,rs2148363661,Pathogenic,mixed
+P48029,SLC6A8,391,R,Q,R391Q,Arg391Gln,rs782676733,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,391,R,W,R391W,Arg391Trp,rs1557045267,Pathogenic,mixed
+P48029,SLC6A8,394,T,M,T394M,Thr394Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,395,L,P,L395P,Leu395Pro,rs1557045281,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,396,M,I,M396I,Met396Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,397,P,L,P397L,Pro397Leu,rs2522165328,Likely pathogenic,large_scale_study
+P48029,SLC6A8,398,V,A,V398A,Val398Ala,N/A,N/A,large_scale_study
+P48029,SLC6A8,398,V,M,V398M,Val398Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,399,A,V,A399V,Ala399Val,rs1557045287,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,400,P,L,P400L,Pro400Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,400,P,S,P400S,Pro400Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,401,L,I,L401I,Leu401Ile,rs782378041,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,401,L,V,L401V,Leu401Val,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,402,W,*,W402*,Trp402*,rs2522165394,Pathogenic,large_scale_study
+P48029,SLC6A8,403,A,S,A403S,Ala403Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,403,A,V,A403V,Ala403Val,rs1557045296,Likely pathogenic,large_scale_study
+P48029,SLC6A8,404,A,P,A404P,Ala404Pro,rs2522165418,Likely pathogenic,large_scale_study
+P48029,SLC6A8,404,A,V,A404V,Ala404Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,405,L,P,L405P,Leu405Pro,rs2091472678,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,406,F,L,F406L,Phe406Leu,rs1557045310,Likely benign,large_scale_study
+P48029,SLC6A8,410,L,M,L410M,Leu410Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,411,L,S,L411S,Leu411Ser,rs2091472802,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,412,L,M,L412M,Leu412Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,412,L,P,L412P,Leu412Pro,rs2148363751,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,415,L,V,L415V,Leu415Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,416,D,G,D416G,Asp416Gly,rs2148363766,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,416,D,N,D416N,Asp416Asn,rs2522165536,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,417,S,N,S417N,Ser417Asn,rs1057520594,Likely pathogenic,large_scale_study
+P48029,SLC6A8,417,S,R,S417R,Ser417Arg,rs2091472899,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,417,S,R,S417R,Ser417Arg,rs1557045331,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,418,Q,K,Q418K,Gln418Lys,rs2148363775,Likely pathogenic,large_scale_study
+P48029,SLC6A8,418,Q,P,Q418P,Gln418Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,420,V,I,V420I,Val420Ile,rs1569539415,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,421,G,D,G421D,Gly421Asp,rs1085308011,Pathogenic,large_scale_study
+P48029,SLC6A8,421,G,R,G421R,Gly421Arg,rs2522166164,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,422,V,M,V422M,Val422Met,rs2522166187,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,424,G,D,G424D,Gly424Asp,rs11548960,Likely pathogenic,large_scale_study
+P48029,SLC6A8,425,F,S,F425S,Phe425Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,426,I,L,I426L,Ile426Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,428,G,S,G428S,Gly428Ser,rs2060322395,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,429,L,F,L429F,Leu429Phe,rs782551106,Likely benign,large_scale_study
+P48029,SLC6A8,429,L,V,L429V,Leu429Val,rs782551106,Likely benign,large_scale_study
+P48029,SLC6A8,430,L,F,L430F,Leu430Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,432,L,V,L432V,Leu432Val,rs2522166355,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,433,L,F,L433F,Leu433Phe,rs1569539421,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,433,L,R,L433R,Leu433Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,434,P,L,P434L,Pro434Leu,rs2091474324,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,434,P,S,P434S,Pro434Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,435,A,V,A435V,Ala435Val,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,436,S,Y,S436Y,Ser436Tyr,N/A,N/A,large_scale_study
+P48029,SLC6A8,437,Y,C,Y437C,Tyr437Cys,rs1557045400,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,437,Y,H,Y437H,Tyr437His,N/A,N/A,large_scale_study
+P48029,SLC6A8,437,Y,S,Y437S,Tyr437Ser,rs1557045400,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,438,Y,F,Y438F,Tyr438Phe,rs1403716189,Likely benign,large_scale_study
+P48029,SLC6A8,439,F,S,F439S,Phe439Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,439,F,V,F439V,Phe439Val,rs782206415,Likely benign,large_scale_study
+P48029,SLC6A8,440,R,C,R440C,Arg440Cys,rs782326194,Likely benign,large_scale_study
+P48029,SLC6A8,440,R,H,R440H,Arg440His,rs781925657,Benign,large_scale_study
+P48029,SLC6A8,441,F,L,F441L,Phe441Leu,rs1057523404,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,444,E,*,E444*,Glu444*,rs2091474617,Pathogenic,large_scale_study
+P48029,SLC6A8,444,E,D,E444D,Glu444Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,444,E,K,E444K,Glu444Lys,rs2091474617,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,444,E,Q,E444Q,Glu444Gln,N/A,Pathogenic,large_scale_study
+P48029,SLC6A8,445,I,F,I445F,Ile445Phe,rs2091474639,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,446,S,Y,S446Y,Ser446Tyr,N/A,N/A,large_scale_study
+P48029,SLC6A8,448,A,D,A448D,Ala448Asp,N/A,Pathogenic,uniprot
+P48029,SLC6A8,449,L,F,L449F,Leu449Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,452,A,V,A452V,Ala452Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,453,L,F,L453F,Leu453Phe,N/A,N/A,large_scale_study
+P48029,SLC6A8,456,V,I,V456I,Val456Ile,rs2522166695,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,457,I,M,I457M,Ile457Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,458,D,N,D458N,Asp458Asn,rs1557045422,N/A,large_scale_study
+P48029,SLC6A8,460,S,C,S460C,Ser460Cys,rs2522166740,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,461,M,V,M461V,Met461Val,rs2522166757,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,462,V,A,V462A,Val462Ala,N/A,N/A,large_scale_study
+P48029,SLC6A8,463,T,I,T463I,Thr463Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,464,D,H,D464H,Asp464His,N/A,N/A,large_scale_study
+P48029,SLC6A8,464,D,Y,D464Y,Asp464Tyr,rs1557045424,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,465,G,D,G465D,Gly465Asp,rs2522167236,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,466,G,R,G466R,Gly466Arg,rs1603217473,Likely pathogenic,large_scale_study
+P48029,SLC6A8,466,G,V,G466V,Gly466Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,467,M,I,M467I,Met467Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,469,V,I,V469I,Val469Ile,rs1557045470,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,471,Q,*,Q471*,Gln471*,rs1557045475,Pathogenic,large_scale_study
+P48029,SLC6A8,473,F,S,F473S,Phe473Ser,rs2148364186,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,474,D,G,D474G,Asp474Gly,rs2522167369,Likely pathogenic,large_scale_study
+P48029,SLC6A8,475,Y,S,Y475S,Tyr475Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,476,Y,*,Y476*,Tyr476*,rs1239466041,Pathogenic,large_scale_study
+P48029,SLC6A8,477,S,L,S477L,Ser477Leu,rs2148364216,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,477,S,R,S477R,Ser477Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,480,G,D,G480D,Gly480Asp,rs2522167491,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,480,G,S,G480S,Gly480Ser,rs2148364228,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,481,T,S,T481S,Thr481Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,482,T,S,T482S,Thr482Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,485,W,*,W485*,Trp485*,rs1569539443,Pathogenic,large_scale_study
+P48029,SLC6A8,486,Q,*,Q486*,Gln486*,rs2522167571,Pathogenic,large_scale_study
+P48029,SLC6A8,488,F,I,F488I,Phe488Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,489,W,C,W489C,Trp489Cys,rs782521147,Likely benign,large_scale_study
+P48029,SLC6A8,491,C,W,C491W,Cys491Trp,rs122453118,Pathogenic,mixed
+P48029,SLC6A8,492,V,M,V492M,Val492Met,rs782478865,Benign,large_scale_study
+P48029,SLC6A8,493,V,A,V493A,Val493Ala,rs2522167647,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,494,V,A,V494A,Val494Ala,rs1557045497,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,494,V,M,V494M,Val494Met,N/A,N/A,large_scale_study
+P48029,SLC6A8,495,A,T,A495T,Ala495Thr,rs1557045503,Likely benign,large_scale_study
+P48029,SLC6A8,496,W,*,W496*,Trp496*,rs2522167692,Pathogenic,large_scale_study
+P48029,SLC6A8,498,Y,*,Y498*,Tyr498*,rs143916832,Pathogenic,large_scale_study
+P48029,SLC6A8,499,G,R,G499R,Gly499Arg,rs2522167745,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,500,A,T,A500T,Ala500Thr,rs2148364400,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,501,D,G,D501G,Asp501Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,501,D,H,D501H,Asp501His,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,501,D,N,D501N,Asp501Asn,rs2091476989,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,502,R,C,R502C,Arg502Cys,rs782488606,Likely benign,large_scale_study
+P48029,SLC6A8,502,R,H,R502H,Arg502His,rs1453689278,Likely benign,large_scale_study
+P48029,SLC6A8,504,M,I,M504I,Met504Ile,rs782325571,Likely benign,large_scale_study
+P48029,SLC6A8,504,M,L,M504L,Met504Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,504,M,T,M504T,Met504Thr,rs1557045552,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,505,D,E,D505E,Asp505Glu,rs151335200,Likely benign,large_scale_study
+P48029,SLC6A8,506,D,G,D506G,Asp506Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,506,D,N,D506N,Asp506Asn,rs201526436,Benign,large_scale_study
+P48029,SLC6A8,507,I,T,I507T,Ile507Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,509,C,R,C509R,Cys509Arg,rs782000377,Benign,large_scale_study
+P48029,SLC6A8,509,C,S,C509S,Cys509Ser,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,509,C,W,C509W,Cys509Trp,rs2148364458,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,509,C,Y,C509Y,Cys509Tyr,rs2148364452,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,510,M,I,M510I,Met510Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,510,M,K,M510K,Met510Lys,rs2522168567,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,512,G,E,G512E,Gly512Glu,N/A,N/A,large_scale_study
+P48029,SLC6A8,512,G,R,G512R,Gly512Arg,rs2522168581,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,513,Y,*,Y513*,Tyr513*,rs2522168615,Pathogenic,large_scale_study
+P48029,SLC6A8,514,R,*,R514*,Arg514*,rs122453113,Pathogenic,large_scale_study
+P48029,SLC6A8,514,R,P,R514P,Arg514Pro,rs782361856,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,514,R,Q,R514Q,Arg514Gln,rs782361856,Benign,large_scale_study
+P48029,SLC6A8,515,P,S,P515S,Pro515Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,515,P,T,P515T,Pro515Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,516,C,*,C516*,Cys516*,rs782074069,Pathogenic,large_scale_study
+P48029,SLC6A8,517,P,L,P517L,Pro517Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,518,W,*,W518*,Trp518*,rs2522168744,Pathogenic,large_scale_study
+P48029,SLC6A8,518,W,L,W518L,Trp518Leu,rs1569539454,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,519,M,I,M519I,Met519Ile,rs2522168764,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,520,K,R,K520R,Lys520Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,521,W,C,W521C,Trp521Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,524,S,T,S524T,Ser524Thr,rs782703394,Likely benign,large_scale_study
+P48029,SLC6A8,525,F,L,F525L,Phe525Leu,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,525,F,S,F525S,Phe525Ser,rs2522168817,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,526,F,L,F526L,Phe526Leu,rs1557045574,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,527,T,P,T527P,Thr527Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,527,T,S,T527S,Thr527Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,528,P,L,P528L,Pro528Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,530,V,I,V530I,Val530Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,532,M,R,M532R,Met532Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,532,M,T,M532T,Met532Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,534,I,M,I534M,Ile534Met,rs782582776,Likely benign,large_scale_study
+P48029,SLC6A8,534,I,T,I534T,Ile534Thr,rs797045971,Likely benign,large_scale_study
+P48029,SLC6A8,537,F,I,F537I,Phe537Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,537,F,S,F537S,Phe537Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,539,V,I,V539I,Val539Ile,rs782354054,Pathogenic,mixed
+P48029,SLC6A8,539,V,L,V539L,Val539Leu,N/A,Benign,large_scale_study
+P48029,SLC6A8,542,Y,*,Y542*,Tyr542*,rs140601882,Pathogenic,large_scale_study
+P48029,SLC6A8,542,Y,H,Y542H,Tyr542His,rs2148364687,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,543,E,K,E543K,Glu543Lys,rs782028471,Benign,large_scale_study
+P48029,SLC6A8,543,E,Q,E543Q,Glu543Gln,rs782028471,Benign,large_scale_study
+P48029,SLC6A8,544,P,L,P544L,Pro544Leu,rs397515558,Pathogenic,large_scale_study
+P48029,SLC6A8,546,V,I,V546I,Val546Ile,rs1557045675,Benign,large_scale_study
+P48029,SLC6A8,547,Y,H,Y547H,Tyr547His,rs2522169716,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,548,N,K,N548K,Asn548Lys,N/A,Likely benign,large_scale_study
+P48029,SLC6A8,549,N,T,N549T,Asn549Thr,rs782790088,Likely benign,large_scale_study
+P48029,SLC6A8,550,T,I,T550I,Thr550Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,550,T,N,T550N,Thr550Asn,N/A,Benign,large_scale_study
+P48029,SLC6A8,550,T,S,T550S,Thr550Ser,rs199635059,Benign,mixed
+P48029,SLC6A8,552,V,L,V552L,Val552Leu,rs372567920,Variant of uncertain significance,mixed
+P48029,SLC6A8,552,V,M,V552M,Val552Met,rs372567920,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,553,Y,*,Y553*,Tyr553*,rs1569539466,Pathogenic,large_scale_study
+P48029,SLC6A8,554,P,L,P554L,Pro554Leu,rs397515559,Pathogenic,mixed
+P48029,SLC6A8,556,W,*,W556*,Trp556*,rs2522169864,Pathogenic,large_scale_study
+P48029,SLC6A8,556,W,*,W556*,Trp556*,rs1557045704,Pathogenic,large_scale_study
+P48029,SLC6A8,557,G,S,G557S,Gly557Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,558,E,D,E558D,Glu558Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,559,A,V,A559V,Ala559Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,560,M,I,M560I,Met560Ile,rs781816805,Benign,large_scale_study
+P48029,SLC6A8,560,M,V,M560V,Met560Val,rs145438966,Benign,mixed
+P48029,SLC6A8,561,G,R,G561R,Gly561Arg,rs2522169971,Likely pathogenic,large_scale_study
+P48029,SLC6A8,562,W,*,W562*,Trp562*,rs2522169987,Likely pathogenic,large_scale_study
+P48029,SLC6A8,562,W,C,W562C,Trp562Cys,N/A,N/A,large_scale_study
+P48029,SLC6A8,562,W,R,W562R,Trp562Arg,N/A,N/A,large_scale_study
+P48029,SLC6A8,564,F,L,F564L,Phe564Leu,rs201044530,Benign,mixed
+P48029,SLC6A8,565,A,T,A565T,Ala565Thr,rs1557045723,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,565,A,V,A565V,Ala565Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,566,L,V,L566V,Leu566Val,rs1557045724,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,567,S,P,S567P,Ser567Pro,rs782398727,Likely pathogenic,large_scale_study
+P48029,SLC6A8,567,S,T,S567T,Ser567Thr,N/A,N/A,large_scale_study
+P48029,SLC6A8,567,S,Y,S567Y,Ser567Tyr,N/A,N/A,large_scale_study
+P48029,SLC6A8,568,S,Y,S568Y,Ser568Tyr,rs1603217815,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,569,M,V,M569V,Met569Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,570,L,V,L570V,Leu570Val,N/A,Likely benign,large_scale_study
+P48029,SLC6A8,571,C,W,C571W,Cys571Trp,rs782244505,Benign,large_scale_study
+P48029,SLC6A8,572,V,M,V572M,Val572Met,rs2872524,Likely benign,large_scale_study
+P48029,SLC6A8,573,P,L,P573L,Pro573Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,574,L,P,L574P,Leu574Pro,rs2522170214,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,576,L,P,L576P,Leu576Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,578,G,S,G578S,Gly578Ser,rs2522170274,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,580,L,I,L580I,Leu580Ile,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,580,L,V,L580V,Leu580Val,rs782317227,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,582,R,G,R582G,Arg582Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,582,R,K,R582K,Arg582Lys,N/A,N/A,large_scale_study
+P48029,SLC6A8,584,K,N,K584N,Lys584Asn,N/A,N/A,large_scale_study
+P48029,SLC6A8,586,T,S,T586S,Thr586Ser,N/A,N/A,large_scale_study
+P48029,SLC6A8,587,M,I,M587I,Met587Ile,rs2148364886,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,587,M,T,M587T,Met587Thr,rs2522170374,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,588,A,T,A588T,Ala588Thr,rs2522170386,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,588,A,V,A588V,Ala588Val,rs2522170397,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,590,R,C,R590C,Arg590Cys,rs2314078,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,590,R,H,R590H,Arg590His,rs868934708,Likely pathogenic,large_scale_study
+P48029,SLC6A8,590,R,L,R590L,Arg590Leu,N/A,N/A,large_scale_study
+P48029,SLC6A8,592,Q,K,Q592K,Gln592Lys,N/A,N/A,large_scale_study
+P48029,SLC6A8,593,H,P,H593P,His593Pro,N/A,Benign,large_scale_study
+P48029,SLC6A8,593,H,Q,H593Q,His593Gln,N/A,N/A,large_scale_study
+P48029,SLC6A8,593,H,R,H593R,His593Arg,rs782560726,Benign,large_scale_study
+P48029,SLC6A8,596,Q,*,Q596*,Gln596*,N/A,N/A,large_scale_study
+P48029,SLC6A8,597,P,L,P597L,Pro597Leu,rs1060502811,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,598,I,M,I598M,Ile598Met,rs782587560,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,600,G,D,G600D,Gly600Asp,rs2148365237,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,600,G,S,G600S,Gly600Ser,rs1557045828,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,601,L,I,L601I,Leu601Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,603,H,Q,H603Q,His603Gln,rs1557045832,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,604,L,M,L604M,Leu604Met,rs1301772452,Benign,large_scale_study
+P48029,SLC6A8,605,E,D,E605D,Glu605Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,605,E,K,E605K,Glu605Lys,rs1557045839,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,605,E,V,E605V,Glu605Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,607,R,*,R607*,Arg607*,rs1377233837,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,607,R,G,R607G,Arg607Gly,rs1377233837,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,607,R,Q,R607Q,Arg607Gln,rs1557045843,Likely benign,large_scale_study
+P48029,SLC6A8,609,Q,*,Q609*,Gln609*,N/A,N/A,large_scale_study
+P48029,SLC6A8,610,D,H,D610H,Asp610His,rs2148365271,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,610,D,V,D610V,Asp610Val,N/A,N/A,large_scale_study
+P48029,SLC6A8,611,A,T,A611T,Ala611Thr,rs146949376,Benign,mixed
+P48029,SLC6A8,612,D,N,D612N,Asp612Asn,N/A,N/A,large_scale_study
+P48029,SLC6A8,613,V,I,V613I,Val613Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,615,G,D,G615D,Gly615Asp,N/A,N/A,large_scale_study
+P48029,SLC6A8,616,L,M,L616M,Leu616Met,rs2522171964,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,617,T,N,T617N,Thr617Asn,N/A,N/A,large_scale_study
+P48029,SLC6A8,618,T,I,T618I,Thr618Ile,rs1557045853,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,618,T,N,T618N,Thr618Asn,rs1557045853,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,619,L,P,L619P,Leu619Pro,N/A,N/A,large_scale_study
+P48029,SLC6A8,620,T,I,T620I,Thr620Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,621,P,S,P621S,Pro621Ser,rs782388832,Benign,large_scale_study
+P48029,SLC6A8,621,P,T,P621T,Pro621Thr,rs782388832,Benign,large_scale_study
+P48029,SLC6A8,622,V,A,V622A,Val622Ala,N/A,N/A,large_scale_study
+P48029,SLC6A8,622,V,G,V622G,Val622Gly,N/A,N/A,large_scale_study
+P48029,SLC6A8,622,V,L,V622L,Val622Leu,rs1160275875,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,622,V,M,V622M,Val622Met,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,624,E,K,E624K,Glu624Lys,rs368555229,Benign,mixed
+P48029,SLC6A8,625,S,N,S625N,Ser625Asn,rs1181103233,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,626,S,N,S626N,Ser626Asn,N/A,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,627,K,Q,K627Q,Lys627Gln,rs201637740,Benign,large_scale_study
+P48029,SLC6A8,628,V,I,V628I,Val628Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,629,V,I,V629I,Val629Ile,rs781899045,Benign,mixed
+P48029,SLC6A8,629,V,L,V629L,Val629Leu,N/A,Likely benign,large_scale_study
+P48029,SLC6A8,630,V,L,V630L,Val630Leu,rs373570632,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,630,V,M,V630M,Val630Met,rs373570632,Variant of uncertain significance,large_scale_study
+P48029,SLC6A8,633,S,I,S633I,Ser633Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,634,V,A,V634A,Val634Ala,rs1236176576,Benign,large_scale_study
+P48029,SLC6A8,634,V,D,V634D,Val634Asp,rs1236176576,Benign,large_scale_study
+P48029,SLC6A8,635,M,I,M635I,Met635Ile,N/A,N/A,large_scale_study
+P48029,SLC6A8,636,*,G,*636G,*636Gly,rs4065272,Variant of uncertain significance,large_scale_study

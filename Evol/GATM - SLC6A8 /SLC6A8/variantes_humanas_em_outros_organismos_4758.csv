@@ -1,0 +1,203 @@
+alinhamento,AAposAA,posicao,wild,mut,dbSNP_id,significancia_clinica,categoria_clinica,num_organismos,num_total_outras_seqs,freq_organismos,observada_outros_org
+Alinhamento 4758 (800 seqs),M1V,1,M,V,rs1557043709,Variant of uncertain significance,VUS / Uncertain,215,799,0.2690863579474343,True
+Alinhamento 4758 (800 seqs),K3E,3,K,E,rs2091435790,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K4N,4,K,N,rs1486125548,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K4R,4,K,R,rs1190261367,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S5R,5,S,R,rs1557043724,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G9C,9,G,C,rs2091436097,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),G9V,9,G,V,rs1198790754,Benign,Benign,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),D16E,16,D,E,rs1057524586,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E17D,17,E,D,rs2091436339,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K18N,18,K,N,rs1261794545,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K19T,19,K,T,rs1238996324,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P21S,21,P,S,rs1327459880,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A24P,24,A,P,rs1557043775,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A24V,24,A,V,rs2091436513,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P25L,25,P,L,rs1557043779,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G26R,26,G,R,rs1233444890,Benign,Benign,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),A30V,30,A,V,rs782598816,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P31L,31,P,L,rs868950793,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P31T,31,P,T,rs1385095471,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A32T,32,A,T,rs2522144872,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G36V,36,G,V,rs1557043804,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P37S,37,P,S,rs2522145001,Variant of uncertain significance,VUS / Uncertain,3,799,0.0037546933667083854,True
+Alinhamento 4758 (800 seqs),V38A,38,V,A,rs2148358486,Likely benign,Likely benign,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),V38E,38,V,E,rs2148358486,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G39D,39,G,D,rs781997638,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G39S,39,G,S,rs2522145050,Variant of uncertain significance,VUS / Uncertain,39,799,0.04881101376720901,True
+Alinhamento 4758 (800 seqs),L40M,40,L,M,rs2522145082,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T42A,42,T,A,rs1368093500,Likely benign,Likely benign,17,799,0.02127659574468085,True
+Alinhamento 4758 (800 seqs),P43S,43,P,S,rs1185738875,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G44C,44,G,C,rs2091437228,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G44S,44,G,S,rs2091437228,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R46C,46,R,C,rs1557043834,Likely benign,Likely benign,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),R46L,46,R,L,rs781975330,Variant of uncertain significance,VUS / Uncertain,238,799,0.2978723404255319,True
+Alinhamento 4758 (800 seqs),V49A,49,V,A,rs1557043838,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V49L,49,V,L,rs1463935788,Variant of uncertain significance,VUS / Uncertain,2,799,0.0025031289111389237,True
+Alinhamento 4758 (800 seqs),P50Q,50,P,Q,rs2522145332,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),P50S,50,P,S,rs2148358552,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P51L,51,P,L,rs2091437446,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S64P,64,S,P,rs1557043854,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V66M,66,V,M,rs2522145658,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G67R,67,G,R,rs1557043855,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R77H,77,R,H,rs2522145854,Variant of uncertain significance,VUS / Uncertain,111,799,0.13892365456821026,True
+Alinhamento 4758 (800 seqs),R77S,77,R,S,rs2522145845,Likely pathogenic,Likely pathogenic,140,799,0.17521902377972465,True
+Alinhamento 4758 (800 seqs),Y80D,80,Y,D,rs2522145913,Variant of uncertain significance,VUS / Uncertain,18,799,0.02252816020025031,True
+Alinhamento 4758 (800 seqs),L81R,81,L,R,rs2522145926,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Y83*,83,Y,*,rs2148358634,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Y83H,83,Y,H,rs2522145971,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G86D,86,G,D,rs2522145985,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G87R,87,G,R,rs122453115,Likely pathogenic,Likely pathogenic,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),G88D,88,G,D,rs2522152137,Variant of uncertain significance,VUS / Uncertain,3,799,0.0037546933667083854,True
+Alinhamento 4758 (800 seqs),P93L,93,P,L,rs1557044167,Uncertain/Not provided,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V95I,95,V,I,rs782040427,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I97V,97,I,V,rs2091448720,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),L99V,99,L,V,rs2091448804,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V100A,100,V,A,rs2522152289,Variant of uncertain significance,VUS / Uncertain,4,799,0.0050062578222778474,True
+Alinhamento 4758 (800 seqs),G101R,101,G,R,rs2522152299,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G102E,102,G,E,rs2148360123,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L108I,108,L,I,rs2148360140,Variant of uncertain significance,VUS / Uncertain,11,799,0.01376720901126408,True
+Alinhamento 4758 (800 seqs),L108S,108,L,S,rs2522152338,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E109D,109,E,D,rs2522152365,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S111L,111,S,L,rs782704042,Variant of uncertain significance,VUS / Uncertain,510,799,0.6382978723404256,True
+Alinhamento 4758 (800 seqs),G113D,113,G,D,rs2522152410,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Q114H,114,Q,H,rs2091449037,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Q114K,114,Q,K,rs1569539246,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W124R,124,W,R,rs2522152479,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G132V,132,G,V,rs122453117,Pathogenic,Pathogenic,797,799,0.9974968710888611,True
+Alinhamento 4758 (800 seqs),L133V,133,L,V,rs2091454860,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A136G,136,A,G,rs2522155728,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A136T,136,A,T,rs1557044406,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A136V,136,A,V,rs2522155728,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),S137A,137,S,A,rs782360920,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),M138K,138,M,K,rs2522155760,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I140M,140,I,M,rs2091455049,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),V141I,141,V,I,rs1557044413,Variant of uncertain significance,VUS / Uncertain,142,799,0.17772215269086358,True
+Alinhamento 4758 (800 seqs),Y143*,143,Y,*,rs2148360995,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T146I,146,T,I,rs2522155827,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L152A,152,L,A,rs2148361006,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A153T,153,A,T,rs2522155890,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G155S,155,G,S,rs782174461,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G155V,155,G,V,rs2522155913,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F163L,163,F,L,rs2522155960,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T164I,164,T,I,rs2522155968,Variant of uncertain significance,VUS / Uncertain,36,799,0.04505632040050062,True
+Alinhamento 4758 (800 seqs),T164S,164,T,S,rs642454,Uncertain/Not provided,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T165P,165,T,P,rs2522155987,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T166A,166,T,A,rs1603215030,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T166M,166,T,M,rs1479462836,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W169*,169,W,*,rs2522156087,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T175I,175,T,I,rs1557044434,Variant of uncertain significance,VUS / Uncertain,2,799,0.0025031289111389237,True
+Alinhamento 4758 (800 seqs),W176S,176,W,S,rs2148361058,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T178S,178,T,S,rs199937648,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),D180N,180,D,N,rs2522156199,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V182M,182,V,M,rs149024147,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E183G,183,E,G,rs2522156215,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),I184N,184,I,N,rs2522156231,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R186H,186,R,H,rs372601430,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S194N,194,S,N,rs2522156380,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L198I,198,L,I,rs1557044451,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L198R,198,L,R,rs2522156415,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),D201G,201,D,G,rs2522156437,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A204D,204,A,D,rs1569539288,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A204V,204,A,V,rs781871613,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R206H,206,R,H,rs782620409,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R207Q,207,R,Q,rs1175883803,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R207W,207,R,W,rs1557044461,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P209R,209,P,R,rs2522156561,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I211W,211,I,W,rs2522156598,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E212*,212,E,*,rs2522156636,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E212K,212,E,K,rs2522156636,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E215G,215,E,G,rs2091456256,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G223R,223,G,R,rs2522158135,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),E226*,226,E,*,rs2522158159,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P228S,228,P,S,rs781848986,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W233*,233,W,*,rs2091458828,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T236S,236,T,S,rs1328810626,Variant of uncertain significance,VUS / Uncertain,215,799,0.2690863579474343,True
+Alinhamento 4758 (800 seqs),L237F,237,L,F,rs782587269,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L239P,239,L,P,rs2148361704,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W243*,243,W,*,rs2522158368,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F248L,248,F,L,rs2091459025,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V254I,254,V,I,rs782287359,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Y262*,262,Y,*,rs1557044940,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F263L,263,F,L,rs2522161817,Variant of uncertain significance,VUS / Uncertain,392,799,0.490613266583229,True
+Alinhamento 4758 (800 seqs),P268H,268,P,H,rs2091465921,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V270M,270,V,M,rs146985734,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V274M,274,V,M,rs782208622,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R278C,278,R,C,rs1557044958,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R278H,278,R,H,rs782802482,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V280L,280,V,L,rs1557044962,Likely benign,Likely benign,416,799,0.5206508135168961,True
+Alinhamento 4758 (800 seqs),L281M,281,L,M,rs2091466286,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L286V,286,L,V,rs782005985,Benign,Benign,790,799,0.9887359198998749,True
+Alinhamento 4758 (800 seqs),D287H,287,D,H,rs2522162079,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I290V,290,I,V,rs2522162092,Variant of uncertain significance,VUS / Uncertain,261,799,0.32665832290362956,True
+Alinhamento 4758 (800 seqs),Y292H,292,Y,H,rs2148362804,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L293V,293,L,V,rs2522162106,Variant of uncertain significance,VUS / Uncertain,94,799,0.11764705882352941,True
+Alinhamento 4758 (800 seqs),K294Q,294,K,Q,rs376937460,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K299T,299,K,T,rs782767368,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G301R,301,G,R,rs2091466491,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S302C,302,S,C,rs1183910478,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Q304H,304,Q,H,rs1064794836,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V305M,305,V,M,rs1603216798,Variant of uncertain significance,VUS / Uncertain,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),W306*,306,W,*,rs2522162557,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W306R,306,W,R,rs2091467425,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),D308E,308,D,E,rs2522162570,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G310R,310,G,R,rs1603216804,Uncertain/Not provided,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F314L,314,F,L,rs144678921,Variant of uncertain significance,VUS / Uncertain,223,799,0.27909887359199,True
+Alinhamento 4758 (800 seqs),S316F,316,S,F,rs2148362940,Variant of uncertain significance,VUS / Uncertain,2,799,0.0025031289111389237,True
+Alinhamento 4758 (800 seqs),Y317*,317,Y,*,rs1569539359,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A318T,318,A,T,rs373953317,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G322R,322,G,R,rs1603216830,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G322W,322,G,W,rs1603216830,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),T325R,325,T,R,rs797045972,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L327P,327,L,P,rs1557045056,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),N331K,331,N,K,rs2522162815,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),C337R,337,C,R,rs2091468099,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),C337W,337,C,W,rs122453116,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A341T,341,A,T,rs782741852,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I342T,342,I,T,rs781962672,Likely benign,Likely benign,3,799,0.0037546933667083854,True
+Alinhamento 4758 (800 seqs),I343V,343,I,V,rs2148363171,Benign,Benign,17,799,0.02127659574468085,True
+Alinhamento 4758 (800 seqs),L346V,346,L,V,rs1406686625,Variant of uncertain significance,VUS / Uncertain,2,799,0.0025031289111389237,True
+Alinhamento 4758 (800 seqs),G350R,350,G,R,rs2148363200,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S352N,352,S,N,rs2148363211,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F357L,357,F,L,rs782782179,Benign,Benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V358L,358,V,L,rs781834528,Variant of uncertain significance,VUS / Uncertain,40,799,0.05006257822277847,True
+Alinhamento 4758 (800 seqs),A368V,368,A,V,rs2522163686,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Q370*,370,Q,*,rs2148363243,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I374F,374,I,F,rs2522163716,Variant of uncertain significance,VUS / Uncertain,8,799,0.010012515644555695,True
+Alinhamento 4758 (800 seqs),S375C,375,S,C,rs2148363255,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K376R,376,K,R,rs1557045159,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),K376T,376,K,T,rs1557045159,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G381R,381,G,R,rs122453114,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P382L,382,P,L,rs1557045250,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),I387M,387,I,M,rs782582952,Likely benign,Likely benign,5,799,0.006257822277847309,True
+Alinhamento 4758 (800 seqs),A388T,388,A,T,rs374163604,Benign,Benign,1,799,0.0012515644555694619,True
+Alinhamento 4758 (800 seqs),P390L,390,P,L,rs2148363661,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),R391Q,391,R,Q,rs782676733,Variant of uncertain significance,VUS / Uncertain,17,799,0.02127659574468085,True
+Alinhamento 4758 (800 seqs),R391W,391,R,W,rs1557045267,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L395P,395,L,P,rs1557045281,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),P397L,397,P,L,rs2522165328,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A399V,399,A,V,rs1557045287,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L401I,401,L,I,rs782378041,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),W402*,402,W,*,rs2522165394,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A403V,403,A,V,rs1557045296,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),A404P,404,A,P,rs2522165418,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L405P,405,L,P,rs2091472678,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),F406L,406,F,L,rs1557045310,Likely benign,Likely benign,4,799,0.0050062578222778474,True
+Alinhamento 4758 (800 seqs),L411S,411,L,S,rs2091472802,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L412P,412,L,P,rs2148363751,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),D416G,416,D,G,rs2148363766,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),D416N,416,D,N,rs2522165536,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S417N,417,S,N,rs1057520594,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S417R,417,S,R,rs2091472899,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),S417R,417,S,R,rs1557045331,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),Q418K,418,Q,K,rs2148363775,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V420I,420,V,I,rs1569539415,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G421D,421,G,D,rs1085308011,Pathogenic,Pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G421R,421,G,R,rs2522166164,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
+Alinhamento 4758 (800 seqs),V422M,422,V,M,rs2522166187,Variant of uncertain significance,VUS / Uncertain,10,799,0.012515644555694618,True
+Alinhamento 4758 (800 seqs),G424D,424,G,D,rs11548960,Likely pathogenic,Likely pathogenic,0,799,0.0,False
+Alinhamento 4758 (800 seqs),G428S,428,G,S,rs2060322395,Variant of uncertain significance,VUS / Uncertain,3,799,0.0037546933667083854,True
+Alinhamento 4758 (800 seqs),L429F,429,L,F,rs782551106,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L429V,429,L,V,rs782551106,Likely benign,Likely benign,0,799,0.0,False
+Alinhamento 4758 (800 seqs),L432V,432,L,V,rs2522166355,Variant of uncertain significance,VUS / Uncertain,3,799,0.0037546933667083854,True
+Alinhamento 4758 (800 seqs),L433F,433,L,F,rs1569539421,Variant of uncertain significance,VUS / Uncertain,0,799,0.0,False
