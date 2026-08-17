@@ -1,0 +1,12 @@
+# Comparative Evolutionary Analyses of GATM and SLC6A8 and Their Functional Integration into Creatine Metabolism
+
+Creatine is an essential component of energy metabolism, as it participates in the creatine/phosphocreatine system, which helps maintain ATP availability in tissues with high energy demands, such as muscle, heart, and the central nervous system. Within this system, the GATM gene encodes glycine amidinotransferase, the enzyme that catalyzes the first step of creatine biosynthesis, whereas SLC6A8 encodes the creatine transporter responsible for creatine uptake into cells. Given the functional importance of both genes, this study aimed to characterize their evolutionary distribution and conservation to provide insights into their origin and evolution across taxonomic groups and to relate these patterns to their roles in creatine metabolism. For the analysis, the TaxOnTree tool was used to retrieve proteins homologous to GATM and SLC6A8 via BLAST searches and to generate phylogenetic trees from sequence alignments. Different identity thresholds (50% and 75%) and maximum numbers of retrieved sequences (200 and 800) were evaluated. Taxonomic distributions were examined at different taxonomic levels to characterize the distribution of homologs and identify phylogenetic clustering patterns based on sequence identity. The analyses showed that, for both genes, lowering the identity threshold increased the taxonomic diversity of the retrieved sequences, whereas higher thresholds resulted in a progressive concentration of sequences within Vertebrata. This distribution, together with the conservation observed in the phylogenetic trees, allowed us to relate phylogenetic patterns to the functions of GATM and SLC6A8 in the creatine system, which is involved in the synthesis and transport of creatine to tissues with high energy demands. Overall, these results provide a basis for reconstructing the evolutionary history of GATM and SLC6A8 and integrating this information with the functions of these proteins in tissues such as the kidney, liver, muscle, and central nervous system, contributing to a better understanding of the evolution of the creatine synthesis and transport system.
+**Keywords:** creatine transporter, phosphocreatine, Vertebrates, kidney, molecular evolution.
+
+https://link.springer.com/article/10.1007/s10735-026-10831-1
+
+https://doi.org/10.3389/fnut.2025.1578564
+
+https://www.mdpi.com/2072-6643/17/4/651
+
+https://www.mdpi.com/2072-6643/14/3/431
